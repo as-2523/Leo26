@@ -41,6 +41,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r agents/requirements.txt
 
+      - name: Backfill historical holdings
+        env:
+          SEC_CONTACT_EMAIL: ${{ secrets.SEC_CONTACT_EMAIL }}
+        run: python agents/edgar_agent.py --backfill
+
       - name: Run data agents
         env:
           SEC_CONTACT_EMAIL: ${{ secrets.SEC_CONTACT_EMAIL }}
