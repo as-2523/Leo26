@@ -53,6 +53,17 @@ export interface SourceStatus {
   error?: string;
 }
 
+/**
+ * A series announced in a source's catalog (with approximate dates) whose
+ * individual match fixtures have not been published yet.
+ */
+export interface ExpectedSeries {
+  name: string;
+  startUtc: string;
+  endUtc?: string;
+  sourceUrl?: string;
+}
+
 export interface FixturesPayload {
   fixtures: Fixture[];
   meta: {
@@ -62,5 +73,7 @@ export interface FixturesPayload {
     sources: SourceStatus[];
     /** True when no live source responded and bundled sample data is shown. */
     usedFallback: boolean;
+    /** Announced series without confirmed match dates yet. */
+    expectedSeries: ExpectedSeries[];
   };
 }

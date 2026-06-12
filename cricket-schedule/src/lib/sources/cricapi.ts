@@ -13,7 +13,7 @@
  * calls (≤ 20). At 4 scheduled refreshes/day that stays well inside the
  * free tier.
  */
-import type { Fixture } from "../types";
+import type { ExpectedSeries, Fixture } from "../types";
 import { matchTrackedTeam } from "../teams";
 import { normalizeFormat } from "../formats";
 import { getScheduleWindow } from "../window";
@@ -159,7 +159,46 @@ export function selectCandidateSeries(
     .slice(0, MAX_SERIES_DETAIL);
 }
 
-export async function fetchCricApiFixtures(): Promise<Fixture[]> {
+/**
+ * Series listed in the catalog (with approximate dates) for which no
+ * confirmed fixtures were obtained — surfaced in the UI as "expected but
+ * not confirmed". Exported for unit tests.
+ */
+export function selectExpectedSeries(
+  seriesList: CricApiSeries[],
+  confirmedSeriesNames: Set<string>,
+  now: Date = new Date()
+): ExpectedSeries[] {
+  const window = getScheduleWindow(now);
+  const seen = new Set<string>();
+  const expected: ExpectedSeries[] = [];
+  for (const s of seriesList) {
+    if (!s.name || !RELEVANT_SERIES.test(s.name)) continue;
+    if (confirmedSeriesNames.has(s.name) || seen.has(s.name)) continue;
+    const start = s.startDate ? new Date(s.startDate) : null;
+    if (!start || Number.isNaN(start.getTime())) continue;
+    if (start > window.end) continue;
+    const end = parseSeriesEnd(s, start);
+    if ((end ?? start) < window.start) continue;
+    seen.add(s.name);
+    expected.push({
+      name: s.name,
+      startUtc: start.toISOString(),
+      endUtc: end?.toISOString(),
+      sourceUrl: `https://www.espncricinfo.com/search?query=${encodeURIComponent(s.name)}`,
+    });
+  }
+  return expected
+    .sort((a, b) => a.startUtc.localeCompare(b.startUtc))
+    .slice(0, 12);
+}
+
+export interface CricApiResult {
+  fixtures: Fixture[];
+  expectedSeries: ExpectedSeries[];
+}
+
+export async function fetchCricApi(): Promise<CricApiResult> {
   const key = process.env.CRICAPI_KEY;
   if (!key) throw new Error("CRICAPI_KEY not configured");
   const apikey = encodeURIComponent(key);
@@ -221,5 +260,10 @@ export async function fetchCricApiFixtures(): Promise<Fixture[]> {
   if (fixtures.length === 0 && errors.length > 0) {
     throw new Error(errors[0]);
   }
-  return fixtures;
+
+  const confirmedSeriesNames = new Set(fixtures.map((f) => f.series));
+  return {
+    fixtures,
+    expectedSeries: selectExpectedSeries(seriesList, confirmedSeriesNames),
+  };
 }
