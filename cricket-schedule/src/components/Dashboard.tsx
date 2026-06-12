@@ -100,13 +100,30 @@ export default function Dashboard() {
 
   return (
     <div className="space-y-4">
+      {payload && (
+        <div className="flex flex-wrap items-center gap-x-2 rounded-lg border border-white/50 bg-white/75 px-4 py-2.5 text-sm text-sky-950 shadow-sm">
+          <span aria-hidden>🔄</span>
+          <span>
+            Data refreshes automatically every <strong>{STATIC_DATA ? "6 hours" : "30 minutes"}</strong>
+            {" · "}last updated{" "}
+            {new Date(payload.meta.generatedAt).toLocaleString("en-IN", {
+              timeZone: "Asia/Kolkata",
+              day: "numeric",
+              month: "short",
+              hour: "2-digit",
+              minute: "2-digit",
+              hour12: true,
+            })}{" "}
+            IST
+          </span>
+        </div>
+      )}
       {payload?.meta.usedFallback && (
         <div className="rounded-lg border border-amber-300 bg-amber-50 px-4 py-3 text-sm text-amber-900">
-          <strong>Sample data.</strong> Live fixture sources are currently unreachable, so
-          illustrative sample fixtures are shown.{" "}
-          {STATIC_DATA
-            ? "Live sources are retried automatically when the site data is next regenerated."
-            : "The dashboard retries live sources automatically every 30 minutes."}
+          <strong>Showing sample fixtures, not the real schedule.</strong> The live cricket
+          sources could not be reached at the last refresh, so realistic placeholder matches
+          are shown to demonstrate the dashboard. Each automatic refresh retries the live
+          sources and switches to real fixtures as soon as one responds.
         </div>
       )}
       {error && (
