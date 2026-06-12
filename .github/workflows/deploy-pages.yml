@@ -37,11 +37,14 @@ jobs:
         with:
           enablement: true
       - run: npm ci
+      - name: Fetch currently published data (for the quality gate)
+        run: curl -fsSL "https://as-2523.github.io/Leo26/fixtures.json" -o /tmp/previous-fixtures.json || true
       - name: Generate fixture data
         run: npm run generate:fixtures
         env:
           # Accept the key under either name, as a secret or a variable
           CRICAPI_KEY: ${{ secrets.CRICAPI_KEY || secrets.CRIC_KEY || vars.CRICAPI_KEY || vars.CRIC_KEY }}
+          PREVIOUS_FIXTURES_FILE: /tmp/previous-fixtures.json
       - name: Build static site
         run: |
           rm -rf src/app/api  # Request-dependent route handlers are unsupported in static export

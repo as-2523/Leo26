@@ -4,15 +4,38 @@
  * fixtures.json instead of calling /api/fixtures. Never fails the build:
  * the aggregator falls back to bundled sample data when sources are down.
  */
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { getFixtures } from "../src/lib/aggregate";
+import { choosePayload } from "../src/lib/preserve";
+import type { FixturesPayload } from "../src/lib/types";
 
 const outFile = join(dirname(fileURLToPath(import.meta.url)), "../public/fixtures.json");
 
+/** Previously published fixtures.json (fetched by CI), for the quality gate. */
+async function readPrevious(): Promise<FixturesPayload | null> {
+  const path = process.env.PREVIOUS_FIXTURES_FILE;
+  if (!path) return null;
+  try {
+    return JSON.parse(await readFile(path, "utf8")) as FixturesPayload;
+  } catch {
+    return null;
+  }
+}
+
 async function main() {
-  const payload = await getFixtures(true);
+  const fresh = await getFixtures(true);
+  const previous = await readPrevious();
+  const { payload, preserved } = choosePayload(fresh, previous);
+  if (preserved) {
+    console.warn(
+      `[warn] Fresh pull looks degraded (${fresh.fixtures.length} fixtures vs ` +
+        `${payload.fixtures.length} previously published; sources: ${fresh.meta.sources
+          .map((s) => `${s.id}=${s.ok ? s.count : s.error ?? "down"}`)
+          .join(", ")}). Keeping previously published data.`
+    );
+  }
   await mkdir(dirname(outFile), { recursive: true });
   await writeFile(outFile, JSON.stringify(payload, null, 2));
 
