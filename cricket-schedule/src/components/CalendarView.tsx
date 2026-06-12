@@ -61,7 +61,7 @@ export default function CalendarView({ fixtures, mode, windowStart, windowEnd }:
   return (
     <div>
       <div className="mb-3 flex items-center justify-between">
-        <h2 className="text-lg font-semibold text-slate-900">{heading}</h2>
+        <h2 className="text-lg font-semibold text-white drop-shadow-sm">{heading}</h2>
         <div className="flex gap-1">
           <button
             onClick={() => navigate(-1)}
@@ -134,11 +134,11 @@ export default function CalendarView({ fixtures, mode, windowStart, windowEnd }:
 
       {selectedDay && (
         <div className="mt-4">
-          <h3 className="mb-2 text-sm font-semibold text-slate-700">
+          <h3 className="mb-2 text-sm font-semibold text-white drop-shadow-sm">
             Matches on {format(new Date(`${selectedDay}T00:00:00`), "EEEE, d MMMM yyyy")}
           </h3>
           {selectedFixtures.length === 0 ? (
-            <p className="text-sm text-slate-500">No matches scheduled for the tracked teams.</p>
+            <p className="text-sm text-sky-50/90">No matches scheduled for the tracked teams.</p>
           ) : (
             <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
               {selectedFixtures.map((f) => (

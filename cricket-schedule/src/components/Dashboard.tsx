@@ -1,13 +1,24 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
+import dynamic from "next/dynamic";
 import type { FixturesPayload, FormatCategory, TeamId } from "../lib/types";
 import Filters from "./Filters";
 import CalendarView from "./CalendarView";
 import FixtureTable from "./FixtureTable";
 import { formatDateIst } from "../lib/display";
 
-type ViewMode = "month" | "week" | "table";
+// Leaflet reads `window` at import time, so the map must never be prerendered.
+const MapView = dynamic(() => import("./MapView"), {
+  ssr: false,
+  loading: () => (
+    <div className="rounded-lg border border-slate-200 bg-white p-12 text-center text-sm text-slate-500">
+      Loading map…
+    </div>
+  ),
+});
+
+type ViewMode = "month" | "week" | "table" | "map";
 
 const REFRESH_INTERVAL_MS = 30 * 60 * 1000;
 
@@ -15,6 +26,7 @@ const VIEWS: { id: ViewMode; label: string }[] = [
   { id: "month", label: "Month" },
   { id: "week", label: "Week" },
   { id: "table", label: "Table" },
+  { id: "map", label: "Map" },
 ];
 
 // Static deployments (GitHub Pages) have no API route; CI pre-generates
@@ -152,6 +164,12 @@ export default function Dashboard() {
         <>
           {view === "table" ? (
             <FixtureTable fixtures={filtered} />
+          ) : view === "map" ? (
+            <MapView
+              fixtures={filtered}
+              windowStart={payload.meta.windowStart}
+              windowEnd={payload.meta.windowEnd}
+            />
           ) : (
             <CalendarView
               fixtures={filtered}
@@ -160,7 +178,7 @@ export default function Dashboard() {
               windowEnd={payload.meta.windowEnd}
             />
           )}
-          <p className="text-xs text-slate-400">
+          <p className="text-xs text-sky-50/80">
             Showing {filtered.length} of {payload.fixtures.length} fixtures from{" "}
             {formatDateIst(payload.meta.windowStart)} to {formatDateIst(payload.meta.windowEnd)} ·
             sources:{" "}

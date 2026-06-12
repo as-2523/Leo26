@@ -28,7 +28,7 @@ export const TEAMS: TeamConfig[] = [
     shortName: "IND",
     aliases: ["india", "ind", "india men", "india national cricket team"],
     espnTeamId: 6,
-    color: "#2563eb",
+    color: "#1d4ed8",
   },
   {
     id: "india-a-men",
@@ -36,7 +36,7 @@ export const TEAMS: TeamConfig[] = [
     shortName: "IND A",
     aliases: ["india a", "ind a", "india a men"],
     espnTeamId: 1024,
-    color: "#0891b2",
+    color: "#ea580c",
   },
   {
     id: "india-u19-men",
@@ -52,7 +52,7 @@ export const TEAMS: TeamConfig[] = [
       "ind u19",
     ],
     espnTeamId: 446,
-    color: "#059669",
+    color: "#16a34a",
     youth: true,
   },
   {
