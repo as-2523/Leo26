@@ -113,7 +113,7 @@ export default function Dashboard() {
         <div className="flex flex-wrap items-center gap-x-2 rounded-lg border border-white/50 bg-white/75 px-4 py-2.5 text-sm text-sky-950 shadow-sm">
           <span aria-hidden>🔄</span>
           <span>
-            Data refreshes automatically every <strong>{STATIC_DATA ? "6 hours" : "30 minutes"}</strong>
+            Data refreshes automatically every <strong>{STATIC_DATA ? "48 hours" : "30 minutes"}</strong>
             {" · "}last updated{" "}
             {new Date(payload.meta.generatedAt).toLocaleString("en-IN", {
               timeZone: "Asia/Kolkata",
