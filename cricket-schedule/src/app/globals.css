@@ -2,8 +2,12 @@
 
 @theme inline {
   --font-sans: var(--font-geist-sans);
+  /* Team India sky blue, used as the page backdrop */
+  --color-bcci-blue: #4f9fe6;
 }
 
 body {
   font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  background: linear-gradient(180deg, #4f9fe6 0%, #79bbef 45%, #a3d2f6 100%);
+  background-attachment: fixed;
 }

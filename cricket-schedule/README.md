@@ -15,6 +15,8 @@ cricket teams into a single dashboard, covering a **rolling 6-month window**
 - **Calendar view** — monthly and weekly, with color-coded team chips and a
   click-to-expand day detail panel
 - **Table view** — date, time (IST), team, opponent, format, series, venue
+- **Map view** — monthly venue map (Leaflet + OpenStreetMap, no API key);
+  city coordinates are bundled in `src/lib/geo.ts`
 - **Filters** — by team and by normalized match format
   (Test, ODI, T20, First-class, List A, Youth)
 - **Auto refresh** — client refetches every 30 minutes; manual Refresh button
