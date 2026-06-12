@@ -28,8 +28,12 @@ cricket teams into a single dashboard, covering a **rolling 6-month window**
 | Priority | Source | Type | Notes |
 |---|---|---|---|
 | 1 | ESPNcricinfo public JSON API (`hs-consumer-api.espncricinfo.com`) | API | Same JSON the espncricinfo.com site uses. Preferred over HTML scraping — more stable and avoids parsing pages disallowed for crawling. Unofficial, so parsing is fully defensive. |
-| 2 | [CricAPI / cricketdata.org](https://cricketdata.org) | Documented API | Optional; enabled by setting `CRICAPI_KEY` (free tier available). |
-| 3 | Bundled sample fixtures | Static | Last resort when no live source responds. The UI shows a prominent **"Sample data"** banner so illustrative fixtures are never mistaken for a real schedule. |
+| 2 | [BCCI official fixtures pages](https://www.bcci.tv) | Scrape | Fetches robots.txt first and honors its rules; parses the JSON payload embedded in the pages (`__NEXT_DATA__`) rather than markup. Heuristic and fully defensive. |
+| 3 | [CricAPI / cricketdata.org](https://cricketdata.org) | Documented API | Optional; enabled by setting `CRICAPI_KEY` (free tier available). |
+| 4 | Bundled sample fixtures | Static | Last resort when no live source responds. |
+
+Every fixture records which source it came from, shown in the table's
+**Source** column (linked to the source schedule page where one exists).
 
 How aggregation works (`src/lib/aggregate.ts`):
 

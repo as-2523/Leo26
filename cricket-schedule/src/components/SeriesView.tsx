@@ -4,7 +4,7 @@ import { useMemo } from "react";
 import type { Fixture } from "../lib/types";
 import { groupBySeries } from "../lib/series";
 import { TEAM_BY_ID } from "../lib/teams";
-import { formatDateIst, formatTimeIst } from "../lib/display";
+import { formatDateIst, formatTimeIst, SOURCE_LABELS } from "../lib/display";
 
 export default function SeriesView({ fixtures }: { fixtures: Fixture[] }) {
   const groups = useMemo(() => groupBySeries(fixtures), [fixtures]);
@@ -84,6 +84,16 @@ export default function SeriesView({ fixtures }: { fixtures: Fixture[] }) {
                   {f.venue}
                   {f.city ? `, ${f.city}` : ""}
                 </span>
+                {f.sourceUrl && (
+                  <a
+                    href={f.sourceUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-xs text-blue-600 hover:underline"
+                  >
+                    {SOURCE_LABELS[f.source]} ↗
+                  </a>
+                )}
               </li>
             ))}
           </ul>

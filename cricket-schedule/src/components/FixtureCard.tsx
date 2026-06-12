@@ -1,7 +1,7 @@
 "use client";
 
 import { TEAM_BY_ID } from "../lib/teams";
-import { formatDateIst, formatTimeIst } from "../lib/display";
+import { formatDateIst, formatTimeIst, SOURCE_LABELS } from "../lib/display";
 import type { Fixture } from "../lib/types";
 
 /** Full-detail card used in the week view and day detail panel. */
@@ -30,6 +30,16 @@ export default function FixtureCard({ fixture }: { fixture: Fixture }) {
           {fixture.city ? `, ${fixture.city}` : ""}
         </div>
         <div className="text-slate-500">{fixture.series}</div>
+        {fixture.sourceUrl && (
+          <a
+            href={fixture.sourceUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block text-blue-600 hover:underline"
+          >
+            Schedule on {SOURCE_LABELS[fixture.source]} ↗
+          </a>
+        )}
       </div>
     </div>
   );

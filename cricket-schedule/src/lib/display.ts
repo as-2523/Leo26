@@ -3,7 +3,14 @@
  * natural reference timezone for an Indian-teams dashboard — which also
  * keeps server and client rendering deterministic.
  */
-import type { Fixture } from "./types";
+import type { Fixture, SourceId } from "./types";
+
+export const SOURCE_LABELS: Record<SourceId, string> = {
+  espn: "ESPNcricinfo",
+  bcci: "BCCI",
+  cricapi: "CricAPI",
+  seed: "Sample",
+};
 
 export const DISPLAY_TZ = "Asia/Kolkata";
 
