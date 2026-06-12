@@ -4,7 +4,13 @@ import { TEAM_BY_ID } from "../lib/teams";
 import { formatDateIst, formatTimeIst } from "../lib/display";
 import type { Fixture } from "../lib/types";
 
-export default function FixtureTable({ fixtures }: { fixtures: Fixture[] }) {
+interface FixtureTableProps {
+  fixtures: Fixture[];
+  /** Series currently in progress — their rows are highlighted. */
+  runningSeries?: Set<string>;
+}
+
+export default function FixtureTable({ fixtures, runningSeries }: FixtureTableProps) {
   if (fixtures.length === 0) {
     return (
       <p className="rounded-lg border border-slate-200 bg-white p-6 text-center text-sm text-slate-500">
@@ -30,8 +36,16 @@ export default function FixtureTable({ fixtures }: { fixtures: Fixture[] }) {
         <tbody>
           {fixtures.map((f) => {
             const team = TEAM_BY_ID.get(f.teamId);
+            const running = runningSeries?.has(f.series) ?? false;
             return (
-              <tr key={f.id} className="border-b border-slate-100 last:border-0 hover:bg-slate-50/60">
+              <tr
+                key={f.id}
+                className={`border-b border-slate-100 last:border-0 ${
+                  running
+                    ? "bg-emerald-50/80 hover:bg-emerald-50"
+                    : "hover:bg-slate-50/60"
+                }`}
+              >
                 <td className="whitespace-nowrap px-4 py-3 text-slate-900">
                   {formatDateIst(f.startTimeUtc)}
                 </td>
@@ -51,7 +65,14 @@ export default function FixtureTable({ fixtures }: { fixtures: Fixture[] }) {
                     {f.formatLabel}
                   </span>
                 </td>
-                <td className="px-4 py-3 text-slate-600">{f.series}</td>
+                <td className="px-4 py-3 text-slate-600">
+                  {f.series}
+                  {running && (
+                    <span className="ml-2 rounded-full bg-emerald-100 px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-emerald-700">
+                      ● Ongoing
+                    </span>
+                  )}
+                </td>
                 <td className="px-4 py-3 text-slate-600">
                   {f.venue}
                   {f.city ? `, ${f.city}` : ""}

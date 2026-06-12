@@ -49,6 +49,8 @@ const SPECS: SeedSpec[] = [
   { teamId: "india-u19-men", opponent: "Sri Lanka Under-19", series: "Sri Lanka U19 tour of India — Youth Test", venue: "Just Cricket Academy Ground", city: "Bengaluru", format: "Youth", formatLabel: "Youth Test", offsetDays: 31, startHourUtc: 4, spanDays: 4 },
 
   // India Women — T20 World Cup style block then ODIs
+  // (first match today so the demo shows the "ongoing series" highlight)
+  { teamId: "india-women", opponent: "Sri Lanka Women", series: "ICC Women's T20 World Cup", venue: "Old Trafford", city: "Manchester", format: "T20", formatLabel: "WT20I", offsetDays: 0, startHourUtc: 14 },
   { teamId: "india-women", opponent: "Pakistan Women", series: "ICC Women's T20 World Cup", venue: "Edgbaston", city: "Birmingham", format: "T20", formatLabel: "WT20I", offsetDays: 4, startHourUtc: 14 },
   { teamId: "india-women", opponent: "Australia Women", series: "ICC Women's T20 World Cup", venue: "Lord's", city: "London", format: "T20", formatLabel: "WT20I", offsetDays: 8, startHourUtc: 14 },
   { teamId: "india-women", opponent: "England Women", series: "ICC Women's T20 World Cup", venue: "The Oval", city: "London", format: "T20", formatLabel: "WT20I", offsetDays: 11, startHourUtc: 14 },

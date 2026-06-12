@@ -6,7 +6,9 @@ import type { FixturesPayload, FormatCategory, TeamId } from "../lib/types";
 import Filters from "./Filters";
 import CalendarView from "./CalendarView";
 import FixtureTable from "./FixtureTable";
+import SeriesView from "./SeriesView";
 import { formatDateIst } from "../lib/display";
+import { runningSeriesNames } from "../lib/series";
 
 // Leaflet reads `window` at import time, so the map must never be prerendered.
 const MapView = dynamic(() => import("./MapView"), {
@@ -18,7 +20,7 @@ const MapView = dynamic(() => import("./MapView"), {
   ),
 });
 
-type ViewMode = "month" | "week" | "table" | "map";
+type ViewMode = "month" | "week" | "table" | "series" | "map";
 
 const REFRESH_INTERVAL_MS = 30 * 60 * 1000;
 
@@ -26,6 +28,7 @@ const VIEWS: { id: ViewMode; label: string }[] = [
   { id: "month", label: "Month" },
   { id: "week", label: "Week" },
   { id: "table", label: "Table" },
+  { id: "series", label: "Series" },
   { id: "map", label: "Map" },
 ];
 
@@ -91,6 +94,12 @@ export default function Dashboard() {
     );
   }, [payload, selectedTeams, selectedFormats]);
 
+  // Running status is derived from all fixtures so filtering never changes it.
+  const runningSeries = useMemo(
+    () => runningSeriesNames(payload?.fixtures ?? []),
+    [payload]
+  );
+
   const toggle = <T,>(set: Set<T>, value: T): Set<T> => {
     const next = new Set(set);
     if (next.has(value)) next.delete(value);
@@ -116,14 +125,6 @@ export default function Dashboard() {
             })}{" "}
             IST
           </span>
-        </div>
-      )}
-      {payload?.meta.usedFallback && (
-        <div className="rounded-lg border border-amber-300 bg-amber-50 px-4 py-3 text-sm text-amber-900">
-          <strong>Showing sample fixtures, not the real schedule.</strong> The live cricket
-          sources could not be reached at the last refresh, so realistic placeholder matches
-          are shown to demonstrate the dashboard. Each automatic refresh retries the live
-          sources and switches to real fixtures as soon as one responds.
         </div>
       )}
       {error && (
@@ -180,7 +181,9 @@ export default function Dashboard() {
       ) : payload ? (
         <>
           {view === "table" ? (
-            <FixtureTable fixtures={filtered} />
+            <FixtureTable fixtures={filtered} runningSeries={runningSeries} />
+          ) : view === "series" ? (
+            <SeriesView fixtures={filtered} />
           ) : view === "map" ? (
             <MapView
               fixtures={filtered}
@@ -193,6 +196,7 @@ export default function Dashboard() {
               mode={view}
               windowStart={payload.meta.windowStart}
               windowEnd={payload.meta.windowEnd}
+              runningSeries={runningSeries}
             />
           )}
           <p className="text-xs text-sky-50/80">
