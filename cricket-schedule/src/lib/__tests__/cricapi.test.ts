@@ -1,5 +1,9 @@
 import { describe, expect, it } from "vitest";
-import { selectCandidateSeries, type CricApiSeries } from "../sources/cricapi";
+import {
+  fallbackSeriesName,
+  selectCandidateSeries,
+  type CricApiSeries,
+} from "../sources/cricapi";
 
 const NOW = new Date("2026-06-12T00:00:00Z");
 
@@ -47,13 +51,45 @@ describe("selectCandidateSeries", () => {
     expect(out.map((s) => s.id)).toEqual(["s2"]);
   });
 
+  it("prioritizes India-named series over big tournaments for the call budget", () => {
+    const tournament = series({
+      id: "wc",
+      name: "ICC Men's T20 World Cup",
+      startDate: "2026-06-15",
+      endDate: "2026-07-10",
+    });
+    const lateTour = series({
+      id: "tour",
+      name: "Australia tour of India",
+      startDate: "2026-10-01",
+      endDate: "2026-11-15",
+    });
+    const out = selectCandidateSeries([tournament, lateTour], NOW);
+    expect(out.map((s) => s.id)).toEqual(["tour", "wc"]);
+  });
+
   it("caps the number of detail calls and sorts by start date", () => {
     const many = Array.from({ length: 30 }, (_, i) =>
       series({ id: `s${i}`, startDate: `2026-0${(i % 6) + 6}-15`.slice(0, 10) })
     );
     const out = selectCandidateSeries(many, NOW);
-    expect(out.length).toBeLessThanOrEqual(14);
+    expect(out.length).toBeLessThanOrEqual(17);
+    expect(out.length).toBeLessThan(many.length);
     const starts = out.map((s) => s.startDate ?? "");
     expect([...starts].sort()).toEqual(starts);
+  });
+});
+
+describe("fallbackSeriesName", () => {
+  it("strips the match-number suffix so a tour's matches group together", () => {
+    expect(fallbackSeriesName("India vs England, 3rd ODI")).toBe("India vs England");
+    expect(fallbackSeriesName("India Women vs Australia Women, 1st T20I")).toBe(
+      "India Women vs Australia Women"
+    );
+  });
+
+  it("returns names without a suffix unchanged, and a dash for missing names", () => {
+    expect(fallbackSeriesName("Asia Cup Final")).toBe("Asia Cup Final");
+    expect(fallbackSeriesName(undefined)).toBe("—");
   });
 });

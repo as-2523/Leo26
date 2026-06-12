@@ -22,6 +22,32 @@ async function main() {
         .map((s) => `${s.id}=${s.ok ? s.count : "down"}`)
         .join(", ")})`
   );
+
+  // Coverage self-check: report fixtures per month across the window and
+  // flag empty months, so refresh logs make data gaps obvious.
+  const counts = new Map<string, number>();
+  for (const f of payload.fixtures) {
+    const month = f.startTimeUtc.slice(0, 7);
+    counts.set(month, (counts.get(month) ?? 0) + 1);
+  }
+  const months: string[] = [];
+  const cursor = new Date(payload.meta.windowStart);
+  const end = new Date(payload.meta.windowEnd);
+  while (cursor <= end) {
+    months.push(cursor.toISOString().slice(0, 7));
+    cursor.setUTCMonth(cursor.getUTCMonth() + 1);
+  }
+  console.log(
+    `Coverage by month: ${months.map((m) => `${m}=${counts.get(m) ?? 0}`).join(", ")}`
+  );
+  const empty = months.filter((m) => !counts.get(m));
+  if (empty.length > 0) {
+    console.warn(
+      `[warn] No fixtures found for: ${empty.join(", ")}. ` +
+        "Either upstream sources have not published schedules that far out, " +
+        "or source coverage needs attention (see README data sources)."
+    );
+  }
 }
 
 main().catch((e) => {
