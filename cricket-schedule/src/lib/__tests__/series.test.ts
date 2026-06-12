@@ -52,6 +52,23 @@ describe("groupBySeries", () => {
     expect(groups[0].running).toBe(false);
   });
 
+  it("marks a mid-tour series as running via its series-level dates", () => {
+    // Two matches already played (absent from upcoming-only data); the next
+    // upcoming match is days away, but the series itself started June 12.
+    const now = new Date("2026-06-20T12:00:00Z");
+    const groups = groupBySeries(
+      [
+        make({
+          startTimeUtc: "2026-06-24T10:00:00.000Z",
+          seriesStartUtc: "2026-06-12T00:00:00.000Z",
+          seriesEndUtc: "2026-07-05T00:00:00.000Z",
+        }),
+      ],
+      now
+    );
+    expect(groups[0].running).toBe(true);
+  });
+
   it("treats an in-progress multi-day match as running via its end time", () => {
     const now = new Date("2026-07-03T10:00:00Z");
     const groups = groupBySeries(

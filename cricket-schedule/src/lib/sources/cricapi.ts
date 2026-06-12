@@ -74,7 +74,7 @@ export function fallbackSeriesName(matchName: string | undefined): string {
   return i > 0 ? matchName.slice(0, i).trim() : matchName;
 }
 
-function matchToFixture(m: CricApiMatch, seriesName?: string): Fixture | null {
+function matchToFixture(m: CricApiMatch, series?: CricApiSeries): Fixture | null {
   if (m.matchStarted || m.matchEnded) return null;
   const start = m.dateTimeGMT ? `${m.dateTimeGMT}Z` : m.date;
   if (!start) return null;
@@ -87,6 +87,13 @@ function matchToFixture(m: CricApiMatch, seriesName?: string): Fixture | null {
   const opponent =
     sideNames.find((n) => matchTrackedTeam(n)?.id !== tracked.id) ?? "TBC";
 
+  // Series-level dates: with upcoming-only fixture data, these are what
+  // tells the UI a mid-tour series has already begun.
+  const seriesStart = series?.startDate ? new Date(series.startDate) : null;
+  const validSeriesStart =
+    seriesStart && !Number.isNaN(seriesStart.getTime()) ? seriesStart : null;
+  const seriesEnd = series ? parseSeriesEnd(series, validSeriesStart) : null;
+
   const formatLabel = m.matchType ?? "Unknown";
   return {
     id: "", // assigned during dedupe
@@ -97,7 +104,9 @@ function matchToFixture(m: CricApiMatch, seriesName?: string): Fixture | null {
     hasStartTime: Boolean(m.dateTimeGMT),
     format: tracked.youth ? "Youth" : normalizeFormat(formatLabel),
     formatLabel,
-    series: seriesName ?? fallbackSeriesName(m.name),
+    series: series?.name ?? fallbackSeriesName(m.name),
+    seriesStartUtc: validSeriesStart?.toISOString(),
+    seriesEndUtc: seriesEnd?.toISOString(),
     venue: m.venue ?? "TBC",
     source: "cricapi",
   };
@@ -174,9 +183,7 @@ export async function fetchCricApiFixtures(): Promise<Fixture[]> {
       break;
     }
   }
-  const seriesNameById = new Map(
-    seriesList.filter((s) => s.id && s.name).map((s) => [s.id!, s.name!])
-  );
+  const seriesById = new Map(seriesList.filter((s) => s.id).map((s) => [s.id!, s]));
 
   // Pass 2: detailed match lists for India-relevant series in the window.
   const detailResults = await Promise.allSettled(
@@ -186,7 +193,7 @@ export async function fetchCricApiFixtures(): Promise<Fixture[]> {
       );
       const list = res.data?.matchList;
       return Array.isArray(list)
-        ? list.map((m) => matchToFixture(m, s.name)).filter((f): f is Fixture => f !== null)
+        ? list.map((m) => matchToFixture(m, s)).filter((f): f is Fixture => f !== null)
         : [];
     })
   );
@@ -204,7 +211,7 @@ export async function fetchCricApiFixtures(): Promise<Fixture[]> {
     }
     fixtures.push(
       ...res.data
-        .map((m) => matchToFixture(m, m.series_id ? seriesNameById.get(m.series_id) : undefined))
+        .map((m) => matchToFixture(m, m.series_id ? seriesById.get(m.series_id) : undefined))
         .filter((f): f is Fixture => f !== null)
     );
   } catch (e) {

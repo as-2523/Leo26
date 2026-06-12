@@ -34,8 +34,22 @@ export function groupBySeries(fixtures: Fixture[], now: Date = new Date()): Seri
   const todayKey = istDayKey(now.toISOString());
   const groups = [...byName.entries()].map(([name, list]): SeriesGroup => {
     const sorted = [...list].sort((a, b) => a.startTimeUtc.localeCompare(b.startTimeUtc));
-    const endMs = Math.max(...sorted.map(fixtureEndMs));
-    const hasBegun = istDayKey(sorted[0].startTimeUtc) <= todayKey;
+    // Fixture data is upcoming-only, so for a mid-tour series the first
+    // *upcoming* match may be days away. Prefer the source-provided series
+    // start date as evidence the series has already begun.
+    const beginIso =
+      sorted
+        .map((f) => f.seriesStartUtc)
+        .filter((s): s is string => Boolean(s && !Number.isNaN(new Date(s).getTime())))
+        .sort()[0] ?? sorted[0].startTimeUtc;
+    const endMs = Math.max(
+      ...sorted.map(fixtureEndMs),
+      ...sorted
+        .map((f) => (f.seriesEndUtc ? new Date(f.seriesEndUtc).getTime() : NaN))
+        .filter((t) => !Number.isNaN(t))
+        .map((t) => t + DEFAULT_MATCH_HOURS * 3_600_000)
+    );
+    const hasBegun = istDayKey(beginIso) <= todayKey;
     return {
       name,
       fixtures: sorted,

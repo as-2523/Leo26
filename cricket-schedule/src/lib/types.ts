@@ -33,6 +33,13 @@ export interface Fixture {
   /** Source-level label, e.g. "Youth ODI", "WT20I", "Tour match". */
   formatLabel: string;
   series: string;
+  /**
+   * Series-level window when the source provides it. Needed for ongoing-
+   * series detection: fixture data is upcoming-only, so a mid-tour series'
+   * own dates are the only evidence that it has already begun.
+   */
+  seriesStartUtc?: string;
+  seriesEndUtc?: string;
   venue: string;
   city?: string;
   source: SourceId;
