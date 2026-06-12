@@ -23,11 +23,19 @@ interface CalendarViewProps {
   mode: "month" | "week";
   windowStart: string;
   windowEnd: string;
+  /** Series currently in progress — their chips get a highlight ring. */
+  runningSeries?: Set<string>;
 }
 
 const WEEKDAYS = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
 
-export default function CalendarView({ fixtures, mode, windowStart, windowEnd }: CalendarViewProps) {
+export default function CalendarView({
+  fixtures,
+  mode,
+  windowStart,
+  windowEnd,
+  runningSeries,
+}: CalendarViewProps) {
   const [anchor, setAnchor] = useState(() => new Date());
   const [selectedDay, setSelectedDay] = useState<string | null>(null);
 
@@ -122,7 +130,7 @@ export default function CalendarView({ fixtures, mode, windowStart, windowEnd }:
                 {format(day, "d")}
               </span>
               {(mode === "week" ? dayFixtures : dayFixtures.slice(0, 3)).map((f) => (
-                <FixtureChip key={f.id} fixture={f} />
+                <FixtureChip key={f.id} fixture={f} running={runningSeries?.has(f.series)} />
               ))}
               {mode === "month" && dayFixtures.length > 3 && (
                 <span className="text-[11px] text-slate-500">+{dayFixtures.length - 3} more</span>

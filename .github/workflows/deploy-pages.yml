@@ -21,6 +21,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # github-pages environment so environment-level secrets are visible too
+    environment: github-pages
     defaults:
       run:
         working-directory: cricket-schedule
@@ -38,7 +40,8 @@ jobs:
       - name: Generate fixture data
         run: npm run generate:fixtures
         env:
-          CRICAPI_KEY: ${{ secrets.CRICAPI_KEY }}
+          # Accept the key whether saved as an Actions secret or a variable
+          CRICAPI_KEY: ${{ secrets.CRICAPI_KEY || vars.CRICAPI_KEY }}
       - name: Build static site
         run: |
           rm -rf src/app/api  # Request-dependent route handlers are unsupported in static export
