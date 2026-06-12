@@ -1,7 +1,7 @@
 "use client";
 
 import { TEAM_BY_ID } from "../lib/teams";
-import { formatDateIst, formatTimeIst } from "../lib/display";
+import { formatDateIst, formatTimeIst, SOURCE_LABELS } from "../lib/display";
 import type { Fixture } from "../lib/types";
 
 interface FixtureTableProps {
@@ -31,6 +31,7 @@ export default function FixtureTable({ fixtures, runningSeries }: FixtureTablePr
             <th className="px-4 py-3 font-semibold">Format</th>
             <th className="px-4 py-3 font-semibold">Series / Competition</th>
             <th className="px-4 py-3 font-semibold">Venue</th>
+            <th className="px-4 py-3 font-semibold">Source</th>
           </tr>
         </thead>
         <tbody>
@@ -76,6 +77,20 @@ export default function FixtureTable({ fixtures, runningSeries }: FixtureTablePr
                 <td className="px-4 py-3 text-slate-600">
                   {f.venue}
                   {f.city ? `, ${f.city}` : ""}
+                </td>
+                <td className="whitespace-nowrap px-4 py-3 text-xs">
+                  {f.sourceUrl ? (
+                    <a
+                      href={f.sourceUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-blue-600 hover:underline"
+                    >
+                      {SOURCE_LABELS[f.source]} ↗
+                    </a>
+                  ) : (
+                    <span className="text-slate-400">{SOURCE_LABELS[f.source]}</span>
+                  )}
                 </td>
               </tr>
             );

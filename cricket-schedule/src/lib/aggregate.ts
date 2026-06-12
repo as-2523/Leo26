@@ -4,8 +4,9 @@
  *
  * Source chain (documented in the README):
  *   1. ESPNcricinfo public JSON API  — primary
- *   2. CricAPI (cricketdata.org)     — secondary, only when CRICAPI_KEY is set
- *   3. Bundled sample fixtures       — last resort, clearly flagged in the UI
+ *   2. BCCI official fixtures pages  — robots.txt-respecting scrape
+ *   3. CricAPI (cricketdata.org)     — only when CRICAPI_KEY is set
+ *   4. Bundled sample fixtures       — last resort, clearly flagged in the UI
  *
  * Rate-limit policy: results are cached in-process for CACHE_TTL_MS. Even a
  * forced refresh (?force=1) will not contact upstream sources more than once
@@ -15,6 +16,7 @@ import type { Fixture, FixturesPayload, SourceStatus } from "./types";
 import { clampToWindow, dedupeFixtures } from "./normalize";
 import { getScheduleWindow } from "./window";
 import { fetchEspnFixtures } from "./sources/espn";
+import { fetchBcciFixtures } from "./sources/bcci";
 import { fetchCricApiFixtures, isCricApiConfigured } from "./sources/cricapi";
 import { getSeedFixtures } from "./sources/seed";
 
@@ -54,6 +56,10 @@ async function buildPayload(): Promise<FixturesPayload> {
   const espn = await runSource(fetchEspnFixtures, "espn");
   sources.push(espn.status);
   live = live.concat(espn.fixtures);
+
+  const bcci = await runSource(fetchBcciFixtures, "bcci");
+  sources.push(bcci.status);
+  live = live.concat(bcci.fixtures);
 
   if (isCricApiConfigured()) {
     const cric = await runSource(fetchCricApiFixtures, "cricapi");

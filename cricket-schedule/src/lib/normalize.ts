@@ -4,7 +4,8 @@ import { isWithinWindow } from "./window";
 
 /** Higher-priority sources win when the same fixture appears in several. */
 const SOURCE_PRIORITY: Record<SourceId, number> = {
-  espn: 3,
+  espn: 4,
+  bcci: 3,
   cricapi: 2,
   seed: 1,
 };

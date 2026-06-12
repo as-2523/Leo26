@@ -40,8 +40,8 @@ jobs:
       - name: Generate fixture data
         run: npm run generate:fixtures
         env:
-          # Accept the key whether saved as an Actions secret or a variable
-          CRICAPI_KEY: ${{ secrets.CRICAPI_KEY || vars.CRICAPI_KEY }}
+          # Accept the key under either name, as a secret or a variable
+          CRICAPI_KEY: ${{ secrets.CRICAPI_KEY || secrets.CRIC_KEY || vars.CRICAPI_KEY || vars.CRIC_KEY }}
       - name: Build static site
         run: |
           rm -rf src/app/api  # Request-dependent route handlers are unsupported in static export
