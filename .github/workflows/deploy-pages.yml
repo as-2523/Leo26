@@ -1,0 +1,62 @@
+name: Deploy cricket-schedule to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths: ["cricket-schedule/**", ".github/workflows/deploy-pages.yml"]
+  schedule:
+    # Refresh fixture data every 6 hours.
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: cricket-schedule
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: cricket-schedule/package-lock.json
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - run: npm ci
+      - name: Generate fixture data
+        run: npm run generate:fixtures
+        env:
+          CRICAPI_KEY: ${{ secrets.CRICAPI_KEY }}
+      - name: Build static site
+        run: |
+          rm -rf src/app/api  # Request-dependent route handlers are unsupported in static export
+          npm run build
+        env:
+          STATIC_EXPORT: "1"
+          NEXT_PUBLIC_STATIC_DATA: "1"
+          NEXT_PUBLIC_BASE_PATH: /Leo26
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: cricket-schedule/out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

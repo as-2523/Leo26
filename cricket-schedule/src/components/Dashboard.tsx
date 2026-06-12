@@ -17,8 +17,16 @@ const VIEWS: { id: ViewMode; label: string }[] = [
   { id: "table", label: "Table" },
 ];
 
+// Static deployments (GitHub Pages) have no API route; CI pre-generates
+// fixtures.json on a schedule instead. Both env vars are inlined at build.
+const STATIC_DATA = process.env.NEXT_PUBLIC_STATIC_DATA === "1";
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 async function fetchFixtures(force: boolean): Promise<FixturesPayload> {
-  const res = await fetch(`/api/fixtures${force ? "?force=1" : ""}`);
+  const url = STATIC_DATA
+    ? `${BASE_PATH}/fixtures.json`
+    : `/api/fixtures${force ? "?force=1" : ""}`;
+  const res = await fetch(url, STATIC_DATA ? { cache: "no-cache" } : undefined);
   if (!res.ok) throw new Error(`Request failed (${res.status})`);
   return (await res.json()) as FixturesPayload;
 }
@@ -83,8 +91,10 @@ export default function Dashboard() {
       {payload?.meta.usedFallback && (
         <div className="rounded-lg border border-amber-300 bg-amber-50 px-4 py-3 text-sm text-amber-900">
           <strong>Sample data.</strong> Live fixture sources are currently unreachable, so
-          illustrative sample fixtures are shown. The dashboard retries live sources
-          automatically every 30 minutes.
+          illustrative sample fixtures are shown.{" "}
+          {STATIC_DATA
+            ? "Live sources are retried automatically when the site data is next regenerated."
+            : "The dashboard retries live sources automatically every 30 minutes."}
         </div>
       )}
       {error && (
