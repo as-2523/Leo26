@@ -1,0 +1,108 @@
+/**
+ * Aggregator: fans out to live sources, normalizes, deduplicates, clamps to
+ * the 3-month window, and caches the result.
+ *
+ * Source chain (documented in the README):
+ *   1. ESPNcricinfo public JSON API  — primary
+ *   2. CricAPI (cricketdata.org)     — secondary, only when CRICAPI_KEY is set
+ *   3. Bundled sample fixtures       — last resort, clearly flagged in the UI
+ *
+ * Rate-limit policy: results are cached in-process for CACHE_TTL_MS. Even a
+ * forced refresh (?force=1) will not contact upstream sources more than once
+ * per MIN_REFRESH_INTERVAL_MS.
+ */
+import type { Fixture, FixturesPayload, SourceStatus } from "./types";
+import { clampToWindow, dedupeFixtures } from "./normalize";
+import { getScheduleWindow } from "./window";
+import { fetchEspnFixtures } from "./sources/espn";
+import { fetchCricApiFixtures, isCricApiConfigured } from "./sources/cricapi";
+import { getSeedFixtures } from "./sources/seed";
+
+const CACHE_TTL_MS = 30 * 60 * 1000;
+const MIN_REFRESH_INTERVAL_MS = 60 * 1000;
+
+interface CacheEntry {
+  payload: FixturesPayload;
+  fetchedAt: number;
+}
+
+// Module-level cache survives across requests within one server process.
+let cache: CacheEntry | null = null;
+let lastUpstreamAttempt = 0;
+let inflight: Promise<FixturesPayload> | null = null;
+
+const errorMessage = (e: unknown) =>
+  e instanceof Error ? e.message : String(e);
+
+async function runSource(
+  fn: () => Promise<Fixture[]>,
+  id: SourceStatus["id"]
+): Promise<{ status: SourceStatus; fixtures: Fixture[] }> {
+  try {
+    const fixtures = await fn();
+    return { status: { id, ok: true, count: fixtures.length }, fixtures };
+  } catch (e) {
+    return { status: { id, ok: false, count: 0, error: errorMessage(e) }, fixtures: [] };
+  }
+}
+
+async function buildPayload(): Promise<FixturesPayload> {
+  const window = getScheduleWindow();
+  const sources: SourceStatus[] = [];
+  let live: Fixture[] = [];
+
+  const espn = await runSource(fetchEspnFixtures, "espn");
+  sources.push(espn.status);
+  live = live.concat(espn.fixtures);
+
+  if (isCricApiConfigured()) {
+    const cric = await runSource(fetchCricApiFixtures, "cricapi");
+    sources.push(cric.status);
+    live = live.concat(cric.fixtures);
+  } else {
+    sources.push({ id: "cricapi", ok: false, count: 0, error: "skipped: CRICAPI_KEY not set" });
+  }
+
+  let usedFallback = false;
+  let merged = clampToWindow(dedupeFixtures(live), window);
+
+  if (merged.length === 0) {
+    usedFallback = true;
+    const seed = clampToWindow(dedupeFixtures(getSeedFixtures()), window);
+    sources.push({ id: "seed", ok: true, count: seed.length });
+    merged = seed;
+  }
+
+  return {
+    fixtures: merged,
+    meta: {
+      generatedAt: new Date().toISOString(),
+      windowStart: window.start.toISOString(),
+      windowEnd: window.end.toISOString(),
+      sources,
+      usedFallback,
+    },
+  };
+}
+
+export async function getFixtures(force = false): Promise<FixturesPayload> {
+  const now = Date.now();
+  const fresh = cache && now - cache.fetchedAt < CACHE_TTL_MS;
+  const refreshAllowed = now - lastUpstreamAttempt >= MIN_REFRESH_INTERVAL_MS;
+
+  if (cache && (fresh && !force || !refreshAllowed)) {
+    return cache.payload;
+  }
+  if (inflight) return inflight;
+
+  lastUpstreamAttempt = now;
+  inflight = buildPayload()
+    .then((payload) => {
+      cache = { payload, fetchedAt: Date.now() };
+      return payload;
+    })
+    .finally(() => {
+      inflight = null;
+    });
+  return inflight;
+}
