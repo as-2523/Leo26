@@ -53,13 +53,14 @@ describe("dedupeFixtures", () => {
 });
 
 describe("clampToWindow", () => {
-  it("keeps only fixtures within the next 3 months", () => {
+  it("keeps only fixtures within the rolling 6-month window", () => {
     const now = new Date("2026-06-12T00:00:00Z");
     const window = getScheduleWindow(now);
     const past: Fixture = { ...base, startTimeUtc: "2026-06-01T10:00:00.000Z" };
     const inWindow: Fixture = { ...base, startTimeUtc: "2026-08-15T10:00:00.000Z" };
-    const tooFar: Fixture = { ...base, startTimeUtc: "2026-10-01T10:00:00.000Z" };
-    const out = clampToWindow([past, inWindow, tooFar], window);
-    expect(out).toEqual([inWindow]);
+    const nearEnd: Fixture = { ...base, startTimeUtc: "2026-12-01T10:00:00.000Z" };
+    const tooFar: Fixture = { ...base, startTimeUtc: "2027-01-01T10:00:00.000Z" };
+    const out = clampToWindow([past, inWindow, nearEnd, tooFar], window);
+    expect(out).toEqual([inWindow, nearEnd]);
   });
 });

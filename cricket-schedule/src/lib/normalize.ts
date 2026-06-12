@@ -47,7 +47,7 @@ export function dedupeFixtures(fixtures: Fixture[]): Fixture[] {
   );
 }
 
-/** Keep only fixtures starting inside the 3-month window. */
+/** Keep only fixtures starting inside the rolling schedule window. */
 export function clampToWindow(fixtures: Fixture[], window: ScheduleWindow): Fixture[] {
   return fixtures.filter((f) => isWithinWindow(f.startTimeUtc, window));
 }

@@ -10,7 +10,7 @@ const geistSans = Geist({
 export const metadata: Metadata = {
   title: "India Cricket Schedule",
   description:
-    "Unified 3-month fixture dashboard for India Men, India A, India Under-19, India Women and India A Women.",
+    "Unified rolling 6-month fixture dashboard for India Men, India A, India Under-19, India Women and India A Women.",
 };
 
 export default function RootLayout({
