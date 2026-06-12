@@ -69,6 +69,32 @@ describe("groupBySeries", () => {
     expect(groups[0].running).toBe(true);
   });
 
+  it("marks a known tournament as running even without source series dates", () => {
+    // Data preserved from an older pull lacks seriesStartUtc; the curated
+    // window for the Women's T20 World Cup (12 Jun – 5 Jul 2026) covers it.
+    const now = new Date("2026-06-20T12:00:00Z");
+    const groups = groupBySeries(
+      [
+        make({
+          series: "ICC Womens T20 World Cup 2026",
+          teamId: "india-women",
+          startTimeUtc: "2026-06-24T14:00:00.000Z",
+        }),
+      ],
+      now
+    );
+    expect(groups[0].running).toBe(true);
+  });
+
+  it("does not apply known windows to unrelated series", () => {
+    const now = new Date("2026-06-20T12:00:00Z");
+    const groups = groupBySeries(
+      [make({ series: "India tour of England", startTimeUtc: "2026-06-24T10:00:00.000Z" })],
+      now
+    );
+    expect(groups[0].running).toBe(false);
+  });
+
   it("treats an in-progress multi-day match as running via its end time", () => {
     const now = new Date("2026-07-03T10:00:00Z");
     const groups = groupBySeries(
