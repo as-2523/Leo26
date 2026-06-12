@@ -18,6 +18,7 @@ import { getScheduleWindow } from "./window";
 import { fetchEspnFixtures } from "./sources/espn";
 import { fetchBcciFixtures } from "./sources/bcci";
 import { fetchCricApi, isCricApiConfigured } from "./sources/cricapi";
+import { mergeExpectedSeries } from "./expected";
 import { getSeedFixtures } from "./sources/seed";
 
 const CACHE_TTL_MS = 30 * 60 * 1000;
@@ -85,9 +86,13 @@ async function buildPayload(): Promise<FixturesPayload> {
     merged = seed;
   }
 
-  // Drop expectations already satisfied by confirmed fixtures from any source.
+  // Drop expectations already satisfied by confirmed fixtures from any
+  // source, then add curated potential matches not covered anywhere.
   const confirmedSeries = new Set(merged.map((f) => f.series));
-  expectedSeries = expectedSeries.filter((s) => !confirmedSeries.has(s.name));
+  expectedSeries = mergeExpectedSeries(
+    expectedSeries.filter((s) => !confirmedSeries.has(s.name)),
+    confirmedSeries
+  );
 
   return {
     fixtures: merged,

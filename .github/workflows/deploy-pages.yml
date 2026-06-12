@@ -5,8 +5,8 @@ on:
     branches: [main]
     paths: ["cricket-schedule/**", ".github/workflows/deploy-pages.yml"]
   schedule:
-    # Refresh fixture data every 6 hours.
-    - cron: "0 */6 * * *"
+    # Refresh fixture data roughly every 48 hours.
+    - cron: "0 3 */2 * *"
   workflow_dispatch:
 
 permissions:

@@ -10,8 +10,7 @@
  *      for their full match lists.
  *
  * Call budget per refresh: 1 + up to MAX_SERIES_PAGES + MAX_SERIES_DETAIL
- * calls (≤ 20). At 4 scheduled refreshes/day that stays well inside the
- * free tier.
+ * calls (≤ 24) — far inside the free tier at the 48-hour refresh cadence.
  */
 import type { ExpectedSeries, Fixture } from "../types";
 import { matchTrackedTeam } from "../teams";
