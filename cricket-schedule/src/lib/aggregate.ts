@@ -17,7 +17,7 @@ import { clampToWindow, dedupeFixtures } from "./normalize";
 import { getScheduleWindow } from "./window";
 import { fetchEspnFixtures } from "./sources/espn";
 import { fetchBcciFixtures } from "./sources/bcci";
-import { fetchCricApiFixtures, isCricApiConfigured } from "./sources/cricapi";
+import { fetchCricApi, isCricApiConfigured } from "./sources/cricapi";
 import { getSeedFixtures } from "./sources/seed";
 
 const CACHE_TTL_MS = 30 * 60 * 1000;
@@ -61,10 +61,16 @@ async function buildPayload(): Promise<FixturesPayload> {
   sources.push(bcci.status);
   live = live.concat(bcci.fixtures);
 
+  let expectedSeries: FixturesPayload["meta"]["expectedSeries"] = [];
   if (isCricApiConfigured()) {
-    const cric = await runSource(fetchCricApiFixtures, "cricapi");
-    sources.push(cric.status);
-    live = live.concat(cric.fixtures);
+    try {
+      const cric = await fetchCricApi();
+      sources.push({ id: "cricapi", ok: true, count: cric.fixtures.length });
+      live = live.concat(cric.fixtures);
+      expectedSeries = cric.expectedSeries;
+    } catch (e) {
+      sources.push({ id: "cricapi", ok: false, count: 0, error: errorMessage(e) });
+    }
   } else {
     sources.push({ id: "cricapi", ok: false, count: 0, error: "skipped: CRICAPI_KEY not set" });
   }
@@ -79,6 +85,10 @@ async function buildPayload(): Promise<FixturesPayload> {
     merged = seed;
   }
 
+  // Drop expectations already satisfied by confirmed fixtures from any source.
+  const confirmedSeries = new Set(merged.map((f) => f.series));
+  expectedSeries = expectedSeries.filter((s) => !confirmedSeries.has(s.name));
+
   return {
     fixtures: merged,
     meta: {
@@ -87,6 +97,7 @@ async function buildPayload(): Promise<FixturesPayload> {
       windowEnd: window.end.toISOString(),
       sources,
       usedFallback,
+      expectedSeries,
     },
   };
 }

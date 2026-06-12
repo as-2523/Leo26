@@ -13,8 +13,8 @@ import {
   startOfMonth,
   startOfWeek,
 } from "date-fns";
-import type { Fixture } from "../lib/types";
-import { groupByIstDay, istDayKey } from "../lib/display";
+import type { ExpectedSeries, Fixture } from "../lib/types";
+import { formatDateIst, groupByIstDay, istDayKey } from "../lib/display";
 import FixtureChip from "./FixtureChip";
 import FixtureCard from "./FixtureCard";
 
@@ -25,6 +25,8 @@ interface CalendarViewProps {
   windowEnd: string;
   /** Series currently in progress — their chips get a highlight ring. */
   runningSeries?: Set<string>;
+  /** Announced series without confirmed match dates, for empty-month notices. */
+  expectedSeries?: ExpectedSeries[];
 }
 
 const WEEKDAYS = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
@@ -35,6 +37,7 @@ export default function CalendarView({
   windowStart,
   windowEnd,
   runningSeries,
+  expectedSeries,
 }: CalendarViewProps) {
   const [anchor, setAnchor] = useState(() => new Date());
   const [selectedDay, setSelectedDay] = useState<string | null>(null);
@@ -66,6 +69,24 @@ export default function CalendarView({
   const todayKey = istDayKey(new Date().toISOString());
   const selectedFixtures = selectedDay ? (byDay.get(selectedDay) ?? []) : [];
 
+  // For an empty month, surface announced-but-unscheduled series overlapping it.
+  const monthStart = startOfMonth(anchor);
+  const monthEnd = endOfMonth(anchor);
+  const monthIsEmpty =
+    mode === "month" &&
+    fixtures.every((f) => {
+      const d = new Date(f.startTimeUtc);
+      return d < monthStart || d > monthEnd;
+    });
+  const expectedThisMonth =
+    mode === "month" && monthIsEmpty
+      ? (expectedSeries ?? []).filter((s) => {
+          const start = new Date(s.startUtc);
+          const end = s.endUtc ? new Date(s.endUtc) : start;
+          return start <= monthEnd && end >= monthStart;
+        })
+      : [];
+
   return (
     <div>
       <div className="mb-3 flex items-center justify-between">
@@ -95,6 +116,45 @@ export default function CalendarView({
           </button>
         </div>
       </div>
+
+      {monthIsEmpty && (
+        <div className="mb-3 rounded-lg border border-amber-300 bg-amber-50 px-4 py-3 text-sm text-amber-900">
+          {expectedThisMonth.length > 0 ? (
+            <>
+              <strong>Matches not confirmed yet, but expected this month:</strong>
+              <ul className="mt-1 list-inside list-disc space-y-0.5">
+                {expectedThisMonth.map((s) => (
+                  <li key={s.name}>
+                    {s.name} — expected around {formatDateIst(s.startUtc)}
+                    {s.endUtc ? ` to ${formatDateIst(s.endUtc)}` : ""}
+                    {s.sourceUrl && (
+                      <>
+                        {" · "}
+                        <a
+                          href={s.sourceUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="font-medium underline underline-offset-2"
+                        >
+                          Source ↗
+                        </a>
+                      </>
+                    )}
+                  </li>
+                ))}
+              </ul>
+              <p className="mt-1 text-xs text-amber-800/80">
+                Exact dates appear here automatically once announced (checked at every data refresh).
+              </p>
+            </>
+          ) : (
+            <>
+              No matches announced for this month yet. New fixtures appear automatically once
+              boards publish them (checked at every data refresh).
+            </>
+          )}
+        </div>
+      )}
 
       <div className="grid grid-cols-7 gap-px overflow-hidden rounded-lg border border-slate-200 bg-slate-200">
         {WEEKDAYS.map((d) => (

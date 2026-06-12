@@ -197,6 +197,7 @@ export default function Dashboard() {
               windowStart={payload.meta.windowStart}
               windowEnd={payload.meta.windowEnd}
               runningSeries={runningSeries}
+              expectedSeries={payload.meta.expectedSeries ?? []}
             />
           )}
           <p className="text-xs text-sky-50/80">

@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 import {
   fallbackSeriesName,
   selectCandidateSeries,
+  selectExpectedSeries,
   type CricApiSeries,
 } from "../sources/cricapi";
 
@@ -77,6 +78,41 @@ describe("selectCandidateSeries", () => {
     expect(out.length).toBeLessThan(many.length);
     const starts = out.map((s) => s.startDate ?? "");
     expect([...starts].sort()).toEqual(starts);
+  });
+});
+
+describe("selectExpectedSeries", () => {
+  it("surfaces announced series with no confirmed fixtures", () => {
+    const out = selectExpectedSeries(
+      [series({ name: "India tour of Sri Lanka", startDate: "2026-08-05", endDate: "2026-08-28" })],
+      new Set(),
+      NOW
+    );
+    expect(out).toHaveLength(1);
+    expect(out[0].name).toBe("India tour of Sri Lanka");
+    expect(out[0].startUtc.slice(0, 10)).toBe("2026-08-05");
+    expect(out[0].sourceUrl).toContain("espncricinfo.com/search");
+  });
+
+  it("excludes series already covered by confirmed fixtures", () => {
+    const out = selectExpectedSeries(
+      [series({ name: "India tour of Sri Lanka", startDate: "2026-08-05" })],
+      new Set(["India tour of Sri Lanka"]),
+      NOW
+    );
+    expect(out).toHaveLength(0);
+  });
+
+  it("excludes irrelevant and out-of-window series", () => {
+    const out = selectExpectedSeries(
+      [
+        series({ name: "County Championship", startDate: "2026-08-05" }),
+        series({ name: "Australia tour of India", startDate: "2027-03-01" }),
+      ],
+      new Set(),
+      NOW
+    );
+    expect(out).toHaveLength(0);
   });
 });
 
