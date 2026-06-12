@@ -1,0 +1,26 @@
+name: cricket-schedule CI
+
+on:
+  push:
+    branches: [main]
+    paths: ["cricket-schedule/**", ".github/workflows/cricket-schedule-ci.yml"]
+  pull_request:
+    paths: ["cricket-schedule/**", ".github/workflows/cricket-schedule-ci.yml"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: cricket-schedule
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: cricket-schedule/package-lock.json
+      - run: npm ci
+      - run: npm run lint
+      - run: npm test
+      - run: npm run build
