@@ -16,7 +16,7 @@ export type FormatCategory =
   | "Youth"
   | "Other";
 
-export type SourceId = "espn" | "bcci" | "cricapi" | "seed";
+export type SourceId = "espn" | "bcci" | "cricapi" | "manual" | "seed";
 
 export interface Fixture {
   /** Stable id derived from team/opponent/date/format. */

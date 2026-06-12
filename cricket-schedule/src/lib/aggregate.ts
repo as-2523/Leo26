@@ -19,6 +19,7 @@ import { fetchEspnFixtures } from "./sources/espn";
 import { fetchBcciFixtures } from "./sources/bcci";
 import { fetchCricApi, isCricApiConfigured } from "./sources/cricapi";
 import { mergeExpectedSeries } from "./expected";
+import { getManualFixtures } from "./sources/manual";
 import { getSeedFixtures } from "./sources/seed";
 
 const CACHE_TTL_MS = 30 * 60 * 1000;
@@ -75,6 +76,12 @@ async function buildPayload(): Promise<FixturesPayload> {
   } else {
     sources.push({ id: "cricapi", ok: false, count: 0, error: "skipped: CRICAPI_KEY not set" });
   }
+
+  // Curated fixtures for verified matches no API covers (e.g. unofficial
+  // A-team tours). Lowest live priority, so API data wins on overlap.
+  const manual = getManualFixtures();
+  sources.push({ id: "manual", ok: true, count: manual.length });
+  live = live.concat(manual);
 
   let usedFallback = false;
   let merged = clampToWindow(dedupeFixtures(live), window);

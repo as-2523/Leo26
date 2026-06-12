@@ -6,6 +6,7 @@
  */
 import type { FixturesPayload } from "./types";
 import { getScheduleWindow, isWithinWindow } from "./window";
+import { dedupeFixtures } from "./normalize";
 
 /** Below this many fixtures a live pull is suspect regardless of history. */
 const MIN_HEALTHY = 10;
@@ -49,12 +50,20 @@ export function choosePayload(
     return { payload: fresh, preserved: false };
   }
 
+  // Merge rather than replace: anything genuinely new in the degraded pull
+  // (e.g. curated fixtures, the few matches a rate-limited API returned)
+  // still lands on top of the preserved dataset. Sample data is never
+  // merged in.
+  const fixtures = freshIsSample
+    ? dedupeFixtures(prevInWindow)
+    : dedupeFixtures([...fresh.fixtures, ...prevInWindow]);
+
   return {
     preserved: true,
     payload: {
-      fixtures: prevInWindow,
+      fixtures,
       meta: {
-        // Keep the previous generatedAt: the data really is from that pull.
+        // Keep the previous generatedAt: the bulk of the data is from that pull.
         ...previous.meta,
         windowStart: window.start.toISOString(),
         windowEnd: window.end.toISOString(),
