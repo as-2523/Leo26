@@ -78,6 +78,8 @@ const SPECS: SeedSpec[] = [
   { teamId: "india-u19-men", opponent: "Pakistan Under-19", series: "ACC Under-19 Asia Cup", venue: "Dubai International Stadium", city: "Dubai", format: "Youth", formatLabel: "Youth ODI", offsetDays: 153, startHourUtc: 5 },
   { teamId: "india-a-women", opponent: "England A Women", series: "England A Women tour of India — T20 series", venue: "NCA Ground", city: "Bengaluru", format: "T20", formatLabel: "T20", offsetDays: 145, startHourUtc: 8 },
   { teamId: "india-a-women", opponent: "England A Women", series: "England A Women tour of India — T20 series", venue: "NCA Ground", city: "Bengaluru", format: "T20", formatLabel: "T20", offsetDays: 147, startHourUtc: 8 },
+  { teamId: "india-men", opponent: "South Africa", series: "South Africa tour of India — ODI series", venue: "Wankhede Stadium", city: "Mumbai", format: "ODI", formatLabel: "ODI", offsetDays: 172, startHourUtc: 8 },
+  { teamId: "india-men", opponent: "South Africa", series: "South Africa tour of India — ODI series", venue: "Narendra Modi Stadium", city: "Ahmedabad", format: "ODI", formatLabel: "ODI", offsetDays: 175, startHourUtc: 8 },
 ];
 
 export function getSeedFixtures(now: Date = new Date()): Fixture[] {

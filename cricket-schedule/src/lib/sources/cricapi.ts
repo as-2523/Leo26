@@ -21,8 +21,8 @@ import { fetchJson } from "./http";
 
 const BASE = "https://api.cricapi.com/v1";
 const PAGE_SIZE = 25;
-const MAX_SERIES_PAGES = 4;
-const MAX_SERIES_DETAIL = 14;
+const MAX_SERIES_PAGES = 6;
+const MAX_SERIES_DETAIL = 17;
 
 /** Series whose names plausibly involve the tracked Indian teams. */
 const RELEVANT_SERIES = /india|world cup|asia cup|champions trophy|under.?19|u-?19|emerging|tri.?series/i;
@@ -38,6 +38,7 @@ interface CricApiMatch {
   teams?: string[];
   matchStarted?: boolean;
   matchEnded?: boolean;
+  series_id?: string;
 }
 
 export interface CricApiSeries {
@@ -61,7 +62,19 @@ export function isCricApiConfigured(): boolean {
   return Boolean(process.env.CRICAPI_KEY);
 }
 
-function matchToFixture(m: CricApiMatch): Fixture | null {
+/**
+ * CricAPI's match `name` is the match title ("India vs England, 3rd ODI"),
+ * not a series name. When the series catalog has no entry, fall back to the
+ * title minus its final ", Nth XXX" segment so a tour's matches still group
+ * together in the Series view and ongoing-series detection.
+ */
+export function fallbackSeriesName(matchName: string | undefined): string {
+  if (!matchName) return "—";
+  const i = matchName.lastIndexOf(",");
+  return i > 0 ? matchName.slice(0, i).trim() : matchName;
+}
+
+function matchToFixture(m: CricApiMatch, seriesName?: string): Fixture | null {
   if (m.matchStarted || m.matchEnded) return null;
   const start = m.dateTimeGMT ? `${m.dateTimeGMT}Z` : m.date;
   if (!start) return null;
@@ -84,7 +97,7 @@ function matchToFixture(m: CricApiMatch): Fixture | null {
     hasStartTime: Boolean(m.dateTimeGMT),
     format: tracked.youth ? "Youth" : normalizeFormat(formatLabel),
     formatLabel,
-    series: m.name ?? "—",
+    series: seriesName ?? fallbackSeriesName(m.name),
     venue: m.venue ?? "TBC",
     source: "cricapi",
   };
@@ -126,7 +139,14 @@ export function selectCandidateSeries(
       if (!end && start < new Date(now.getTime() - 60 * 24 * 3_600_000)) return false;
       return true;
     })
-    .sort((a, b) => (a.startDate ?? "").localeCompare(b.startDate ?? ""))
+    .sort((a, b) => {
+      // Series naming India directly are the actual tours filling the later
+      // months of the window — never let big near-term tournaments crowd
+      // them out of the detail-call budget.
+      const aIndia = /india/i.test(a.name ?? "") ? 0 : 1;
+      const bIndia = /india/i.test(b.name ?? "") ? 0 : 1;
+      return aIndia - bIndia || (a.startDate ?? "").localeCompare(b.startDate ?? "");
+    })
     .slice(0, MAX_SERIES_DETAIL);
 }
 
@@ -138,22 +158,8 @@ export async function fetchCricApiFixtures(): Promise<Fixture[]> {
   const fixtures: Fixture[] = [];
   const errors: string[] = [];
 
-  // Pass 1: current matches.
-  try {
-    const res = await fetchJson<ListResponse<CricApiMatch>>(
-      `${BASE}/matches?apikey=${apikey}&offset=0`
-    );
-    if (res.status !== "success" || !Array.isArray(res.data)) {
-      throw new Error("CricAPI /matches returned an unsuccessful response");
-    }
-    fixtures.push(
-      ...res.data.map(matchToFixture).filter((f): f is Fixture => f !== null)
-    );
-  } catch (e) {
-    errors.push(e instanceof Error ? e.message : String(e));
-  }
-
-  // Pass 2: upcoming series overlapping the window.
+  // Pass 1: the series catalog — also provides series_id → name lookups
+  // so fixtures from the /matches feed carry real series names.
   const seriesList: CricApiSeries[] = [];
   for (let page = 0; page < MAX_SERIES_PAGES; page++) {
     try {
@@ -168,7 +174,11 @@ export async function fetchCricApiFixtures(): Promise<Fixture[]> {
       break;
     }
   }
+  const seriesNameById = new Map(
+    seriesList.filter((s) => s.id && s.name).map((s) => [s.id!, s.name!])
+  );
 
+  // Pass 2: detailed match lists for India-relevant series in the window.
   const detailResults = await Promise.allSettled(
     selectCandidateSeries(seriesList).map(async (s) => {
       const res = await fetchJson<SeriesInfoResponse>(
@@ -176,12 +186,29 @@ export async function fetchCricApiFixtures(): Promise<Fixture[]> {
       );
       const list = res.data?.matchList;
       return Array.isArray(list)
-        ? list.map(matchToFixture).filter((f): f is Fixture => f !== null)
+        ? list.map((m) => matchToFixture(m, s.name)).filter((f): f is Fixture => f !== null)
         : [];
     })
   );
   for (const r of detailResults) {
     if (r.status === "fulfilled") fixtures.push(...r.value);
+  }
+
+  // Pass 3: current matches, catching anything the series pass missed.
+  try {
+    const res = await fetchJson<ListResponse<CricApiMatch>>(
+      `${BASE}/matches?apikey=${apikey}&offset=0`
+    );
+    if (res.status !== "success" || !Array.isArray(res.data)) {
+      throw new Error("CricAPI /matches returned an unsuccessful response");
+    }
+    fixtures.push(
+      ...res.data
+        .map((m) => matchToFixture(m, m.series_id ? seriesNameById.get(m.series_id) : undefined))
+        .filter((f): f is Fixture => f !== null)
+    );
+  } catch (e) {
+    errors.push(e instanceof Error ? e.message : String(e));
   }
 
   if (fixtures.length === 0 && errors.length > 0) {
