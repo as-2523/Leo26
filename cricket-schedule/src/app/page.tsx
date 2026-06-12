@@ -9,7 +9,7 @@ export default function Home() {
         </h1>
         <p className="mt-1 text-sm text-slate-500">
           Upcoming fixtures for India Men, India A Men, India Under-19 Men, India Women and
-          India A Women — next 3 months, all times in IST.
+          India A Women — rolling 6-month window, all times in IST.
         </p>
       </header>
       <Dashboard />

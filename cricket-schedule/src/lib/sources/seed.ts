@@ -3,9 +3,9 @@
  *
  * Used only when no live source responds (network outage, upstream change,
  * or a restricted deployment environment). Dates are generated relative to
- * "today" so the demo always has data inside the 3-month window, and the UI
- * shows a prominent banner explaining that the data is illustrative, not a
- * real schedule.
+ * "today" so the demo always has data across the full rolling window, and
+ * the UI shows a prominent banner explaining that the data is illustrative,
+ * not a real schedule.
  */
 import { addDays, setHours, startOfDay } from "date-fns";
 import type { Fixture, FormatCategory, TeamId } from "../types";
@@ -59,6 +59,23 @@ const SPECS: SeedSpec[] = [
   { teamId: "india-a-women", opponent: "Australia A Women", series: "India A Women tour of Australia — one-day series", venue: "Allan Border Field", city: "Brisbane", format: "List A", formatLabel: "List A", offsetDays: 64, startHourUtc: 0 },
   { teamId: "india-a-women", opponent: "Australia A Women", series: "India A Women tour of Australia — one-day series", venue: "Allan Border Field", city: "Brisbane", format: "List A", formatLabel: "List A", offsetDays: 67, startHourUtc: 0 },
   { teamId: "india-a-women", opponent: "Australia A Women", series: "India A Women tour of Australia — T20 series", venue: "Allan Border Field", city: "Brisbane", format: "T20", formatLabel: "T20", offsetDays: 71, startHourUtc: 3 },
+
+  // Months 4-6 — home season block so the sample data spans the full window
+  { teamId: "india-a-men", opponent: "South Africa A", series: "South Africa A tour of India — one-day series", venue: "Greenfield International Stadium", city: "Thiruvananthapuram", format: "List A", formatLabel: "List A", offsetDays: 100, startHourUtc: 4 },
+  { teamId: "india-a-men", opponent: "South Africa A", series: "South Africa A tour of India — one-day series", venue: "Greenfield International Stadium", city: "Thiruvananthapuram", format: "List A", formatLabel: "List A", offsetDays: 102, startHourUtc: 4 },
+  { teamId: "india-a-men", opponent: "South Africa A", series: "South Africa A tour of India — unofficial Test", venue: "Vidarbha CA Stadium", city: "Nagpur", format: "First-class", formatLabel: "First-class", offsetDays: 120, startHourUtc: 4, spanDays: 4 },
+  { teamId: "india-women", opponent: "Australia Women", series: "Australia Women tour of India — T20I series", venue: "DY Patil Stadium", city: "Navi Mumbai", format: "T20", formatLabel: "WT20I", offsetDays: 110, startHourUtc: 13 },
+  { teamId: "india-women", opponent: "Australia Women", series: "Australia Women tour of India — T20I series", venue: "DY Patil Stadium", city: "Navi Mumbai", format: "T20", formatLabel: "WT20I", offsetDays: 112, startHourUtc: 13 },
+  { teamId: "india-women", opponent: "England Women", series: "England Women tour of India — one-off Test", venue: "Wankhede Stadium", city: "Mumbai", format: "Test", formatLabel: "WTest", offsetDays: 140, startHourUtc: 4, spanDays: 4 },
+  { teamId: "india-men", opponent: "New Zealand", series: "New Zealand tour of India — Test series", venue: "M Chinnaswamy Stadium", city: "Bengaluru", format: "Test", formatLabel: "Test", offsetDays: 130, startHourUtc: 4, spanDays: 5 },
+  { teamId: "india-men", opponent: "New Zealand", series: "New Zealand tour of India — Test series", venue: "Rajiv Gandhi International Stadium", city: "Hyderabad", format: "Test", formatLabel: "Test", offsetDays: 138, startHourUtc: 4, spanDays: 5 },
+  { teamId: "india-men", opponent: "Australia", series: "Australia tour of India — T20I series", venue: "Eden Gardens", city: "Kolkata", format: "T20", formatLabel: "T20I", offsetDays: 160, startHourUtc: 13 },
+  { teamId: "india-men", opponent: "Australia", series: "Australia tour of India — T20I series", venue: "Barabati Stadium", city: "Cuttack", format: "T20", formatLabel: "T20I", offsetDays: 163, startHourUtc: 13 },
+  { teamId: "india-men", opponent: "Australia", series: "Australia tour of India — T20I series", venue: "HPCA Stadium", city: "Dharamsala", format: "T20", formatLabel: "T20I", offsetDays: 166, startHourUtc: 13 },
+  { teamId: "india-u19-men", opponent: "Bangladesh Under-19", series: "ACC Under-19 Asia Cup", venue: "Dubai International Stadium", city: "Dubai", format: "Youth", formatLabel: "Youth ODI", offsetDays: 150, startHourUtc: 5 },
+  { teamId: "india-u19-men", opponent: "Pakistan Under-19", series: "ACC Under-19 Asia Cup", venue: "Dubai International Stadium", city: "Dubai", format: "Youth", formatLabel: "Youth ODI", offsetDays: 153, startHourUtc: 5 },
+  { teamId: "india-a-women", opponent: "England A Women", series: "England A Women tour of India — T20 series", venue: "NCA Ground", city: "Bengaluru", format: "T20", formatLabel: "T20", offsetDays: 145, startHourUtc: 8 },
+  { teamId: "india-a-women", opponent: "England A Women", series: "England A Women tour of India — T20 series", venue: "NCA Ground", city: "Bengaluru", format: "T20", formatLabel: "T20", offsetDays: 147, startHourUtc: 8 },
 ];
 
 export function getSeedFixtures(now: Date = new Date()): Fixture[] {

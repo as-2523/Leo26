@@ -5,7 +5,7 @@ import { getScheduleWindow } from "../window";
 import { TEAMS } from "../teams";
 
 describe("seed fixtures", () => {
-  it("covers all five tracked teams inside the 3-month window", () => {
+  it("covers all five tracked teams inside the schedule window", () => {
     const now = new Date();
     const fixtures = clampToWindow(dedupeFixtures(getSeedFixtures(now)), getScheduleWindow(now));
     const teamsCovered = new Set(fixtures.map((f) => f.teamId));

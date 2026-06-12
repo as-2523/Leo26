@@ -5,10 +5,13 @@ export interface ScheduleWindow {
   end: Date;
 }
 
-/** The dashboard shows fixtures from today through three months out. */
+/** Rolling window length shown on the dashboard, in months. */
+export const WINDOW_MONTHS = 6;
+
+/** The dashboard shows fixtures from today through WINDOW_MONTHS out. */
 export function getScheduleWindow(now: Date = new Date()): ScheduleWindow {
   const start = startOfDay(now);
-  return { start, end: addMonths(start, 3) };
+  return { start, end: addMonths(start, WINDOW_MONTHS) };
 }
 
 export function isWithinWindow(isoUtc: string, window: ScheduleWindow): boolean {

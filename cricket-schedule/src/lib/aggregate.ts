@@ -1,6 +1,6 @@
 /**
  * Aggregator: fans out to live sources, normalizes, deduplicates, clamps to
- * the 3-month window, and caches the result.
+ * the rolling schedule window (see WINDOW_MONTHS), and caches the result.
  *
  * Source chain (documented in the README):
  *   1. ESPNcricinfo public JSON API  — primary

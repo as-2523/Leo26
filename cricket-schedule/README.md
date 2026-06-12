@@ -1,7 +1,8 @@
 # 🏏 India Cricket Schedule Dashboard
 
 A production-ready Next.js app that aggregates upcoming fixtures for five Indian
-cricket teams into a single dashboard, covering the **next 3 months**:
+cricket teams into a single dashboard, covering a **rolling 6-month window**
+(configurable via `WINDOW_MONTHS` in `src/lib/window.ts`):
 
 - India Men
 - India A Men
@@ -36,7 +37,7 @@ How aggregation works (`src/lib/aggregate.ts`):
    "India Women"; format labels are normalized into filter buckets.
 3. Fixtures are **deduplicated** across sources (same team + opponent + UTC
    date + format), with higher-priority sources winning.
-4. Results are **clamped to the 3-month window** and sorted by start time.
+4. Results are **clamped to the rolling 6-month window** and sorted by start time.
 5. Only if *zero* live fixtures were obtained does the app fall back to sample
    data, and `meta.usedFallback` is set so the UI can show the banner.
 
@@ -81,7 +82,7 @@ src/
     aggregate.ts              # source chain, cache, rate limiting
     teams.ts                  # tracked-team registry (aliases, colors, ids)
     formats.ts                # format normalization
-    normalize.ts              # dedupe + 3-month window clamp
+    normalize.ts              # dedupe + rolling window clamp
     window.ts                 # schedule window helpers
     display.ts                # IST formatting
     sources/                  # espn.ts, cricapi.ts, seed.ts, http.ts
