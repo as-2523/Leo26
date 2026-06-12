@@ -8,9 +8,14 @@ on:
     # Refresh fixture data roughly every 48 hours.
     - cron: "0 3 */2 * *"
   workflow_dispatch:
+    inputs:
+      restore_run_id:
+        description: "Recovery: workflow run ID whose published fixtures.json should seed the quality gate"
+        required: false
 
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 
@@ -39,6 +44,19 @@ jobs:
       - run: npm ci
       - name: Fetch currently published data (for the quality gate)
         run: curl -fsSL "https://as-2523.github.io/Leo26/fixtures.json" -o /tmp/previous-fixtures.json || true
+      - name: Restore data from a previous run's artifact (manual recovery)
+        if: ${{ github.event.inputs.restore_run_id }}
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          run-id: ${{ github.event.inputs.restore_run_id }}
+          github-token: ${{ github.token }}
+          path: /tmp/restore
+      - name: Use restored fixtures as the quality-gate baseline
+        if: ${{ github.event.inputs.restore_run_id }}
+        run: |
+          tar -xf /tmp/restore/artifact.tar -C /tmp/restore ./fixtures.json
+          cp /tmp/restore/fixtures.json /tmp/previous-fixtures.json
       - name: Generate fixture data
         run: npm run generate:fixtures
         env:
