@@ -213,7 +213,11 @@ export async function fetchCricApi(): Promise<CricApiResult> {
       const res = await fetchJson<ListResponse<CricApiSeries>>(
         `${BASE}/series?apikey=${apikey}&offset=${page * PAGE_SIZE}`
       );
-      if (res.status !== "success" || !Array.isArray(res.data)) break;
+      if (res.status !== "success" || !Array.isArray(res.data)) {
+        // Typically quota exhaustion — surface it instead of failing silently.
+        errors.push(`CricAPI /series page ${page} returned an unsuccessful response`);
+        break;
+      }
       seriesList.push(...res.data);
       if (res.data.length < PAGE_SIZE) break;
     } catch (e) {
