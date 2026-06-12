@@ -31,7 +31,11 @@ const payload = (fixtures: Fixture[], usedFallback = false): FixturesPayload => 
 });
 
 const healthy = payload(
-  Array.from({ length: 40 }, (_, i) => fixture(`2026-0${(i % 6) + 7}-15T10:00:00.000Z`.slice(0, 24), i))
+  Array.from({ length: 40 }, (_, i) => {
+    const month = String(7 + Math.floor(i / 28)).padStart(2, "0");
+    const day = String((i % 28) + 1).padStart(2, "0");
+    return fixture(`2026-${month}-${day}T10:00:00.000Z`, i);
+  })
 );
 
 describe("choosePayload", () => {

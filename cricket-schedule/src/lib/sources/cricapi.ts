@@ -20,7 +20,7 @@ import { fetchJson } from "./http";
 
 const BASE = "https://api.cricapi.com/v1";
 const PAGE_SIZE = 25;
-const MAX_SERIES_PAGES = 6;
+const MAX_SERIES_PAGES = 4;
 const MAX_SERIES_DETAIL = 17;
 
 /** Series whose names plausibly involve the tracked Indian teams. */
@@ -225,11 +225,29 @@ export async function fetchCricApi(): Promise<CricApiResult> {
       break;
     }
   }
+  // Targeted catalog search: blind paging only sees the first ~100 entries,
+  // which misses lower-profile series (e.g. unofficial A-team tours).
+  for (const term of ["india", "tri-series"]) {
+    try {
+      const res = await fetchJson<ListResponse<CricApiSeries>>(
+        `${BASE}/series?apikey=${apikey}&offset=0&search=${encodeURIComponent(term)}`
+      );
+      if (res.status === "success" && Array.isArray(res.data)) {
+        seriesList.push(...res.data);
+      } else {
+        errors.push(`CricAPI /series search "${term}" returned an unsuccessful response`);
+      }
+    } catch (e) {
+      errors.push(e instanceof Error ? e.message : String(e));
+    }
+  }
+
   const seriesById = new Map(seriesList.filter((s) => s.id).map((s) => [s.id!, s]));
+  const uniqueSeries = [...seriesById.values()];
 
   // Pass 2: detailed match lists for India-relevant series in the window.
   const detailResults = await Promise.allSettled(
-    selectCandidateSeries(seriesList).map(async (s) => {
+    selectCandidateSeries(uniqueSeries).map(async (s) => {
       const res = await fetchJson<SeriesInfoResponse>(
         `${BASE}/series_info?apikey=${apikey}&id=${encodeURIComponent(s.id!)}`
       );
@@ -267,6 +285,6 @@ export async function fetchCricApi(): Promise<CricApiResult> {
   const confirmedSeriesNames = new Set(fixtures.map((f) => f.series));
   return {
     fixtures,
-    expectedSeries: selectExpectedSeries(seriesList, confirmedSeriesNames),
+    expectedSeries: selectExpectedSeries(uniqueSeries, confirmedSeriesNames),
   };
 }

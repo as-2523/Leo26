@@ -9,6 +9,7 @@ export const SOURCE_LABELS: Record<SourceId, string> = {
   espn: "ESPNcricinfo",
   bcci: "BCCI",
   cricapi: "CricAPI",
+  manual: "Curated",
   seed: "Sample",
 };
 
