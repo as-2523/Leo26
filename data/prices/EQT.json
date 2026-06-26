@@ -1,19 +1,11 @@
 {
   "ticker": "EQT",
-  "current_price": 51.31,
-  "prev_close": 51.48,
-  "day_change_pct": -0.33,
+  "current_price": 53.04,
+  "prev_close": 51.65,
+  "day_change_pct": 2.69,
   "week_52_high": 68.24,
   "week_52_low": 48.47,
   "history": [
-    {
-      "date": "2026-02-17",
-      "open": 58.5749,
-      "high": 58.7245,
-      "low": 56.3113,
-      "close": 57.5877,
-      "volume": 10209400
-    },
     {
       "date": "2026-02-18",
       "open": 56.1219,
@@ -720,13 +712,21 @@
     },
     {
       "date": "2026-06-25",
-      "open": 51.285,
-      "high": 51.7999,
+      "open": 51.29,
+      "high": 51.8,
       "low": 51.02,
-      "close": 51.31,
-      "volume": 5012167
+      "close": 51.65,
+      "volume": 7954700
+    },
+    {
+      "date": "2026-06-26",
+      "open": 51.85,
+      "high": 53.6,
+      "low": 51.97,
+      "close": 53.04,
+      "volume": 3569169
     }
   ],
-  "as_of": "2026-06-25T19:52:13.230890+00:00",
+  "as_of": "2026-06-26T15:33:44.658336+00:00",
   "stale": false
 }
