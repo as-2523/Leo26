@@ -1,8 +1,8 @@
 {
   "ticker": "GLW",
-  "current_price": 210.27,
+  "current_price": 221.05,
   "prev_close": 228.01,
-  "day_change_pct": -7.78,
+  "day_change_pct": -3.05,
   "week_52_high": 230.5,
   "week_52_low": 51.32,
   "history": [
@@ -716,17 +716,17 @@
       "high": 230.5,
       "low": 213.02,
       "close": 228.01,
-      "volume": 25620300
+      "volume": 25707300
     },
     {
       "date": "2026-06-26",
-      "open": 224.425,
-      "high": 225.8,
-      "low": 207.74,
-      "close": 210.225,
-      "volume": 9322812
+      "open": 224.43,
+      "high": 226.0,
+      "low": 207.73,
+      "close": 221.05,
+      "volume": 45374700
     }
   ],
-  "as_of": "2026-06-26T15:33:40.047097+00:00",
+  "as_of": "2026-06-27T11:53:19.480242+00:00",
   "stale": false
 }
