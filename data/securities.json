@@ -259,7 +259,7 @@
     "name": "Marvell Technology, Inc.",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 233571303424,
+    "market_cap": 233370386432,
     "pe_ratio": 91.67353,
     "description": "Marvell Technology, Inc., together with its subsidiaries, provides data infrastructure semiconductor solutions and spanning the data center core to network edge in the United States, Argentina, China, India, Israel, Japan, Singapore, South Korea, Taiwan, Vietnam, and internationally. The company develops and scales system-on-a-chip architectures, integrating analog, mixed-signal, and digital signal processing functionality. It offers a portfolio of ethernet solutions, including spanning controllers, network adapters, physical transceivers, and switches; single or multiple core processors; and custom application specific integrated circuits, interconnects, fibre channel adapters, and processors. The company also provides interconnect products, including pulse amplitude modulation, coherent and coherent-lite digital signal processors (DSPs), laser drivers, trans-impedance amplifiers, silicon photonics, co-packaged optics, linear pluggable optics chipsets, data center interconnect, active electrical cable DSPs and peripheral component interconnect express retimer solutions; fibre channel products comprising host bus adapters and controllers for server and storage system connectivity; ",
     "industry": "Semiconductors",
@@ -274,5 +274,155 @@
     "description": "WhiteFiber, Inc. provides artificial intelligence (AI) infrastructure solutions. It operates through two segments, cloud services and colocation services. The company designs, develops, and operates data centers. It also offers hosting, colocation, and cloud-based high-performance computing (HPC) graphics processing unit (GPU) services. In addition, the company provides data center infrastructure and cloud services for enterprises, research institutions, and AI and machine learning (ML) driven businesses. Further, it serves healthcare, finance, and technologies; and GPU cloud customers. The company was formerly known as Celer, Inc. and changed its name to WhiteFiber, Inc. in October 2024. The company was incorporated in 2024 and is headquartered in New York, New York. WhiteFiber, Inc. is a subsidiary of Bit Digital, Inc.",
     "industry": "Information Technology Services",
     "website": "https://www.whitefiber.com"
+  },
+  "CEG": {
+    "name": "Constellation Energy Corporation",
+    "exchange": "NMS",
+    "sector": "Utilities",
+    "industry": "Utilities - Independent Power Producers",
+    "website": "https://www.constellationenergy.com",
+    "market_cap": 94282072064,
+    "pe_ratio": 22.938313,
+    "description": "Constellation Energy Corporation produces and sells energy products and services in the United States. The company operates through five segments: Mid-Atlantic, Midwest, New York, ERCOT, and Other Power Regions. It offers electricity, natural gas, energy-related products, and sustainable solutions. The company has approximately 31,676 megawatts of generating capacity consisting of nuclear, wind, solar, natural gas, and hydroelectric assets. It serves distribution utilities, municipalities, cooperatives, and commercial, industrial, public sector, and residential customers. The company was incorporated in 2021 and is headquartered in Baltimore, Maryland."
+  },
+  "MOD": {
+    "name": "Modine Manufacturing Company",
+    "exchange": "NYQ",
+    "sector": "Consumer Cyclical",
+    "industry": "Auto Parts",
+    "website": "https://www.modine.com",
+    "market_cap": 13520313344,
+    "pe_ratio": 113.77334,
+    "description": "Modine Manufacturing Company designs, engineers, tests, manufactures, and sells mission-critical thermal solutions in the United States, Canada, Italy, Hungary, the United Kingdom, China, and internationally. It offers heat transfer products, including round tube plate fin construction; gas-fired, hydronic, electric, and oil fired unit heaters; roof-mounted direct- and indirect-fired makeup air units, duct furnaces, infrared units, and perimeter heating products; single packaged unit ventilators, modular chillers, air handler and condensing units, and ceiling cassettes; evaporator unit coolers, remote condensers, fluid coolers, gas coolers, and dry and brine coolers; and motor and generator cooling coils, transformer oil coolers, radiators, dryers, and industrial heat exchangers. The company also provides data center products that consists of IT cooling solutions, including chillers, dry coolers, precision air handling units, computer room air conditioning, computer room air handler units, fan walls, rear-door heat exchangers, coolant distribution units, and immersion solutions, as well as sells replacement parts, maintenance service and control solutions for existing equipment and"
+  },
+  "BTDR": {
+    "name": "Bitdeer Technologies Group",
+    "exchange": "NCM",
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "website": "https://www.bitdeer.com",
+    "market_cap": 4172828928,
+    "pe_ratio": -48.30986,
+    "description": "Bitdeer Technologies Group operates as a technology company for blockchain and high-performance computing (HPC) in Singapore, the United States, Bhutan, Norway, Finland, Ethiopia, Canada, and internationally. The company offers hash rate sharing solutions, including cloud hash rate and hash-rate subscription plans; and a one-stop mining rig hosting solution comprising deployment, maintenance, and management services for cryptocurrency mining; as well as mining cryptocurrencies for its own account. It also operates mining datacenters to generate hash rates; handles various processes involved in computing, such as equipment procurement, transport logistics, datacenter design and construction, equipment management, and daily operations; and sells mining rigs. In addition, the company offers Minerplus, a software platform that offers software support to reduce time needed for daily maintenance and mining rig upgrade; AI infrastructure and AI cloud business to offer advanced AI cloud capabilities, HPC services and colocation services; and mining solutions under the SEALMINER brand. The company is headquartered in Singapore."
+  },
+  "CIFR": {
+    "name": "Cipher Digital Inc.",
+    "exchange": "NMS",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "website": "https://www.cipherdigital.com",
+    "market_cap": 10610736128,
+    "pe_ratio": 38.71642,
+    "description": "Cipher Digital Inc., together with its subsidiaries, develops and operates industrial-scale data centers for bitcoin mining and high-performance compute (HPC) hosting in the United States. It develops HPC data center facilities across various sites for hyperscaler tenants; operates power at one bitcoin mining data center; and maintains a pipeline across various sites. The company was formerly known as Cipher Mining Inc. and change its name to Cipher Digital Inc. in February 2026. The company was founded in 2021 and is headquartered in New York, New York."
+  },
+  "COHR": {
+    "name": "Coherent Corp.",
+    "exchange": "NYQ",
+    "sector": "Technology",
+    "industry": "Scientific & Technical Instruments",
+    "website": "https://www.coherent.com",
+    "market_cap": 74452500480,
+    "pe_ratio": 182.08614,
+    "description": "Coherent Corp. develops, manufactures, and markets engineered materials, optoelectronic components and devices, and laser systems for the use in the industrial, communications, electronics, and instrumentation markets worldwide. It operates through three segments: Networking, Materials, and Lasers. The Networking segment offers transceivers, systems, subsystems, modules, components, optics, and semiconductor devices for datacenter and communications applications. The Materials segment provides engineered materials, laser optics, thermoelectric components, and advanced ceramic and metal-matrix composite materials and products; and vertical-cavity surface-emitting laser, edge-emitting laser, pump lasers, high-power lasers for materials processing, and integrated circuit. The Laser segment offers excimer lasers, solid-state lasers, CO2 lasers, and laser systems for various industrial applications, including semiconductor capital equipment, display manufacturing, precision manufacturing, and scientific research; and laser systems and subsystems. It markets its products and services through direct sales force, representatives, and distributors. The company was formerly known as II-VI In"
+  },
+  "GLXY": {
+    "name": "Galaxy Digital",
+    "exchange": "NMS",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "website": "https://www.galaxy.com",
+    "market_cap": 11408477184,
+    "pe_ratio": 312.70706,
+    "description": "Galaxy Digital Inc. engages in the digital asset and data centre infrastructure businesses in North America and internationally. It operates through Digital Assets, Data Centers, and Treasury and Corporate segments. The Digital Assets segment provides over-the-counter spot and derivatives trading, lending, and structured products, as well as mergers and acquisitions advisory, and equity and debt capital markets services. This segment also manages investments in the digital assets' ecosystem; and offers blockchain-centric technology and infrastructure solutions, including staking, tokenization, and custodial technology. The Data Centers segment comprises the Helios infrastructure assets. The Treasury and Corporate segment engages in managing a portfolio of digital assets, ventures, private equity, and fund investments, as well as in bitcoin mining operations. It also offers GalaxyOne, a retail financial technology platform designed for individual investors seeking access to traditional and digital markets. The company was founded in 2018 and is headquartered in New York, New York."
+  },
+  "HUT": {
+    "name": "Hut 8 Corp.",
+    "exchange": "NMS",
+    "sector": "Financial Services",
+    "industry": "Capital Markets",
+    "website": "https://www.hut8.com",
+    "market_cap": 13851327488,
+    "pe_ratio": -66.228806,
+    "description": "Hut 8 Corp., together with its subsidiaries, operates as an energy infrastructure platform that integrates power, digital infrastructure, and compute at scale to fuel energy-intensive use cases in the United States and Canada. It operates through Power, Digital Infrastructure, Compute, and Other segments. The company offers managed services for energy infrastructure development, such as site design, procurement, and construction management; software automation, process design, personnel hiring, and team training; utilities contracts, hosting operations, and customer management; energy portfolio optimization and strategic initiatives; and finance, accounting, and safety services. It also engages in the operation of compute infrastructure; and provision, hosting, monitoring, troubleshooting, repair, maintenance, and sale of mining equipment. In addition, the company offers Bitcoin mining; data center and cloud infrastructure services, including colocation services; and ASIC compute, traditional cloud, and AI cloud services. Hut 8 Corp. was founded in 2020 and is based in Miami, Florida."
+  },
+  "STX": {
+    "name": "Seagate Technology Holdings plc",
+    "exchange": "NMS",
+    "sector": "Technology",
+    "industry": "Computer Hardware",
+    "website": "https://www.seagate.com",
+    "market_cap": 203604279296,
+    "pe_ratio": 85.460594,
+    "description": "Seagate Technology Holdings plc engages in the provision of data storage technology and infrastructure solutions in Singapore, the United States, the Netherlands, and internationally. The company offers mass capacity storage products, including enterprise nearline hard disk drives (HDDs), enterprise nearline solid state drives (SSDs), enterprise nearline systems, video and image HDDs, and network-attached storage drives. It also offers legacy applications comprising Mission Critical HDDs and SSDs; external storage solutions under the Seagate Ultra Touch, One Touch, Expansion, and Basics product lines, as well as under the LaCie brand name; desktop drives for personal computers and workstation applications; notebook drives traditional notebooks, convertible systems, and external storage applications, DVR HDDs for video streaming applications, and gaming SSDs for gaming rigs. In addition, the company provides Lyve edge-to-cloud mass capacity platform, that includes modular hardware and software to support enterprises' on-premise and cloud storage infrastructure needs. It sells its products primarily to original equipment manufacturers, distributors, and retailers. The company was fou"
+  },
+  "WDC": {
+    "name": "Western Digital Corporation",
+    "exchange": "NMS",
+    "sector": "Technology",
+    "industry": "Computer Hardware",
+    "website": "https://www.westerndigital.com",
+    "market_cap": 202138845184,
+    "pe_ratio": 35.095753,
+    "description": "Western Digital Corporation develops, manufactures, and sells data storage devices and solutions based on hard disk drive (HDD) technology in the United States, Asia, Europe, the Middle East, and Africa. The company offers internal HDDs, data center drives, data center platforms, external drives, portable drives, NAS for home and office, and accessories. It sells its data storage devices and solutions through its computer manufacturers, sales personnel, dealers, distributors, and retailers. The company has a collaboration with Open Quantum Design for the development of quantum error correction technology and related systems to advance reliable quantum computing. Western Digital Corporation was founded in 1970 and is headquartered in San Jose, California."
+  },
+  "BW": {
+    "name": "Babcock & Wilcox Enterprises, Inc.",
+    "exchange": "NYQ",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "website": "https://www.babcock.com",
+    "market_cap": 2150731264,
+    "pe_ratio": 30.421053,
+    "description": "Babcock & Wilcox Enterprises, Inc., together with its subsidiaries, provides energy and emissions control solutions to industrial, electrical utility, municipal, and other customers in the United States, Canada, the United Kingdom, Indonesia, and the Philippines. The company offers BrightLoop chemical looping technology, which produces steam, hydrogen, or syngas for applications in the energy, industrial, and agricultural sectors. It also provides steam generation equipment, including aftermarket parts, construction, maintenance, and field services; steam generation systems, such as package boilers, watertube and firetube waste heat boilers, and other boilers to medium and heavy industrial customers. The company was founded in 1867 and is headquartered in Akron, Ohio."
+  },
+  "INFY": {
+    "name": "Infosys Limited",
+    "exchange": "NYQ",
+    "sector": "Technology",
+    "industry": "Information Technology Services",
+    "website": "https://www.infosys.com",
+    "market_cap": 43647442944,
+    "pe_ratio": 13.474999,
+    "description": "Infosys Limited provides consulting, technology, outsourcing, and digital services worldwide. It provides digital marketing and digital workplace, digital commerce, digital experience and interactions, and metaverse; data analytics and AI, applied AI, generative AI, and sustainability; blockchain, engineering, and Internet of Things; enterprise agile DevOps, API economy and microservices, application modernization, cloud, digital process automation, digital supply chain, Microsoft business application and cloud business, service experience transformation, energy transition, Network Transformation Services, Infrastructure Services cyber security, and quality engineering solutions; Oracle, SAP, and Saleforce solutions; Topaz, an AI-first set of services, solutions, and platforms using generative AI technologies; and Aster, a set of AI-amplified marketing services, solutions, and platforms. The company also offers Finacle, a core banking solution; Edge suite of products; Panaya platform, Infosys Equinox, Infosys Live Enterprise Suite, Infosys Wingspan, Infosys Helix, Infosys Meridian, Infosys Polycloud, Infosys Cortex, and Stater digital platforms; and Infosys McCamish, an insurance p"
+  },
+  "KRC": {
+    "name": "Kilroy Realty Corporation",
+    "exchange": "NYQ",
+    "sector": "Real Estate",
+    "industry": "REIT - Office",
+    "website": "https://www.kilroyrealty.com",
+    "market_cap": 4466366464,
+    "pe_ratio": 20.786884,
+    "description": "Kilroy Realty Corporation is a leading U.S. landlord and developer, with operations in the San Francisco Bay Area, Los Angeles, Seattle, San Diego, and Austin. The Company has earned global recognition for sustainability, building operations, innovation, and design. As a pioneer and innovator in the creation of a more sustainable real estate industry, the Company's approach to modern business environments helps drive creativity and productivity for some of the world's leading technology, media, life science, and business services companies. The Company is a publicly traded real estate investment trust and member of the S&P MidCap 400 Index with more than seven decades of experience developing, acquiring, and managing office, life science, and mixed-use projects. As of September 30, 2025, Kilroy's stabilized portfolio totaled approximately 16.8 million square feet of primarily office and life science space that was 81.6% occupied and 83.8% leased. The Company also had approximately 1,000 residential units in Hollywood and San Diego, which had a quarterly average occupancy of 94.1%. In addition, the Company had one development project in the tenant improvement phase totaling approxim"
+  },
+  "LBRT": {
+    "name": "Liberty Energy Inc.",
+    "exchange": "NYQ",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "website": "https://www.libertyenergy.com",
+    "market_cap": 4383321600,
+    "pe_ratio": 29.516483,
+    "description": "Liberty Energy Inc.,an integrated energy services and technology company, provides hydraulic fracturing services and related technologies onshore oil, natural gas, and enhanced geothermal exploration and production companies in North America. It offers wireline services, proppant delivery solutions, field gas processing and treating, compressed natural gas (CNG) delivery, data analytics, related goods comprising sand mine operations, and technologies; and proppant handling equipment and logistics software. As of as of December 31, 2025, the company owned and operated a fleet of approximately 40 active hydraulic fracturing; and two sand mines in the Permian Basin. It also provides services primarily in the Permian Basin, the Williston Basin, the Haynesville Shale, the Eagle Ford Shale, the Denver-Julesburg Basin, the Western Canadian Sedimentary Basin, the Powder River Basin, and the Appalachian Basin, as well as in the Anadarko Basin, the Uinta Basin, the San Juan Basin, and the Beetaloo Basin. The company was formerly known as Liberty Oilfield Services Inc. and changed its name to Liberty Energy Inc. in April 2022. Liberty Energy Inc. was founded in 2011 and is headquartered in De"
+  },
+  "PSIX": {
+    "name": "Power Solutions International, Inc.",
+    "exchange": "NCM",
+    "sector": "Industrials",
+    "industry": "Specialty Industrial Machinery",
+    "website": "https://psiengines.com",
+    "market_cap": 875686656,
+    "pe_ratio": 8.575622,
+    "description": "Power Solutions International, Inc. designs, engineers, manufactures, markets, and sells engines and power systems in the United States, the rest of North America, the Pacific Rim, Europe, and internationally. The company offers basic engine blocks integrated with fuel system parts, as well as completely packaged power systems, that include combinations of front accessory drives, cooling systems, electronic systems, air intake systems, fuel systems, housings, power takeoff systems, exhaust systems, hydraulic systems, enclosures, brackets, hoses, tubes, packaging, telematics, and other assembled componentry. It also designs and manufactures large, custom-engineered integrated electrical power generation systems for standby and prime power applications; sells emission-certified compression ignition and spark-ignition internal combustion engines; designs and fabricates power system enclosures; and sources electrification components. In addition, the company provides mobile and stationary gensets for emergency standby, rental, prime power, demand response, microgrid, oil and gas, data center, renewable energy resiliency, and combined heat and power; forklifts, wood chippers, stump grin"
+  },
+  "PUMP": {
+    "name": "ProPetro Holding Corp.",
+    "exchange": "NYQ",
+    "sector": "Energy",
+    "industry": "Oil & Gas Equipment & Services",
+    "website": "https://www.propetroservices.com",
+    "market_cap": 1814731264,
+    "pe_ratio": 35.049496,
+    "description": "ProPetro Holding Corp. operates as an integrated energy services company. It offers hydraulic fracturing, wireline and cementing, other complementary energy completion services, and power generation services to oil and gas producers and non-oil and gas applications, such as general industrial projects and data centers located primarily in Texas and New Mexico. ProPetro Holding Corp. was founded in 2007 and is headquartered in Midland, Texas."
   }
 }
