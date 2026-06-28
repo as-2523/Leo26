@@ -1,5 +1,15 @@
 [
   {
+    "id": "n4d61c041be",
+    "headline": "Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "NVDA"
+    ],
+    "ts": "2026-06-28T02:50:00+00:00",
+    "url": "https://www.fool.com/investing/2026/06/27/tesla-completes-key-ai-chip-milestone-in-its-push/?.tsrc=rss"
+  },
+  {
     "id": "n9aa52194e6",
     "headline": "Capex boom threatens to crowd out buybacks, key equity demand driver",
     "source": "Yahoo Finance",
@@ -488,15 +498,5 @@
     ],
     "ts": "2026-06-26T20:03:18+00:00",
     "url": "https://finance.yahoo.com/m/4502cac3-1011-334f-a373-0fc7ac8d7481/breakout-watch%3A-this-firm.html?.tsrc=rss"
-  },
-  {
-    "id": "n7290a16aac",
-    "headline": "OpenAI Just Signaled It Might Delay Its IPO. AI Stocks Are Tumbling. Is the Bubble Bursting?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "AMD"
-    ],
-    "ts": "2026-06-26T19:23:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/26/openai-just-signaled-it-might-delay-its-ipo-ai-sto/?.tsrc=rss"
   }
 ]
