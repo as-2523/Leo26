@@ -725,8 +725,140 @@ function FilingNotice({ filing, state }) {
   );
 }
 
+// ─── holding detail: 3-month price chart ─────────────────────────
+function PriceChart({ history }) {
+  const W=720, H=240, pad=34;
+  const data = (history||[]).filter(d=>d && d.close!=null);
+  if (data.length < 2) return <div style={{padding:"40px 0",textAlign:"center",color:"var(--text-faint)",fontSize:13}}>No price history available.</div>;
+  const ys = data.map(d=>d.close);
+  const minY = Math.min(...ys), maxY = Math.max(...ys);
+  const x = i => pad + (i/(data.length-1))*(W-2*pad);
+  const y = v => H-pad - ((v-minY)/((maxY-minY)||1))*(H-2*pad);
+  const line = data.map((d,i)=>(i?"L":"M")+x(i).toFixed(1)+" "+y(d.close).toFixed(1)).join(" ");
+  const area = "M"+x(0).toFixed(1)+" "+(H-pad)+" "+data.map((d,i)=>"L"+x(i).toFixed(1)+" "+y(d.close).toFixed(1)).join(" ")+" L"+x(data.length-1).toFixed(1)+" "+(H-pad)+" Z";
+  const up = ys[ys.length-1] >= ys[0];
+  const col = up ? "var(--up)" : "var(--down)";
+  const ticks = [maxY, (maxY+minY)/2, minY];
+  return (
+    <svg viewBox={`0 0 ${W} ${H}`} style={{width:"100%",height:"auto",display:"block"}}>
+      <defs><linearGradient id="pcg" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stopColor={col} stopOpacity="0.28"/><stop offset="100%" stopColor={col} stopOpacity="0"/>
+      </linearGradient></defs>
+      {ticks.map((t,i)=>(
+        <g key={i}>
+          <line x1={pad} x2={W-pad} y1={y(t)} y2={y(t)} stroke="var(--border)" strokeWidth="1" strokeDasharray="3 4"/>
+          <text x={W-pad+4} y={y(t)+3} fill="var(--text-faint)" style={{fontFamily:"var(--mono)",fontSize:10}}>${t.toFixed(0)}</text>
+        </g>
+      ))}
+      <path d={area} fill="url(#pcg)"/>
+      <path d={line} fill="none" stroke={col} strokeWidth="2" strokeLinejoin="round"/>
+      <circle cx={x(data.length-1)} cy={y(ys[ys.length-1])} r="3.5" fill={col}/>
+      <text x={pad} y={H-8} fill="var(--text-faint)" style={{fontFamily:"var(--mono)",fontSize:10}}>{data[0].date}</text>
+      <text x={W-pad} y={H-8} fill="var(--text-faint)" textAnchor="end" style={{fontFamily:"var(--mono)",fontSize:10}}>{data[data.length-1].date}</text>
+    </svg>
+  );
+}
+
+function HoldingDetail({ ticker, securities, news, holdings, fund, onBack }) {
+  const base = ticker.replace(/\.(C|P)$/i,"").replace(/·.*/,"");
+  const sec = securities[base] || securities[ticker] || {};
+  const [price, setPrice] = useState(null);
+  const [pstate, setPstate] = useState("loading"); // loading | loaded | missing
+  useEffect(() => {
+    setPstate("loading"); setPrice(null);
+    fetch(`${BASE}/prices/${base}.json?_=`+Date.now())
+      .then(r => r.ok ? r.json() : Promise.reject(new Error("missing")))
+      .then(j => { setPrice(j); setPstate("loaded"); })
+      .catch(() => setPstate("missing"));
+  }, [base]);
+
+  const items = (Array.isArray(news)?news:(news.items||[]))
+    .filter(n => (n.tickers||[]).includes(base))
+    .slice().sort((a,b)=>new Date(b.ts)-new Date(a.ts));
+  const holding = holdings.find(h => h.ticker===ticker) || holdings.find(h => (h.ticker||"").replace(/\.(C|P)$/i,"")===base);
+  const name = sec.name || (holding && holding.issuer_name) || base;
+  const dchg = price && price.day_change_pct;
+
+  return (
+    <div style={{maxWidth:1100,margin:"0 auto",padding:"22px 20px 60px"}}>
+      <button onClick={onBack} style={{fontFamily:"var(--mono)",fontSize:12,color:"var(--text-dim)",background:"transparent",border:"1px solid var(--border)",borderRadius:7,padding:"6px 12px",cursor:"pointer",marginBottom:18}}>← Back to dashboard</button>
+
+      {/* header */}
+      <div style={{display:"flex",alignItems:"baseline",gap:14,flexWrap:"wrap",marginBottom:4}}>
+        <h1 style={{fontSize:26,margin:0,letterSpacing:"-.01em"}}>{name}</h1>
+        <span style={{fontFamily:"var(--mono)",fontSize:14,color:"var(--accent)",fontWeight:700}}>{base}</span>
+        {holding && (holding.put_call) && <span style={{fontFamily:"var(--mono)",fontSize:11,padding:"2px 8px",borderRadius:5,border:"1px solid var(--border)",color:"var(--text-dim)"}}>{(holding.put_call||"").toUpperCase()}</span>}
+      </div>
+      <div style={{fontFamily:"var(--mono)",fontSize:12,color:"var(--text-dim)",marginBottom:22}}>
+        {[sec.sector, sec.industry, sec.exchange].filter(Boolean).join(" · ") || "—"}
+        {sec.website && <> · <a href={sec.website} target="_blank" rel="noopener noreferrer" style={{color:"var(--accent)"}}>{sec.website.replace(/^https?:\/\/(www\.)?/,"").replace(/\/$/,"")} ↗</a></>}
+      </div>
+
+      <div className="grid2">
+        {/* left: company summary */}
+        <div className="panel">
+          <PanelHead kicker="Company" title="What they do" />
+          <p style={{fontSize:13.5,lineHeight:1.65,color:"var(--text-dim)",margin:"0 0 14px"}}>
+            {sec.description || "No company description available yet — it is populated by the market agent on the next daily refresh."}
+          </p>
+          <div style={{display:"flex",flexWrap:"wrap",gap:"10px 26px",fontSize:12.5}}>
+            {sec.market_cap!=null && <div><div style={{color:"var(--text-faint)",fontFamily:"var(--mono)",fontSize:10.5}}>MARKET CAP</div><div style={{color:"var(--text)",fontWeight:600}}>{fmtM(sec.market_cap)}</div></div>}
+            {sec.pe_ratio!=null && <div><div style={{color:"var(--text-faint)",fontFamily:"var(--mono)",fontSize:10.5}}>P/E</div><div style={{color:"var(--text)",fontWeight:600}}>{Number(sec.pe_ratio).toFixed(1)}</div></div>}
+            {holding && holding.value_usd!=null && <div><div style={{color:"var(--text-faint)",fontFamily:"var(--mono)",fontSize:10.5}}>13F VALUE</div><div style={{color:"var(--text)",fontWeight:600}}>{fmtM(holding.value_usd)}</div></div>}
+            {holding && holding.pct_of_portfolio!=null && <div><div style={{color:"var(--text-faint)",fontFamily:"var(--mono)",fontSize:10.5}}>% OF BOOK</div><div style={{color:"var(--text)",fontWeight:600}}>{Number(holding.pct_of_portfolio).toFixed(1)}%</div></div>}
+          </div>
+        </div>
+
+        {/* right: price chart */}
+        <div className="panel">
+          <PanelHead kicker="Rolling 3 months" title="Stock price"
+            right={price && price.current_price!=null ? (
+              <div style={{textAlign:"right"}}>
+                <div style={{fontSize:18,fontWeight:700}}>${Number(price.current_price).toFixed(2)}</div>
+                {dchg!=null && <div style={{fontFamily:"var(--mono)",fontSize:12,color:dchg>=0?"var(--up)":"var(--down)"}}>{fmtPct(dchg,2)} today</div>}
+              </div>
+            ) : null} />
+          {pstate==="loading" && <div style={{padding:"40px 0",textAlign:"center",color:"var(--text-faint)",fontSize:13}}>Loading price history…</div>}
+          {pstate==="missing" && <div style={{padding:"40px 0",textAlign:"center",color:"var(--text-faint)",fontSize:13}}>No market data for {base}.</div>}
+          {pstate==="loaded" && price && <>
+            <PriceChart history={price.history} />
+            {(price.week_52_high!=null) && <div style={{marginTop:8,fontFamily:"var(--mono)",fontSize:11,color:"var(--text-faint)"}}>52-wk range ${Number(price.week_52_low).toFixed(0)}–${Number(price.week_52_high).toFixed(0)} · as of {fmtDate((price.as_of||"").slice(0,10))}</div>}
+          </>}
+        </div>
+      </div>
+
+      {/* news */}
+      <div className="panel" style={{marginTop:16}}>
+        <PanelHead kicker={`${items.length} recent ${items.length===1?"story":"stories"}`} title={"Latest news · "+base} />
+        {items.length===0
+          ? <div style={{padding:"24px 0",textAlign:"center",color:"var(--text-faint)",fontSize:13}}>No recent coverage for {base}.</div>
+          : <div style={{display:"flex",flexDirection:"column"}}>
+              {items.map(n=>(
+                <a key={n.id} href={n.url} target="_blank" rel="noopener noreferrer" className="feeditem">
+                  <div style={{flex:1,minWidth:0}}>
+                    <div style={{fontSize:13.5,color:"var(--text)",lineHeight:1.45,marginBottom:3}}>{n.headline}</div>
+                    <div style={{fontFamily:"var(--mono)",fontSize:11,color:"var(--text-faint)"}}>{n.source} · {timeAgo(n.ts)}<span style={{marginLeft:8,color:"var(--accent)"}}>open ↗</span></div>
+                  </div>
+                </a>
+              ))}
+            </div>}
+      </div>
+
+      <div style={{marginTop:18,fontFamily:"var(--mono)",fontSize:11,color:"var(--text-faint)",lineHeight:1.6}}>
+        {fund && <>{fund.name} 13F position. </>}Company profile &amp; price via Yahoo Finance · news via NewsAPI / Yahoo Finance RSS. Research, not investment advice.
+      </div>
+    </div>
+  );
+}
+
 function App() {
   const { loading, error, data } = useData();
+  const [route, setRoute] = useState(() => (typeof window!=="undefined" ? window.location.hash : ""));
+  useEffect(() => {
+    const onHash = () => setRoute(window.location.hash);
+    window.addEventListener("hashchange", onHash);
+    return () => window.removeEventListener("hashchange", onHash);
+  }, []);
   const [theme, setTheme] = useState({ theme:"carbon", accent:"#2f6df6", density:"regular" });
   const [search, setSearch] = useState("");
   const [sector, setSector] = useState(null);
@@ -783,6 +915,18 @@ function App() {
 
   const { meta, filings, holdings, changes, alerts, news, securities, ratings } = data;
   const F = meta.fund;
+
+  // ── Holding detail route (#/holding/<TICKER>) ─────────────────────
+  const routeMatch = route.match(/^#\/holding\/(.+)$/);
+  if (routeMatch) {
+    const t = decodeURIComponent(routeMatch[1]);
+    return (
+      <div className="app" style={{...themeVars,background:"var(--bg)",color:"var(--text)",minHeight:"100vh"}}>
+        <HoldingDetail ticker={t} securities={securities} news={news} holdings={holdings}
+          fund={F} onBack={()=>{ window.location.hash=""; }} />
+      </div>
+    );
+  }
 
   // ── Filing selection ──────────────────────────────────────────────
   // selectedFiling drives the header/hero/footer figures. prevFiling is the
@@ -934,7 +1078,7 @@ function App() {
 
           <div className="grid2">
             <div className="panel">
-              <PanelHead kicker="Portfolio allocation" title="Where the book sits"
+              <PanelHead kicker={allocMode==="treemap"?"Portfolio allocation · click a tile for company detail":"Portfolio allocation"} title="Where the book sits"
                 right={
                   <div style={{display:"flex",gap:8,flexWrap:"wrap"}}>
                     {allocMode==="treemap"&&(
@@ -952,7 +1096,7 @@ function App() {
                   </div>
                 } />
               {haveDetail ? <>
-                {allocMode==="treemap"&&<Treemap holdings={displayHoldings} colorMode={colorMode} active={picked} onPick={(c)=>{setPicked(c.ticker);setSearch(c.ticker.replace(".C",""));}}/>}
+                {allocMode==="treemap"&&<Treemap holdings={displayHoldings} colorMode={colorMode} active={picked} onPick={(c)=>{ window.location.hash="#/holding/"+encodeURIComponent(c.ticker); }}/>}
                 {allocMode==="sector"&&<SectorBar holdings={displayHoldings}/>}
                 {allocMode==="donut"&&<Donut holdings={displayHoldings}/>}
                 <Legend mode={allocMode==="treemap"?colorMode:"layer"} />
