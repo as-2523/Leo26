@@ -801,12 +801,16 @@ function App() {
   const displayHoldings = isLatest ? holdings : (histHoldings || []);
   const displayChanges  = isLatest ? changes  : []; // diffs are computed for the latest filing only
 
-  // next filing due = 45 days after the selected filing's quarter-end
+  // next filing due = 45 days after the NEXT quarter-end (the selected filing's
+  // own quarter-end due date has already passed once it's been filed).
   const nextDue = (() => {
     if (isLatest && meta.next_filing_due) return meta.next_filing_due;
     try {
-      const d = new Date(selectedFiling.period_of_report + "T00:00:00");
-      d.setDate(d.getDate() + 45);
+      const [y, m] = selectedFiling.period_of_report.split("-").map(Number);
+      // quarter-ends: 3-31, 6-30, 9-30, 12-31 → next quarter-end
+      const nq = m <= 3 ? [y,6,30] : m <= 6 ? [y,9,30] : m <= 9 ? [y,12,31] : [y+1,3,31];
+      const d = new Date(Date.UTC(nq[0], nq[1]-1, nq[2]));
+      d.setUTCDate(d.getUTCDate() + 45);
       return d.toISOString().slice(0, 10);
     } catch { return meta.next_filing_due; }
   })();
