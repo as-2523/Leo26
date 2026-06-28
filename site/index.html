@@ -844,8 +844,38 @@ function HoldingDetail({ ticker, securities, news, holdings, fund, onBack }) {
             </div>}
       </div>
 
+      {/* SEC filings */}
+      <div className="panel" style={{marginTop:16}}>
+        <PanelHead kicker="EDGAR" title={"SEC filings · "+base} />
+        <div style={{display:"flex",flexDirection:"column",gap:2}}>
+          <a className="feeditem" target="_blank" rel="noopener noreferrer"
+             href={`https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=${encodeURIComponent(base)}&type=&dateb=&owner=include&count=40`}>
+            <div style={{flex:1}}>
+              <div style={{fontSize:13.5,color:"var(--text)"}}>{name} — all SEC filings</div>
+              <div style={{fontFamily:"var(--mono)",fontSize:11,color:"var(--text-faint)"}}>EDGAR company page (10-K, 10-Q, 8-K, …)<span style={{marginLeft:8,color:"var(--accent)"}}>open ↗</span></div>
+            </div>
+          </a>
+          <a className="feeditem" target="_blank" rel="noopener noreferrer"
+             href={"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&type=8-K&owner=include&count=20&CIK="+encodeURIComponent(base)}>
+            <div style={{flex:1}}>
+              <div style={{fontSize:13.5,color:"var(--text)"}}>Recent 8-K material events</div>
+              <div style={{fontFamily:"var(--mono)",fontSize:11,color:"var(--text-faint)"}}>Latest current reports<span style={{marginLeft:8,color:"var(--accent)"}}>open ↗</span></div>
+            </div>
+          </a>
+          {fund && fund.cik && (
+            <a className="feeditem" target="_blank" rel="noopener noreferrer"
+               href={`https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=${encodeURIComponent(fund.cik)}&type=13F&dateb=&owner=include&count=40`}>
+              <div style={{flex:1}}>
+                <div style={{fontSize:13.5,color:"var(--text)"}}>{fund.name} — 13F filings</div>
+                <div style={{fontFamily:"var(--mono)",fontSize:11,color:"var(--text-faint)"}}>The fund's quarterly holdings reports that include this position<span style={{marginLeft:8,color:"var(--accent)"}}>open ↗</span></div>
+              </div>
+            </a>
+          )}
+        </div>
+      </div>
+
       <div style={{marginTop:18,fontFamily:"var(--mono)",fontSize:11,color:"var(--text-faint)",lineHeight:1.6}}>
-        {fund && <>{fund.name} 13F position. </>}Company profile &amp; price via Yahoo Finance · news via NewsAPI / Yahoo Finance RSS. Research, not investment advice.
+        {fund && <>{fund.name} 13F position. </>}Company profile &amp; price via Yahoo Finance · news via NewsAPI / Yahoo Finance RSS · filings via SEC EDGAR. Research, not investment advice.
       </div>
     </div>
   );

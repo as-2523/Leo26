@@ -47,6 +47,101 @@ EDGAR_BASE = "https://data.sec.gov"
 EFTS_BASE  = "https://efts.sec.gov"
 SEC_DELAY  = 0.12             # seconds between EDGAR requests
 
+# ── security resolution ─────────────────────────────────────────────────────────
+# EDGAR's INFORMATION TABLE gives a reliable issuer NAME but no ticker, and CUSIPs
+# vary by share class / option series. We resolve ticker + sector + layer by a
+# distinctive substring of the normalised issuer name. Layers map to the
+# dashboard's LAYERS palette (power/compute/miners/memory/optics/silicon/shorts)
+# so every tile renders with a colour. Keys are matched as substrings, longest
+# first, against the upper-cased issuer name.
+SECURITY_MAP = {
+    "COREWEAVE":              ("CRWV", "Technology", "compute"),
+    "APPLIED DIGITAL":        ("APLD", "Technology", "compute"),
+    "ORACLE":                 ("ORCL", "Technology", "compute"),
+    "VERTIV":                 ("VRT",  "Industrials", "compute"),
+    "INFOSYS":                ("INFY", "Technology", "compute"),
+    "KILROY":                 ("KRC",  "Real Estate", "compute"),
+    "WHITEFIBER":             ("WYFI", "Technology", "compute"),
+    "NVIDIA":                 ("NVDA", "Technology", "silicon"),
+    "ADVANCED MICRO":         ("AMD",  "Technology", "silicon"),
+    "BROADCOM":               ("AVGO", "Technology", "silicon"),
+    "INTEL":                  ("INTC", "Technology", "silicon"),
+    "ASML":                   ("ASML", "Technology", "silicon"),
+    "TAIWAN SEMICONDUCTOR":   ("TSM",  "Technology", "silicon"),
+    "TOWER SEMICONDUCTOR":    ("TSEM", "Technology", "silicon"),
+    "ONTO INNOVATION":        ("ONTO", "Technology", "silicon"),
+    "MICRON":                 ("MU",   "Technology", "memory"),
+    "SANDISK":                ("SNDK", "Technology", "memory"),
+    "WESTERN DIGITAL":        ("WDC",  "Technology", "memory"),
+    "SEAGATE":                ("STX",  "Technology", "memory"),
+    "LUMENTUM":               ("LITE", "Technology", "optics"),
+    "COHERENT":               ("COHR", "Technology", "optics"),
+    "CORNING":                ("GLW",  "Technology", "optics"),
+    "CORE SCIENTIFIC":        ("CORZ", "Technology", "miners"),
+    "IREN":                   ("IREN", "Technology", "miners"),
+    "CIPHER MINING":          ("CIFR", "Technology", "miners"),
+    "CLEANSPARK":             ("CLSK", "Technology", "miners"),
+    "RIOT":                   ("RIOT", "Technology", "miners"),
+    "BITFARMS":               ("BITF", "Technology", "miners"),
+    "BITDEER":                ("BTDR", "Technology", "miners"),
+    "HUT 8":                  ("HUT",  "Technology", "miners"),
+    "GALAXY DIGITAL":         ("GLXY", "Financials", "miners"),
+    "VISTRA":                 ("VST",  "Utilities", "power"),
+    "CONSTELLATION ENERGY":   ("CEG",  "Utilities", "power"),
+    "TALEN ENERGY":           ("TLNE", "Utilities", "power"),
+    "BLOOM ENERGY":           ("BE",   "Industrials", "power"),
+    "SOLARIS ENERGY":         ("SEI",  "Energy", "power"),
+    "LIBERTY ENERGY":         ("LBRT", "Energy", "power"),
+    "PROPETRO":               ("PUMP", "Energy", "power"),
+    "MODINE":                 ("MOD",  "Industrials", "power"),
+    "BABCOCK":                ("BW",   "Industrials", "power"),
+    "POWER SOLUTIONS":        ("PSIX", "Industrials", "power"),
+    "EQT":                    ("EQT",  "Energy", "power"),
+}
+# CUSIP-keyed overrides (e.g. VanEck ETF family — used for the semiconductor shorts).
+CUSIP_OVERRIDE = {
+    "921946703": ("SMH", "ETF", "shorts"),
+    "92189F106": ("SMH", "ETF", "shorts"),
+    "92189F676": ("SMH", "ETF", "shorts"),
+}
+_MAP_KEYS = sorted(SECURITY_MAP, key=len, reverse=True)
+
+
+def resolve_security(issuer_name: str, cusip: str):
+    """Return (ticker, sector, layer) for a holding, or (None, None, None)."""
+    if cusip in CUSIP_OVERRIDE:
+        return CUSIP_OVERRIDE[cusip]
+    name = re.sub(r"[^A-Z0-9 ]", " ", (issuer_name or "").upper())
+    name = re.sub(r"\s+", " ", name).strip()
+    if "VANECK" in name or "SEMICONDUCTOR ETF" in name:
+        return ("SMH", "ETF", "shorts")
+    for key in _MAP_KEYS:
+        if key in name:
+            return SECURITY_MAP[key]
+    return (None, None, None)
+
+
+def enrich_rows(rows: list[dict]) -> list[dict]:
+    """Attach ticker/sector/layer/pct_of_portfolio to parsed holdings using the
+    issuer-name resolver. Options get a .C/.P ticker suffix so stock and option
+    rows on the same underlying stay distinct (and react keys don't collide)."""
+    total = sum(r.get("value_usd", 0) for r in rows) or 0
+    for r in rows:
+        sym, sector, layer = resolve_security(r.get("issuer_name", ""), r.get("cusip", ""))
+        pc = (r.get("put_call") or "").upper()
+        if sym:
+            r["ticker"] = sym + (".C" if pc == "CALL" else ".P" if pc == "PUT" else "")
+            r["sector"] = sector
+            r["layer"]  = layer
+        else:
+            # Unresolved: keep a readable label but flag it so it's obvious.
+            r.setdefault("ticker", r.get("cusip", "?"))
+            r.setdefault("sector", "Unknown")
+            r.setdefault("layer",  "unknown")
+        r["pct_of_portfolio"] = round(r["value_usd"] / total * 100, 2) if total else 0
+        r["verified"] = True
+    return rows
+
 # ── helpers ───────────────────────────────────────────────────────────────────
 
 def _get(url: str, *, as_json: bool = True, retries: int = 4):
@@ -393,20 +488,10 @@ def run(force: bool = False):
             print(f"[edgar] Parsed {len(curr_holdings)} rows from INFORMATION TABLE.")
 
             if curr_holdings:
-                # Merge ticker from existing data (EDGAR XML has issuer name, not ticker)
                 prev_holdings = _read_json(DATA_DIR / "holdings_latest.json") or []
-                cusip_to_ticker = {h["cusip"]: h.get("ticker") for h in prev_holdings if h.get("ticker")}
-                cusip_to_layer  = {h["cusip"]: h.get("layer")  for h in prev_holdings if h.get("layer")}
-                cusip_to_sector = {h["cusip"]: h.get("sector") for h in prev_holdings if h.get("sector")}
-
-                total_value = sum(h["value_usd"] for h in curr_holdings)
-                for h in curr_holdings:
-                    cusip = h["cusip"]
-                    h["ticker"]  = cusip_to_ticker.get(cusip, cusip)
-                    h["layer"]   = cusip_to_layer.get(cusip, "unknown")
-                    h["sector"]  = cusip_to_sector.get(cusip, "Unknown")
-                    h["pct_of_portfolio"] = round(h["value_usd"] / total_value * 100, 2) if total_value else 0
-                    h["verified"] = True   # direct from INFORMATION TABLE XML
+                # Resolve ticker/sector/layer from the issuer name (EDGAR gives a
+                # reliable name but no ticker).
+                enrich_rows(curr_holdings)
 
                 _write_json(DATA_DIR / "holdings_latest.json", curr_holdings)
                 # Archive this filing's holdings so the dashboard's filing-period
@@ -465,9 +550,6 @@ def backfill_history():
     print("[edgar] Backfilling historical holdings …")
     filings_raw = fetch_filing_list()
     cik_num = int(CIK.lstrip("0") or "0")
-    # ticker/layer/sector enrichment map from the latest holdings
-    latest_holdings = _read_json(DATA_DIR / "holdings_latest.json") or []
-    by_cusip = {h["cusip"]: h for h in latest_holdings}
 
     archived = 0
     for raw in filings_raw:
@@ -484,17 +566,31 @@ def backfill_history():
         if not rows:
             print(f"  [edgar] backfill: empty parse for {acc} — skipped", file=sys.stderr)
             continue
-        total = sum(r["value_usd"] for r in rows)
-        for r in rows:
-            ref = by_cusip.get(r["cusip"], {})
-            r["ticker"] = ref.get("ticker", r["cusip"])
-            r["layer"]  = ref.get("layer", "unknown")
-            r["sector"] = ref.get("sector", "Unknown")
-            r["pct_of_portfolio"] = round(r["value_usd"] / total * 100, 2) if total else 0
-            r["verified"] = True
+        enrich_rows(rows)
         _write_json(out_path, rows)
         archived += 1
     print(f"[edgar] Backfill complete — archived {archived} new filing(s).")
+
+
+def reenrich_all():
+    """Re-apply the issuer-name → ticker/sector/layer resolver to every already
+    archived holdings file (and holdings_latest.json) WITHOUT re-fetching EDGAR.
+    Fixes files that were archived before the resolver existed (CUSIP-as-ticker).
+    Idempotent."""
+    print("[edgar] Re-enriching archived holdings …")
+    fixed = 0
+    paths = list((DATA_DIR / "holdings").glob("*.json"))
+    latest = DATA_DIR / "holdings_latest.json"
+    if latest.exists():
+        paths.append(latest)
+    for p in paths:
+        rows = _read_json(p) or []
+        if not rows:
+            continue
+        enrich_rows(rows)
+        _write_json(p, rows)
+        fixed += 1
+    print(f"[edgar] Re-enriched {fixed} holdings file(s).")
 
 
 if __name__ == "__main__":
@@ -502,8 +598,11 @@ if __name__ == "__main__":
     p = argparse.ArgumentParser()
     p.add_argument("--force", action="store_true", help="Re-parse even if filing already processed")
     p.add_argument("--backfill", action="store_true", help="Archive INFORMATION TABLE for all historical filings")
+    p.add_argument("--reenrich", action="store_true", help="Re-apply ticker/sector/layer resolver to archived files")
     args = p.parse_args()
-    if args.backfill:
+    if args.reenrich:
+        reenrich_all()
+    elif args.backfill:
         backfill_history()
     else:
         run(force=args.force)
