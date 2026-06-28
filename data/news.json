@@ -1,5 +1,45 @@
 [
   {
+    "id": "n234bb3606e",
+    "headline": "2 Nvidia-Owned Stocks Investors Should Buy Now",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-06-28T08:45:00+00:00",
+    "url": "https://www.fool.com/investing/2026/06/28/2-nvidia-owned-stocks-investors-should-buy-now/?.tsrc=rss"
+  },
+  {
+    "id": "n9bc64b105a",
+    "headline": "Applied Digital (APLD) Finalizes Electric Service Agreement for Power Supply to Polaris Forge 3",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-06-28T08:18:37+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-apld-finalizes-electric-081837584.html?.tsrc=rss"
+  },
+  {
+    "id": "nc8666c5cfe",
+    "headline": "EQT Corporation (EQT) Is A Part Of A Second \u201c1776,\u201d Says Newsletter",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-06-28T06:48:24+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-corporation-eqt-part-second-064824897.html?.tsrc=rss"
+  },
+  {
+    "id": "n40697884e6",
+    "headline": "Morgan Stanley Cuts Price Target on Vistra (VST). Here is Why",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-06-28T04:56:43+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-cuts-price-target-045643870.html?.tsrc=rss"
+  },
+  {
     "id": "n4d61c041be",
     "headline": "Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry",
     "source": "Yahoo Finance",
@@ -458,45 +498,5 @@
     ],
     "ts": "2026-06-26T21:05:40+00:00",
     "url": "https://www.barchart.com/story/news/3006835/this-analyst-just-upgraded-fuelcell-stock-here-s-why?.tsrc=rss"
-  },
-  {
-    "id": "na6a9e3149f",
-    "headline": "Why Reports of a Delayed OpenAI IPO Are Dragging Down ORCL Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "ORCL"
-    ],
-    "ts": "2026-06-26T20:44:43+00:00",
-    "url": "https://www.barchart.com/story/news/3006385/why-reports-of-a-delayed-openai-ipo-are-dragging-down-orcl-stock?.tsrc=rss"
-  },
-  {
-    "id": "nd41ce7d6a5",
-    "headline": "AI Data Centers In North Dakota? That's No Problem For AAON Stock.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-06-26T20:26:33+00:00",
-    "url": "https://finance.yahoo.com/m/bcd42100-1e49-30f9-a378-8b7e863ba693/ai-data-centers-in-north.html?.tsrc=rss"
-  },
-  {
-    "id": "na8b56d8be1",
-    "headline": "The Real Drivers Behind IWM's Big Return",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-06-26T20:04:40+00:00",
-    "url": "https://www.trefis.com/articles/604739/the-real-drivers-behind-iwms-big-return/2026-06-26?.tsrc=rss"
-  },
-  {
-    "id": "neb3fbad457",
-    "headline": "Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "INTC"
-    ],
-    "ts": "2026-06-26T20:03:18+00:00",
-    "url": "https://finance.yahoo.com/m/4502cac3-1011-334f-a373-0fc7ac8d7481/breakout-watch%3A-this-firm.html?.tsrc=rss"
   }
 ]
