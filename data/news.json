@@ -1,5 +1,15 @@
 [
   {
+    "id": "n9aa52194e6",
+    "headline": "Capex boom threatens to crowd out buybacks, key equity demand driver",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "ORCL"
+    ],
+    "ts": "2026-06-28T02:32:14+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/capex-boom-threatens-crowd-buybacks-023214326.html?.tsrc=rss"
+  },
+  {
     "id": "n15d7c2e634",
     "headline": "Amazon quietly raises price tag on the AI boom",
     "source": "Yahoo Finance",
@@ -488,15 +498,5 @@
     ],
     "ts": "2026-06-26T19:23:00+00:00",
     "url": "https://www.fool.com/investing/2026/06/26/openai-just-signaled-it-might-delay-its-ipo-ai-sto/?.tsrc=rss"
-  },
-  {
-    "id": "nd5e3933ede",
-    "headline": "Oracle Stock Falls After Report Key Partner OpenAI Could Delay IPO",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "ORCL"
-    ],
-    "ts": "2026-06-26T19:11:04+00:00",
-    "url": "https://finance.yahoo.com/m/22358280-d16b-33b0-b669-ec179209c528/oracle-stock-falls-after.html?.tsrc=rss"
   }
 ]
