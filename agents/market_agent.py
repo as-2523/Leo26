@@ -42,21 +42,27 @@ def _write_json(path: Path, obj):
     print(f"  [market] wrote {path.relative_to(DATA_DIR.parent)}")
 
 
+def _base_ticker(t: str) -> str:
+    return (t or "").replace(".C", "").replace(".P", "")
+
+
 def _tickers_from_holdings() -> list[str]:
-    holdings = _read_json(DATA_DIR / "holdings_latest.json") or []
+    """Collect every base ticker held in the latest filing AND any historical
+    quarter (so deep-dive pages for exited positions still get price data)."""
     seen, out = set(), []
-    for h in holdings:
-        raw = (h.get("ticker") or "").replace(".C", "")
-        if raw and raw not in seen:
-            seen.add(raw)
-            out.append(raw)
-    # also add tickers from securities.json
-    secs = _read_json(DATA_DIR / "securities.json") or {}
-    for t in secs:
-        clean = t.replace(".C", "")
-        if clean not in seen:
-            seen.add(clean)
-            out.append(clean)
+
+    def add(t):
+        b = _base_ticker(t)
+        if b and not any(c.isdigit() for c in b) and len(b) <= 5 and b not in seen:
+            seen.add(b); out.append(b)
+
+    files = [DATA_DIR / "holdings_latest.json"]
+    files += sorted((DATA_DIR / "holdings").glob("*.json"))
+    for f in files:
+        for h in (_read_json(f) or []):
+            add(h.get("ticker"))
+    for t in (_read_json(DATA_DIR / "securities.json") or {}):
+        add(t)
     return out
 
 
