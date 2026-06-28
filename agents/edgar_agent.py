@@ -125,22 +125,41 @@ def build_index_url(cik_numeric: str, accession_no: str) -> str:
 
 
 def fetch_info_table_xml(cik_numeric: str, accession_no: str) -> str | None:
-    """Find and fetch the INFORMATION TABLE XML from the filing index."""
-    index_url = f"https://data.sec.gov/Archives/edgar/data/{cik_numeric}/{accession_no}/{accession_no}-index.json"
+    """Find and fetch the INFORMATION TABLE XML from the filing index.
+
+    The filing directory listing lives on www.sec.gov (NOT data.sec.gov, which
+    only serves /submissions and /api). The JSON listing is at
+    .../{accession_nodash}/index.json and has the shape
+    {"directory": {"item": [{"name": "...", "type": "...", "size": "..."}]}}.
+    The INFORMATION TABLE is an .xml file that is NOT primary_doc.xml; we prefer
+    names hinting at the info table, then the largest remaining .xml.
+    """
+    base = f"https://www.sec.gov/Archives/edgar/data/{cik_numeric}/{accession_no}"
     try:
-        index = _get(index_url)
-        for doc in index.get("documents", []):
-            doc_type = (doc.get("type") or "").strip()
-            name = (doc.get("documentName") or "").lower()
-            if doc_type == "INFORMATION TABLE" or (name.endswith(".xml") and "infotable" in name.lower()):
-                doc_url = f"https://www.sec.gov/Archives/edgar/data/{cik_numeric}/{accession_no}/{doc['documentName']}"
-                return _get(doc_url, as_json=False)
-            # some filings list .xml files with type "13F-HR/A" etc.
-        # fallback: look for any .xml in the index
-        for doc in index.get("documents", []):
-            if (doc.get("documentName") or "").lower().endswith(".xml"):
-                doc_url = f"https://www.sec.gov/Archives/edgar/data/{cik_numeric}/{accession_no}/{doc['documentName']}"
-                return _get(doc_url, as_json=False)
+        index = _get(f"{base}/index.json")
+        items = (index.get("directory", {}) or {}).get("item", []) or []
+        xmls = [it for it in items if (it.get("name") or "").lower().endswith(".xml")]
+
+        def fetch(name):
+            return _get(f"{base}/{name}", as_json=False)
+
+        # 1. explicit info-table naming
+        for it in xmls:
+            n = (it.get("name") or "").lower()
+            if any(tag in n for tag in ("infotable", "form13finfotable", "info_table", "table")):
+                return fetch(it["name"])
+        # 2. any .xml that isn't the primary 13F cover document, largest first
+        candidates = [it for it in xmls if (it.get("name") or "").lower() != "primary_doc.xml"]
+        if not candidates:
+            candidates = xmls
+        def size_of(it):
+            try:
+                return int(it.get("size") or 0)
+            except (TypeError, ValueError):
+                return 0
+        candidates.sort(key=size_of, reverse=True)
+        if candidates:
+            return fetch(candidates[0]["name"])
     except Exception as exc:
         print(f"  [edgar] could not fetch info table: {exc}", file=sys.stderr)
     return None

@@ -21,6 +21,17 @@ def _write_json(path: Path, obj):
     path.write_text(json.dumps(obj, indent=2, default=str))
 
 
+def next_quarter_end(d: date) -> date:
+    """Given a calendar quarter-end date, return the following quarter-end."""
+    if d.month <= 3:
+        return date(d.year, 6, 30)
+    if d.month <= 6:
+        return date(d.year, 9, 30)
+    if d.month <= 9:
+        return date(d.year, 12, 31)
+    return date(d.year + 1, 3, 31)
+
+
 def update_meta(edgar_ok: bool, market_ok: bool, news_ok: bool):
     meta_path = DATA_DIR / "meta.json"
     meta = {}
@@ -29,7 +40,8 @@ def update_meta(edgar_ok: bool, market_ok: bool, news_ok: bool):
 
     now = datetime.now(timezone.utc).isoformat()
 
-    # read next_filing_due from filings.json if available
+    # next 13F is due 45 days after the NEXT quarter-end (not the latest filing's
+    # own quarter-end — that due date has already passed once it's filed).
     filings_path = DATA_DIR / "filings.json"
     next_due = meta.get("next_filing_due")
     if filings_path.exists():
@@ -40,7 +52,7 @@ def update_meta(edgar_ok: bool, market_ok: bool, news_ok: bool):
             if period:
                 try:
                     q_end = date.fromisoformat(period)
-                    next_due = (q_end + timedelta(days=45)).isoformat()
+                    next_due = (next_quarter_end(q_end) + timedelta(days=45)).isoformat()
                 except ValueError:
                     pass
 
