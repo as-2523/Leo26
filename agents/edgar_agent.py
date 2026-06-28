@@ -212,8 +212,12 @@ def parse_info_table(xml_text: str) -> list[dict]:
     """Parse 13F INFORMATION TABLE XML into a list of holdings dicts."""
     if not xml_text:
         return []
-    # strip namespaces for easier parsing
+    # Strip namespaces for easier parsing: remove the xmlns declarations AND the
+    # namespace prefixes on tags (e.g. <ns1:infoTable> → <infoTable>). Removing
+    # only the declarations leaves the prefixes unbound, which makes ElementTree
+    # raise "unbound prefix" — the bug that silently emptied every backfill.
     clean = _NS_RE.sub("", xml_text)
+    clean = re.sub(r'(<\s*/?\s*)[A-Za-z_][\w.-]*:', r'\1', clean)
     try:
         root = ET.fromstring(clean)
     except ET.ParseError as exc:
