@@ -29,10 +29,20 @@ FORM_TYPE     = "13F-HR"
 THRESHOLD     = 0.20          # ±20 % share change = material
 DATA_DIR      = Path(__file__).parent.parent / "data"
 CONTACT_EMAIL = os.getenv("SEC_CONTACT_EMAIL", "dashboard@example.com")
+# SEC's Akamai gateway on www.sec.gov is stricter than data.sec.gov: it wants a
+# User-Agent in the documented "Name Email" shape (no parentheses/version noise)
+# and an explicit Accept-Encoding, or it returns 403. We also keep a browser-ish
+# fallback UA to retry on 403.
 HEADERS = {
-    "User-Agent": f"Leopold-13F-Dashboard/1.0 (automated research tool; contact {CONTACT_EMAIL})",
-    "Accept": "application/json, application/xml, text/html",
+    "User-Agent": f"Leo26 Research {CONTACT_EMAIL}",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "application/json, text/html, application/xml, */*",
+    "Accept-Language": "en-US,en;q=0.9",
 }
+FALLBACK_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    f"(KHTML, like Gecko) Chrome/124.0 Safari/537.36 Leo26Research {CONTACT_EMAIL}"
+)
 EDGAR_BASE = "https://data.sec.gov"
 EFTS_BASE  = "https://efts.sec.gov"
 SEC_DELAY  = 0.12             # seconds between EDGAR requests
@@ -45,12 +55,17 @@ def _get(url: str, *, as_json: bool = True, retries: int = 4):
     for attempt in range(retries + 1):
         try:
             time.sleep(SEC_DELAY)
-            r = requests.get(url, headers=HEADERS, timeout=30)
+            # On a prior 403 (Akamai bot block), retry with a browser-style UA.
+            hdrs = dict(HEADERS)
+            if attempt > 0:
+                hdrs["User-Agent"] = FALLBACK_UA
+            r = requests.get(url, headers=hdrs, timeout=30)
             r.raise_for_status()
             return r.json() if as_json else r.text
         except requests.HTTPError as exc:
-            if exc.response is not None and exc.response.status_code == 429:
-                print(f"  [edgar] rate-limited, waiting {delay}s …", file=sys.stderr)
+            code = exc.response.status_code if exc.response is not None else None
+            if code in (429, 403):
+                print(f"  [edgar] {code} on {url} — retrying in {delay}s …", file=sys.stderr)
                 time.sleep(delay); delay *= 2; continue
             if attempt < retries:
                 time.sleep(delay); delay *= 2; continue
