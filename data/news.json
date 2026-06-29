@@ -1,5 +1,165 @@
 [
   {
+    "id": "n0b897d1ca5",
+    "headline": "FuelCell Energy Stock Breaks Out Bullishly On Government Financing. Bloom Energy Rebounds.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-06-29T16:58:55+00:00",
+    "url": "https://finance.yahoo.com/m/36ae8a25-bf61-3fad-b19a-fd5fa38740b2/fuelcell-energy-stock-breaks.html?.tsrc=rss"
+  },
+  {
+    "id": "nf0c66cedb1",
+    "headline": "CoreWeave Price Prediction: The Case for 70% Upside",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-06-29T16:46:29+00:00",
+    "url": "https://247wallst.com/investing/2026/06/29/coreweave-price-prediction-the-case-for-70-upside/?.tsrc=rss"
+  },
+  {
+    "id": "n4ebf37e2bc",
+    "headline": "The 'Time To Power' Signal The Market Missed In Bloom Energy Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-06-29T16:18:51+00:00",
+    "url": "https://www.trefis.com/articles/604947/the-time-to-power-signal-the-market-missed-in-bloom-energy-stock/2026-06-29?.tsrc=rss"
+  },
+  {
+    "id": "n78b93bb5d2",
+    "headline": "Vistra or Public Service Enterprise: Which Utility Stock Stands Out?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-06-29T15:54:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-public-enterprise-utility-stock-155400277.html?.tsrc=rss"
+  },
+  {
+    "id": "n9d456b8e68",
+    "headline": "FuelCell Energy Is Up 17% Today: Is It Outperforming Other Fuel-Cell Stocks Like Plug Power and Bloom Energy?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-06-29T14:26:48+00:00",
+    "url": "https://247wallst.com/investing/2026/06/29/fuelcell-energy-is-up-17-today-is-it-outperforming-other-fuel-cell-stocks-like-plug-power-and-bloom-energy/?.tsrc=rss"
+  },
+  {
+    "id": "ncf5c2179ab",
+    "headline": "CoreWeave Collaborates With Conapto to Expand Sweden AI Cloud Capacity",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-06-29T14:22:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-collaborates-conapto-expand-sweden-142200890.html?.tsrc=rss"
+  },
+  {
+    "id": "n47fda6fed8",
+    "headline": "Up 275% This Year: Is It Too Late to Buy Bloom Energy Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-06-29T13:50:00+00:00",
+    "url": "https://www.fool.com/investing/2026/06/29/up-280-is-it-too-late-to-buy-bloom-energy-stock/?.tsrc=rss"
+  },
+  {
+    "id": "ne73451124e",
+    "headline": "Adobe downgraded, Roblox upgraded: Wall Street's top analyst calls",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-06-29T13:44:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-downgraded-roblox-upgraded-wall-134400216.html?.tsrc=rss"
+  },
+  {
+    "id": "n7cf9b98245",
+    "headline": "Are Oils-Energy Stocks Lagging  Alvopetro Energy (ALVOF) This Year?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-06-29T13:40:07+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/oils-energy-stocks-lagging-alvopetro-134007383.html?.tsrc=rss"
+  },
+  {
+    "id": "ne8a46fd9d9",
+    "headline": "How Does Nebius AI Cloud 3.6 Strengthen Its AI Cloud Advantage?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-06-29T13:33:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/does-nebius-ai-cloud-3-133300443.html?.tsrc=rss"
+  },
+  {
+    "id": "n4288b9770c",
+    "headline": "Sector Update: Tech Stocks Rise Premarket Monday",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-06-29T13:14:55+00:00",
+    "url": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-rise-premarket-131455978.html?.tsrc=rss"
+  },
+  {
+    "id": "n393a480eb0",
+    "headline": "CoreWeave ARIA Launches as an AI Research and Iteration Agent with autonomous research and collaborative intelligence",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-06-29T12:00:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-aria-launches-ai-research-120000756.html?.tsrc=rss"
+  },
+  {
+    "id": "nd618d687b4",
+    "headline": "CoreWeave (CRWV) Secures $99 Billion Backlog With Nvidia, Meta, Microsoft And OpenAI",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-06-28T22:06:13+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-secures-99-billion-220613159.html?.tsrc=rss"
+  },
+  {
+    "id": "n4acba7ef19",
+    "headline": "Nancy Pelosi Has Added These 9 Stocks To Her Portfolio Since 2025, Including Three Magnificent Seven Names",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-06-28T15:31:09+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-added-9-stocks-153109696.html?.tsrc=rss"
+  },
+  {
+    "id": "nc1e0570a7c",
+    "headline": "The Ultimate AI Power Supercycle Winner: NextEra Energy or Vistra Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-06-28T15:27:28+00:00",
+    "url": "https://www.fool.com/coverage/better-buy/2026/06/28/the-ultimate-ai-power-supercycle-winner-nextera-energy-or-vistra-stock/?.tsrc=rss"
+  },
+  {
+    "id": "n5d1966470d",
+    "headline": "Will AI Power Demand, Debt Cuts and Moody\u2019s Upgrade Change EQT's (EQT) Risk\u2011Reward Narrative?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-06-28T14:05:38+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/ai-power-demand-debt-cuts-140538475.html?.tsrc=rss"
+  },
+  {
     "id": "n234bb3606e",
     "headline": "2 Nvidia-Owned Stocks Investors Should Buy Now",
     "source": "Yahoo Finance",
@@ -338,165 +498,5 @@
     ],
     "ts": "2026-06-27T04:28:10+00:00",
     "url": "https://finance.yahoo.com/technology/ai/articles/did-hyperscalers-1q26-042810607.html?.tsrc=rss"
-  },
-  {
-    "id": "n4328b8f986",
-    "headline": "3 Beaten-Down AI Chip Stocks to Consider Buying in the Sell-Off",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "INTC"
-    ],
-    "ts": "2026-06-27T03:50:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/26/3-beaten-down-ai-chip-stocks-to-consider-buying-in/?.tsrc=rss"
-  },
-  {
-    "id": "ne02cc78739",
-    "headline": "Oracle (ORCL) Expands Into Defense And Healthcare With New AI Partnerships",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "ORCL"
-    ],
-    "ts": "2026-06-27T03:09:33+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-expands-defense-healthcare-030933364.html?.tsrc=rss"
-  },
-  {
-    "id": "n6c693bf5db",
-    "headline": "What Analog Devices Stock Was Saying By Intentionally Selling Less",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "AVGO"
-    ],
-    "ts": "2026-06-27T01:37:28+00:00",
-    "url": "https://www.trefis.com/articles/604730/what-analog-devices-stock-was-saying-by-intentionally-selling-less/2026-06-26?.tsrc=rss"
-  },
-  {
-    "id": "n32a721dc4e",
-    "headline": "AMD\u2019s stock buybacks explained: History, balance & outlook",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "AMD"
-    ],
-    "ts": "2026-06-27T01:11:57+00:00",
-    "url": "https://www.thestreet.com/investing/stocks/amd-stock-buybacks?.tsrc=rss"
-  },
-  {
-    "id": "ne4f8bb9a49",
-    "headline": "OpenAI Is Building Its Own AI Chip With Broadcom. Should Nvidia Investors Be Worried?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "AVGO"
-    ],
-    "ts": "2026-06-26T23:12:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/26/openai-is-building-its-own-ai-chip-with-broadcom-s/?.tsrc=rss"
-  },
-  {
-    "id": "n12dff77ad4",
-    "headline": "Nvidia and Broadcom Both Offer AI Exposure and Dividends. Barchart Data Helps Pick the Best Stock to Buy Now.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "AVGO"
-    ],
-    "ts": "2026-06-26T23:00:02+00:00",
-    "url": "https://www.barchart.com/story/news/3008256/nvidia-and-broadcom-both-offer-ai-exposure-and-dividends-barchart-data-helps-pick-the-best-stock-to-buy-now?.tsrc=rss"
-  },
-  {
-    "id": "n7feacd86a7",
-    "headline": "S&P 500, Nasdaq End Week Lower As Investors Rotate Out Of Tech, AI Plays \u2014 ON, AAPL, SLS, INFQ, NKE in Focus",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SMH"
-    ],
-    "ts": "2026-06-26T22:34:47+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-week-lower-as-investors-rotate-out-of-tech-ai-plays-on-aapl-sls-infq-nke-in-focus/cZ12ck9R7W9?.tsrc=rss"
-  },
-  {
-    "id": "n7e2907a579",
-    "headline": "What If The Real Power Behind Marvell Stock Isn't Just Growth?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "AVGO"
-    ],
-    "ts": "2026-06-26T22:21:00+00:00",
-    "url": "https://www.trefis.com/articles/604735/what-if-the-real-power-behind-marvell-stock-isnt-just-growth/2026-06-26?.tsrc=rss"
-  },
-  {
-    "id": "nef7641be5e",
-    "headline": "Bloom Energy (BE) Stock After Steep Pullback And Strong Multi Year Rally",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-06-26T22:08:44+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-steep-pullback-220844900.html?.tsrc=rss"
-  },
-  {
-    "id": "nb02db338eb",
-    "headline": "AI Power Stocks Could Be a Once-in-a-Generation Trade. Start With the Companies Behind Every Data Center.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "AMD"
-    ],
-    "ts": "2026-06-26T22:01:23+00:00",
-    "url": "https://www.barchart.com/story/news/3007643/ai-power-stocks-could-be-a-once-in-a-generation-trade-start-with-the-companies-behind-every-data-center?.tsrc=rss"
-  },
-  {
-    "id": "n25cd75e1fc",
-    "headline": "Bloom Energy (BE) Dips More Than Broader Market: What You Should Know",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-06-26T22:00:02+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-dips-more-broader-220002371.html?.tsrc=rss"
-  },
-  {
-    "id": "nb9ac4ba68c",
-    "headline": "Does Constellation Energy Stock Add A Different Kind of Risk?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-06-26T21:53:00+00:00",
-    "url": "https://www.trefis.com/articles/604061/does-constellation-energy-stock-add-a-different-kind-of-risk/2026-06-26?.tsrc=rss"
-  },
-  {
-    "id": "n037b67657a",
-    "headline": "ASML (ASML) Declines More Than Market: Some Information for Investors",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "ASML"
-    ],
-    "ts": "2026-06-26T21:45:02+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/asml-asml-declines-more-market-214502722.html?.tsrc=rss"
-  },
-  {
-    "id": "n6087f18033",
-    "headline": "Intel (INTC) Lands Kontron Partnership For Core Ultra Edge AI Systems",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "INTC"
-    ],
-    "ts": "2026-06-26T21:08:49+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-lands-kontron-partnership-210849771.html?.tsrc=rss"
-  },
-  {
-    "id": "n3d90f88bfc",
-    "headline": "Why Bloom Energy (BE) Is Down 6.0% After AI Power Hype Cools Amid New Competition",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-06-26T21:08:29+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-down-6-210829018.html?.tsrc=rss"
-  },
-  {
-    "id": "n8b5128586e",
-    "headline": "This Analyst Just Upgraded FuelCell Stock. Here's Why.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-06-26T21:05:40+00:00",
-    "url": "https://www.barchart.com/story/news/3006835/this-analyst-just-upgraded-fuelcell-stock-here-s-why?.tsrc=rss"
   }
 ]
