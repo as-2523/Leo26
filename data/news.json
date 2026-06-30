@@ -1,5 +1,105 @@
 [
   {
+    "id": "n1f0e70bd41",
+    "headline": "3 High-Flying Stocks We Steer Clear Of",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-06-30T12:59:01+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-high-flying-stocks-steer-125901886.html?.tsrc=rss"
+  },
+  {
+    "id": "nc0d6dd2d6e",
+    "headline": "Applied Digital (APLD) Joins Russell 1000 As Its Market Profile Shifts",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-06-29T23:11:51+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-joins-russell-231151907.html?.tsrc=rss"
+  },
+  {
+    "id": "n324b61b71a",
+    "headline": "Why Solaris Energy Infrastructure (SEI) Stock Is Up Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-06-29T21:54:15+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/why-solaris-energy-infrastructure-sei-215415934.html?.tsrc=rss"
+  },
+  {
+    "id": "nd37bba619b",
+    "headline": "Applied Digital CEO: AI Industry Will See \u201cPretty Significant Delays Through 2026 and 2027\u201d",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-06-29T21:45:28+00:00",
+    "url": "https://247wallst.com/investing/2026/06/29/applied-digital-ceo-ai-industry-will-see-pretty-significant-delays-through-2026-and-2027/?.tsrc=rss"
+  },
+  {
+    "id": "nce41b02ee1",
+    "headline": "FuelCell Energy Stock Breaks Out Bullishly On Debt Financing Deal",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-06-29T20:17:11+00:00",
+    "url": "https://finance.yahoo.com/m/36ae8a25-bf61-3fad-b19a-fd5fa38740b2/fuelcell-energy-stock-breaks.html?.tsrc=rss"
+  },
+  {
+    "id": "naea8e72ec2",
+    "headline": "'Who Are These Lunatics?' CoreWeave's Credit Approach Gets A Pep Talk From The 'Dean Of Valuation'",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-06-29T19:31:04+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/lunatics-coreweaves-credit-approach-gets-193104481.html?.tsrc=rss"
+  },
+  {
+    "id": "n4672ec7935",
+    "headline": "Tesla\u2019s 10% Weight in ARKK Sets Up a Make-or-Break Year for the Innovation ETF",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-06-29T18:55:44+00:00",
+    "url": "https://247wallst.com/investing/2026/06/29/teslas-10-weight-in-arkk-sets-up-a-make-or-break-year-for-the-innovation-etf/?.tsrc=rss"
+  },
+  {
+    "id": "n006518a3ce",
+    "headline": "Is Applied Digital Corporation (APLD) A Good Stock To Buy Now?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-06-29T18:22:13+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-corporation-apld-good-182213882.html?.tsrc=rss"
+  },
+  {
+    "id": "n56dd07c7c2",
+    "headline": "Vistra (VST) Buys Cogentrix For $4 Billion And Locks In Meta And AWS Deals",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-06-29T18:08:17+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/vistra-vst-buys-cogentrix-4-180817743.html?.tsrc=rss"
+  },
+  {
+    "id": "n77a1214dfa",
+    "headline": "CoreWeave Dives After a Massive Rally. Here\u2019s Why You Should Stay Cautious on CRWV Stock.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-06-29T17:22:35+00:00",
+    "url": "https://www.barchart.com/story/news/3037536/coreweave-dives-after-a-massive-rally-heres-why-you-should-stay-cautious-on-crwv-stock?.tsrc=rss"
+  },
+  {
     "id": "n0b897d1ca5",
     "headline": "FuelCell Energy Stock Breaks Out Bullishly On Government Financing. Bloom Energy Rebounds.",
     "source": "Yahoo Finance",
@@ -398,105 +498,5 @@
     ],
     "ts": "2026-06-27T15:22:00+00:00",
     "url": "https://www.thestreet.com/investing/stocks/amd-dividends?.tsrc=rss"
-  },
-  {
-    "id": "n20c156c7ef",
-    "headline": "Broadcom and OpenAI Just Unveiled the New Jalape\u00f1o AI Chip. What That Means for AVGO Stock.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "AVGO"
-    ],
-    "ts": "2026-06-27T14:00:02+00:00",
-    "url": "https://www.barchart.com/story/news/3014218/broadcom-and-openai-just-unveiled-the-new-jalapeno-ai-chip-what-that-means-for-avgo-stock?.tsrc=rss"
-  },
-  {
-    "id": "neebf72ef8d",
-    "headline": "Forget the AI Chipmakers. For 0.47% This Fund Owns the Companies Building the Data Centers",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SMH"
-    ],
-    "ts": "2026-06-27T13:23:45+00:00",
-    "url": "https://247wallst.com/investing/2026/06/27/forget-the-ai-chipmakers-for-0-47-this-fund-owns-the-companies-building-the-data-centers/?.tsrc=rss"
-  },
-  {
-    "id": "n5c45cd0c33",
-    "headline": "The Insane Number HPE\u2019s CEO Just Threw Out Shows Why Bloom Energy Is a Buy Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-06-27T11:51:23+00:00",
-    "url": "https://247wallst.com/investing/2026/06/27/the-insane-number-hpes-ceo-just-threw-out-shows-why-bloom-energy-is-a-buy-today/?.tsrc=rss"
-  },
-  {
-    "id": "nf63f9225fb",
-    "headline": "Nvidia Owns This Under-the-Radar $20 Stock Poised to Disrupt a $1.8 Trillion Market",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "NVDA"
-    ],
-    "ts": "2026-06-27T11:43:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/27/nvidia-owns-under-radar-stock-trillion-market-genb/?.tsrc=rss"
-  },
-  {
-    "id": "nf52dcce601",
-    "headline": "The Vanguard ETF Built for Investors Who Want Dividends That Actually Grow",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "NVDA"
-    ],
-    "ts": "2026-06-27T11:31:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/27/the-vanguard-etf-built-for-investors-who-want-divi/?.tsrc=rss"
-  },
-  {
-    "id": "n7082f9b65f",
-    "headline": "SpaceX vs. Tesla: Here's Which Elon Musk Stock I'd Buy Right Now",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "NVDA"
-    ],
-    "ts": "2026-06-27T11:27:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/27/spacex-vs-tesla-heres-which-elon-musk-stock-id-buy/?.tsrc=rss"
-  },
-  {
-    "id": "nd4f0b528fd",
-    "headline": "NVIDIA (NVDA) Launches BioNeMo Agent Toolkit to Accelerate AI-Driven Scientific Discovery in Life Sciences",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "NVDA"
-    ],
-    "ts": "2026-06-27T11:21:42+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-launches-bionemo-agent-112142349.html?.tsrc=rss"
-  },
-  {
-    "id": "nfcafe68ff2",
-    "headline": "With Just 6 Words, Fed Chair Kevin Warsh Demolished Expectations. \"It's Hard to Believe,\" Says President Trump.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "NVDA"
-    ],
-    "ts": "2026-06-27T11:20:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/27/with-just-six-words-fed-chair-kevin-warsh-demolish/?.tsrc=rss"
-  },
-  {
-    "id": "ncddfdbc4d8",
-    "headline": "2 Artificial Intelligence (AI) Stocks to Buy as Demand for Custom Chips Soars",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "AVGO"
-    ],
-    "ts": "2026-06-27T10:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/27/2-artificial-intelligence-ai-stocks-to-buy-as-dema/?.tsrc=rss"
-  },
-  {
-    "id": "ne22b27fc30",
-    "headline": "How did the hyperscalers do in 1Q26?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "ORCL"
-    ],
-    "ts": "2026-06-27T04:28:10+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/did-hyperscalers-1q26-042810607.html?.tsrc=rss"
   }
 ]
