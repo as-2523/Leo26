@@ -1,19 +1,11 @@
 {
   "ticker": "AVGO",
-  "current_price": 372.45,
-  "prev_close": 365.02,
-  "day_change_pct": 2.04,
+  "current_price": 377.75,
+  "prev_close": 372.45,
+  "day_change_pct": 1.42,
   "week_52_high": 495.0,
   "week_52_low": 262.66,
   "history": [
-    {
-      "date": "2026-02-19",
-      "open": 331.7878,
-      "high": 337.1978,
-      "low": 328.47,
-      "close": 332.7642,
-      "volume": 15180900
-    },
     {
       "date": "2026-02-20",
       "open": 331.1402,
@@ -724,9 +716,17 @@
       "high": 376.21,
       "low": 360.46,
       "close": 372.45,
-      "volume": 24253100
+      "volume": 24285200
+    },
+    {
+      "date": "2026-06-30",
+      "open": 374.79,
+      "high": 379.62,
+      "low": 370.64,
+      "close": 377.75,
+      "volume": 28487200
     }
   ],
-  "as_of": "2026-06-30T13:28:24.336102+00:00",
+  "as_of": "2026-07-01T10:30:20.306931+00:00",
   "stale": false
 }
