@@ -19,3 +19,7 @@ Thumbs.db
 # Secrets (never commit these)
 .env.local
 secrets.json
+
+# Node (local tooling only)
+node_modules/
+package-lock.json
