@@ -1,5 +1,165 @@
 [
   {
+    "id": "n94475c6d78",
+    "headline": "Morgan Stanley Lowers its Price Target on EQT Corporation (EQT)",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-02T08:50:02+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-lowers-price-target-085002054.html?.tsrc=rss"
+  },
+  {
+    "id": "na78f61b93d",
+    "headline": "Here is What Analysts Think About Vistra Corp. (VST)",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-02T08:49:55+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-think-vistra-corp-vst-084955115.html?.tsrc=rss"
+  },
+  {
+    "id": "ne222a0a4f7",
+    "headline": "SoftBank Plans AI Cloud Services in US to Tap Surging Demand",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-02T07:31:06+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/softbank-plans-ai-cloud-services-073106168.html?.tsrc=rss"
+  },
+  {
+    "id": "nf4ea6c337d",
+    "headline": "CoreWeave (CRWV) Is Down 15.1% After Meta Weighs Selling Excess AI Compute Capacity \u2013 What's Changed",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-02T04:30:06+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-down-15-1-043006556.html?.tsrc=rss"
+  },
+  {
+    "id": "nf02a3030ab",
+    "headline": "Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-02T03:11:08+00:00",
+    "url": "https://finance.yahoo.com/m/da65a433-b7ba-3b63-9c9d-2ae1f8f32381/dow-jones-futures%3A-techs-rise.html?.tsrc=rss"
+  },
+  {
+    "id": "n2f3250d6c4",
+    "headline": "5 Under-the-Radar Stocks Fueling the AI Revolution",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-02T00:00:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/5-under-radar-stocks-fueling-000000653.html?.tsrc=rss"
+  },
+  {
+    "id": "ndf2d681f39",
+    "headline": "The Neocloud Trade Could Turn Shareholders Into Bagholders. Nebius Just Cratered 17%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-01T23:17:58+00:00",
+    "url": "https://247wallst.com/investing/2026/07/01/the-neocloud-trade-could-turn-shareholders-into-bagholders-nebius-just-cratered-17/?.tsrc=rss"
+  },
+  {
+    "id": "n1fef2a3bad",
+    "headline": "Bloom Energy Stock Is Priced For A Perfect Future, But Is Its AI Power Play Just Beginning?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-01T22:57:27+00:00",
+    "url": "https://www.trefis.com/articles/605357/bloom-energy-stock-is-priced-for-a-perfect-future-but-is-its-ai-power-play-just-beginning/2026-07-01?.tsrc=rss"
+  },
+  {
+    "id": "n62c912dbc0",
+    "headline": "Applied Digital (APLD): One of the Top Hot Stocks with the Highest Upside Potential",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-01T21:22:31+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-one-top-212231289.html?.tsrc=rss"
+  },
+  {
+    "id": "n1cad758fd6",
+    "headline": "Stock Market Today: Nasdaq Ends Lower As Chip Names Dive; Meta Soars On This News",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-01T20:59:51+00:00",
+    "url": "https://finance.yahoo.com/m/c95fae43-e749-3a70-bc9b-0eb64c0790c9/stock-market-today%3A-nasdaq.html?.tsrc=rss"
+  },
+  {
+    "id": "n6034ea3c2d",
+    "headline": "Brookfield and Bloom Energy Expanded Their AI Power Partnership to $25 Billion. Here's What Investors Need to Know.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-01T19:20:01+00:00",
+    "url": "https://www.fool.com/investing/2026/07/01/brookfield-and-bloom-energy-expanded-their-ai-power-partnership-to-25-billion-heres-what-investors-need-to-know/?.tsrc=rss"
+  },
+  {
+    "id": "ncf98d288d4",
+    "headline": "Price Prediction: We\u2019re Bearish on Bloom Energy and See Shares Falling",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-01T17:55:09+00:00",
+    "url": "https://247wallst.com/investing/2026/07/01/price-prediction-were-bearish-on-bloom-energy-and-see-shares-falling/?.tsrc=rss"
+  },
+  {
+    "id": "ne07cb954d3",
+    "headline": "Oracle Just Became an AI Cloud Powerhouse. Here Are 5 Under-the-Radar Stocks Along for the Ride",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-01T17:01:40+00:00",
+    "url": "https://247wallst.com/investing/2026/07/01/oracle-just-became-an-ai-cloud-powerhouse-here-are-5-under-the-radar-stocks-along-for-the-ride/?.tsrc=rss"
+  },
+  {
+    "id": "n06cd84934a",
+    "headline": "Applied Digital Delivers Second Building at Polaris Forge 1",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-01T17:00:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-delivers-second-building-170000050.html?.tsrc=rss"
+  },
+  {
+    "id": "n5a02544738",
+    "headline": "Why investors should 'complement' their SpaceX ETFs with these other themes",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-01T15:28:31+00:00",
+    "url": "https://finance.yahoo.com/video/why-investors-should-complement-their-spacex-etfs-with-these-other-themes-152831294.html?.tsrc=rss"
+  },
+  {
+    "id": "ne2aefe2440",
+    "headline": "3 Small-Cap Stocks That Concern Us",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-01T11:29:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-concern-112900444.html?.tsrc=rss"
+  },
+  {
     "id": "n074217cfe7",
     "headline": "Backblaze (BLZE), CoreWeave (CRWV) Partner on $335M AI Cloud Storage Initiative",
     "source": "Yahoo Finance",
@@ -338,165 +498,5 @@
     ],
     "ts": "2026-06-29T13:33:00+00:00",
     "url": "https://finance.yahoo.com/technology/ai/articles/does-nebius-ai-cloud-3-133300443.html?.tsrc=rss"
-  },
-  {
-    "id": "n4288b9770c",
-    "headline": "Sector Update: Tech Stocks Rise Premarket Monday",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-06-29T13:14:55+00:00",
-    "url": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-rise-premarket-131455978.html?.tsrc=rss"
-  },
-  {
-    "id": "n393a480eb0",
-    "headline": "CoreWeave ARIA Launches as an AI Research and Iteration Agent with autonomous research and collaborative intelligence",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-06-29T12:00:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-aria-launches-ai-research-120000756.html?.tsrc=rss"
-  },
-  {
-    "id": "nd618d687b4",
-    "headline": "CoreWeave (CRWV) Secures $99 Billion Backlog With Nvidia, Meta, Microsoft And OpenAI",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-06-28T22:06:13+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-secures-99-billion-220613159.html?.tsrc=rss"
-  },
-  {
-    "id": "n4acba7ef19",
-    "headline": "Nancy Pelosi Has Added These 9 Stocks To Her Portfolio Since 2025, Including Three Magnificent Seven Names",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-06-28T15:31:09+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-added-9-stocks-153109696.html?.tsrc=rss"
-  },
-  {
-    "id": "nc1e0570a7c",
-    "headline": "The Ultimate AI Power Supercycle Winner: NextEra Energy or Vistra Stock?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-06-28T15:27:28+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/06/28/the-ultimate-ai-power-supercycle-winner-nextera-energy-or-vistra-stock/?.tsrc=rss"
-  },
-  {
-    "id": "n5d1966470d",
-    "headline": "Will AI Power Demand, Debt Cuts and Moody\u2019s Upgrade Change EQT's (EQT) Risk\u2011Reward Narrative?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-06-28T14:05:38+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/ai-power-demand-debt-cuts-140538475.html?.tsrc=rss"
-  },
-  {
-    "id": "n234bb3606e",
-    "headline": "2 Nvidia-Owned Stocks Investors Should Buy Now",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-06-28T08:45:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/28/2-nvidia-owned-stocks-investors-should-buy-now/?.tsrc=rss"
-  },
-  {
-    "id": "n9bc64b105a",
-    "headline": "Applied Digital (APLD) Finalizes Electric Service Agreement for Power Supply to Polaris Forge 3",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-06-28T08:18:37+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-apld-finalizes-electric-081837584.html?.tsrc=rss"
-  },
-  {
-    "id": "nc8666c5cfe",
-    "headline": "EQT Corporation (EQT) Is A Part Of A Second \u201c1776,\u201d Says Newsletter",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-06-28T06:48:24+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-corporation-eqt-part-second-064824897.html?.tsrc=rss"
-  },
-  {
-    "id": "n40697884e6",
-    "headline": "Morgan Stanley Cuts Price Target on Vistra (VST). Here is Why",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-06-28T04:56:43+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-cuts-price-target-045643870.html?.tsrc=rss"
-  },
-  {
-    "id": "n4d61c041be",
-    "headline": "Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "NVDA"
-    ],
-    "ts": "2026-06-28T02:50:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/27/tesla-completes-key-ai-chip-milestone-in-its-push/?.tsrc=rss"
-  },
-  {
-    "id": "n9aa52194e6",
-    "headline": "Capex boom threatens to crowd out buybacks, key equity demand driver",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "ORCL"
-    ],
-    "ts": "2026-06-28T02:32:14+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/capex-boom-threatens-crowd-buybacks-023214326.html?.tsrc=rss"
-  },
-  {
-    "id": "n15d7c2e634",
-    "headline": "Amazon quietly raises price tag on the AI boom",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "NVDA"
-    ],
-    "ts": "2026-06-28T01:37:00+00:00",
-    "url": "https://www.thestreet.com/investing/amazon-raises-price-ai-ec2-capacity-blocks?.tsrc=rss"
-  },
-  {
-    "id": "nebe1249cc3",
-    "headline": "Intel's AI Bet Is Finally Paying Off -- Is It Time to Reconsider This Stock?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "NVDA"
-    ],
-    "ts": "2026-06-28T01:20:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/27/intels-ai-bet-is-finally-paying-off-is-it-time-to/?.tsrc=rss"
-  },
-  {
-    "id": "nc9a309f1a1",
-    "headline": "Wall Street Thinks AI Capex Is Unsustainable -- Here's Why Big Tech Keeps Spending Anyway",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "NVDA"
-    ],
-    "ts": "2026-06-28T00:50:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/27/wall-street-thinks-ai-capex-is-unsustainable-heres/?.tsrc=rss"
-  },
-  {
-    "id": "ne4b3e06740",
-    "headline": "This Little-Known Biotech Just Delivered a Bigger IPO Pop Than SpaceX -- and Regeneron Is Already Invested",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "NVDA"
-    ],
-    "ts": "2026-06-28T00:20:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/27/this-little-known-biotech-just-delivered-a-bigger/?.tsrc=rss"
   }
 ]

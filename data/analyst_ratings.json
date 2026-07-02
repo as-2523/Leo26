@@ -1,20 +1,20 @@
 {
   "BE": {
     "buy": 13,
-    "hold": 11,
-    "sell": 4,
+    "hold": 13,
+    "sell": 1,
     "strong_buy": 4,
-    "target_mean": 266.928,
-    "target_high": 380.0,
+    "target_mean": 275.848,
+    "target_high": 390.0,
     "target_low": 55.0,
     "recent_upgrades": [],
     "recent_downgrades": []
   },
   "CRWV": {
-    "buy": 21,
+    "buy": 22,
     "hold": 10,
     "sell": 2,
-    "strong_buy": 3,
+    "strong_buy": 2,
     "target_mean": 143.41176,
     "target_high": 303.0,
     "target_low": 36.0,
@@ -22,7 +22,7 @@
     "recent_downgrades": []
   },
   "CORZ": {
-    "buy": 17,
+    "buy": 16,
     "hold": 1,
     "sell": 0,
     "strong_buy": 3,
@@ -44,7 +44,7 @@
     "recent_downgrades": []
   },
   "APLD": {
-    "buy": 12,
+    "buy": 11,
     "hold": 0,
     "sell": 0,
     "strong_buy": 2,
@@ -56,7 +56,7 @@
   },
   "IREN": {
     "buy": 11,
-    "hold": 2,
+    "hold": 3,
     "sell": 2,
     "strong_buy": 1,
     "target_mean": 80.93333,
@@ -77,8 +77,8 @@
     "recent_downgrades": []
   },
   "RIOT": {
-    "buy": 19,
-    "hold": 0,
+    "buy": 18,
+    "hold": 1,
     "sell": 0,
     "strong_buy": 6,
     "target_mean": 29.148,
@@ -88,11 +88,11 @@
     "recent_downgrades": []
   },
   "VRT": {
-    "buy": 22,
-    "hold": 4,
-    "sell": 0,
-    "strong_buy": 6,
-    "target_mean": 376.96,
+    "buy": 23,
+    "hold": 3,
+    "sell": 1,
+    "strong_buy": 7,
+    "target_mean": 377.0,
     "target_high": 500.0,
     "target_low": 236.0,
     "recent_upgrades": [],
@@ -121,11 +121,11 @@
     "recent_downgrades": []
   },
   "SNDK": {
-    "buy": 14,
-    "hold": 6,
-    "sell": 0,
+    "buy": 16,
+    "hold": 4,
+    "sell": 1,
     "strong_buy": 2,
-    "target_mean": 1845.6364,
+    "target_mean": 1863.8182,
     "target_high": 3250.0,
     "target_low": 1000.0,
     "recent_upgrades": [],
@@ -133,7 +133,7 @@
   },
   "TSEM": {
     "buy": 4,
-    "hold": 2,
+    "hold": 1,
     "sell": 0,
     "strong_buy": 0,
     "target_mean": 313.83334,
@@ -143,8 +143,8 @@
     "recent_downgrades": []
   },
   "ONTO": {
-    "buy": 6,
-    "hold": 1,
+    "buy": 7,
+    "hold": 0,
     "sell": 0,
     "strong_buy": 1,
     "target_mean": 369.6,
@@ -158,15 +158,15 @@
     "hold": 8,
     "sell": 1,
     "strong_buy": 7,
-    "target_mean": 252.6405,
+    "target_mean": 252.92256,
     "target_high": 400.0,
     "target_low": 155.0,
     "recent_upgrades": [],
     "recent_downgrades": []
   },
   "AVGO": {
-    "buy": 47,
-    "hold": 2,
+    "buy": 44,
+    "hold": 3,
     "sell": 0,
     "strong_buy": 7,
     "target_mean": 523.72894,
@@ -176,32 +176,32 @@
     "recent_downgrades": []
   },
   "AMD": {
-    "buy": 39,
-    "hold": 12,
+    "buy": 37,
+    "hold": 13,
     "sell": 0,
-    "strong_buy": 5,
-    "target_mean": 506.02084,
+    "strong_buy": 4,
+    "target_mean": 508.3125,
     "target_high": 700.0,
     "target_low": 320.0,
     "recent_upgrades": [],
     "recent_downgrades": []
   },
   "ASML": {
-    "buy": 37,
-    "hold": 6,
+    "buy": 38,
+    "hold": 5,
     "sell": 1,
     "strong_buy": 6,
-    "target_mean": 1747.1532,
-    "target_high": 2328.6973,
-    "target_low": 881.7415,
+    "target_mean": 1750.1451,
+    "target_high": 2332.6853,
+    "target_low": 883.2515,
     "recent_upgrades": [],
     "recent_downgrades": []
   },
   "INTC": {
-    "buy": 9,
-    "hold": 33,
-    "sell": 6,
-    "strong_buy": 1,
+    "buy": 13,
+    "hold": 30,
+    "sell": 5,
+    "strong_buy": 2,
     "target_mean": 98.49524,
     "target_high": 160.0,
     "target_low": 45.0,
@@ -209,54 +209,54 @@
     "recent_downgrades": []
   },
   "GLW": {
-    "buy": 11,
-    "hold": 3,
+    "buy": 10,
+    "hold": 5,
     "sell": 1,
-    "strong_buy": 1,
-    "target_mean": 206.06667,
-    "target_high": 230.0,
+    "strong_buy": 0,
+    "target_mean": 209.4,
+    "target_high": 270.0,
     "target_low": 155.0,
     "recent_upgrades": [],
     "recent_downgrades": []
   },
   "SEI": {
-    "buy": 10,
+    "buy": 11,
     "hold": 1,
     "sell": 0,
     "strong_buy": 4,
-    "target_mean": 91.98333,
+    "target_mean": 92.36923,
     "target_high": 110.8,
     "target_low": 80.0,
     "recent_upgrades": [],
     "recent_downgrades": []
   },
   "EQT": {
-    "buy": 20,
-    "hold": 5,
-    "sell": 1,
+    "buy": 19,
+    "hold": 6,
+    "sell": 0,
     "strong_buy": 3,
-    "target_mean": 69.16667,
+    "target_mean": 69.4,
     "target_high": 83.0,
     "target_low": 57.0,
     "recent_upgrades": [],
     "recent_downgrades": []
   },
   "MU": {
-    "buy": 38,
+    "buy": 39,
     "hold": 5,
     "sell": 0,
-    "strong_buy": 10,
-    "target_mean": 1454.125,
+    "strong_buy": 9,
+    "target_mean": 1486.0,
     "target_high": 2200.0,
     "target_low": 361.0,
     "recent_upgrades": [],
     "recent_downgrades": []
   },
   "TSM": {
-    "buy": 18,
-    "hold": 1,
+    "buy": 17,
+    "hold": 2,
     "sell": 0,
-    "strong_buy": 6,
+    "strong_buy": 5,
     "target_mean": 487.5625,
     "target_high": 700.0,
     "target_low": 354.0,
@@ -264,8 +264,8 @@
     "recent_downgrades": []
   },
   "WYFI": {
-    "buy": 8,
-    "hold": 0,
+    "buy": 9,
+    "hold": 1,
     "sell": 0,
     "strong_buy": 2,
     "target_mean": 36.1,
@@ -276,8 +276,8 @@
   },
   "MRVL": {
     "buy": 36,
-    "hold": 7,
-    "sell": 0,
+    "hold": 6,
+    "sell": 1,
     "strong_buy": 6,
     "target_mean": 249.33095,
     "target_high": 385.0,
@@ -286,11 +286,11 @@
     "recent_downgrades": []
   },
   "CEG": {
-    "buy": 16,
-    "hold": 4,
-    "sell": 0,
+    "buy": 17,
+    "hold": 3,
+    "sell": 1,
     "strong_buy": 6,
-    "target_mean": 360.2419,
+    "target_mean": 357.81332,
     "target_high": 441.0,
     "target_low": 296.0,
     "recent_upgrades": [],
@@ -308,8 +308,8 @@
     "recent_downgrades": []
   },
   "BTDR": {
-    "buy": 11,
-    "hold": 1,
+    "buy": 10,
+    "hold": 2,
     "sell": 0,
     "strong_buy": 1,
     "target_mean": 22.64167,
@@ -341,7 +341,7 @@
     "recent_downgrades": []
   },
   "GLXY": {
-    "buy": 13,
+    "buy": 14,
     "hold": 2,
     "sell": 0,
     "strong_buy": 5,
@@ -363,22 +363,22 @@
     "recent_downgrades": []
   },
   "STX": {
-    "buy": 19,
-    "hold": 6,
+    "buy": 20,
+    "hold": 4,
     "sell": 0,
-    "strong_buy": 3,
-    "target_mean": 941.65216,
+    "strong_buy": 4,
+    "target_mean": 948.1739,
     "target_high": 1600.0,
     "target_low": 545.0,
     "recent_upgrades": [],
     "recent_downgrades": []
   },
   "WDC": {
-    "buy": 21,
-    "hold": 5,
-    "sell": 0,
+    "buy": 20,
+    "hold": 3,
+    "sell": 1,
     "strong_buy": 4,
-    "target_mean": 584.7917,
+    "target_mean": 589.875,
     "target_high": 1050.0,
     "target_low": 360.0,
     "recent_upgrades": [],
@@ -386,7 +386,7 @@
   },
   "BW": {
     "buy": 3,
-    "hold": 1,
+    "hold": 0,
     "sell": 0,
     "strong_buy": 0,
     "target_mean": 24.66667,
@@ -397,10 +397,10 @@
   },
   "INFY": {
     "buy": 5,
-    "hold": 8,
+    "hold": 7,
     "sell": 1,
     "strong_buy": 3,
-    "target_mean": 14.29743,
+    "target_mean": 14.08039,
     "target_high": 17.6,
     "target_low": 11.0,
     "recent_upgrades": [],
@@ -410,7 +410,7 @@
     "buy": 3,
     "hold": 12,
     "sell": 2,
-    "strong_buy": 1,
+    "strong_buy": 2,
     "target_mean": 37.14286,
     "target_high": 51.0,
     "target_low": 28.0,
@@ -429,8 +429,8 @@
     "recent_downgrades": []
   },
   "PSIX": {
-    "buy": 3,
-    "hold": 0,
+    "buy": 2,
+    "hold": 1,
     "sell": 0,
     "strong_buy": 0,
     "target_mean": 70.36667,
@@ -440,16 +440,16 @@
     "recent_downgrades": []
   },
   "PUMP": {
-    "buy": 5,
-    "hold": 5,
+    "buy": 6,
+    "hold": 4,
     "sell": 0,
     "strong_buy": 3,
-    "target_mean": 18.45455,
+    "target_mean": 18.68182,
     "target_high": 23.0,
-    "target_low": 10.0,
+    "target_low": 11.0,
     "recent_upgrades": [],
     "recent_downgrades": []
   },
   "_note": "Analyst ratings from Yahoo Finance. Not investment advice.",
-  "_as_of": "2026-07-01T10:30:57.103853+00:00"
+  "_as_of": "2026-07-02T09:44:12.763381+00:00"
 }
