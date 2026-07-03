@@ -1,5 +1,135 @@
 [
   {
+    "id": "n68c4a866fe",
+    "headline": "Bull of the Day: Bloom Energy (BE)",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-03T07:50:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-bloom-energy-075000273.html?.tsrc=rss"
+  },
+  {
+    "id": "n2732ba29eb",
+    "headline": "Bloom Energy (BE) Stock Moves -6.43%: What You Should Know",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-02T22:15:03+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-moves-6-221503927.html?.tsrc=rss"
+  },
+  {
+    "id": "nbffba6f270",
+    "headline": "EQT Corporation Schedules Second Quarter 2026 Earnings Release and Conference Call",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-02T20:15:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-corporation-schedules-second-quarter-201500803.html?.tsrc=rss"
+  },
+  {
+    "id": "n35b8595105",
+    "headline": "BNP Paribas Sends Fresh Message on CoreWeave and Nebius Stocks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-02T19:40:10+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/bnp-paribas-sends-fresh-message-194010206.html?.tsrc=rss"
+  },
+  {
+    "id": "n420f1e4bdb",
+    "headline": "Americans Hate AI Data Centers. For Stocks, the Trouble Is Just Beginning.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-02T19:11:00+00:00",
+    "url": "https://finance.yahoo.com/m/99941334-564f-3b03-a979-05483126e186/americans-hate-ai-data.html?.tsrc=rss"
+  },
+  {
+    "id": "n98a96eea04",
+    "headline": "3 AI Stocks to Still Buy If Inflation Stays Sticky",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-02T18:29:48+00:00",
+    "url": "https://www.fool.com/investing/2026/07/02/3-ai-stocks-to-still-buy-if-inflation-stays-sticky/?.tsrc=rss"
+  },
+  {
+    "id": "n0e7ecf880e",
+    "headline": "Meta Stock Falls as AI Cloud Plans Hit an Immediate Snag",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-02T17:43:00+00:00",
+    "url": "https://finance.yahoo.com/m/fc36266b-5d35-3566-ad5d-19ea60b47f43/meta-stock-falls-as-ai-cloud.html?.tsrc=rss"
+  },
+  {
+    "id": "n7d0f5e9398",
+    "headline": "CoreWeave Takes Another Hit From Meta. One Analyst Sees 200% Upside for the AI Stock.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-02T17:27:00+00:00",
+    "url": "https://finance.yahoo.com/m/3f669a8a-0ca8-3d25-950c-043984e978c8/coreweave-takes-another-hit.html?.tsrc=rss"
+  },
+  {
+    "id": "nd2f0623742",
+    "headline": "Stock Market Rebounds, But AI Falters; Meta, Tesla, Jobs Report In Focus: Weekly Review",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-02T15:36:31+00:00",
+    "url": "https://finance.yahoo.com/m/0216be55-b4a3-3fda-a072-f28212c2d74c/stock-market-rebounds%2C-but-ai.html?.tsrc=rss"
+  },
+  {
+    "id": "n29610f9eb1",
+    "headline": "America Runs on Natural Gas: Fuel Set to Surpass Oil as US Top Energy Source by 2030",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-02T15:06:06+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/america-runs-natural-gas-fuel-150606911.html?.tsrc=rss"
+  },
+  {
+    "id": "n06d249979e",
+    "headline": "UBS Just Raised Its Price Target on Bloom Energy Stock. Here's Why.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-02T14:42:41+00:00",
+    "url": "https://www.barchart.com/story/news/3100638/ubs-just-raised-its-price-target-on-bloom-energy-stock-here-s-why?.tsrc=rss"
+  },
+  {
+    "id": "nb042dc6009",
+    "headline": "Bloom Energy\u2019s $25B partnership targets AI\u2019s next bottleneck",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-02T14:07:00+00:00",
+    "url": "https://www.thestreet.com/investing/stocks/bloom-energys-25b-partnership-targets-ais-next-bottleneck?.tsrc=rss"
+  },
+  {
+    "id": "n04f5d59689",
+    "headline": "Wall Street Thinks You Should Buy The Dip On Applied Digital (APLD) Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-02T12:48:08+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-thinks-buy-dip-124808792.html?.tsrc=rss"
+  },
+  {
     "id": "n94475c6d78",
     "headline": "Morgan Stanley Lowers its Price Target on EQT Corporation (EQT)",
     "source": "Yahoo Finance",
@@ -368,135 +498,5 @@
     ],
     "ts": "2026-06-29T18:55:44+00:00",
     "url": "https://247wallst.com/investing/2026/06/29/teslas-10-weight-in-arkk-sets-up-a-make-or-break-year-for-the-innovation-etf/?.tsrc=rss"
-  },
-  {
-    "id": "n006518a3ce",
-    "headline": "Is Applied Digital Corporation (APLD) A Good Stock To Buy Now?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-06-29T18:22:13+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-corporation-apld-good-182213882.html?.tsrc=rss"
-  },
-  {
-    "id": "n56dd07c7c2",
-    "headline": "Vistra (VST) Buys Cogentrix For $4 Billion And Locks In Meta And AWS Deals",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-06-29T18:08:17+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/vistra-vst-buys-cogentrix-4-180817743.html?.tsrc=rss"
-  },
-  {
-    "id": "n77a1214dfa",
-    "headline": "CoreWeave Dives After a Massive Rally. Here\u2019s Why You Should Stay Cautious on CRWV Stock.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-06-29T17:22:35+00:00",
-    "url": "https://www.barchart.com/story/news/3037536/coreweave-dives-after-a-massive-rally-heres-why-you-should-stay-cautious-on-crwv-stock?.tsrc=rss"
-  },
-  {
-    "id": "n0b897d1ca5",
-    "headline": "FuelCell Energy Stock Breaks Out Bullishly On Government Financing. Bloom Energy Rebounds.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-06-29T16:58:55+00:00",
-    "url": "https://finance.yahoo.com/m/36ae8a25-bf61-3fad-b19a-fd5fa38740b2/fuelcell-energy-stock-breaks.html?.tsrc=rss"
-  },
-  {
-    "id": "nf0c66cedb1",
-    "headline": "CoreWeave Price Prediction: The Case for 70% Upside",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-06-29T16:46:29+00:00",
-    "url": "https://247wallst.com/investing/2026/06/29/coreweave-price-prediction-the-case-for-70-upside/?.tsrc=rss"
-  },
-  {
-    "id": "n4ebf37e2bc",
-    "headline": "The 'Time To Power' Signal The Market Missed In Bloom Energy Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-06-29T16:18:51+00:00",
-    "url": "https://www.trefis.com/articles/604947/the-time-to-power-signal-the-market-missed-in-bloom-energy-stock/2026-06-29?.tsrc=rss"
-  },
-  {
-    "id": "n78b93bb5d2",
-    "headline": "Vistra or Public Service Enterprise: Which Utility Stock Stands Out?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-06-29T15:54:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-public-enterprise-utility-stock-155400277.html?.tsrc=rss"
-  },
-  {
-    "id": "n9d456b8e68",
-    "headline": "FuelCell Energy Is Up 17% Today: Is It Outperforming Other Fuel-Cell Stocks Like Plug Power and Bloom Energy?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-06-29T14:26:48+00:00",
-    "url": "https://247wallst.com/investing/2026/06/29/fuelcell-energy-is-up-17-today-is-it-outperforming-other-fuel-cell-stocks-like-plug-power-and-bloom-energy/?.tsrc=rss"
-  },
-  {
-    "id": "ncf5c2179ab",
-    "headline": "CoreWeave Collaborates With Conapto to Expand Sweden AI Cloud Capacity",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-06-29T14:22:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-collaborates-conapto-expand-sweden-142200890.html?.tsrc=rss"
-  },
-  {
-    "id": "n47fda6fed8",
-    "headline": "Up 275% This Year: Is It Too Late to Buy Bloom Energy Stock?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-06-29T13:50:00+00:00",
-    "url": "https://www.fool.com/investing/2026/06/29/up-280-is-it-too-late-to-buy-bloom-energy-stock/?.tsrc=rss"
-  },
-  {
-    "id": "ne73451124e",
-    "headline": "Adobe downgraded, Roblox upgraded: Wall Street's top analyst calls",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-06-29T13:44:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-downgraded-roblox-upgraded-wall-134400216.html?.tsrc=rss"
-  },
-  {
-    "id": "n7cf9b98245",
-    "headline": "Are Oils-Energy Stocks Lagging  Alvopetro Energy (ALVOF) This Year?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-06-29T13:40:07+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/oils-energy-stocks-lagging-alvopetro-134007383.html?.tsrc=rss"
-  },
-  {
-    "id": "ne8a46fd9d9",
-    "headline": "How Does Nebius AI Cloud 3.6 Strengthen Its AI Cloud Advantage?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-06-29T13:33:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/does-nebius-ai-cloud-3-133300443.html?.tsrc=rss"
   }
 ]
