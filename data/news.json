@@ -1,5 +1,115 @@
 [
   {
+    "id": "n414b9ddc4c",
+    "headline": "Could Investing $10,000 in Bloom Energy Make You a Millionaire?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-04T00:25:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/03/could-investing-10000-in-bloom-make-you-a-milliona/?.tsrc=rss"
+  },
+  {
+    "id": "nc6ce1454f7",
+    "headline": "Is Solaris Energy Infrastructure, Inc. (SEI) A Good Stock To Buy Now?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-03T23:02:32+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-inc-sei-230232174.html?.tsrc=rss"
+  },
+  {
+    "id": "n7d5276266c",
+    "headline": "Brookfield (TSX:BN) Stock Looks Stretched On Fresh AI Data Center Expansion",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-03T22:17:12+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-tsx-bn-stock-looks-221712426.html?.tsrc=rss"
+  },
+  {
+    "id": "n0e9281ceaf",
+    "headline": "Bloom Energy Skyrocketed Over 248% in the First Half of 2026. Here's What to Expect in the Second Half.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-03T20:05:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/03/bloom-energy-up-248-first-half-2026-expect/?.tsrc=rss"
+  },
+  {
+    "id": "ne990853f9a",
+    "headline": "Brookfield\u2019s US$25 Billion Bloom Energy Fuel Cell Deal Could Be A Game Changer For Brookfield (TSX:BN)",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-03T19:15:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/brookfield-us-25-billion-bloom-191500457.html?.tsrc=rss"
+  },
+  {
+    "id": "n864727a2cd",
+    "headline": "After Skyrocketing Nearly 200%, Is It Too Late to Buy Bloom Energy?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-03T17:50:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/03/after-skyrocketing-too-late-to-buy-bloom-energy/?.tsrc=rss"
+  },
+  {
+    "id": "n5181f18d63",
+    "headline": "Applied Digital Continues Heavy Capital Spending: What's Ahead?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-03T16:29:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-continues-heavy-capital-162900889.html?.tsrc=rss"
+  },
+  {
+    "id": "n76fa2e6914",
+    "headline": "CRWV Shares Slip 24% in a Month: Buy the Dip or Stay on the Sidelines?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-03T13:42:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crwv-shares-slip-24-month-134200068.html?.tsrc=rss"
+  },
+  {
+    "id": "n15887ef0f1",
+    "headline": "Wall Street Is Split on Meta\u2019s Secret Cloud Move, and One Side Is Very Wrong",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-03T12:51:56+00:00",
+    "url": "https://247wallst.com/investing/2026/07/03/wall-street-is-split-on-metas-secret-cloud-move-and-one-side-is-very-wrong/?.tsrc=rss"
+  },
+  {
+    "id": "nb9a9deba5a",
+    "headline": "What to Expect From EQT Corporation's Next Quarterly Earnings Report",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-03T10:21:58+00:00",
+    "url": "https://www.barchart.com/story/news/3113703/what-to-expect-from-eqt-corporation-s-next-quarterly-earnings-report?.tsrc=rss"
+  },
+  {
+    "id": "n12314207b0",
+    "headline": "SpaceX Stock Is Joining the Nasdaq 100 Soon. What History Says Happens Next.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-03T09:44:00+00:00",
+    "url": "https://finance.yahoo.com/m/e0ab2110-c682-3ad3-9432-17027107203b/spacex-stock-is-joining-the.html?.tsrc=rss"
+  },
+  {
     "id": "n68c4a866fe",
     "headline": "Bull of the Day: Bloom Energy (BE)",
     "source": "Yahoo Finance",
@@ -88,6 +198,16 @@
     ],
     "ts": "2026-07-02T15:36:31+00:00",
     "url": "https://finance.yahoo.com/m/0216be55-b4a3-3fda-a072-f28212c2d74c/stock-market-rebounds%2C-but-ai.html?.tsrc=rss"
+  },
+  {
+    "id": "nc4105297d6",
+    "headline": "America Runs on Natural Gas: Fuel Set to Surpass Oil as US Top Energy Source by 2030",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-02T15:06:06+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/america-runs-on-natural-gas-fuel-set-to-surpass-oil-as-us-top-energy-source-by-2030-150606911.html?.tsrc=rss"
   },
   {
     "id": "n29610f9eb1",
@@ -378,125 +498,5 @@
     ],
     "ts": "2026-06-30T21:45:04+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-stock-slides-214504930.html?.tsrc=rss"
-  },
-  {
-    "id": "n91e6d2a60f",
-    "headline": "A Small-Cap Utility Stock Just Signed 1 of the Biggest AI Power Deals You Haven\u2019t Heard Of",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-06-30T20:30:08+00:00",
-    "url": "https://www.barchart.com/story/news/3063353/a-small-cap-utility-stock-just-signed-1-of-the-biggest-ai-power-deals-you-havent-heard-of?.tsrc=rss"
-  },
-  {
-    "id": "n7f58f3d23a",
-    "headline": "Northampton Capital Partners, Olympus Power Form JV and Reach Agreement to Acquire New England, New York Generating Assets",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-06-30T19:57:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/northampton-capital-partners-olympus-power-195700892.html?.tsrc=rss"
-  },
-  {
-    "id": "n4c38715a32",
-    "headline": "Dell\u2019s AI boom is real, but so is the profit margin hit nobody is pricing in",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-06-30T19:06:41+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/dell-ai-boom-real-profit-190641153.html?.tsrc=rss"
-  },
-  {
-    "id": "nce3109d61c",
-    "headline": "Up Over 400%, I\u2019m Standing Still on Applied Digital Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-06-30T16:21:12+00:00",
-    "url": "https://247wallst.com/investing/2026/06/30/up-over-400-im-standing-still-on-applied-digital-stock/?.tsrc=rss"
-  },
-  {
-    "id": "n2b6eb232ee",
-    "headline": "Nuclear Power Is the Only Real Answer to AI Data Center Demand and These 3 ETFs Cover the Trade at Three Risk Levels",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-06-30T16:11:34+00:00",
-    "url": "https://247wallst.com/investing/2026/06/30/nuclear-power-is-the-only-real-answer-to-ai-data-center-demand-and-these-3-etfs-cover-the-trade-at-three-risk-levels/?.tsrc=rss"
-  },
-  {
-    "id": "n1f0e70bd41",
-    "headline": "3 High-Flying Stocks We Steer Clear Of",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-06-30T12:59:01+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/3-high-flying-stocks-steer-125901886.html?.tsrc=rss"
-  },
-  {
-    "id": "nc0d6dd2d6e",
-    "headline": "Applied Digital (APLD) Joins Russell 1000 As Its Market Profile Shifts",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-06-29T23:11:51+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-joins-russell-231151907.html?.tsrc=rss"
-  },
-  {
-    "id": "n324b61b71a",
-    "headline": "Why Solaris Energy Infrastructure (SEI) Stock Is Up Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-06-29T21:54:15+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/why-solaris-energy-infrastructure-sei-215415934.html?.tsrc=rss"
-  },
-  {
-    "id": "nd37bba619b",
-    "headline": "Applied Digital CEO: AI Industry Will See \u201cPretty Significant Delays Through 2026 and 2027\u201d",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-06-29T21:45:28+00:00",
-    "url": "https://247wallst.com/investing/2026/06/29/applied-digital-ceo-ai-industry-will-see-pretty-significant-delays-through-2026-and-2027/?.tsrc=rss"
-  },
-  {
-    "id": "nce41b02ee1",
-    "headline": "FuelCell Energy Stock Breaks Out Bullishly On Debt Financing Deal",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-06-29T20:17:11+00:00",
-    "url": "https://finance.yahoo.com/m/36ae8a25-bf61-3fad-b19a-fd5fa38740b2/fuelcell-energy-stock-breaks.html?.tsrc=rss"
-  },
-  {
-    "id": "naea8e72ec2",
-    "headline": "'Who Are These Lunatics?' CoreWeave's Credit Approach Gets A Pep Talk From The 'Dean Of Valuation'",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-06-29T19:31:04+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/lunatics-coreweaves-credit-approach-gets-193104481.html?.tsrc=rss"
-  },
-  {
-    "id": "n4672ec7935",
-    "headline": "Tesla\u2019s 10% Weight in ARKK Sets Up a Make-or-Break Year for the Innovation ETF",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-06-29T18:55:44+00:00",
-    "url": "https://247wallst.com/investing/2026/06/29/teslas-10-weight-in-arkk-sets-up-a-make-or-break-year-for-the-innovation-etf/?.tsrc=rss"
   }
 ]

@@ -82,7 +82,7 @@
     "exchange": "NYQ",
     "sector": "Industrials",
     "market_cap": 77053001728,
-    "pe_ratio": 62.12946,
+    "pe_ratio": 61.552902,
     "description": "Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide fuel cell systems for on-site power generation in the United States and internationally. It offers Bloom Energy Server, an energy server platform to convert fuel, such as natural gas, biogas, hydrogen, or a blend of these fuels, into electricity through a non-combustion electrochemical process. The company also provides Bloom Electrolyzer for producing hydrogen. It sells its products through direct and indirect sales channels to utilities, data centers, retail, healthcare, education, telecom, manufacturing, and other industries. The company was formerly known as Ion America Corp. and changed its name to Bloom Energy Corporation in 2006. Bloom Energy Corporation was incorporated in 2001 and is headquartered in San Jose, California.",
     "industry": "Electrical Equipment & Parts",
     "website": "https://www.bloomenergy.com"
@@ -259,7 +259,7 @@
     "name": "Marvell Technology, Inc.",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 214579691520,
+    "market_cap": 214764421120,
     "pe_ratio": 84.00342,
     "description": "Marvell Technology, Inc., together with its subsidiaries, provides data infrastructure semiconductor solutions and spanning the data center core to network edge in the United States, Argentina, China, India, Israel, Japan, Singapore, South Korea, Taiwan, Vietnam, and internationally. The company develops and scales system-on-a-chip architectures, integrating analog, mixed-signal, and digital signal processing functionality. It offers a portfolio of ethernet solutions, including spanning controllers, network adapters, physical transceivers, and switches; single or multiple core processors; and custom application specific integrated circuits, interconnects, fibre channel adapters, and processors. The company also provides interconnect products, including pulse amplitude modulation, coherent and coherent-lite digital signal processors (DSPs), laser drivers, trans-impedance amplifiers, silicon photonics, co-packaged optics, linear pluggable optics chipsets, data center interconnect, active electrical cable DSPs and peripheral component interconnect express retimer solutions; fibre channel products comprising host bus adapters and controllers for server and storage system connectivity; ",
     "industry": "Semiconductors",
@@ -351,7 +351,7 @@
     "sector": "Technology",
     "industry": "Computer Hardware",
     "website": "https://www.seagate.com",
-    "market_cap": 185562923008,
+    "market_cap": 183903649792,
     "pe_ratio": 77.519844,
     "description": "Seagate Technology Holdings plc engages in the provision of data storage technology and infrastructure solutions in Singapore, the United States, the Netherlands, and internationally. The company offers mass capacity storage products, including enterprise nearline hard disk drives (HDDs), enterprise nearline solid state drives (SSDs), enterprise nearline systems, video and image HDDs, and network-attached storage drives. It also offers legacy applications comprising Mission Critical HDDs and SSDs; external storage solutions under the Seagate Ultra Touch, One Touch, Expansion, and Basics product lines, as well as under the LaCie brand name; desktop drives for personal computers and workstation applications; notebook drives traditional notebooks, convertible systems, and external storage applications, DVR HDDs for video streaming applications, and gaming SSDs for gaming rigs. In addition, the company provides Lyve edge-to-cloud mass capacity platform, that includes modular hardware and software to support enterprises' on-premise and cloud storage infrastructure needs. It sells its products primarily to original equipment manufacturers, distributors, and retailers. The company was fou"
   },
@@ -412,7 +412,7 @@
     "industry": "Specialty Industrial Machinery",
     "website": "https://psiengines.com",
     "market_cap": 854710720,
-    "pe_ratio": 8.370204,
+    "pe_ratio": 8.38914,
     "description": "Power Solutions International, Inc. designs, engineers, manufactures, markets, and sells engines and power systems in the United States, the rest of North America, the Pacific Rim, Europe, and internationally. The company offers basic engine blocks integrated with fuel system parts, as well as completely packaged power systems, that include combinations of front accessory drives, cooling systems, electronic systems, air intake systems, fuel systems, housings, power takeoff systems, exhaust systems, hydraulic systems, enclosures, brackets, hoses, tubes, packaging, telematics, and other assembled componentry. It also designs and manufactures large, custom-engineered integrated electrical power generation systems for standby and prime power applications; sells emission-certified compression ignition and spark-ignition internal combustion engines; designs and fabricates power system enclosures; and sources electrification components. In addition, the company provides mobile and stationary gensets for emergency standby, rental, prime power, demand response, microgrid, oil and gas, data center, renewable energy resiliency, and combined heat and power; forklifts, wood chippers, stump grin"
   },
   "PUMP": {
