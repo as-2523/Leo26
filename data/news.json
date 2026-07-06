@@ -1,5 +1,95 @@
 [
   {
+    "id": "n04ce56b7ce",
+    "headline": "3 of Wall Street\u2019s Favorite Stocks with Open Questions",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-06T10:04:01+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-100401718.html?.tsrc=rss"
+  },
+  {
+    "id": "n35d5407b0e",
+    "headline": "Rosenblatt Reiterates Buy Rating on CoreWeave (CRWV)",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-06T09:41:08+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/rosenblatt-reiterates-buy-rating-coreweave-094108196.html?.tsrc=rss"
+  },
+  {
+    "id": "nda73b88ce5",
+    "headline": "BE Stock Is Trading At A Massive Premium To Peers \u2014 Retail Bulls Still See A Nearly 4x Rally",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-06T03:37:24+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-is-trading-at-a-massive-premium-to-peers/cZmKyuMR7kV?.tsrc=rss"
+  },
+  {
+    "id": "n8953f6a562",
+    "headline": "CoreWeave (CRWV) Launches AI-Enabled Research Agent, ARIA",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-06T00:44:50+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-launches-ai-enabled-004450005.html?.tsrc=rss"
+  },
+  {
+    "id": "n8778a3eac8",
+    "headline": "Bloom Energy (BE) Extends Strategic Alliance With Brookfield",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-06T00:17:36+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-extends-strategic-alliance-001736960.html?.tsrc=rss"
+  },
+  {
+    "id": "ned8e253222",
+    "headline": "Five Energy Stocks Riding Texas's Data Center Power Boom",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-05T21:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/five-energy-stocks-riding-texass-210000847.html?.tsrc=rss"
+  },
+  {
+    "id": "n51652215c7",
+    "headline": "The Energy Stock Most Investors Overlook-And Why You Should Consider Adding It to Your Portfolio Today.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-05T18:02:05+00:00",
+    "url": "https://www.fool.com/investing/2026/07/05/the-energy-stock-most-investors-overlook-and-why-y/?.tsrc=rss"
+  },
+  {
+    "id": "nc54e24c2d8",
+    "headline": "Prediction: This Energy Stock Will Make You a Lot Richer by 2029",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-05T15:35:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/05/prediction-this-energy-stock-will-make-you-a-lot/?.tsrc=rss"
+  },
+  {
+    "id": "n223a8486b5",
+    "headline": "Why CoreWeave Stock Plummeted This Week",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-05T11:38:42+00:00",
+    "url": "https://www.fool.com/investing/2026/07/05/why-coreweave-stock-plummeted-this-week/?.tsrc=rss"
+  },
+  {
     "id": "neda9ed21f9",
     "headline": "Solaris Energy Infrastructure (SEI) Stock Looks Above Fair Value Today",
     "source": "Yahoo Finance",
@@ -408,95 +498,5 @@
     ],
     "ts": "2026-07-01T21:22:31+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-one-top-212231289.html?.tsrc=rss"
-  },
-  {
-    "id": "n1cad758fd6",
-    "headline": "Stock Market Today: Nasdaq Ends Lower As Chip Names Dive; Meta Soars On This News",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-01T20:59:51+00:00",
-    "url": "https://finance.yahoo.com/m/c95fae43-e749-3a70-bc9b-0eb64c0790c9/stock-market-today%3A-nasdaq.html?.tsrc=rss"
-  },
-  {
-    "id": "n6034ea3c2d",
-    "headline": "Brookfield and Bloom Energy Expanded Their AI Power Partnership to $25 Billion. Here's What Investors Need to Know.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-01T19:20:01+00:00",
-    "url": "https://www.fool.com/investing/2026/07/01/brookfield-and-bloom-energy-expanded-their-ai-power-partnership-to-25-billion-heres-what-investors-need-to-know/?.tsrc=rss"
-  },
-  {
-    "id": "ncf98d288d4",
-    "headline": "Price Prediction: We\u2019re Bearish on Bloom Energy and See Shares Falling",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-01T17:55:09+00:00",
-    "url": "https://247wallst.com/investing/2026/07/01/price-prediction-were-bearish-on-bloom-energy-and-see-shares-falling/?.tsrc=rss"
-  },
-  {
-    "id": "ne07cb954d3",
-    "headline": "Oracle Just Became an AI Cloud Powerhouse. Here Are 5 Under-the-Radar Stocks Along for the Ride",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-01T17:01:40+00:00",
-    "url": "https://247wallst.com/investing/2026/07/01/oracle-just-became-an-ai-cloud-powerhouse-here-are-5-under-the-radar-stocks-along-for-the-ride/?.tsrc=rss"
-  },
-  {
-    "id": "n06cd84934a",
-    "headline": "Applied Digital Delivers Second Building at Polaris Forge 1",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-01T17:00:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-delivers-second-building-170000050.html?.tsrc=rss"
-  },
-  {
-    "id": "n5a02544738",
-    "headline": "Why investors should 'complement' their SpaceX ETFs with these other themes",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-01T15:28:31+00:00",
-    "url": "https://finance.yahoo.com/video/why-investors-should-complement-their-spacex-etfs-with-these-other-themes-152831294.html?.tsrc=rss"
-  },
-  {
-    "id": "ne2aefe2440",
-    "headline": "3 Small-Cap Stocks That Concern Us",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-07-01T11:29:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-concern-112900444.html?.tsrc=rss"
-  },
-  {
-    "id": "n074217cfe7",
-    "headline": "Backblaze (BLZE), CoreWeave (CRWV) Partner on $335M AI Cloud Storage Initiative",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-01T10:21:46+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/backblaze-blze-coreweave-crwv-partner-102146735.html?.tsrc=rss"
-  },
-  {
-    "id": "nb41ccfd6b7",
-    "headline": "2 Energy Stocks to Consider Right Now and 1 We Turn Down",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-01T08:17:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/2-energy-stocks-consider-now-081700856.html?.tsrc=rss"
   }
 ]
