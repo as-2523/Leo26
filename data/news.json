@@ -1,5 +1,235 @@
 [
   {
+    "id": "n1f8cb9a031",
+    "headline": "CoreWeave Inc. (CRWV) Down Nearly 20% Since Jim Cramer Said It\u2019s \u201cComing Back\u201d",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-07T09:47:27+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-down-nearly-094727562.html?.tsrc=rss"
+  },
+  {
+    "id": "n34c6872df8",
+    "headline": "CoreWeave (CRWV) Faces A Fresh Valuation Test As ARIA Launch Meets A Sharper Pullback",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-07T09:16:26+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-faces-fresh-valuation-091626775.html?.tsrc=rss"
+  },
+  {
+    "id": "n35e26be0c0",
+    "headline": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat \u2014 But Retail Still Believes In Neocloud Opportunity",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-07T07:54:24+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/nbis-stock-down-about-30-from-peak-amid-meta-ai-cloud-threat-but-retail-still-believes-in-neocloud-opportunity/cZmlOuLR7m0?.tsrc=rss"
+  },
+  {
+    "id": "nd601cf740f",
+    "headline": "Is Applied Digital\u2019s (APLD) New 175 MW AI Campus Milestone Redefining Its Core Infrastructure Story?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-07T04:40:58+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-apld-175-mw-044058594.html?.tsrc=rss"
+  },
+  {
+    "id": "n9b2ec195c0",
+    "headline": "Prediction: Why Buying Brookfield Renewable Instead of Bloom Energy Could Set You Up For Life",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-07T03:35:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/06/prediction-why-buying-brookfield-renewable-instead/?.tsrc=rss"
+  },
+  {
+    "id": "n3ffb261078",
+    "headline": "Dow Jones Futures: Tech Futures Slide On Samsung Earnings; SpaceX Falls Ahead Of Nasdaq-100 Inclusion",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-07T01:54:18+00:00",
+    "url": "https://finance.yahoo.com/m/c71a3345-6ae6-3d18-95eb-134519da74ab/dow-jones-futures%3A-tech.html?.tsrc=rss"
+  },
+  {
+    "id": "nb28065beb0",
+    "headline": "Meta Platforms Is Entering the Neocloud Business. Here's Why CoreWeave Investors Should Not Worry.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-06T21:50:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/06/meta-platforms-is-entering-the-neocloud-business-h/?.tsrc=rss"
+  },
+  {
+    "id": "n969611d9e6",
+    "headline": "Can Small-Cap Stocks Continue to Outperform?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-06T21:04:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/small-cap-stocks-continue-outperform-210400115.html?.tsrc=rss"
+  },
+  {
+    "id": "ne0259b85a1",
+    "headline": "Why Solaris Energy Infrastructure (SEI) Stock Is Trading Up Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-06T21:00:01+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/why-solaris-energy-infrastructure-sei-210001240.html?.tsrc=rss"
+  },
+  {
+    "id": "n1b1d3e72be",
+    "headline": "Bloom Energy to Announce Second Quarter 2026 Financial Results on July 28, 2026",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-06T21:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/bloom-energy-announce-second-quarter-210000052.html?.tsrc=rss"
+  },
+  {
+    "id": "n889062a4c9",
+    "headline": "TeraWulf, Anthropic Sign $19 Billion Data Center Lease. Neocloud Stocks Soar.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-06T20:03:50+00:00",
+    "url": "https://finance.yahoo.com/m/21a0c327-87ae-3213-b30a-e194f708d278/terawulf%2C-anthropic-sign-%2419.html?.tsrc=rss"
+  },
+  {
+    "id": "n8a4d7b4963",
+    "headline": "TeraWulf Stock Is Up 95% This Year: Here\u2019s Why",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-06T19:11:46+00:00",
+    "url": "https://247wallst.com/investing/2026/07/06/terawulf-stock-is-up-95-this-year-heres-why/?.tsrc=rss"
+  },
+  {
+    "id": "n038c331b00",
+    "headline": "Sector Update: Energy Stocks Mixed Monday Afternoon",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-06T17:54:11+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-monday-175411874.html?.tsrc=rss"
+  },
+  {
+    "id": "n29bc802486",
+    "headline": "Wall Street Still Loves Applied Digital (APLD) Stock Despite The Selloff, Here\u2019s Why",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-06T17:50:47+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-still-loves-applied-175047640.html?.tsrc=rss"
+  },
+  {
+    "id": "nc3954371da",
+    "headline": "Is Solaris Energy Infrastructure (SEI) One of the Best Oil and Gas Stocks to Buy for the Next Decade?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-06T17:02:16+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/solaris-energy-infrastructure-sei-one-170216440.html?.tsrc=rss"
+  },
+  {
+    "id": "n00c3b8dfed",
+    "headline": "Can AI-Driven Electricity Demand Fuel CEG's Long-Term Growth?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-06T16:42:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/ai-driven-electricity-demand-fuel-164200415.html?.tsrc=rss"
+  },
+  {
+    "id": "n92c0dc11ff",
+    "headline": "Here's Why Bloom Energy Stock Rallied Again Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-06T16:35:14+00:00",
+    "url": "https://www.fool.com/investing/2026/07/06/heres-why-bloom-energy-stock-rallied-again-today/?.tsrc=rss"
+  },
+  {
+    "id": "n112b96da26",
+    "headline": "Vistra to Report Second Quarter Results on Aug. 7, 2026",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-06T16:10:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-report-second-quarter-results-161000795.html?.tsrc=rss"
+  },
+  {
+    "id": "n3503bcf18a",
+    "headline": "Record Heat Dome Drove the Grid to All-Time Peak Demand Friday: Here\u2019s 4 Stocks To Buy As Things Heat Up",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-06T14:05:32+00:00",
+    "url": "https://247wallst.com/investing/2026/07/06/record-heat-dome-drove-the-grid-to-all-time-peak-demand-friday-heres-4-stocks-to-buy-as-things-heat-up/?.tsrc=rss"
+  },
+  {
+    "id": "n0ebe5eb4fa",
+    "headline": "Sector Update: Energy Stocks Decline Premarket Monday",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-06T13:28:22+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-premarket-132822878.html?.tsrc=rss"
+  },
+  {
+    "id": "n9edcaf24a9",
+    "headline": "Vistra Corp. (VST) is Attracting Investor Attention: Here is What You Should Know",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-06T13:00:06+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-attracting-investor-130006352.html?.tsrc=rss"
+  },
+  {
+    "id": "nddcf2fbbc2",
+    "headline": "Brookfield\u2019s Data Center Firm Csquare Seeks $1.35 Billion in IPO",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-06T11:07:55+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-data-center-firm-csquare-110755671.html?.tsrc=rss"
+  },
+  {
+    "id": "n02e9e671c2",
+    "headline": "Solaris Energy Infrastructure Acquires Leading Global Provider of Full Cycle Power Generation Operations, Maintenance, and Technical Solutions",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-06T11:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/solaris-energy-infrastructure-acquires-leading-110000434.html?.tsrc=rss"
+  },
+  {
     "id": "n04ce56b7ce",
     "headline": "3 of Wall Street\u2019s Favorite Stocks with Open Questions",
     "source": "Yahoo Finance",
@@ -268,235 +498,5 @@
     ],
     "ts": "2026-07-03T09:44:00+00:00",
     "url": "https://finance.yahoo.com/m/e0ab2110-c682-3ad3-9432-17027107203b/spacex-stock-is-joining-the.html?.tsrc=rss"
-  },
-  {
-    "id": "n68c4a866fe",
-    "headline": "Bull of the Day: Bloom Energy (BE)",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-03T07:50:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-bloom-energy-075000273.html?.tsrc=rss"
-  },
-  {
-    "id": "n2732ba29eb",
-    "headline": "Bloom Energy (BE) Stock Moves -6.43%: What You Should Know",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-02T22:15:03+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-moves-6-221503927.html?.tsrc=rss"
-  },
-  {
-    "id": "nbffba6f270",
-    "headline": "EQT Corporation Schedules Second Quarter 2026 Earnings Release and Conference Call",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-02T20:15:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-corporation-schedules-second-quarter-201500803.html?.tsrc=rss"
-  },
-  {
-    "id": "n35b8595105",
-    "headline": "BNP Paribas Sends Fresh Message on CoreWeave and Nebius Stocks",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-02T19:40:10+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/bnp-paribas-sends-fresh-message-194010206.html?.tsrc=rss"
-  },
-  {
-    "id": "n420f1e4bdb",
-    "headline": "Americans Hate AI Data Centers. For Stocks, the Trouble Is Just Beginning.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-02T19:11:00+00:00",
-    "url": "https://finance.yahoo.com/m/99941334-564f-3b03-a979-05483126e186/americans-hate-ai-data.html?.tsrc=rss"
-  },
-  {
-    "id": "n98a96eea04",
-    "headline": "3 AI Stocks to Still Buy If Inflation Stays Sticky",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-02T18:29:48+00:00",
-    "url": "https://www.fool.com/investing/2026/07/02/3-ai-stocks-to-still-buy-if-inflation-stays-sticky/?.tsrc=rss"
-  },
-  {
-    "id": "n0e7ecf880e",
-    "headline": "Meta Stock Falls as AI Cloud Plans Hit an Immediate Snag",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-02T17:43:00+00:00",
-    "url": "https://finance.yahoo.com/m/fc36266b-5d35-3566-ad5d-19ea60b47f43/meta-stock-falls-as-ai-cloud.html?.tsrc=rss"
-  },
-  {
-    "id": "n7d0f5e9398",
-    "headline": "CoreWeave Takes Another Hit From Meta. One Analyst Sees 200% Upside for the AI Stock.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-02T17:27:00+00:00",
-    "url": "https://finance.yahoo.com/m/3f669a8a-0ca8-3d25-950c-043984e978c8/coreweave-takes-another-hit.html?.tsrc=rss"
-  },
-  {
-    "id": "nd2f0623742",
-    "headline": "Stock Market Rebounds, But AI Falters; Meta, Tesla, Jobs Report In Focus: Weekly Review",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-02T15:36:31+00:00",
-    "url": "https://finance.yahoo.com/m/0216be55-b4a3-3fda-a072-f28212c2d74c/stock-market-rebounds%2C-but-ai.html?.tsrc=rss"
-  },
-  {
-    "id": "nc4105297d6",
-    "headline": "America Runs on Natural Gas: Fuel Set to Surpass Oil as US Top Energy Source by 2030",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-02T15:06:06+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/america-runs-on-natural-gas-fuel-set-to-surpass-oil-as-us-top-energy-source-by-2030-150606911.html?.tsrc=rss"
-  },
-  {
-    "id": "n29610f9eb1",
-    "headline": "America Runs on Natural Gas: Fuel Set to Surpass Oil as US Top Energy Source by 2030",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-02T15:06:06+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/america-runs-natural-gas-fuel-150606911.html?.tsrc=rss"
-  },
-  {
-    "id": "n06d249979e",
-    "headline": "UBS Just Raised Its Price Target on Bloom Energy Stock. Here's Why.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-02T14:42:41+00:00",
-    "url": "https://www.barchart.com/story/news/3100638/ubs-just-raised-its-price-target-on-bloom-energy-stock-here-s-why?.tsrc=rss"
-  },
-  {
-    "id": "nb042dc6009",
-    "headline": "Bloom Energy\u2019s $25B partnership targets AI\u2019s next bottleneck",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-02T14:07:00+00:00",
-    "url": "https://www.thestreet.com/investing/stocks/bloom-energys-25b-partnership-targets-ais-next-bottleneck?.tsrc=rss"
-  },
-  {
-    "id": "n04f5d59689",
-    "headline": "Wall Street Thinks You Should Buy The Dip On Applied Digital (APLD) Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-02T12:48:08+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-thinks-buy-dip-124808792.html?.tsrc=rss"
-  },
-  {
-    "id": "n94475c6d78",
-    "headline": "Morgan Stanley Lowers its Price Target on EQT Corporation (EQT)",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-02T08:50:02+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-lowers-price-target-085002054.html?.tsrc=rss"
-  },
-  {
-    "id": "na78f61b93d",
-    "headline": "Here is What Analysts Think About Vistra Corp. (VST)",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-02T08:49:55+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-think-vistra-corp-vst-084955115.html?.tsrc=rss"
-  },
-  {
-    "id": "ne222a0a4f7",
-    "headline": "SoftBank Plans AI Cloud Services in US to Tap Surging Demand",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-02T07:31:06+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/softbank-plans-ai-cloud-services-073106168.html?.tsrc=rss"
-  },
-  {
-    "id": "nf4ea6c337d",
-    "headline": "CoreWeave (CRWV) Is Down 15.1% After Meta Weighs Selling Excess AI Compute Capacity \u2013 What's Changed",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-02T04:30:06+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-down-15-1-043006556.html?.tsrc=rss"
-  },
-  {
-    "id": "nf02a3030ab",
-    "headline": "Dow Jones Futures: Techs Rise With Tesla, Jobs Report Ahead; Meta Jumps On AI Move",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-02T03:11:08+00:00",
-    "url": "https://finance.yahoo.com/m/da65a433-b7ba-3b63-9c9d-2ae1f8f32381/dow-jones-futures%3A-techs-rise.html?.tsrc=rss"
-  },
-  {
-    "id": "n2f3250d6c4",
-    "headline": "5 Under-the-Radar Stocks Fueling the AI Revolution",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-02T00:00:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/5-under-radar-stocks-fueling-000000653.html?.tsrc=rss"
-  },
-  {
-    "id": "ndf2d681f39",
-    "headline": "The Neocloud Trade Could Turn Shareholders Into Bagholders. Nebius Just Cratered 17%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-01T23:17:58+00:00",
-    "url": "https://247wallst.com/investing/2026/07/01/the-neocloud-trade-could-turn-shareholders-into-bagholders-nebius-just-cratered-17/?.tsrc=rss"
-  },
-  {
-    "id": "n1fef2a3bad",
-    "headline": "Bloom Energy Stock Is Priced For A Perfect Future, But Is Its AI Power Play Just Beginning?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-01T22:57:27+00:00",
-    "url": "https://www.trefis.com/articles/605357/bloom-energy-stock-is-priced-for-a-perfect-future-but-is-its-ai-power-play-just-beginning/2026-07-01?.tsrc=rss"
-  },
-  {
-    "id": "n62c912dbc0",
-    "headline": "Applied Digital (APLD): One of the Top Hot Stocks with the Highest Upside Potential",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-01T21:22:31+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-one-top-212231289.html?.tsrc=rss"
   }
 ]
