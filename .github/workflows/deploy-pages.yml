@@ -62,6 +62,9 @@ jobs:
           rm -rf cricket
           mkdir cricket
           cp -r cricket-schedule/out/. cricket/
+          # The static build deletes src/app/api in the working tree; restore
+          # it so pull --rebase runs on a clean tree.
+          git restore cricket-schedule
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add cricket
