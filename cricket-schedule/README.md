@@ -76,6 +76,20 @@ npm run build && npm start
 Deploys out of the box on Vercel or any Node 20+ host (set the project root to
 `cricket-schedule/`).
 
+### GitHub Pages deployment (how this repo publishes)
+
+The `deploy-pages.yml` workflow builds the static export and commits it to
+the `cricket/` folder on `main`; GitHub Pages (source: *deploy from a
+branch*, `main` + root) serves it at `/Leo26/cricket/`, alongside the other
+project hosted in this repository. This is intentionally the **only**
+deployment path — do not reintroduce `actions/deploy-pages`, which races
+the branch-based deployment and each intermittently breaks the other. The
+root `.nojekyll` file is required so `_next/` assets are served.
+
+Recovery: every published dataset is a git commit. If a bad publish lands,
+`git revert` the `chore: publish cricket schedule site` commit (the
+quality gate also refuses to replace healthy data with a degraded pull).
+
 ## Project structure
 
 ```
