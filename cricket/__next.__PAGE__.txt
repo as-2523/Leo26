@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[58116,["/Leo26/cricket/_next/static/chunks/158myu8e_yme3.js","/Leo26/cricket/_next/static/chunks/2v6e8bpou37_l.js"],"default"]
+3:I[97367,["/Leo26/cricket/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"mx-auto max-w-7xl px-4 py-8 sm:px-6","children":[["$","header",null,{"className":"mb-6","children":[["$","h1",null,{"className":"text-2xl font-bold tracking-tight text-white drop-shadow-sm","children":"🏏 India Cricket Schedule"}],["$","p",null,{"className":"mt-1 text-sm text-sky-50/90","children":"Upcoming fixtures for India Men, India A Men, India Under-19 Men, India Women and India A Women — rolling 6-month window, all times in IST."}]]}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/Leo26/cricket/_next/static/chunks/2v6e8bpou37_l.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"TeCX7Et_6liVQlDrhVdTh"}
+5:null
