@@ -1,4 +1,11 @@
-name: Deploy cricket-schedule to GitHub Pages
+name: Build and publish cricket schedule
+
+# Publishes the built static app into the cricket/ folder on main, which
+# GitHub Pages serves via its branch-based deployment ("deploy from a
+# branch") — the same pipeline that serves the rest of this repository.
+# This is deliberately the ONLY deployment path for the cricket app:
+# a previous Actions-based deployment (actions/deploy-pages) raced the
+# branch-based one and each intermittently broke the other.
 
 on:
   push:
@@ -8,26 +15,20 @@ on:
     # Refresh fixture data roughly every 48 hours.
     - cron: "0 3 */2 * *"
   workflow_dispatch:
-    inputs:
-      restore_run_id:
-        description: "Recovery: workflow run ID whose published fixtures.json should seed the quality gate"
-        required: false
 
 permissions:
-  contents: read
-  actions: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
-  group: pages
-  cancel-in-progress: true
+  group: cricket-publish
+  cancel-in-progress: false
 
 jobs:
-  build:
+  build-and-publish:
     runs-on: ubuntu-latest
-    # github-pages environment so environment-level secrets are visible too
-    environment: github-pages
+    # Fail fast and loudly rather than hanging (a stuck deployment once sat
+    # 15 minutes in "waiting" before being cancelled).
+    timeout-minutes: 15
     defaults:
       run:
         working-directory: cricket-schedule
@@ -38,31 +39,15 @@ jobs:
           node-version: 22
           cache: npm
           cache-dependency-path: cricket-schedule/package-lock.json
-      - uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - run: npm ci
-      - name: Fetch currently published data (for the quality gate)
-        run: curl -fsSL "https://as-2523.github.io/Leo26/fixtures.json" -o /tmp/previous-fixtures.json || true
-      - name: Restore data from a previous run's artifact (manual recovery)
-        if: ${{ github.event.inputs.restore_run_id }}
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages
-          run-id: ${{ github.event.inputs.restore_run_id }}
-          github-token: ${{ github.token }}
-          path: /tmp/restore
-      - name: Use restored fixtures as the quality-gate baseline
-        if: ${{ github.event.inputs.restore_run_id }}
-        run: |
-          tar -xf /tmp/restore/artifact.tar -C /tmp/restore ./fixtures.json
-          cp /tmp/restore/fixtures.json /tmp/previous-fixtures.json
       - name: Generate fixture data
         run: npm run generate:fixtures
         env:
           # Accept the key under either name, as a secret or a variable
           CRICAPI_KEY: ${{ secrets.CRICAPI_KEY || secrets.CRIC_KEY || vars.CRICAPI_KEY || vars.CRIC_KEY }}
-          PREVIOUS_FIXTURES_FILE: /tmp/previous-fixtures.json
+          # Quality gate baseline: the currently committed dataset. Every
+          # published dataset is a git commit, so rollback = git revert.
+          PREVIOUS_FIXTURES_FILE: ${{ github.workspace }}/cricket/fixtures.json
       - name: Build static site
         run: |
           rm -rf src/app/api  # Request-dependent route handlers are unsupported in static export
@@ -70,17 +55,21 @@ jobs:
         env:
           STATIC_EXPORT: "1"
           NEXT_PUBLIC_STATIC_DATA: "1"
-          NEXT_PUBLIC_BASE_PATH: /Leo26
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: cricket-schedule/out
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+          NEXT_PUBLIC_BASE_PATH: /Leo26/cricket
+      - name: Publish into cricket/ and push
+        working-directory: ${{ github.workspace }}
+        run: |
+          rm -rf cricket
+          mkdir cricket
+          cp -r cricket-schedule/out/. cricket/
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cricket
+          if git diff --cached --quiet; then
+            echo "No site changes — nothing to publish."
+          else
+            git commit -m "chore: publish cricket schedule site $(date -u +%Y-%m-%d)"
+            # The daily Leopold refresh also pushes to main; rebase to avoid races.
+            git pull --rebase origin main
+            git push
+          fi
