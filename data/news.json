@@ -1,5 +1,175 @@
 [
   {
+    "id": "n677c839c0b",
+    "headline": "Backblaze (BLZE) Is Up 14.1% After $335 Million CoreWeave AI Storage Deal Announcement - Has The Bull Case Changed?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-10T09:11:55+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/backblaze-blze-14-1-335-091155597.html?.tsrc=rss"
+  },
+  {
+    "id": "n4d75357be6",
+    "headline": "Wolfe Research Maintains Outperform rating on CoreWeave (CRWV)",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-10T06:58:23+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-maintains-outperform-rating-065823429.html?.tsrc=rss"
+  },
+  {
+    "id": "nce145c2d89",
+    "headline": "SEI Stock Jumps 5% After-Hours As S&P 600 Inclusion Sparks Buying",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-10T00:02:23+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/sei-stock-jumps-after-hours-as-sandp-600-inclusions-sparks-buying/cZmAZYNR7Fc?.tsrc=rss"
+  },
+  {
+    "id": "na6947715cc",
+    "headline": "BE Stock Ends Higher: Bloom Energy Denies Supply Chain And Scandium Allegations Following New Crossroads Capital Attack",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-09T23:22:27+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-ends-higher-bloom-energy-denies-supply-chain-and-scandium-allegations/cZmYXxmR7FR?.tsrc=rss"
+  },
+  {
+    "id": "n1d034bd768",
+    "headline": "Analysts reveal investors are underestimating Bitcoin miners",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-09T22:57:54+00:00",
+    "url": "https://www.thestreet.com/crypto/markets/analysts-reveal-investors-are-underestimating-bitcoin-miners?.tsrc=rss"
+  },
+  {
+    "id": "n7532a73d8a",
+    "headline": "Solaris Energy Infrastructure Set to Join S&P SmallCap 600",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-09T21:47:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-set-join-214700887.html?.tsrc=rss"
+  },
+  {
+    "id": "naf4519d580",
+    "headline": "Vistra Corp. (VST) Beats Stock Market Upswing: What Investors Need to Know",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-09T21:45:04+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-beats-stock-214504477.html?.tsrc=rss"
+  },
+  {
+    "id": "ne8465f2feb",
+    "headline": "Bloom Energy Rebounds; 'Categorically Rejects' Short-Seller Report",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-09T20:33:47+00:00",
+    "url": "https://finance.yahoo.com/m/a154a53c-a390-3171-9c4c-44e0f51d3ab4/bloom-energy-rebounds%3B.html?.tsrc=rss"
+  },
+  {
+    "id": "n88fe8e4c1e",
+    "headline": "Sector Update: Energy Stocks Fall Late Afternoon",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-09T19:55:09+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-195509677.html?.tsrc=rss"
+  },
+  {
+    "id": "n94d456f41a",
+    "headline": "MARA\u2019s $600M Texas Acquisition, PUC/ERCOT\u2019s New Data Center Rules, Hunterbrook\u2019s Bloom Energy Short Report",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-09T19:14:18+00:00",
+    "url": "https://blockspace.media/podcast/maras-600m-texas-acquisition-puc-ercots-new-data-center-rules-hunterbrooks-bloom-energy-short-report/?.tsrc=rss"
+  },
+  {
+    "id": "nfdb7266892",
+    "headline": "The S&P 500 Is Up 5% This Year. This \u2018Cash Cow\u2019 Fund Is Up 9%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-09T18:29:13+00:00",
+    "url": "https://247wallst.com/investing/2026/07/09/the-sp-500-is-up-5-this-year-this-cash-cow-fund-is-up-9-cowz/?.tsrc=rss"
+  },
+  {
+    "id": "na0e06792bc",
+    "headline": "GLXY Stock Gains, But Retail Traders Stay Bearish Despite AI Data Center Progress",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-09T17:47:36+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/glxy-stock-gains-retail-stays-bearish-despite-ai-data-center-progress/cZmY5zaR7np?.tsrc=rss"
+  },
+  {
+    "id": "nf1573b6010",
+    "headline": "What ICLN's Concentrated Holdings Say About This Dip",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-09T16:54:10+00:00",
+    "url": "https://www.trefis.com/articles/606416/what-iclns-concentrated-holdings-say-about-this-dip/2026-07-09?.tsrc=rss"
+  },
+  {
+    "id": "ne8cf4d4054",
+    "headline": "Down 40%, CoreWeave Is Being Left Behind By the Market",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-09T16:37:28+00:00",
+    "url": "https://247wallst.com/investing/2026/07/09/down-40-coreweave-is-being-left-behind-by-the-market/?.tsrc=rss"
+  },
+  {
+    "id": "n48bb8761d6",
+    "headline": "CoreWeave Named a Visionary in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Cloud AI Infrastructure",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-09T15:54:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-named-visionary-2026-gartner-155400852.html?.tsrc=rss"
+  },
+  {
+    "id": "naf51080ffc",
+    "headline": "Can Vistra's Long-Term PPAs Act as a Catalyst for Its Growth?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-09T12:45:00+00:00",
+    "url": "https://finance.yahoo.com/news/vistras-long-term-ppas-act-124500120.html?.tsrc=rss"
+  },
+  {
+    "id": "n8e5bae13f6",
+    "headline": "AI Stocks Look Expensive. These 3 ETFs Could Help Investors Stay in the Game.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-09T11:30:02+00:00",
+    "url": "https://www.barchart.com/story/news/3201847/ai-stocks-look-expensive-these-3-etfs-could-help-investors-stay-in-the-game?.tsrc=rss"
+  },
+  {
     "id": "n5b64655474",
     "headline": "2 Value Stocks to Own for Decades and 1 We Ignore",
     "source": "Yahoo Finance",
@@ -138,6 +308,16 @@
     ],
     "ts": "2026-07-08T15:33:58+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/does-freedom-broker-call-eqt-153358094.html?.tsrc=rss"
+  },
+  {
+    "id": "n951c9f6374",
+    "headline": "Why Penguin Solutions May Be the Smartest AI Infrastructure Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-08T15:25:00+00:00",
+    "url": "https://www.marketbeat.com/articles/why-penguin-solutions-may-be-the-smartest-ai-infrastructure-stock/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
   },
   {
     "id": "n658a4326a3",
@@ -318,185 +498,5 @@
     ],
     "ts": "2026-07-07T09:47:27+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-down-nearly-094727562.html?.tsrc=rss"
-  },
-  {
-    "id": "n34c6872df8",
-    "headline": "CoreWeave (CRWV) Faces A Fresh Valuation Test As ARIA Launch Meets A Sharper Pullback",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-07T09:16:26+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-faces-fresh-valuation-091626775.html?.tsrc=rss"
-  },
-  {
-    "id": "n35e26be0c0",
-    "headline": "NBIS Stock Down About 30% From Peak Amid Meta AI Cloud Threat \u2014 But Retail Still Believes In Neocloud Opportunity",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-07T07:54:24+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/nbis-stock-down-about-30-from-peak-amid-meta-ai-cloud-threat-but-retail-still-believes-in-neocloud-opportunity/cZmlOuLR7m0?.tsrc=rss"
-  },
-  {
-    "id": "nd601cf740f",
-    "headline": "Is Applied Digital\u2019s (APLD) New 175 MW AI Campus Milestone Redefining Its Core Infrastructure Story?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-07T04:40:58+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-apld-175-mw-044058594.html?.tsrc=rss"
-  },
-  {
-    "id": "n9b2ec195c0",
-    "headline": "Prediction: Why Buying Brookfield Renewable Instead of Bloom Energy Could Set You Up For Life",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-07T03:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/06/prediction-why-buying-brookfield-renewable-instead/?.tsrc=rss"
-  },
-  {
-    "id": "n3ffb261078",
-    "headline": "Dow Jones Futures: Tech Futures Slide On Samsung Earnings; SpaceX Falls Ahead Of Nasdaq-100 Inclusion",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-07T01:54:18+00:00",
-    "url": "https://finance.yahoo.com/m/c71a3345-6ae6-3d18-95eb-134519da74ab/dow-jones-futures%3A-tech.html?.tsrc=rss"
-  },
-  {
-    "id": "nb28065beb0",
-    "headline": "Meta Platforms Is Entering the Neocloud Business. Here's Why CoreWeave Investors Should Not Worry.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-06T21:50:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/06/meta-platforms-is-entering-the-neocloud-business-h/?.tsrc=rss"
-  },
-  {
-    "id": "n969611d9e6",
-    "headline": "Can Small-Cap Stocks Continue to Outperform?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-06T21:04:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/small-cap-stocks-continue-outperform-210400115.html?.tsrc=rss"
-  },
-  {
-    "id": "ne0259b85a1",
-    "headline": "Why Solaris Energy Infrastructure (SEI) Stock Is Trading Up Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-07-06T21:00:01+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/why-solaris-energy-infrastructure-sei-210001240.html?.tsrc=rss"
-  },
-  {
-    "id": "n1b1d3e72be",
-    "headline": "Bloom Energy to Announce Second Quarter 2026 Financial Results on July 28, 2026",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-06T21:00:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/bloom-energy-announce-second-quarter-210000052.html?.tsrc=rss"
-  },
-  {
-    "id": "n889062a4c9",
-    "headline": "TeraWulf, Anthropic Sign $19 Billion Data Center Lease. Neocloud Stocks Soar.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-06T20:03:50+00:00",
-    "url": "https://finance.yahoo.com/m/21a0c327-87ae-3213-b30a-e194f708d278/terawulf%2C-anthropic-sign-%2419.html?.tsrc=rss"
-  },
-  {
-    "id": "n8a4d7b4963",
-    "headline": "TeraWulf Stock Is Up 95% This Year: Here\u2019s Why",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-06T19:11:46+00:00",
-    "url": "https://247wallst.com/investing/2026/07/06/terawulf-stock-is-up-95-this-year-heres-why/?.tsrc=rss"
-  },
-  {
-    "id": "n038c331b00",
-    "headline": "Sector Update: Energy Stocks Mixed Monday Afternoon",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-07-06T17:54:11+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-monday-175411874.html?.tsrc=rss"
-  },
-  {
-    "id": "n29bc802486",
-    "headline": "Wall Street Still Loves Applied Digital (APLD) Stock Despite The Selloff, Here\u2019s Why",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-06T17:50:47+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-still-loves-applied-175047640.html?.tsrc=rss"
-  },
-  {
-    "id": "nc3954371da",
-    "headline": "Is Solaris Energy Infrastructure (SEI) One of the Best Oil and Gas Stocks to Buy for the Next Decade?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-07-06T17:02:16+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/solaris-energy-infrastructure-sei-one-170216440.html?.tsrc=rss"
-  },
-  {
-    "id": "n00c3b8dfed",
-    "headline": "Can AI-Driven Electricity Demand Fuel CEG's Long-Term Growth?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-06T16:42:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/ai-driven-electricity-demand-fuel-164200415.html?.tsrc=rss"
-  },
-  {
-    "id": "n92c0dc11ff",
-    "headline": "Here's Why Bloom Energy Stock Rallied Again Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-06T16:35:14+00:00",
-    "url": "https://www.fool.com/investing/2026/07/06/heres-why-bloom-energy-stock-rallied-again-today/?.tsrc=rss"
-  },
-  {
-    "id": "n112b96da26",
-    "headline": "Vistra to Report Second Quarter Results on Aug. 7, 2026",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-06T16:10:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-report-second-quarter-results-161000795.html?.tsrc=rss"
-  },
-  {
-    "id": "n3503bcf18a",
-    "headline": "Record Heat Dome Drove the Grid to All-Time Peak Demand Friday: Here\u2019s 4 Stocks To Buy As Things Heat Up",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-06T14:05:32+00:00",
-    "url": "https://247wallst.com/investing/2026/07/06/record-heat-dome-drove-the-grid-to-all-time-peak-demand-friday-heres-4-stocks-to-buy-as-things-heat-up/?.tsrc=rss"
   }
 ]
