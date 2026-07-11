@@ -1,5 +1,195 @@
 [
   {
+    "id": "n1ef2923759",
+    "headline": "Is Bloom Energy the Next Nvidia?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-11T05:05:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/11/is-bloom-the-next-nvidia/?.tsrc=rss"
+  },
+  {
+    "id": "nf8be8dd0c9",
+    "headline": "Why Solaris Energy Infrastructure (SEI) Stock Is Up Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-10T22:31:20+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-solaris-energy-infrastructure-sei-223120773.html?.tsrc=rss"
+  },
+  {
+    "id": "n5c9515f7f4",
+    "headline": "Bloom Energy (BE) Is Down 9.7% After Scandium Supply Dispute And $25B AI Power Deal Expansion",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-10T22:13:36+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-down-9-7-221336838.html?.tsrc=rss"
+  },
+  {
+    "id": "n8ca144b9ef",
+    "headline": "Why Plug Power (PLUG) Stock Is Nosediving",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-10T20:31:20+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-plug-power-plug-stock-203120251.html?.tsrc=rss"
+  },
+  {
+    "id": "na808842649",
+    "headline": "Sector Update: Energy Stocks Softer Friday Afternoon",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-10T17:54:28+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-softer-friday-175428277.html?.tsrc=rss"
+  },
+  {
+    "id": "n660bb543cc",
+    "headline": "Google, Amazon Increase Data-Center Capacity Plans",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-10T17:48:48+00:00",
+    "url": "https://finance.yahoo.com/m/c6471f28-c858-3f6b-b2b4-96de5d4711d0/google%2C-amazon-increase.html?.tsrc=rss"
+  },
+  {
+    "id": "nc380b42242",
+    "headline": "CoreWeave's CEO Dumped Nearly 370,000 Shares for $30.8 Million. What Does That Mean for Investors?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-10T17:26:01+00:00",
+    "url": "https://www.fool.com/coverage/filings/2026/07/10/coreweave-s-ceo-dumped-nearly-370-000-shares-for-usd30-8-million-what-does-that-mean-for-investors/?.tsrc=rss"
+  },
+  {
+    "id": "nd1cb90ea76",
+    "headline": "CoreWeave CEO Sells Another $22 Million in Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-10T16:47:38+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-ceo-sells-another-22-164738819.html?.tsrc=rss"
+  },
+  {
+    "id": "n241fe019b9",
+    "headline": "Meta Vs. Coreweave: How Meta is Looking to Bury Coreweave With \u2018Meta Compute\u2019 Sovereign Scale",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-10T16:27:03+00:00",
+    "url": "https://247wallst.com/investing/2026/07/10/meta-vs-coreweave-how-meta-is-looking-to-bury-coreweave-with-meta-compute-sovereign-scale/?.tsrc=rss"
+  },
+  {
+    "id": "n7643dcfef3",
+    "headline": "APLD's Customer Concentration Remains High: Will it Limit Growth?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-10T16:05:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/aplds-customer-concentration-remains-high-160500472.html?.tsrc=rss"
+  },
+  {
+    "id": "n4a27b0c32c",
+    "headline": "BE Stock Alert: Bloom Energy Stock Remains In Focus Following Short Report, Rebuttal",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-10T15:42:27+00:00",
+    "url": "https://www.barchart.com/story/news/3226408/be-stock-alert-bloom-energy-stock-remains-in-focus-following-short-report-rebuttal?.tsrc=rss"
+  },
+  {
+    "id": "nea09463c75",
+    "headline": "Is CBRS Stock a Buy or a Wait as Growth Meets Execution Risk?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-10T15:40:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cbrs-stock-buy-wait-growth-154000693.html?.tsrc=rss"
+  },
+  {
+    "id": "neef2eb6488",
+    "headline": "FuelCell Energy Drops 11%, Bloom Energy Slides 8%, Plug Power Falls 6% as Fuel-Cell Stocks Unwind Massive 2026 Gains",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-10T15:14:10+00:00",
+    "url": "https://247wallst.com/investing/2026/07/10/fuelcell-energy-drops-11-bloom-energy-slides-8-plug-power-falls-6-as-fuel-cell-stocks-unwind-massive-2026-gains/?.tsrc=rss"
+  },
+  {
+    "id": "n51bfad3683",
+    "headline": "Vistra (VST) Becomes A Preferred Power Provider For AI",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-10T13:54:17+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-becomes-preferred-power-135417259.html?.tsrc=rss"
+  },
+  {
+    "id": "n02d58b233b",
+    "headline": "Sector Update: Energy Stocks Advance Pre-Bell Friday",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-10T13:23:23+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-pre-132323160.html?.tsrc=rss"
+  },
+  {
+    "id": "nbf33492989",
+    "headline": "EQT Stock Is Near a Trough, Attracting Value Investors Ahead of Earnings",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-10T13:00:02+00:00",
+    "url": "https://www.barchart.com/story/news/3223996/eqt-stock-is-near-a-trough-attracting-value-investors-ahead-of-earnings?.tsrc=rss"
+  },
+  {
+    "id": "n2887a8ad4b",
+    "headline": "GE Vernova vs. Vistra: One AI Power Stock Has Absolutely Crushed the Other, And Could Continue Doing So",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-10T12:22:10+00:00",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/10/ge-vernova-vs-vistra-one-ai-power-stock-has-absolutely-crushed-the-other-and-could-continue-doing-so/?.tsrc=rss"
+  },
+  {
+    "id": "n4c48343c5e",
+    "headline": "\u2018Staggering\u2019: Goldman Sachs Says China\u2019s Oil Demand May Never Fully Recover",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-10T11:54:43+00:00",
+    "url": "https://247wallst.com/investing/2026/07/10/staggering-goldman-sachs-says-chinas-oil-demand-may-never-fully-recover/?.tsrc=rss"
+  },
+  {
+    "id": "nb28b87eb17",
+    "headline": "LRCX, APLD, KLAC: Why Chip Equipment Stocks Are Falling Premarket Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-10T09:25:49+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/lrcx-apld-klac-why-chip-equipment-stocks-are-falling-premarket-today/cZmACpqR7FV?.tsrc=rss"
+  },
+  {
     "id": "n677c839c0b",
     "headline": "Backblaze (BLZE) Is Up 14.1% After $335 Million CoreWeave AI Storage Deal Announcement - Has The Bull Case Changed?",
     "source": "Yahoo Finance",
@@ -308,195 +498,5 @@
     ],
     "ts": "2026-07-08T15:33:58+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/does-freedom-broker-call-eqt-153358094.html?.tsrc=rss"
-  },
-  {
-    "id": "n951c9f6374",
-    "headline": "Why Penguin Solutions May Be the Smartest AI Infrastructure Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-08T15:25:00+00:00",
-    "url": "https://www.marketbeat.com/articles/why-penguin-solutions-may-be-the-smartest-ai-infrastructure-stock/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n658a4326a3",
-    "headline": "FuelCell Energy Sinks 14%, Bloom Energy Slides 8% After $225M FCEL Share Sale Prices at $21; Plug Power Treads Water",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-08T15:20:26+00:00",
-    "url": "https://247wallst.com/investing/2026/07/08/fuelcell-energy-sinks-14-bloom-energy-slides-8-after-225m-fcel-share-sale-prices-at-21-plug-power-treads-water/?.tsrc=rss"
-  },
-  {
-    "id": "nb9581b54a5",
-    "headline": "The One Number That Could Rewrite the Story for CoreWeave Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-08T15:11:27+00:00",
-    "url": "https://www.trefis.com/articles/606178/the-one-number-that-could-rewrite-the-story-for-coreweave-stock/2026-07-08?.tsrc=rss"
-  },
-  {
-    "id": "n482b4eb96b",
-    "headline": "Backblaze (BLZE) Lands $335 Million AI Infrastructure Deal",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-08T14:47:35+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/backblaze-blze-lands-335-million-144735043.html?.tsrc=rss"
-  },
-  {
-    "id": "n2dd5857a26",
-    "headline": "TeraWulf Rises 12%, IREN Climbs 7% as AI-Infrastructure Stocks Bounce Back",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-08T14:27:20+00:00",
-    "url": "https://247wallst.com/investing/2026/07/08/terawulf-rises-12-iren-climbs-7-as-ai-infrastructure-stocks-bounce-back/?.tsrc=rss"
-  },
-  {
-    "id": "n439849a224",
-    "headline": "Jefferies Trims EQT Price Target by $2. Here is Why",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-08T05:00:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/jefferies-trims-eqt-price-target-050000306.html?.tsrc=rss"
-  },
-  {
-    "id": "n88fbde494f",
-    "headline": "Bloom Energy (BE) Falls 8.6% on Profit-Taking",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-08T01:30:57+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-falls-8-6-013057750.html?.tsrc=rss"
-  },
-  {
-    "id": "n6d25f2642a",
-    "headline": "CoreWeave stock sinks as mag 7 move rattles investors",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-07T21:33:00+00:00",
-    "url": "https://www.thestreet.com/investing/stocks/meta-ai-cloud-competitor-coreweave-crwv?.tsrc=rss"
-  },
-  {
-    "id": "n73bcd5d7e4",
-    "headline": "Bloom Energy (BE) Could Be 20% Undervalued As Brookfield Expands Its Financing Framework",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-07T18:21:54+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-could-20-undervalued-182154695.html?.tsrc=rss"
-  },
-  {
-    "id": "nf42f19d317",
-    "headline": "FuelCell Energy Drops 10%, Bloom Energy Slides 8%, Plug Power Falls 5% Despite Positive News as Profit-Taking Hits Fuel Cell Stocks",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-07T18:19:05+00:00",
-    "url": "https://247wallst.com/investing/2026/07/07/fuelcell-energy-drops-10-bloom-energy-slides-8-plug-power-falls-5-despite-positive-news-as-profit-taking-hits-fuel-cell-stocks/?.tsrc=rss"
-  },
-  {
-    "id": "na339f07189",
-    "headline": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-07T18:00:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/meta-debuts-ai-image-generation-180000242.html?.tsrc=rss"
-  },
-  {
-    "id": "nb1ce3fb5b3",
-    "headline": "Cloudflare Is Up 9% Today: Is It Outperforming Other AI Cloud Stocks Like Oracle, CoreWeave, and Snowflake?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-07T17:39:15+00:00",
-    "url": "https://247wallst.com/investing/2026/07/07/cloudflare-is-up-9-today-is-it-outperforming-other-ai-cloud-stocks-like-oracle-coreweave-and-snowflake/?.tsrc=rss"
-  },
-  {
-    "id": "n727da49338",
-    "headline": "Price Prediction: CoreWeave Stock Eyes 100% Upside as Data Center Demand Surges",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-07T17:10:29+00:00",
-    "url": "https://247wallst.com/investing/2026/07/07/price-prediction-coreweave-stock-eyes-100-upside-as-data-center-demand-surges/?.tsrc=rss"
-  },
-  {
-    "id": "nae70cd8da2",
-    "headline": "TeraWulf Drops 8% Even as Analysts Raise Price Targets on $19B Anthropic Deal, IREN Falls 7%, Applied Digital Slides 6%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-07T16:54:08+00:00",
-    "url": "https://247wallst.com/investing/2026/07/07/terawulf-drops-8-even-as-analysts-raise-price-targets-on-19b-anthropic-deal-iren-falls-7-applied-digital-slides-6/?.tsrc=rss"
-  },
-  {
-    "id": "na019f0108a",
-    "headline": "Meta Vs. Coreweave: Despite 2032 Partnership, \u2018Meta Compute\u2019 Remains a Massive Threat to Coreweave",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-07T16:29:17+00:00",
-    "url": "https://247wallst.com/investing/2026/07/07/meta-vs-coreweave-despite-2032-partnership-meta-compute-remains-a-massive-threat-to-coreweave/?.tsrc=rss"
-  },
-  {
-    "id": "n6bf64837bb",
-    "headline": "Brookfield, Bloom Energy Expand AI Infrastructure Partnership to $25 Billion",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-07T14:36:38+00:00",
-    "url": "https://www.powermag.com/brookfield-bloom-energy-expand-ai-infrastructure-partnership-to-25-billion/?.tsrc=rss"
-  },
-  {
-    "id": "ne92ecec4ee",
-    "headline": "Solaris Energy's $55M GESA Deal Expands Power Services Portfolio",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-07-07T14:22:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/solaris-energys-55m-gesa-deal-142200645.html?.tsrc=rss"
-  },
-  {
-    "id": "n039578a1e2",
-    "headline": "Bloom Energy vs. Eos Energy Enterprises: Which Power Stock Is a Better Buy in 2026?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-07T13:40:01+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/07/07/bloom-energy-vs-eos-energy-enterprises-which-power-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "n1f8cb9a031",
-    "headline": "CoreWeave Inc. (CRWV) Down Nearly 20% Since Jim Cramer Said It\u2019s \u201cComing Back\u201d",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-07T09:47:27+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-down-nearly-094727562.html?.tsrc=rss"
   }
 ]
