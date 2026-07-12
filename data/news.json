@@ -1,5 +1,45 @@
 [
   {
+    "id": "n72189b37ed",
+    "headline": "What\u2019s the AI hit to U.S. inflation?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-12T05:30:10+00:00",
+    "url": "https://finance.yahoo.com/economy/policy/articles/ai-hit-u-inflation-053010343.html?.tsrc=rss"
+  },
+  {
+    "id": "n8f2d65c685",
+    "headline": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You (CORRECTED)",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-11T21:31:14+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-donald-trump-bet-213114487.html?.tsrc=rss"
+  },
+  {
+    "id": "n95e49c74f3",
+    "headline": "Nvidia CEO Jensen Huang Said AI's \"Most Profound Impact Will Be in Life Sciences.\" Does This Bet on a Biotech Stock Prove He Means It?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-11T15:57:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/11/nvidia-ceo-jensen-huang-said-ais-most-profound-imp/?.tsrc=rss"
+  },
+  {
+    "id": "n56c9162332",
+    "headline": "CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-11T11:50:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/11/coreweave-stock-sank-11-after-mark-zuckerbergs-me/?.tsrc=rss"
+  },
+  {
     "id": "n1ef2923759",
     "headline": "Is Bloom Energy the Next Nvidia?",
     "source": "Yahoo Finance",
@@ -458,45 +498,5 @@
     ],
     "ts": "2026-07-08T16:22:15+00:00",
     "url": "https://finance.yahoo.com/energy/articles/eqt-expected-deliver-positive-q2-162215008.html?.tsrc=rss"
-  },
-  {
-    "id": "n32ef735098",
-    "headline": "XLU vs. VPU: Which Utilities ETF Best Powers the AI Data-Center Boom?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-08T16:09:33+00:00",
-    "url": "https://247wallst.com/investing/etf/2026/07/08/xlu-vs-vpu-which-utilities-etf-best-powers-the-ai-data-center-boom/?.tsrc=rss"
-  },
-  {
-    "id": "n6a5276dc63",
-    "headline": "CEG Stock Trails Industry in the Past Year: Time to Buy, Hold or Sell?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-08T16:06:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/ceg-stock-trails-industry-past-160600944.html?.tsrc=rss"
-  },
-  {
-    "id": "n8741742f0b",
-    "headline": "Nvidia Is Allegedly Delaying Its Kyber Rack-Scale Architecture by More Than 12 Months. What This Means for NVDA Stock.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-08T15:50:30+00:00",
-    "url": "https://www.barchart.com/story/news/3187711/nvidia-is-allegedly-delaying-its-kyber-rack-scale-architecture-by-more-than-12-months-what-this-means-for-nvda-stock?.tsrc=rss"
-  },
-  {
-    "id": "nf83f8367ce",
-    "headline": "What Does Freedom Broker\u2019s Call on EQT Corp (EQT) Stock Reveal?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-08T15:33:58+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/does-freedom-broker-call-eqt-153358094.html?.tsrc=rss"
   }
 ]
