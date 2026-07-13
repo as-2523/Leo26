@@ -62,7 +62,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 552055799808,
-    "pe_ratio": 69.982285,
+    "pe_ratio": 69.754295,
     "description": "Intel Corporation designs, develops, manufactures, markets, sells, and services computing and related end products and services in the United States, Ireland, Israel, and internationally. It operates through three segments: CCG, DCAI, and Intel Foundry. The company offers client computing group products, including client and commercial CPUs, discrete client GPUs, edge computing, and connectivity products; data center and AI products, such as server CPUs, discrete GPUs, and networking products; and semiconductors comprising wafer fabrication, substrates, and other related products and services. It also provides driving assistance and self-driving solutions; and develops and manufactures multi-beam mask writing tools. The company sells its products through sales organizations, distributors, resellers, retailers, and OEM partners. It serves original equipment manufacturers, original design manufacturers, cloud service providers, and other manufacturers and service providers. Intel Corporation has a strategic collaboration with Infosys Limited to develop a multi-layer AI fabric that unifies infrastructure, models, data, applications, and workflows into a composable and agent-ready ecos",
     "industry": "Semiconductors",
     "website": "https://www.intel.com"
@@ -413,7 +413,7 @@
     "website": "https://psiengines.com",
     "market_cap": 795701568,
     "pe_ratio": 7.7923255,
-    "description": "Power Solutions International, Inc. designs, engineers, manufactures, markets, and sells engines and power systems in the United States, the rest of North America, the Pacific Rim, Europe, and internationally. The company offers basic engine blocks integrated with fuel system parts, as well as completely packaged power systems, that include combinations of front accessory drives, cooling systems, electronic systems, air intake systems, fuel systems, housings, power takeoff systems, exhaust systems, hydraulic systems, enclosures, brackets, hoses, tubes, packaging, telematics, and other assembled componentry. It also designs and manufactures large, custom-engineered integrated electrical power generation systems for standby and prime power applications; sells emission-certified compression ignition and spark-ignition internal combustion engines; designs and fabricates power system enclosures; and sources electrification components. In addition, the company provides mobile and stationary gensets for emergency standby, rental, prime power, demand response, microgrid, oil and gas, data center, renewable energy resiliency, and combined heat and power; forklifts, wood chippers, stump grin"
+    "description": ""
   },
   "PUMP": {
     "name": "ProPetro Holding Corp.",

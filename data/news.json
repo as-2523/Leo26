@@ -1,5 +1,45 @@
 [
   {
+    "id": "n3599323ca0",
+    "headline": "Cathie Wood Is Doubling Down on This AI Stock During the Sell-Off",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-13T07:20:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/13/cathie-wood-is-doubling-down-on-this-ai-stock-duri/?.tsrc=rss"
+  },
+  {
+    "id": "n8717b692ec",
+    "headline": "Bloom Energy\u2019s Biggest Selloff In Months Has Created A Wall Street Divide \u2013 Analyst Says Market May Be Overreacting",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-13T06:18:29+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/bloom-energy-biggest-selloff-in-months-has-created-a-wall-street-divide/cZmziEQR7o1?.tsrc=rss"
+  },
+  {
+    "id": "nbe39e09552",
+    "headline": "AI giant\u2019s \u00a32bn data centre hit by grid delays",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-13T05:00:00+00:00",
+    "url": "https://www.telegraph.co.uk/business/2026/07/13/ai-giant-2bn-data-centre-delayed-net-zero-backlog/?.tsrc=rss"
+  },
+  {
+    "id": "n351ffd963d",
+    "headline": "JOBY, EQT, XE Stocks Hit 52-Week Lows Last Week: What Drove The Selloff?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-13T04:14:15+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/joby-eqt-xe-stocks-hit-52-week-lows-last-week-what-drove-the-selloff/cZmzQv2R7oX?.tsrc=rss"
+  },
+  {
     "id": "n72189b37ed",
     "headline": "What\u2019s the AI hit to U.S. inflation?",
     "source": "Yahoo Finance",
@@ -458,45 +498,5 @@
     ],
     "ts": "2026-07-08T20:02:39+00:00",
     "url": "https://247wallst.com/investing/2026/07/08/crwv-vs-qqq-buy-coreweave-for-explosive-ai-alpha-or-hold-qqq-for-insulated-macro-safety/?.tsrc=rss"
-  },
-  {
-    "id": "nec3278e8bd",
-    "headline": "Mark Zuckerberg's Meta Is Entering What Could Be a $2 Trillion Cloud Market. CoreWeave Stock Fell 14% on the News.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-08T19:06:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/08/mark-zuckerberg-meta-cloud-stock-coreweave/?.tsrc=rss"
-  },
-  {
-    "id": "na6772417e1",
-    "headline": "CoreWeave (CRWV) Secures Helios Power As New Commitments Reach $40 Billion",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-08T18:21:44+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-secures-helios-power-182144925.html?.tsrc=rss"
-  },
-  {
-    "id": "n4d7a294e17",
-    "headline": "Is Vistra (VST) Undervalued Following PJM's Record Fourth Of July Power Demand?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-08T18:19:51+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-undervalued-following-pjms-181951376.html?.tsrc=rss"
-  },
-  {
-    "id": "ncec66618b5",
-    "headline": "EQT Expected to Deliver Positive Q2 on Strong Production, UBS Says",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-08T16:22:15+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-expected-deliver-positive-q2-162215008.html?.tsrc=rss"
   }
 ]
