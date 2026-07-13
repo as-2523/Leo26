@@ -1,36 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-yv245j",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "England",
-      "startTimeUtc": "2026-07-11T17:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "India tour of England, 2026",
-      "seriesStartUtc": "2026-07-01T00:00:00.000Z",
-      "seriesEndUtc": "2026-07-19T00:00:00.000Z",
-      "venue": "The Rose Bowl, Southampton",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-ekwtpv",
-      "teamId": "india-u19-men",
-      "teamName": "India Under-19 Men",
-      "opponent": "Sri Lanka U19",
-      "startTimeUtc": "2026-07-13T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Youth",
-      "formatLabel": "Unknown",
-      "series": "India U19 tour of Sri Lanka 2026",
-      "seriesStartUtc": "2026-07-04T00:00:00.000Z",
-      "seriesEndUtc": "2026-07-23T00:00:00.000Z",
-      "venue": "Galle International Stadium, Galle",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-yx69m8",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -1112,9 +1082,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-07-11T05:42:25.648Z",
-    "windowStart": "2026-07-11T00:00:00.000Z",
-    "windowEnd": "2027-01-11T00:00:00.000Z",
+    "generatedAt": "2026-07-13T06:21:38.505Z",
+    "windowStart": "2026-07-13T00:00:00.000Z",
+    "windowEnd": "2027-01-13T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -1130,7 +1100,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 74
+        "count": 72
       },
       {
         "id": "manual",
