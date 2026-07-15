@@ -1,5 +1,185 @@
 [
   {
+    "id": "nf14ca93cf3",
+    "headline": "NBIS, IREN, CRWV, APLD: Retail Traders Shrug Off AI Pullback, Buy The Dip In Neocloud Stocks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-15T05:14:36+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/nbis-iren-crwv-apld-retail-traders-shrug-off-ai-pullback-buy-the-dip-in-neocloud-stocks/cZZ2sAsR7Ac?.tsrc=rss"
+  },
+  {
+    "id": "nbd28004723",
+    "headline": "Exclusive-AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-14T23:50:16+00:00",
+    "url": "https://finance.yahoo.com/markets/options/articles/exclusive-ai-cloud-company-coreweave-235016062.html?.tsrc=rss"
+  },
+  {
+    "id": "nbe9dc44687",
+    "headline": "Is EQT (EQT) Still Undervalued After Its Recent Pullback?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-14T22:15:36+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-still-undervalued-recent-221536393.html?.tsrc=rss"
+  },
+  {
+    "id": "nea429264b6",
+    "headline": "Why Core Scientific Stock Was Up 75.8% In The First Half of 2026",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-14T20:30:50+00:00",
+    "url": "https://www.fool.com/investing/2026/07/14/why-core-scientific-stock-was-up-758-in-the-first/?.tsrc=rss"
+  },
+  {
+    "id": "n8c9443574f",
+    "headline": "Chevron Entered The AI Power Business. The Oil Patch Won't Be The Same.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-14T20:08:29+00:00",
+    "url": "https://finance.yahoo.com/m/b3f972a7-f5b0-3c2a-b3a0-05517dcc0815/chevron-entered-the-ai-power.html?.tsrc=rss"
+  },
+  {
+    "id": "n78a09f02f7",
+    "headline": "Sector Update: Energy Stocks Advance Late Afternoon",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-14T19:55:43+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-afternoon-195543267.html?.tsrc=rss"
+  },
+  {
+    "id": "n6fc6d88b30",
+    "headline": "Sector Update: Energy Stocks Decline Tuesday Afternoon",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-14T17:49:23+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-tuesday-174923006.html?.tsrc=rss"
+  },
+  {
+    "id": "nf9021914a5",
+    "headline": "Vistra (VST) Could Get A Lift From PJM's Next Capacity Auction",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-14T17:12:32+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-could-lift-pjms-171232214.html?.tsrc=rss"
+  },
+  {
+    "id": "n6539ea661f",
+    "headline": "Major US Power Sale to Show Depth of Eastern Grid\u2019s Tight Supply",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-14T15:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/major-us-power-sale-show-150000099.html?.tsrc=rss"
+  },
+  {
+    "id": "nca55b22c67",
+    "headline": "Should Nebius and CoreWeave Investors Be Scared by Meta's Latest Plans?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-14T14:40:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/14/should-nebius-and-coreweave-investors-be-scared-by/?.tsrc=rss"
+  },
+  {
+    "id": "n98a6afdd0d",
+    "headline": "Analysts Estimate EQT Corporation (EQT) to Report a Decline in Earnings: What to Look Out for",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-14T14:00:09+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-estimate-eqt-corporation-eqt-140009800.html?.tsrc=rss"
+  },
+  {
+    "id": "n5e1734b12e",
+    "headline": "NOV Stock Rallies 49% in a Year: Time to Buy or Move On?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-14T13:57:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nov-stock-rallies-49-time-135700195.html?.tsrc=rss"
+  },
+  {
+    "id": "n8798b99522",
+    "headline": "Short Seller Hunterbrook Attacked Bloom Energy\u2019s Supply-Chain Claims. BE Stock Is Bruised, But Not Broken.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-14T13:30:02+00:00",
+    "url": "https://www.barchart.com/story/news/3274458/short-seller-hunterbrook-attacked-bloom-energys-supply-chain-claims-be-stock-is-bruised-but-not-broken?.tsrc=rss"
+  },
+  {
+    "id": "nbb41472ea6",
+    "headline": "Bloom Energy (BE) Stock Could Be Below Fair Value After A 12x Run",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-14T13:17:47+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-could-below-131747031.html?.tsrc=rss"
+  },
+  {
+    "id": "nac435e4acc",
+    "headline": "Can Nebius' Four-Pronged Strategy Create the Next AI Hyperscaler?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-14T13:17:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nebius-four-pronged-strategy-create-131700647.html?.tsrc=rss"
+  },
+  {
+    "id": "n07d90eb6fd",
+    "headline": "FuelCell's Big Partnership Couldn't Outrun Its Big Bill",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-14T13:06:02+00:00",
+    "url": "https://www.trefis.com/articles/607096/fuelcells-big-partnership-couldnt-outrun-its-big-bill/2026-07-14?.tsrc=rss"
+  },
+  {
+    "id": "nf7c715fd4e",
+    "headline": "Solaris Energy Infrastructure (SEI) Following S&P 600 News Is Its Power Story Still Undervalued",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-14T10:15:53+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-sei-following-101553954.html?.tsrc=rss"
+  },
+  {
+    "id": "n7b062d4d95",
+    "headline": "How EQT\u2019s Earnings Beat on Strong Gas Demand From Data Centers and LNG Will Impact EQT (EQT) Investors",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-14T09:13:05+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/eqt-earnings-beat-strong-gas-091305273.html?.tsrc=rss"
+  },
+  {
     "id": "n4f01a86c43",
     "headline": "Is EQT (EQT) Undervalued Following Its Fourth Quarter Earnings Beat?",
     "source": "Yahoo Finance",
@@ -318,185 +498,5 @@
     ],
     "ts": "2026-07-10T17:48:48+00:00",
     "url": "https://finance.yahoo.com/m/c6471f28-c858-3f6b-b2b4-96de5d4711d0/google%2C-amazon-increase.html?.tsrc=rss"
-  },
-  {
-    "id": "nc380b42242",
-    "headline": "CoreWeave's CEO Dumped Nearly 370,000 Shares for $30.8 Million. What Does That Mean for Investors?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-10T17:26:01+00:00",
-    "url": "https://www.fool.com/coverage/filings/2026/07/10/coreweave-s-ceo-dumped-nearly-370-000-shares-for-usd30-8-million-what-does-that-mean-for-investors/?.tsrc=rss"
-  },
-  {
-    "id": "nd1cb90ea76",
-    "headline": "CoreWeave CEO Sells Another $22 Million in Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-10T16:47:38+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-ceo-sells-another-22-164738819.html?.tsrc=rss"
-  },
-  {
-    "id": "n241fe019b9",
-    "headline": "Meta Vs. Coreweave: How Meta is Looking to Bury Coreweave With \u2018Meta Compute\u2019 Sovereign Scale",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-10T16:27:03+00:00",
-    "url": "https://247wallst.com/investing/2026/07/10/meta-vs-coreweave-how-meta-is-looking-to-bury-coreweave-with-meta-compute-sovereign-scale/?.tsrc=rss"
-  },
-  {
-    "id": "n7643dcfef3",
-    "headline": "APLD's Customer Concentration Remains High: Will it Limit Growth?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-10T16:05:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/aplds-customer-concentration-remains-high-160500472.html?.tsrc=rss"
-  },
-  {
-    "id": "n4a27b0c32c",
-    "headline": "BE Stock Alert: Bloom Energy Stock Remains In Focus Following Short Report, Rebuttal",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-10T15:42:27+00:00",
-    "url": "https://www.barchart.com/story/news/3226408/be-stock-alert-bloom-energy-stock-remains-in-focus-following-short-report-rebuttal?.tsrc=rss"
-  },
-  {
-    "id": "nea09463c75",
-    "headline": "Is CBRS Stock a Buy or a Wait as Growth Meets Execution Risk?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-10T15:40:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/cbrs-stock-buy-wait-growth-154000693.html?.tsrc=rss"
-  },
-  {
-    "id": "neef2eb6488",
-    "headline": "FuelCell Energy Drops 11%, Bloom Energy Slides 8%, Plug Power Falls 6% as Fuel-Cell Stocks Unwind Massive 2026 Gains",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-10T15:14:10+00:00",
-    "url": "https://247wallst.com/investing/2026/07/10/fuelcell-energy-drops-11-bloom-energy-slides-8-plug-power-falls-6-as-fuel-cell-stocks-unwind-massive-2026-gains/?.tsrc=rss"
-  },
-  {
-    "id": "n51bfad3683",
-    "headline": "Vistra (VST) Becomes A Preferred Power Provider For AI",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-10T13:54:17+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-becomes-preferred-power-135417259.html?.tsrc=rss"
-  },
-  {
-    "id": "n02d58b233b",
-    "headline": "Sector Update: Energy Stocks Advance Pre-Bell Friday",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-07-10T13:23:23+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-pre-132323160.html?.tsrc=rss"
-  },
-  {
-    "id": "nbf33492989",
-    "headline": "EQT Stock Is Near a Trough, Attracting Value Investors Ahead of Earnings",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-10T13:00:02+00:00",
-    "url": "https://www.barchart.com/story/news/3223996/eqt-stock-is-near-a-trough-attracting-value-investors-ahead-of-earnings?.tsrc=rss"
-  },
-  {
-    "id": "n2887a8ad4b",
-    "headline": "GE Vernova vs. Vistra: One AI Power Stock Has Absolutely Crushed the Other, And Could Continue Doing So",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-10T12:22:10+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/07/10/ge-vernova-vs-vistra-one-ai-power-stock-has-absolutely-crushed-the-other-and-could-continue-doing-so/?.tsrc=rss"
-  },
-  {
-    "id": "n4c48343c5e",
-    "headline": "\u2018Staggering\u2019: Goldman Sachs Says China\u2019s Oil Demand May Never Fully Recover",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-10T11:54:43+00:00",
-    "url": "https://247wallst.com/investing/2026/07/10/staggering-goldman-sachs-says-chinas-oil-demand-may-never-fully-recover/?.tsrc=rss"
-  },
-  {
-    "id": "nb28b87eb17",
-    "headline": "LRCX, APLD, KLAC: Why Chip Equipment Stocks Are Falling Premarket Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-10T09:25:49+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/lrcx-apld-klac-why-chip-equipment-stocks-are-falling-premarket-today/cZmACpqR7FV?.tsrc=rss"
-  },
-  {
-    "id": "n677c839c0b",
-    "headline": "Backblaze (BLZE) Is Up 14.1% After $335 Million CoreWeave AI Storage Deal Announcement - Has The Bull Case Changed?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-10T09:11:55+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/backblaze-blze-14-1-335-091155597.html?.tsrc=rss"
-  },
-  {
-    "id": "n4d75357be6",
-    "headline": "Wolfe Research Maintains Outperform rating on CoreWeave (CRWV)",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-10T06:58:23+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-maintains-outperform-rating-065823429.html?.tsrc=rss"
-  },
-  {
-    "id": "nce145c2d89",
-    "headline": "SEI Stock Jumps 5% After-Hours As S&P 600 Inclusion Sparks Buying",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-07-10T00:02:23+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/sei-stock-jumps-after-hours-as-sandp-600-inclusions-sparks-buying/cZmAZYNR7Fc?.tsrc=rss"
-  },
-  {
-    "id": "na6947715cc",
-    "headline": "BE Stock Ends Higher: Bloom Energy Denies Supply Chain And Scandium Allegations Following New Crossroads Capital Attack",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-09T23:22:27+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-ends-higher-bloom-energy-denies-supply-chain-and-scandium-allegations/cZmYXxmR7FR?.tsrc=rss"
-  },
-  {
-    "id": "n1d034bd768",
-    "headline": "Analysts reveal investors are underestimating Bitcoin miners",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-09T22:57:54+00:00",
-    "url": "https://www.thestreet.com/crypto/markets/analysts-reveal-investors-are-underestimating-bitcoin-miners?.tsrc=rss"
   }
 ]
