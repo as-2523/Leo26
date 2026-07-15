@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-yx69m8",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "England",
-      "startTimeUtc": "2026-07-14T12:00:00.000Z",
-      "hasStartTime": true,
-      "format": "ODI",
-      "formatLabel": "odi",
-      "series": "India tour of England, 2026",
-      "seriesStartUtc": "2026-07-01T00:00:00.000Z",
-      "seriesEndUtc": "2026-07-19T00:00:00.000Z",
-      "venue": "Edgbaston, Birmingham",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-yyl3qq",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -1082,9 +1067,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-07-13T06:21:38.505Z",
-    "windowStart": "2026-07-13T00:00:00.000Z",
-    "windowEnd": "2027-01-13T00:00:00.000Z",
+    "generatedAt": "2026-07-15T05:33:16.136Z",
+    "windowStart": "2026-07-15T00:00:00.000Z",
+    "windowEnd": "2027-01-15T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -1100,7 +1085,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 72
+        "count": 71
       },
       {
         "id": "manual",
@@ -1110,12 +1095,6 @@
     ],
     "usedFallback": false,
     "expectedSeries": [
-      {
-        "name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-        "startUtc": "2026-07-08T00:00:00.000Z",
-        "endUtc": "2026-07-14T00:00:00.000Z",
-        "sourceUrl": "https://www.espncricinfo.com/search?query=ICC%20Men's%20T20%20World%20Cup%20Europe%20Sub%20Regional%20Qualifier%20B%2C%202026"
-      },
       {
         "name": "England Women U19 tour of India 2026",
         "startUtc": "2026-11-26T00:00:00.000Z",
