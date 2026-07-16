@@ -1,5 +1,175 @@
 [
   {
+    "id": "n189098b2bf",
+    "headline": "CoreWeave Has Fallen 49% From Its 52-Week High. Is the Beaten-Down AI Stock a Bargain or a Value Trap?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-16T08:04:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/16/coreweave-has-fallen-49-from-its-52-week-high-is-t/?.tsrc=rss"
+  },
+  {
+    "id": "nc7912661f3",
+    "headline": "Can CoreWeave Become a $1 Trillion Company?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-16T01:20:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/15/can-coreweave-become-a-1-trillion-company/?.tsrc=rss"
+  },
+  {
+    "id": "na5671e7009",
+    "headline": "Why Micron (MU) Stock Is Trading Lower Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-15T23:04:21+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-mu-stock-trading-230421565.html?.tsrc=rss"
+  },
+  {
+    "id": "n912870d70e",
+    "headline": "Bloom Energy (BE) Stock Drops Despite Market Gains: Important Facts to Note",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-15T22:00:01+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-drops-despite-220001133.html?.tsrc=rss"
+  },
+  {
+    "id": "n7ed5d8bc65",
+    "headline": "Vistra Corp. (VST) Rises Higher Than Market: Key Facts",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-15T21:45:03+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-rises-higher-214503897.html?.tsrc=rss"
+  },
+  {
+    "id": "n82fd57d7f1",
+    "headline": "EQT Declares Quarterly Cash Dividend",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-15T20:15:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/eqt-declares-quarterly-cash-dividend-201500288.html?.tsrc=rss"
+  },
+  {
+    "id": "nd8ce7ec04b",
+    "headline": "A Short Seller Report Says China Could Kill This Key Data Center Supplier\u2019s Growth",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-15T20:13:19+00:00",
+    "url": "https://www.barchart.com/story/news/3304085/a-short-seller-report-says-china-could-kill-this-key-data-center-suppliers-growth?.tsrc=rss"
+  },
+  {
+    "id": "nf3339e565a",
+    "headline": "Applied Digital Sets Fiscal Fourth Quarter and Full Year 2026 Conference Call for Monday, July 27, 2026, at 5:00 p.m. Eastern Time",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-15T20:05:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-sets-fiscal-fourth-200500943.html?.tsrc=rss"
+  },
+  {
+    "id": "nd452c97197",
+    "headline": "Bloom Energy vs. Plug Power: Which Fuel Cell Stock Is a Better Buy in 2026?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-15T19:59:27+00:00",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/15/bloom-energy-vs-plug-power-which-fuel-cell-stock-is-a-better-buy-in-2026/?.tsrc=rss"
+  },
+  {
+    "id": "n7821bba003",
+    "headline": "Is CoreWeave (CRWV) Cheap After A 43% Drop?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-15T19:09:27+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-cheap-43-drop-190927614.html?.tsrc=rss"
+  },
+  {
+    "id": "n9f0ce310a2",
+    "headline": "TeraWulf Stock Panics Over New York\u2019s Data-Center Moratorium, but Wall Street Sees a Steal",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-15T18:54:00+00:00",
+    "url": "https://finance.yahoo.com/m/b4ed0508-254a-3c64-934f-2510318929d7/terawulf-stock-panics-over.html?.tsrc=rss"
+  },
+  {
+    "id": "n7346fff79f",
+    "headline": "UBS Keeps Buy Rating on EQT Corporation (EQT)",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-15T14:24:38+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-keeps-buy-rating-eqt-142438217.html?.tsrc=rss"
+  },
+  {
+    "id": "ne49db2b0b4",
+    "headline": "NNE Underperforms Industry in the Past 6 Months: Buy, Hold or Sell?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-15T14:12:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/nne-underperforms-industry-past-6-141200591.html?.tsrc=rss"
+  },
+  {
+    "id": "nc94b4db65c",
+    "headline": "Is Alvopetro Energy (ALVOF) Stock Outpacing Its Oils-Energy Peers This Year?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-15T13:40:04+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/alvopetro-energy-alvof-stock-outpacing-134004765.html?.tsrc=rss"
+  },
+  {
+    "id": "n0038701af2",
+    "headline": "Is Applied Digital (APLD) Undervalued As New AI Capacity Comes Online?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-15T13:10:50+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-undervalued-ai-131050388.html?.tsrc=rss"
+  },
+  {
+    "id": "n1859c3296d",
+    "headline": "1 Services Stock with Exciting Potential and 2 We Ignore",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-15T09:33:17+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/1-services-stock-exciting-potential-093317974.html?.tsrc=rss"
+  },
+  {
+    "id": "n203315b93c",
+    "headline": "Wolfe Research Initiates Coverage of Solaris Energy (SEI)",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-07-15T08:34:19+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-initiates-coverage-solaris-083419643.html?.tsrc=rss"
+  },
+  {
     "id": "nf14ca93cf3",
     "headline": "NBIS, IREN, CRWV, APLD: Retail Traders Shrug Off AI Pullback, Buy The Dip In Neocloud Stocks",
     "source": "Yahoo Finance",
@@ -328,175 +498,5 @@
     ],
     "ts": "2026-07-13T16:12:00+00:00",
     "url": "https://finance.yahoo.com/energy/articles/constellation-benefit-americas-rising-electricity-161200525.html?.tsrc=rss"
-  },
-  {
-    "id": "n7b864c09e0",
-    "headline": "The Dip Is Here for Bloom Energy. Here's Whether to Buy It or Walk Away.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-13T15:27:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/13/the-dip-is-here-for-bloom-heres-whether-to-buy-it/?.tsrc=rss"
-  },
-  {
-    "id": "ncfa44b587d",
-    "headline": "VST Stock Trading at a Discounted Value: Should You Buy, Sell or Hold?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-13T14:56:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vst-stock-trading-discounted-value-145600936.html?.tsrc=rss"
-  },
-  {
-    "id": "n10fbeb0065",
-    "headline": "Meta\u2019s Louisiana Data Center to Surpass $250 Billion Price Tag",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-13T09:30:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/meta-louisiana-data-center-surpass-093000903.html?.tsrc=rss"
-  },
-  {
-    "id": "n3599323ca0",
-    "headline": "Cathie Wood Is Doubling Down on This AI Stock During the Sell-Off",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-13T07:20:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/13/cathie-wood-is-doubling-down-on-this-ai-stock-duri/?.tsrc=rss"
-  },
-  {
-    "id": "n8717b692ec",
-    "headline": "Bloom Energy\u2019s Biggest Selloff In Months Has Created A Wall Street Divide \u2013 Analyst Says Market May Be Overreacting",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-13T06:18:29+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/bloom-energy-biggest-selloff-in-months-has-created-a-wall-street-divide/cZmziEQR7o1?.tsrc=rss"
-  },
-  {
-    "id": "nbe39e09552",
-    "headline": "AI giant\u2019s \u00a32bn data centre hit by grid delays",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-13T05:00:00+00:00",
-    "url": "https://www.telegraph.co.uk/business/2026/07/13/ai-giant-2bn-data-centre-delayed-net-zero-backlog/?.tsrc=rss"
-  },
-  {
-    "id": "n351ffd963d",
-    "headline": "JOBY, EQT, XE Stocks Hit 52-Week Lows Last Week: What Drove The Selloff?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-13T04:14:15+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/joby-eqt-xe-stocks-hit-52-week-lows-last-week-what-drove-the-selloff/cZmzQv2R7oX?.tsrc=rss"
-  },
-  {
-    "id": "n72189b37ed",
-    "headline": "What\u2019s the AI hit to U.S. inflation?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-12T05:30:10+00:00",
-    "url": "https://finance.yahoo.com/economy/policy/articles/ai-hit-u-inflation-053010343.html?.tsrc=rss"
-  },
-  {
-    "id": "n8f2d65c685",
-    "headline": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You (CORRECTED)",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-11T21:31:14+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-donald-trump-bet-213114487.html?.tsrc=rss"
-  },
-  {
-    "id": "n95e49c74f3",
-    "headline": "Nvidia CEO Jensen Huang Said AI's \"Most Profound Impact Will Be in Life Sciences.\" Does This Bet on a Biotech Stock Prove He Means It?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-11T15:57:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/11/nvidia-ceo-jensen-huang-said-ais-most-profound-imp/?.tsrc=rss"
-  },
-  {
-    "id": "n56c9162332",
-    "headline": "CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-11T11:50:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/11/coreweave-stock-sank-11-after-mark-zuckerbergs-me/?.tsrc=rss"
-  },
-  {
-    "id": "n1ef2923759",
-    "headline": "Is Bloom Energy the Next Nvidia?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-11T05:05:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/11/is-bloom-the-next-nvidia/?.tsrc=rss"
-  },
-  {
-    "id": "nf8be8dd0c9",
-    "headline": "Why Solaris Energy Infrastructure (SEI) Stock Is Up Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-07-10T22:31:20+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-solaris-energy-infrastructure-sei-223120773.html?.tsrc=rss"
-  },
-  {
-    "id": "n5c9515f7f4",
-    "headline": "Bloom Energy (BE) Is Down 9.7% After Scandium Supply Dispute And $25B AI Power Deal Expansion",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-10T22:13:36+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-down-9-7-221336838.html?.tsrc=rss"
-  },
-  {
-    "id": "n8ca144b9ef",
-    "headline": "Why Plug Power (PLUG) Stock Is Nosediving",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-10T20:31:20+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-plug-power-plug-stock-203120251.html?.tsrc=rss"
-  },
-  {
-    "id": "na808842649",
-    "headline": "Sector Update: Energy Stocks Softer Friday Afternoon",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-07-10T17:54:28+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-softer-friday-175428277.html?.tsrc=rss"
-  },
-  {
-    "id": "n660bb543cc",
-    "headline": "Google, Amazon Increase Data-Center Capacity Plans",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-10T17:48:48+00:00",
-    "url": "https://finance.yahoo.com/m/c6471f28-c858-3f6b-b2b4-96de5d4711d0/google%2C-amazon-increase.html?.tsrc=rss"
   }
 ]
