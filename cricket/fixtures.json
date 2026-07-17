@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-yyl3qq",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "England",
-      "startTimeUtc": "2026-07-16T12:00:00.000Z",
-      "hasStartTime": true,
-      "format": "ODI",
-      "formatLabel": "odi",
-      "series": "India tour of England, 2026",
-      "seriesStartUtc": "2026-07-01T00:00:00.000Z",
-      "seriesEndUtc": "2026-07-19T00:00:00.000Z",
-      "venue": "Sophia Gardens, Cardiff",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-z0pcxh",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -1067,9 +1052,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-07-15T05:33:16.136Z",
-    "windowStart": "2026-07-15T00:00:00.000Z",
-    "windowEnd": "2027-01-15T00:00:00.000Z",
+    "generatedAt": "2026-07-17T05:43:49.196Z",
+    "windowStart": "2026-07-17T00:00:00.000Z",
+    "windowEnd": "2027-01-17T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -1085,7 +1070,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 71
+        "count": 70
       },
       {
         "id": "manual",
