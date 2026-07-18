@@ -1,5 +1,155 @@
 [
   {
+    "id": "n0362397e1a",
+    "headline": "Meta and Anthropic Discuss $10B AI Infrastructure Agreement",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-18T02:47:00+00:00",
+    "url": "https://www.cryptoprowl.com/releases/meta-and-anthropic-discuss-10b-ai-infrastructure-agreement-6196?.tsrc=rss"
+  },
+  {
+    "id": "n4f425c2ec7",
+    "headline": "CoreWeave (CRWV) Explores Chip Hedges As It Launches $2.6 Billion GPU Loan",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-17T21:10:57+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-explores-chip-hedges-211057068.html?.tsrc=rss"
+  },
+  {
+    "id": "n41f413d8c9",
+    "headline": "SpaceX Reportedly In Talks To Supply Pentagon With AI Computing Power Worth Billions",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-17T20:44:00+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/space-x-reportedly-in-talks-to-supply-pentagon-with-ai-computing-power-worth-billions/cZZ7MHGR7MQ?.tsrc=rss"
+  },
+  {
+    "id": "n7eb9736c79",
+    "headline": "Oracle Data Center Plan Hits New Setback",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-17T20:00:32+00:00",
+    "url": "https://finance.yahoo.com/technology/articles/oracle-data-center-plan-hits-200032055.html?.tsrc=rss"
+  },
+  {
+    "id": "n72742b4800",
+    "headline": "SpaceX stock sees brief Pentagon AI bump, while CoreWeave slides on pricing threat",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-17T19:47:25+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/spacex-stock-sees-brief-pentagon-194725291.html?.tsrc=rss"
+  },
+  {
+    "id": "n832a063c42",
+    "headline": "Musk's SpaceX in talks to supply the Pentagon with computing power, WSJ reports",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-17T19:27:08+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/musks-spacex-talks-computing-power-192708574.html?.tsrc=rss"
+  },
+  {
+    "id": "nac42f1852f",
+    "headline": "Can NRG's Expanding Generation Fleet Drive Long-Term Growth?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-17T17:16:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/nrgs-expanding-generation-fleet-drive-171600036.html?.tsrc=rss"
+  },
+  {
+    "id": "n0e9453082d",
+    "headline": "Bloom Energy (BE): 3 Reasons We Love This Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-17T16:25:46+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-3-reasons-love-162546062.html?.tsrc=rss"
+  },
+  {
+    "id": "nf9dab73e02",
+    "headline": "EQT Gears Up to Report Q2 Earnings: What's in Store for the Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-17T15:45:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-gears-report-q2-earnings-154500164.html?.tsrc=rss"
+  },
+  {
+    "id": "na5f52d424f",
+    "headline": "3 Momentum Anomaly Picks as Markets Embrace War-Induced Volatility",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-17T15:36:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-momentum-anomaly-picks-markets-153600696.html?.tsrc=rss"
+  },
+  {
+    "id": "n5c5bae933d",
+    "headline": "Coreweave Down 35% . This Analyst Reiterated His $250 Target Even After \u2018Meta Compute\u2019 Was Announced.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-17T14:33:59+00:00",
+    "url": "https://247wallst.com/investing/2026/07/17/coreweave-down-35-this-analyst-reiterated-his-250-target-even-after-meta-compute-was-announced/?.tsrc=rss"
+  },
+  {
+    "id": "n612f4a0028",
+    "headline": "3 Small-Cap Stocks That Fall Short",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-17T14:01:46+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-fall-140146907.html?.tsrc=rss"
+  },
+  {
+    "id": "n10d91bb9df",
+    "headline": "Bloom's Billion-Dollar AI Deal Gets a Brutal Welcome",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-17T12:17:34+00:00",
+    "url": "https://www.trefis.com/articles/607752/blooms-billion-dollar-ai-deal-gets-a-brutal-welcome/2026-07-17?.tsrc=rss"
+  },
+  {
+    "id": "n455553b08c",
+    "headline": "IDF and Oaktree back $1.7bn Bloom Energy project for AI infrastructure",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-17T11:19:40+00:00",
+    "url": "https://www.energymonitor.ai/news/idf-oaktree-back-bloom-energy/?.tsrc=rss"
+  },
+  {
+    "id": "n5c24896e23",
+    "headline": "Antero Resources Is in Play: Which Energy Titan Will Acquire It?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-17T11:15:44+00:00",
+    "url": "https://247wallst.com/investing/2026/07/17/antero-resources-is-in-play-which-energy-titan-will-acquire-it/?.tsrc=rss"
+  },
+  {
     "id": "n419a127eb3",
     "headline": "Oklo Just Dropped 28% in a Month. Is It Time to Abandon Nuclear Stocks Like OKLO, NuScale, and Uranium Energy Corp.?",
     "source": "Yahoo Finance",
@@ -348,155 +498,5 @@
     ],
     "ts": "2026-07-14T19:55:43+00:00",
     "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-afternoon-195543267.html?.tsrc=rss"
-  },
-  {
-    "id": "n6fc6d88b30",
-    "headline": "Sector Update: Energy Stocks Decline Tuesday Afternoon",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-14T17:49:23+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-tuesday-174923006.html?.tsrc=rss"
-  },
-  {
-    "id": "nf9021914a5",
-    "headline": "Vistra (VST) Could Get A Lift From PJM's Next Capacity Auction",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-14T17:12:32+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-could-lift-pjms-171232214.html?.tsrc=rss"
-  },
-  {
-    "id": "n6539ea661f",
-    "headline": "Major US Power Sale to Show Depth of Eastern Grid\u2019s Tight Supply",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-14T15:00:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/major-us-power-sale-show-150000099.html?.tsrc=rss"
-  },
-  {
-    "id": "nca55b22c67",
-    "headline": "Should Nebius and CoreWeave Investors Be Scared by Meta's Latest Plans?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-14T14:40:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/14/should-nebius-and-coreweave-investors-be-scared-by/?.tsrc=rss"
-  },
-  {
-    "id": "n98a6afdd0d",
-    "headline": "Analysts Estimate EQT Corporation (EQT) to Report a Decline in Earnings: What to Look Out for",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-14T14:00:09+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-estimate-eqt-corporation-eqt-140009800.html?.tsrc=rss"
-  },
-  {
-    "id": "n5e1734b12e",
-    "headline": "NOV Stock Rallies 49% in a Year: Time to Buy or Move On?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-07-14T13:57:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/nov-stock-rallies-49-time-135700195.html?.tsrc=rss"
-  },
-  {
-    "id": "n8798b99522",
-    "headline": "Short Seller Hunterbrook Attacked Bloom Energy\u2019s Supply-Chain Claims. BE Stock Is Bruised, But Not Broken.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-14T13:30:02+00:00",
-    "url": "https://www.barchart.com/story/news/3274458/short-seller-hunterbrook-attacked-bloom-energys-supply-chain-claims-be-stock-is-bruised-but-not-broken?.tsrc=rss"
-  },
-  {
-    "id": "nbb41472ea6",
-    "headline": "Bloom Energy (BE) Stock Could Be Below Fair Value After A 12x Run",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-14T13:17:47+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-could-below-131747031.html?.tsrc=rss"
-  },
-  {
-    "id": "nac435e4acc",
-    "headline": "Can Nebius' Four-Pronged Strategy Create the Next AI Hyperscaler?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-14T13:17:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/nebius-four-pronged-strategy-create-131700647.html?.tsrc=rss"
-  },
-  {
-    "id": "n07d90eb6fd",
-    "headline": "FuelCell's Big Partnership Couldn't Outrun Its Big Bill",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-14T13:06:02+00:00",
-    "url": "https://www.trefis.com/articles/607096/fuelcells-big-partnership-couldnt-outrun-its-big-bill/2026-07-14?.tsrc=rss"
-  },
-  {
-    "id": "nf7c715fd4e",
-    "headline": "Solaris Energy Infrastructure (SEI) Following S&P 600 News Is Its Power Story Still Undervalued",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-07-14T10:15:53+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-sei-following-101553954.html?.tsrc=rss"
-  },
-  {
-    "id": "n7b062d4d95",
-    "headline": "How EQT\u2019s Earnings Beat on Strong Gas Demand From Data Centers and LNG Will Impact EQT (EQT) Investors",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-14T09:13:05+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-earnings-beat-strong-gas-091305273.html?.tsrc=rss"
-  },
-  {
-    "id": "n4f01a86c43",
-    "headline": "Is EQT (EQT) Undervalued Following Its Fourth Quarter Earnings Beat?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-14T06:11:23+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-undervalued-following-fourth-061123053.html?.tsrc=rss"
-  },
-  {
-    "id": "nf261464071",
-    "headline": "What's Next for Small Caps After a Stellar First Half?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-13T22:17:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/whats-next-small-caps-stellar-221700161.html?.tsrc=rss"
-  },
-  {
-    "id": "nddc4485843",
-    "headline": "Energy Infrastructure Stock Targa Resources Teases A Breakout",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-13T20:58:50+00:00",
-    "url": "https://finance.yahoo.com/m/57eec07b-d20e-3f65-b0eb-25a00f64a240/energy-infrastructure-stock.html?.tsrc=rss"
   }
 ]
