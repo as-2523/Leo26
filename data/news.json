@@ -1,5 +1,65 @@
 [
   {
+    "id": "ndd96555f1d",
+    "headline": "Bloom Energy vs. Constellation Energy: Which Industrials Stock Is a Better Buy in 2026?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-19T03:17:41+00:00",
+    "url": "https://www.fool.com/coverage/better-buy/2026/07/18/bloom-energy-vs-constellation-energy-which-industrials-stock-is-a-better-buy-in-2026/?.tsrc=rss"
+  },
+  {
+    "id": "ne5b8e8348c",
+    "headline": "Why CoreWeave Stock Keeps Falling",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-18T14:57:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/18/why-coreweave-stock-keeps-falling/?.tsrc=rss"
+  },
+  {
+    "id": "n237429d717",
+    "headline": "The 3 Energy Stocks I'd Buy With My Next $1,000",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-18T14:50:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/18/the-3-energy-stocks-id-buy-with-my-next-1000/?.tsrc=rss"
+  },
+  {
+    "id": "n291a205fe0",
+    "headline": "Here's Why CoreWeave Stock Tanked This Week",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-18T14:47:34+00:00",
+    "url": "https://www.fool.com/investing/2026/07/18/heres-why-coreweave-stock-tanked-this-week/?.tsrc=rss"
+  },
+  {
+    "id": "n355274ded5",
+    "headline": "BlackRock CEO Larry Fink Warned of an AI Power Crunch\u2014New York Just Halted Large Data Centers: CEG, VST, NEE in Focus",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-18T14:30:36+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/blackrock-ceo-larry-fink-warned-143036756.html?.tsrc=rss"
+  },
+  {
+    "id": "n99883f351d",
+    "headline": "Bloom Energy\u2019s AI Data Center Growth Story Is Starting to Crack",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-18T12:14:08+00:00",
+    "url": "https://247wallst.com/investing/2026/07/18/bloom-energys-ai-data-center-growth-story-is-starting-to-crack/?.tsrc=rss"
+  },
+  {
     "id": "n0362397e1a",
     "headline": "Meta and Anthropic Discuss $10B AI Infrastructure Agreement",
     "source": "Yahoo Finance",
@@ -438,65 +498,5 @@
     ],
     "ts": "2026-07-15T08:34:19+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-initiates-coverage-solaris-083419643.html?.tsrc=rss"
-  },
-  {
-    "id": "nf14ca93cf3",
-    "headline": "NBIS, IREN, CRWV, APLD: Retail Traders Shrug Off AI Pullback, Buy The Dip In Neocloud Stocks",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-15T05:14:36+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/nbis-iren-crwv-apld-retail-traders-shrug-off-ai-pullback-buy-the-dip-in-neocloud-stocks/cZZ2sAsR7Ac?.tsrc=rss"
-  },
-  {
-    "id": "nbd28004723",
-    "headline": "Exclusive-AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-14T23:50:16+00:00",
-    "url": "https://finance.yahoo.com/markets/options/articles/exclusive-ai-cloud-company-coreweave-235016062.html?.tsrc=rss"
-  },
-  {
-    "id": "nbe9dc44687",
-    "headline": "Is EQT (EQT) Still Undervalued After Its Recent Pullback?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-14T22:15:36+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-still-undervalued-recent-221536393.html?.tsrc=rss"
-  },
-  {
-    "id": "nea429264b6",
-    "headline": "Why Core Scientific Stock Was Up 75.8% In The First Half of 2026",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-14T20:30:50+00:00",
-    "url": "https://www.fool.com/investing/2026/07/14/why-core-scientific-stock-was-up-758-in-the-first/?.tsrc=rss"
-  },
-  {
-    "id": "n8c9443574f",
-    "headline": "Chevron Entered The AI Power Business. The Oil Patch Won't Be The Same.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-14T20:08:29+00:00",
-    "url": "https://finance.yahoo.com/m/b3f972a7-f5b0-3c2a-b3a0-05517dcc0815/chevron-entered-the-ai-power.html?.tsrc=rss"
-  },
-  {
-    "id": "n78a09f02f7",
-    "headline": "Sector Update: Energy Stocks Advance Late Afternoon",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-14T19:55:43+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-afternoon-195543267.html?.tsrc=rss"
   }
 ]
