@@ -1,5 +1,55 @@
 [
   {
+    "id": "n3fb44fc7a9",
+    "headline": "MU, SNDK, CRWV, IREN Stocks Climb After Brutal Week: Retail Bets On Memory, Neocloud Rebound",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-20T01:47:33+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-crwv-iren-stocks-climb-after-brutal-week-retail-bets-on-memory-neocloud-rebound/cZZLNUzR7Mm?.tsrc=rss"
+  },
+  {
+    "id": "ne51e8fab47",
+    "headline": "CoreWeave vs. Applied Digital: Evaluating Disparities in Revenue Scale for These Artificial Intelligence Companies",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-19T23:51:01+00:00",
+    "url": "https://www.fool.com/coverage/charts/2026/07/19/coreweave-vs-applied-digital-evaluating-disparities-in-revenue-scale-for-these-artificial-intelligence-companies/?.tsrc=rss"
+  },
+  {
+    "id": "ne09b07b29d",
+    "headline": "Utility ETFs Soar 8% YTD on AI Power Demand. Here\u2019s Which One to Buy",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-19T19:58:46+00:00",
+    "url": "https://247wallst.com/investing/2026/07/19/utility-etfs-soar-8-ytd-on-ai-power-demand-heres-which-one-to-buy/?.tsrc=rss"
+  },
+  {
+    "id": "nf6bf3ad567",
+    "headline": "I'm Calling It: Bloom Energy Will Be a Very Different Stock After 2026 for 1 Reason",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-19T15:50:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/19/bloom-energy-will-be-a-very-different-stock-after/?.tsrc=rss"
+  },
+  {
+    "id": "ne7e5523554",
+    "headline": "A $1.7 Billion Reason to Buy Bloom Energy Stock Now",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-19T13:00:02+00:00",
+    "url": "https://www.barchart.com/story/news/3354673/a-1-7-billion-reason-to-buy-bloom-energy-stock-now?.tsrc=rss"
+  },
+  {
     "id": "ndd96555f1d",
     "headline": "Bloom Energy vs. Constellation Energy: Which Industrials Stock Is a Better Buy in 2026?",
     "source": "Yahoo Finance",
@@ -448,55 +498,5 @@
     ],
     "ts": "2026-07-15T14:24:38+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-keeps-buy-rating-eqt-142438217.html?.tsrc=rss"
-  },
-  {
-    "id": "ne49db2b0b4",
-    "headline": "NNE Underperforms Industry in the Past 6 Months: Buy, Hold or Sell?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-15T14:12:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/nne-underperforms-industry-past-6-141200591.html?.tsrc=rss"
-  },
-  {
-    "id": "nc94b4db65c",
-    "headline": "Is Alvopetro Energy (ALVOF) Stock Outpacing Its Oils-Energy Peers This Year?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-15T13:40:04+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/alvopetro-energy-alvof-stock-outpacing-134004765.html?.tsrc=rss"
-  },
-  {
-    "id": "n0038701af2",
-    "headline": "Is Applied Digital (APLD) Undervalued As New AI Capacity Comes Online?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-15T13:10:50+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-undervalued-ai-131050388.html?.tsrc=rss"
-  },
-  {
-    "id": "n1859c3296d",
-    "headline": "1 Services Stock with Exciting Potential and 2 We Ignore",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-15T09:33:17+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/1-services-stock-exciting-potential-093317974.html?.tsrc=rss"
-  },
-  {
-    "id": "n203315b93c",
-    "headline": "Wolfe Research Initiates Coverage of Solaris Energy (SEI)",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-07-15T08:34:19+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-initiates-coverage-solaris-083419643.html?.tsrc=rss"
   }
 ]

@@ -4,7 +4,7 @@
     "exchange": "NGM",
     "sector": "ETF",
     "market_cap": null,
-    "pe_ratio": 38.244446,
+    "pe_ratio": 36.027866,
     "description": "The fund normally invests at least 80% of its total assets in securities that comprise the fund's benchmark index. The index includes common stocks and depositary receipts of U.S. exchange-listed companies in the semiconductor industry. Such companies may include medium-capitalization companies and foreign companies that are listed on a U.S. exchange. The fund is non-diversified."
   },
   "NVDA": {
@@ -41,8 +41,8 @@
     "name": "Advanced Micro Devices, Inc.",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 816833036288,
-    "pe_ratio": 175.15385,
+    "market_cap": 808386560000,
+    "pe_ratio": 164.15895,
     "description": "Advanced Micro Devices, Inc. operates as a semiconductor company internationally. It operates in three segments: Data Center, Client and Gaming, and Embedded. The company offers artificial intelligence (AI) accelerators, microprocessors, and graphics processing units (GPUs) as standalone devices or as incorporated into accelerated processing units, chipsets, and data center and professional GPUs; and embedded processors and semi-custom system-on-chip (SoC) products, microprocessor and SoC development services and technology, data processing units, field programmable gate arrays (FPGA), system on modules, AI network interface cards, and adaptive SoC products. It provides processors under the AMD Ryzen, AMD Ryzen AI, AMD Ryzen PRO, AMD Ryzen Threadripper, AMD Ryzen Threadripper PRO, AMD Athlon, and AMD PRO A-Series brands; graphics under the AMD Radeon graphics and AMD Embedded Radeon graphics; professional graphics under the AMD Radeon Pro graphics brand; and AI and general-purpose compute infrastructure for hyperscale providers. The company offers data center graphics under the AMD Instinct accelerators and Radeon PRO V-series brands; server microprocessors under the AMD EPYC brand",
     "industry": "Semiconductors",
     "website": "https://www.amd.com"
@@ -71,8 +71,8 @@
     "name": "Corning Incorporated",
     "exchange": "NYQ",
     "sector": "Technology",
-    "market_cap": 136316428288,
-    "pe_ratio": 84.25,
+    "market_cap": 133063213056,
+    "pe_ratio": 73.97608,
     "description": "Corning Incorporated operates in optical communications, display, specialty materials, automotive, and life sciences businesses in the United States, Canada, Mexico, Japan, Taiwan, China, South Korea, Germany, and internationally. The company provides optical fibers and cables; and hardware and equipment products, such as cable assemblies, fiber optic hardware and connectors, optical components and couplers, closures, network interface devices, and other accessories for the telecommunications industry, businesses, governments, and individuals. It also offers glass substrates for flat panel displays, including liquid crystal displays and organic light-emitting diodes that are used in televisions, notebook computers, desktop monitors, tablets, and handheld devices. In addition, it manufactures products that offer material formulations for glass, glass ceramics, crystals, precision metrology instruments, and software, as well as glass wafers and substrates, tinted sunglasses, and radiation shielding products for markets, such as mobile consumer electronics, semiconductor equipment optics and consumables, aerospace and defense optics, radiation shielding products, sunglasses, and telec",
     "industry": "Electronic Components",
     "website": "https://www.corning.com"
@@ -209,8 +209,8 @@
     "name": "Micron Technology, Inc.",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 1021287661568,
-    "pe_ratio": 22.223644,
+    "market_cap": 958798299136,
+    "pe_ratio": 19.193987,
     "description": "Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments. The company provides memory products, including dynamic random access memory components and modules, CXL-based memory, LPDDR components and modules, graphics memory, high-bandwidth memory, and data center memory products; multichip packages (MCP) comprising embedded multimedia card-based, universal flash storage-based, and NAND-based MCPs; and technology leadership products that include 1y DRAM and G9 NAND technologies. It also offers storage products, such as data center solid-state drives (SSD), client SSD storage, and auto and industrial SSD storage; managed NAND; NAND flash; NOR flash; and memory cards. In addition, the company provides design tools, including FBGA and part decoders; DRAM power calculators; NAND power calculators; simulation models; chipset compatibility guides; serial presence-detection tools; cross-reference ",
     "industry": "Semiconductors",
     "website": "https://www.micron.com"
@@ -249,8 +249,8 @@
     "name": "EQT Corporation",
     "exchange": "NYQ",
     "sector": "Energy",
-    "market_cap": 30804791296,
-    "pe_ratio": 9.452975,
+    "market_cap": 30998691840,
+    "pe_ratio": 9.404175,
     "description": "EQT Corporation engages in the exploration, production, gathering, and transmission of hydrocarbons and natural gas. The company sells natural gas, natural gas liquids, and oil to marketers, utilities, and industrial customers located in the Appalachian Basin. It also provides marketing services and contractual pipeline capacity management services, as well as engages in risk management and hedging activities. The company was formerly known as Equitable Resources Inc. and changed its name to EQT Corporation in February 2009. EQT Corporation was founded in 1888 and is headquartered in Canonsburg, Pennsylvania.",
     "industry": "Oil & Gas E&P",
     "website": "https://www.eqt.com"
@@ -351,8 +351,8 @@
     "sector": "Technology",
     "industry": "Computer Hardware",
     "website": "https://www.seagate.com",
-    "market_cap": 168668692480,
-    "pe_ratio": 78.72122,
+    "market_cap": 176616194048,
+    "pe_ratio": 74.65971,
     "description": "Seagate Technology Holdings plc engages in the provision of data storage technology and infrastructure solutions in Singapore, the United States, the Netherlands, and internationally. The company offers mass capacity storage products, including enterprise nearline hard disk drives (HDDs), enterprise nearline solid state drives (SSDs), enterprise nearline systems, video and image HDDs, and network-attached storage drives. It also offers legacy applications comprising Mission Critical HDDs and SSDs; external storage solutions under the Seagate Ultra Touch, One Touch, Expansion, and Basics product lines, as well as under the LaCie brand name; desktop drives for personal computers and workstation applications; notebook drives traditional notebooks, convertible systems, and external storage applications, DVR HDDs for video streaming applications, and gaming SSDs for gaming rigs. In addition, the company provides Lyve edge-to-cloud mass capacity platform, that includes modular hardware and software to support enterprises' on-premise and cloud storage infrastructure needs. It sells its products primarily to original equipment manufacturers, distributors, and retailers. The company was fou"
   },
   "WDC": {
@@ -361,8 +361,8 @@
     "sector": "Technology",
     "industry": "Computer Hardware",
     "website": "https://www.westerndigital.com",
-    "market_cap": 160901070848,
-    "pe_ratio": 30.771917,
+    "market_cap": 164489216000,
+    "pe_ratio": 28.576046,
     "description": "Western Digital Corporation develops, manufactures, and sells data storage devices and solutions based on hard disk drive (HDD) technology in the United States, Asia, Europe, the Middle East, and Africa. The company offers internal HDDs, data center drives, data center platforms, external drives, portable drives, NAS for home and office, and accessories. It sells its data storage devices and solutions through its computer manufacturers, sales personnel, dealers, distributors, and retailers. The company has a collaboration with Open Quantum Design for the development of quantum error correction technology and related systems to advance reliable quantum computing. Western Digital Corporation was founded in 1970 and is headquartered in San Jose, California."
   },
   "BW": {
@@ -391,8 +391,8 @@
     "sector": "Real Estate",
     "industry": "REIT - Office",
     "website": "https://www.kilroyrealty.com",
-    "market_cap": 4744633856,
-    "pe_ratio": 21.843243,
+    "market_cap": 4725848064,
+    "pe_ratio": 21.994535,
     "description": "Kilroy Realty Corporation is a leading U.S. landlord and developer, with operations in the San Francisco Bay Area, Los Angeles, Seattle, San Diego, and Austin. The Company has earned global recognition for sustainability, building operations, innovation, and design. As a pioneer and innovator in the creation of a more sustainable real estate industry, the Company's approach to modern business environments helps drive creativity and productivity for some of the world's leading technology, media, life science, and business services companies. The Company is a publicly traded real estate investment trust and member of the S&P MidCap 400 Index with more than seven decades of experience developing, acquiring, and managing office, life science, and mixed-use projects. As of September 30, 2025, Kilroy's stabilized portfolio totaled approximately 16.8 million square feet of primarily office and life science space that was 81.6% occupied and 83.8% leased. The Company also had approximately 1,000 residential units in Hollywood and San Diego, which had a quarterly average occupancy of 94.1%. In addition, the Company had one development project in the tenant improvement phase totaling approxim"
   },
   "LBRT": {
