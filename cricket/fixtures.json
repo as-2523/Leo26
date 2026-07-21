@@ -1,36 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-z0pcxh",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "England",
-      "startTimeUtc": "2026-07-19T10:00:00.000Z",
-      "hasStartTime": true,
-      "format": "ODI",
-      "formatLabel": "odi",
-      "series": "India tour of England, 2026",
-      "seriesStartUtc": "2026-07-01T00:00:00.000Z",
-      "seriesEndUtc": "2026-07-19T00:00:00.000Z",
-      "venue": "Lord's, London",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-g23jtd",
-      "teamId": "india-u19-men",
-      "teamName": "India Under-19 Men",
-      "opponent": "Sri Lanka U19",
-      "startTimeUtc": "2026-07-20T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Youth",
-      "formatLabel": "Unknown",
-      "series": "India U19 tour of Sri Lanka 2026",
-      "seriesStartUtc": "2026-07-04T00:00:00.000Z",
-      "seriesEndUtc": "2026-07-23T00:00:00.000Z",
-      "venue": "Galle International Stadium, Galle",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-1dbxzoi",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -1052,9 +1022,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-07-19T05:55:19.793Z",
-    "windowStart": "2026-07-19T00:00:00.000Z",
-    "windowEnd": "2027-01-19T00:00:00.000Z",
+    "generatedAt": "2026-07-21T05:52:49.563Z",
+    "windowStart": "2026-07-21T00:00:00.000Z",
+    "windowEnd": "2027-01-21T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -1070,7 +1040,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 70
+        "count": 73
       },
       {
         "id": "manual",
@@ -1080,6 +1050,12 @@
     ],
     "usedFallback": false,
     "expectedSeries": [
+      {
+        "name": "India U19 tour of Sri Lanka 2026",
+        "startUtc": "2026-07-04T00:00:00.000Z",
+        "endUtc": "2026-07-23T00:00:00.000Z",
+        "sourceUrl": "https://www.espncricinfo.com/search?query=India%20U19%20tour%20of%20Sri%20Lanka%202026"
+      },
       {
         "name": "England Women U19 tour of India 2026",
         "startUtc": "2026-11-26T00:00:00.000Z",
