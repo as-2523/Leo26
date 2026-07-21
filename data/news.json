@@ -1,5 +1,125 @@
 [
   {
+    "id": "na66e3b40ba",
+    "headline": "US Stock Market Today: S&P 500 Futures Edge Higher As Inflation Pressure Eases",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-21T08:10:07+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081007943.html?.tsrc=rss"
+  },
+  {
+    "id": "n045e1dd0eb",
+    "headline": "NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-21T02:06:41+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/nbis-stock-jumps-overnight-as-nvidia-reveals-over-9-stake-analyst-sees-more-upside/cZZ1uV9R7HQ?.tsrc=rss"
+  },
+  {
+    "id": "ne5fc4b6f87",
+    "headline": "Applied Digital Sheds 44%: Buy the Dip or Run?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-21T00:19:31+00:00",
+    "url": "https://www.trefis.com/articles/607952/applied-digital-sheds-44-buy-the-dip-or-run/2026-07-20?.tsrc=rss"
+  },
+  {
+    "id": "n87c527f165",
+    "headline": "Top Stock Picks for Week of July 20, 2026",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-20T21:14:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-picks-week-july-211400490.html?.tsrc=rss"
+  },
+  {
+    "id": "n1bc0f95c92",
+    "headline": "Alpha Compute Moves to Revenue Generation; $21-23 Million Run Rate \u2013 Quarterly Update Report",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-20T20:33:43+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/alpha-compute-moves-revenue-generation-203343783.html?.tsrc=rss"
+  },
+  {
+    "id": "n2f9d55806a",
+    "headline": "CoreWeave faces execution test as data center activation ramps up",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-20T19:40:00+00:00",
+    "url": "https://www.proactiveinvestors.com/companies/news/1095728/coreweave-faces-execution-test-as-data-center-activation-ramps-up-1095728.html?.tsrc=rss"
+  },
+  {
+    "id": "n5842b7bb99",
+    "headline": "FuelCell Energy Rallies 6% While Bloom Energy Slides 6%, Splitting the Fuel-Cell Trade",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-20T16:38:01+00:00",
+    "url": "https://247wallst.com/investing/2026/07/20/fuelcell-energy-rallies-6-while-bloom-energy-slides-6-splitting-the-fuel-cell-trade/?.tsrc=rss"
+  },
+  {
+    "id": "n1bc79a1269",
+    "headline": "Why Are ORCL, BE Stocks Falling Today?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-20T16:03:38+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/orcl-be-stock-drops-oracle-project-jupiter-pipeline-rejection-new-mexico/cZZieMLR7uM?.tsrc=rss"
+  },
+  {
+    "id": "n23175e104a",
+    "headline": "CoreWeave's Active Power Ramp to Boost Revenue Growth, Margin Expansion, BofA Says",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-20T15:52:16+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-apos-active-power-ramp-155216692.html?.tsrc=rss"
+  },
+  {
+    "id": "nc1c7c55ef5",
+    "headline": "IREN, Hut 8 Stocks Surge as AI Deals Restore Neocloud Cheer",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-20T15:04:00+00:00",
+    "url": "https://finance.yahoo.com/m/d3743fb9-bc7c-3f89-9f7b-a53905a71377/iren%2C-hut-8-stocks-surge-as.html?.tsrc=rss"
+  },
+  {
+    "id": "n8249cf4912",
+    "headline": "IREN Soars 17%; Applied Digital, TeraWulf, Core Scientific Surge in a Data Center Rebound",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-20T13:47:40+00:00",
+    "url": "https://247wallst.com/investing/2026/07/20/iren-soars-14-applied-digital-terawulf-core-scientific-surge-in-a-data-center-rebound/?.tsrc=rss"
+  },
+  {
+    "id": "n4d1551b55c",
+    "headline": "EQT Earnings: What To Look For From EQT",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-20T10:31:33+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-earnings-look-eqt-103133888.html?.tsrc=rss"
+  },
+  {
     "id": "n3fb44fc7a9",
     "headline": "MU, SNDK, CRWV, IREN Stocks Climb After Brutal Week: Retail Bets On Memory, Neocloud Rebound",
     "source": "Yahoo Finance",
@@ -378,125 +498,5 @@
     ],
     "ts": "2026-07-16T12:25:00+00:00",
     "url": "https://finance.yahoo.com/energy/articles/industrial-development-funding-oaktree-announce-122500775.html?.tsrc=rss"
-  },
-  {
-    "id": "n189098b2bf",
-    "headline": "CoreWeave Has Fallen 49% From Its 52-Week High. Is the Beaten-Down AI Stock a Bargain or a Value Trap?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-16T08:04:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/16/coreweave-has-fallen-49-from-its-52-week-high-is-t/?.tsrc=rss"
-  },
-  {
-    "id": "nc7912661f3",
-    "headline": "Can CoreWeave Become a $1 Trillion Company?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-16T01:20:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/15/can-coreweave-become-a-1-trillion-company/?.tsrc=rss"
-  },
-  {
-    "id": "na5671e7009",
-    "headline": "Why Micron (MU) Stock Is Trading Lower Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-15T23:04:21+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-mu-stock-trading-230421565.html?.tsrc=rss"
-  },
-  {
-    "id": "n912870d70e",
-    "headline": "Bloom Energy (BE) Stock Drops Despite Market Gains: Important Facts to Note",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-15T22:00:01+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-drops-despite-220001133.html?.tsrc=rss"
-  },
-  {
-    "id": "n7ed5d8bc65",
-    "headline": "Vistra Corp. (VST) Rises Higher Than Market: Key Facts",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-15T21:45:03+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-rises-higher-214503897.html?.tsrc=rss"
-  },
-  {
-    "id": "n82fd57d7f1",
-    "headline": "EQT Declares Quarterly Cash Dividend",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-15T20:15:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-declares-quarterly-cash-dividend-201500288.html?.tsrc=rss"
-  },
-  {
-    "id": "nd8ce7ec04b",
-    "headline": "A Short Seller Report Says China Could Kill This Key Data Center Supplier\u2019s Growth",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-15T20:13:19+00:00",
-    "url": "https://www.barchart.com/story/news/3304085/a-short-seller-report-says-china-could-kill-this-key-data-center-suppliers-growth?.tsrc=rss"
-  },
-  {
-    "id": "nf3339e565a",
-    "headline": "Applied Digital Sets Fiscal Fourth Quarter and Full Year 2026 Conference Call for Monday, July 27, 2026, at 5:00 p.m. Eastern Time",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-15T20:05:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-sets-fiscal-fourth-200500943.html?.tsrc=rss"
-  },
-  {
-    "id": "nd452c97197",
-    "headline": "Bloom Energy vs. Plug Power: Which Fuel Cell Stock Is a Better Buy in 2026?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-15T19:59:27+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/07/15/bloom-energy-vs-plug-power-which-fuel-cell-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "n7821bba003",
-    "headline": "Is CoreWeave (CRWV) Cheap After A 43% Drop?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-15T19:09:27+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-cheap-43-drop-190927614.html?.tsrc=rss"
-  },
-  {
-    "id": "n9f0ce310a2",
-    "headline": "TeraWulf Stock Panics Over New York\u2019s Data-Center Moratorium, but Wall Street Sees a Steal",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-15T18:54:00+00:00",
-    "url": "https://finance.yahoo.com/m/b4ed0508-254a-3c64-934f-2510318929d7/terawulf-stock-panics-over.html?.tsrc=rss"
-  },
-  {
-    "id": "n7346fff79f",
-    "headline": "UBS Keeps Buy Rating on EQT Corporation (EQT)",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-15T14:24:38+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-keeps-buy-rating-eqt-142438217.html?.tsrc=rss"
   }
 ]
