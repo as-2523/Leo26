@@ -1,19 +1,11 @@
 {
   "ticker": "VRT",
-  "current_price": 291.67,
-  "prev_close": 289.56,
-  "day_change_pct": 0.73,
+  "current_price": 304.5,
+  "prev_close": 291.67,
+  "day_change_pct": 4.4,
   "week_52_high": 379.935,
   "week_52_low": 118.7,
   "history": [
-    {
-      "date": "2026-03-11",
-      "open": 271.9886,
-      "high": 276.6566,
-      "low": 266.4511,
-      "close": 268.1404,
-      "volume": 7103200
-    },
     {
       "date": "2026-03-12",
       "open": 263.5324,
@@ -724,9 +716,17 @@
       "high": 301.66,
       "low": 290.96,
       "close": 291.67,
-      "volume": 3767300
+      "volume": 3770300
+    },
+    {
+      "date": "2026-07-21",
+      "open": 303.05,
+      "high": 306.45,
+      "low": 297.15,
+      "close": 304.5,
+      "volume": 3480000
     }
   ],
-  "as_of": "2026-07-21T09:09:48.870411+00:00",
+  "as_of": "2026-07-22T09:09:36.980493+00:00",
   "stale": false
 }

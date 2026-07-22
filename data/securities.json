@@ -11,8 +11,8 @@
     "name": "NVIDIA Corporation",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 4923644706816,
-    "pe_ratio": 31.035114,
+    "market_cap": 5020770631680,
+    "pe_ratio": 31.171427,
     "description": "NVIDIA Corporation operates as a data center scale AI infrastructure company in the United States, Taiwan, China, Hong Kong, Europe, and internationally. It operates through Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics. The company's products are used in gaming, professional visualization, data center, and automotive markets. It sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California.",
     "industry": "Semiconductors",
     "website": "https://www.nvidia.com"
@@ -21,8 +21,8 @@
     "name": "Oracle Corporation",
     "exchange": "NYQ",
     "sector": "Technology",
-    "market_cap": 349631578112,
-    "pe_ratio": 21.675,
+    "market_cap": 365963870208,
+    "pe_ratio": 20.82787,
     "description": "Oracle Corporation offers products and services that build, run and support enterprise information technology frameworks worldwide. Its Oracle cloud software as a service offering includes various cloud software applications, including Oracle Fusion cloud enterprise resource planning ERP, Oracle Fusion cloud enterprise performance management EPM, Oracle Fusion cloud supply chain and manufacturing management SCM, Oracle Fusion cloud human capital management HCM, and NetSuite applications suite, Oracle Health applications, as well as Oracle Fusion Sales, Service, and Marketing. The company also offers cloud-based industry solutions for various industries; Oracle cloud license and on-premise license; and Oracle license support services. In addition, it provides cloud and license business' infrastructure technologies, such as the Oracle Database and MySQL Database; Java, a software development language; and middleware, including development tools and others. The company's cloud and license business' infrastructure technologies also comprise cloud-based compute, storage, and networking capabilities; and Oracle autonomous database, as well as AI, Internet-of-Things, machine learning, dig",
     "industry": "Software - Infrastructure",
     "website": "https://www.oracle.com"
@@ -31,8 +31,8 @@
     "name": "Broadcom Inc.",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 1799126515712,
-    "pe_ratio": 61.69005,
+    "market_cap": 1838804762624,
+    "pe_ratio": 62.845528,
     "description": "Broadcom Inc. designs, develops, and supplies various semiconductor devices and infrastructure software solutions internationally. The company operates in two segments: Semiconductor Solutions and Infrastructure Software. The company offers networking connectivity, such as custom silicon solutions, ethernet switching & routing, ethernet NIC controllers, physical layer devices, and fiber optic components; wireless device connectivity, including RF semiconductor devices, connectivity solutions, custom touch controllers, and inductive charging ASICS; servers and storage system solutions, such as PCIE switches, SAS & raid products, fibre channel products, and HDD & SSD solutions; broadband solutions, includes set-top box, and broadband access; and industrial. The company also offers a private cloud software portfolio, including the VMware Cloud Foundation, Edge, vSphere foundation, telco cloud platform, private AI, live recovery, application networking and security, application development and data services; mainframe software, such as AIOPS & automation, database & data management, DEVX & DEVOPS, cybersecurity & compliance management, beyond code programs, foundational & open mainfram",
     "industry": "Semiconductors",
     "website": "https://www.broadcom.com"
@@ -51,8 +51,8 @@
     "name": "ASML Holding N.V.",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 667957592064,
-    "pe_ratio": 60.23623,
+    "market_cap": 691960020992,
+    "pe_ratio": 60.231026,
     "description": "ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. The company offers lithography, metrology, and inspection systems. It also provides extreme ultraviolet lithography systems; and deep ultraviolet lithography systems comprising immersion and dry lithography systems solutions to manufacture various range of semiconductor nodes and technologies. In addition, the company offers metrology and inspection systems, including YieldStar optical metrology systems, a diffraction-based wafer metrology platform to assess the quality of patterns on the wafers; and HMI electron beam solutions to locate and analyze individual chip defects. Further, it provides computational lithography solutions, and lithography systems and control software solutions; and refurbishes and upgrades lithography systems, as well as offers customer support and related services. Additionally, the company offers hardware, software, and services to chipmakers to produce the patterns of integrated circuits. It operates in Japan, South Korea, Singapore, Taiwan, China, rest of Asia, the Netherlands, rest of ",
     "industry": "Semiconductor Equipment & Materials",
     "website": "https://www.asml.com"
@@ -61,8 +61,8 @@
     "name": "Intel Corporation",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 487823540224,
-    "pe_ratio": 60.14898,
+    "market_cap": 529991663616,
+    "pe_ratio": 64.893105,
     "description": "Intel Corporation designs, develops, manufactures, markets, sells, and services computing and related end products and services in the United States, Ireland, Israel, and internationally. It operates through three segments: CCG, DCAI, and Intel Foundry. The company offers client computing group products, including client and commercial CPUs, discrete client GPUs, edge computing, and connectivity products; data center and AI products, such as server CPUs, discrete GPUs, and networking products; and semiconductors comprising wafer fabrication, substrates, and other related products and services. It also provides driving assistance and self-driving solutions; and develops and manufactures multi-beam mask writing tools. The company sells its products through sales organizations, distributors, resellers, retailers, and OEM partners. It serves original equipment manufacturers, original design manufacturers, cloud service providers, and other manufacturers and service providers. Intel Corporation has a strategic collaboration with Infosys Limited to develop a multi-layer AI fabric that unifies infrastructure, models, data, applications, and workflows into a composable and agent-ready ecos",
     "industry": "Semiconductors",
     "website": "https://www.intel.com"
@@ -81,8 +81,8 @@
     "name": "Bloom Energy Corporation",
     "exchange": "NYQ",
     "sector": "Industrials",
-    "market_cap": 56052510720,
-    "pe_ratio": 43.35305,
+    "market_cap": 64358268928,
+    "pe_ratio": 49.777027,
     "description": "Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide fuel cell systems for on-site power generation in the United States and internationally. It offers Bloom Energy Server, an energy server platform to convert fuel, such as natural gas, biogas, hydrogen, or a blend of these fuels, into electricity through a non-combustion electrochemical process. The company also provides Bloom Electrolyzer for producing hydrogen. It sells its products through direct and indirect sales channels to utilities, data centers, retail, healthcare, education, telecom, manufacturing, and other industries. The company was formerly known as Ion America Corp. and changed its name to Bloom Energy Corporation in 2006. Bloom Energy Corporation was incorporated in 2001 and is headquartered in San Jose, California.",
     "industry": "Electrical Equipment & Parts",
     "website": "https://www.bloomenergy.com"
@@ -91,8 +91,8 @@
     "name": "Solaris Energy Infrastructure, Inc.",
     "exchange": "NYQ",
     "sector": "Energy",
-    "market_cap": 5816552448,
-    "pe_ratio": 72.071434,
+    "market_cap": 6261392896,
+    "pe_ratio": 71.61538,
     "description": "Solaris Energy Infrastructure, Inc. provides modular and scalable equipment-based solutions for power generation, control and distribution, and management of raw materials used in the completion of oil and natural gas wells in the United States. It operates in Solaris Power Solutions and Solaris Logistics Solutions segments. The Solaris Power Solutions segment delivers power generation, control, and distribution solutions; and offers support to data center, energy, and other commercial and industrial sector. The Solaris Logistics Solutions segment designs and manufactures specialized equipment; and offers field technician support, last mile, and mobilization logistics services, as well as provides software solutions. The company was formerly known as Solaris Oilfield Infrastructure, Inc. and changed its name to Solaris Energy Infrastructure, Inc. in September 2024. Solaris Energy Infrastructure, Inc. was founded in 2014 and is headquartered in Houston, Texas.",
     "industry": "Oil & Gas Equipment & Services",
     "website": "https://www.solaris-energy.com"
@@ -101,8 +101,8 @@
     "name": "Vistra Corp.",
     "exchange": "NYQ",
     "sector": "Utilities",
-    "market_cap": 53271457792,
-    "pe_ratio": 25.985199,
+    "market_cap": 54734831616,
+    "pe_ratio": 26.395123,
     "description": "Vistra Corp., together with its subsidiaries, operates as an integrated retail electricity and power generation company in the United States. The company operates through five segments: Retail, Texas, East, West, and Asset Closure. The company retails electricity and natural gas to residential, commercial, and industrial customers across states in the United States and the District of Columbia. It is also involved in electricity generation, wholesale energy purchases and sales, commodity risk management, fuel procurement, and fuel logistics management activities. In addition, the company engages in decommissioning and reclamation of retired generation facilities, including mines, and battery removal and remediation activities. It serves approximately 5 million customers with a generation capacity of approximately 44,000 megawatts with a portfolio of natural gas, nuclear, coal, solar, and battery energy storage facilities. The company was formerly known as Vistra Energy Corp. and changed its name to Vistra Corp. in July 2020. Vistra Corp. was founded in 1882 and is based in Irving, Texas.",
     "industry": "Utilities - Independent Power Producers",
     "website": "https://vistracorp.com"
@@ -119,8 +119,8 @@
     "name": "CoreWeave, Inc.",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 39859367936,
-    "pe_ratio": -49.93541,
+    "market_cap": 43416489984,
+    "pe_ratio": -47.12473,
     "description": "CoreWeave, Inc. operates as a cloud infrastructure technology company in the United States. The company offers CoreWeave Cloud platform that comprises proprietary software and cloud services that deliver the automation and efficiency needed to manage complex artificial intelligence (AI) infrastructure at scale. It also offers data and storage solutions, such as Local Object Transport Accelerator; infrastructure control solutions, including CoreWeave Kubernetes service; mission control services, including node, rack, and fleet lifecycle management; model and agent development tools comprising Weights & Biases, an AI developer platform; and runtime acceleration. In addition, the company offers graphics processing unit compute, CPU compute, networking services, managed services, and virtual and bare metal servers. Its services also include visual effects rendering, machine learning, pixel streaming, and batch processing. The company was formerly known as Atlantic Crypto Corporation and changed its name to CoreWeave, Inc. in December 2019. CoreWeave, Inc. was incorporated in 2017 and is based in Livingston, New Jersey.",
     "industry": "Software - Infrastructure",
     "website": "https://www.coreweave.com"
@@ -129,8 +129,8 @@
     "name": "Applied Digital Corporation",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 7958681600,
-    "pe_ratio": -22.642277,
+    "market_cap": 8587374592,
+    "pe_ratio": -24.430893,
     "description": "Applied Digital Corporation designs, develops, and operates digital infrastructure solutions to high-performance computing (HPC) and artificial intelligence industries in North America. It operates through: Data Center Hosting Business, and HPC Hosting Business. The company offers infrastructure services to crypto mining customers; and GPU computing solutions for critical workloads related to AI, machine learning, and other HPC tasks. It also engages in the designing, constructing, and managing of data centers to support HPC applications. The company was formerly known as Applied Blockchain, Inc. and changed its name to Applied Digital Corporation in November 2022. Applied Digital Corporation has an lease agreement with CoreWeave for an additional 150MW at its Polaris Forge 1 Campus in Ellendale, North Dakota. Applied Digital Corporation is based in Dallas, Texas.",
     "industry": "Information Technology Services",
     "website": "https://applieddigital.com"
@@ -139,8 +139,8 @@
     "name": "Vertiv Holdings Co",
     "exchange": "NYQ",
     "sector": "Industrials",
-    "market_cap": 112033021952,
-    "pe_ratio": 72.9175,
+    "market_cap": 116961132544,
+    "pe_ratio": 73.55073,
     "description": "Vertiv Holdings Co designs, manufactures, and services critical digital infrastructure technologies and life cycle services for data centers, communication networks, and commercial and industrial environments in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company offers AC and DC power management products, low/medium voltage switchgear, busbar, thermal management products, air cooled and liquid cooled thermal management products, integrated modular solutions, racks, single phase UPS, rack power distribution, rack thermal systems, configurable integrated solutions, energy storage solutions, hardware, and software infrastructure that are integral to the technologies used for various services, including artificial intelligence, e-commerce, online banking, file sharing, video on-demand, energy storage, wireless communications, Internet of Things, and online gaming. It also provides lifecycle management services, predictive analytics, and professional services for deploying, maintaining, and optimizing its products and their related systems; and preventative maintenance, acceptance testing, engineering and consulting, fluid management, performance assessment",
     "industry": "Electrical Equipment & Parts",
     "website": "https://www.vertiv.com"
@@ -149,8 +149,8 @@
     "name": "Core Scientific, Inc.",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 7120630272,
-    "pe_ratio": 75.50477,
+    "market_cap": 7632425472,
+    "pe_ratio": 80.93168,
     "description": "Core Scientific, Inc. provides infrastructure for high-density colocation services and digital asset mining in the United States. It operates through three segments: Colocation, Digital Asset Self-Mining, and Digital Asset Hosted Mining. The company offers space, power, cooling, facilities operations, security, and other services to third-party customers to support workloads for machine learning and artificial intelligence; deployment, monitoring, troubleshooting, optimization, and maintenance of its customers' digital asset mining equipment; and electrical power, repair, and other infrastructure services for its customers to operate, maintain, and mine digital assets. It is also involved in the deployment and operation of its fleet of miners within its digital infrastructure as part of a pool of users that process transactions conducted on one or more blockchain networks to receive digital assets in the form of bitcoin. It also deploys and operates its fleet of miners within its digital infrastructure as part of a pool of users that process transactions conducted on one or more blockchain networks; and provides hosting services for digital asset mining customers, which include dep",
     "industry": "Software - Infrastructure",
     "website": "https://corescientific.com"
@@ -159,8 +159,8 @@
     "name": "IREN Limited",
     "exchange": "NMS",
     "sector": "Financial Services",
-    "market_cap": 14366623744,
-    "pe_ratio": 43.695652,
+    "market_cap": 14756166656,
+    "pe_ratio": 52.265823,
     "description": "IREN Limited operates in the vertically integrated data center business in Australia and Canada. The company owns and operates computing hardware, as well as electrical infrastructure and data centers. It also mines Bitcoin, a scarce digital asset that is created and transmitted through the operation of a peer-to-peer network of computers running the Bitcoin software. The company was formerly known as Iris Energy Limited and changed its name to IREN Limited in November 2024. The company was incorporated in 2018 and is based in Sydney, Australia.",
     "industry": "Capital Markets",
     "website": "https://iren.com"
@@ -169,8 +169,8 @@
     "name": "CleanSpark, Inc.",
     "exchange": "NCM",
     "sector": "Financial Services",
-    "market_cap": 3700296192,
-    "pe_ratio": -19.889654,
+    "market_cap": 3946640384,
+    "pe_ratio": -21.213793,
     "description": "CleanSpark, Inc. operates as a bitcoin mining company in the Americas. The company owns, leases, and operates data centers and power assets. Its infrastructure supports Bitcoin, a digital commodity. The company was formerly known as Stratean Inc. and changed its name to CleanSpark, Inc. in November 2016. CleanSpark, Inc. was incorporated in 1987 and is headquartered in Henderson, Nevada.",
     "industry": "Capital Markets",
     "website": "https://www.cleanspark.com"
@@ -179,8 +179,8 @@
     "name": "Riot Platforms, Inc.",
     "exchange": "NCM",
     "sector": "Financial Services",
-    "market_cap": 7525209600,
-    "pe_ratio": -28.49166,
+    "market_cap": 8126470144,
+    "pe_ratio": -30.768127,
     "description": "Riot Platforms, Inc., together with its subsidiaries, operates as a Bitcoin mining company in the United States. It operates in two segments, Bitcoin Mining and Engineering. The company offers comprehensive and critical infrastructure for bitcoin mining and data center services at its facilities. The company also designs and manufactures power distribution equipment and engineered-to-order electrical products; and electricity distribution product design, manufacturing, and installation services for large-scale industrial and governmental customers, as well as data center, power generation, utility, water, industrial, and alternative energy markets. The company was founded in 2000 and is based in Castle Rock, Colorado.",
     "industry": "Capital Markets",
     "website": "https://www.riotplatforms.com"
@@ -189,8 +189,8 @@
     "name": "Lumentum Holdings Inc.",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 59559788544,
-    "pe_ratio": 128.23283,
+    "market_cap": 65162166272,
+    "pe_ratio": 135.09033,
     "description": "Lumentum Holdings Inc. manufactures and sells optical and photonic products in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa. It operates through two segments, Cloud & Networking and Industrial Tech. The Cloud & Networking segment offers optical and photonic chips, components, modules, and subsystems supplied to cloud data center operators, AI/ML infrastructure providers, and network equipment manufacturer customers that are building cloud data centers and network infrastructures. Its Industrial Tech segment provides short-pulse solid-state lasers, kilowatt-class fiber lasers, diode lasers, and gas lasers that serves the semiconductor device, solar cell, display, and electric vehicle and battery manufacturing markets. The company was incorporated in 2015 and is headquartered in San Jose, California.",
     "industry": "Communication Equipment",
     "website": "https://www.lumentum.com"
@@ -199,8 +199,8 @@
     "name": "Sandisk Corporation",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 205985447936,
-    "pe_ratio": 46.30326,
+    "market_cap": 235373871104,
+    "pe_ratio": 47.615337,
     "description": "Sandisk Corporation develops, manufactures, and sells data storage devices and solutions using NAND flash technology in the United States, Europe, the Middle East, Africa, Asia, and internationally. The company offers solid state drives for desktop and notebook PCs, gaming consoles, and set top boxes; and flash-based embedded storage products for mobile phones, tablets, notebook PCs and other portable and wearable devices, automotive applications, Internet of Things, industrial, and connected home applications, as well as removable cards, universal serial bus drives, and wafers and components. It sells its products to computer manufacturers and original equipment manufacturers, datacenters, private cloud customers, cloud service providers, resellers, distributors, and retailers through its sales personnel, dealers, distributors, retailers, and subsidiaries. Sandisk Corporation was incorporated in 2024 and is based in Milpitas, California.",
     "industry": "Computer Hardware",
     "website": "https://www.sandisk.com"
@@ -219,8 +219,8 @@
     "name": "Taiwan Semiconductor Manufacturing Company Limited",
     "exchange": "NYQ",
     "sector": "Technology",
-    "market_cap": 2086518390784,
-    "pe_ratio": 29.844213,
+    "market_cap": 2202228752384,
+    "pe_ratio": 34.97611,
     "description": "Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiaries, manufactures, packages, tests, and sells integrated circuits and other semiconductor devices in Taiwan, China, Europe, the Middle East, Africa, Japan, the United States, and internationally. It provides various wafer fabrication processes, such as processes to manufacture complementary metal- oxide-semiconductor (CMOS) logic, mixed-signal, radio frequency, embedded memory, bipolar CMOS mixed-signal, and others. The company also involved in providing customer and engineering support services; manufacturing of masks; investment in technology start-up companies; research, designing, developing, manufacturing, packaging, testing, and sale of color filters; and investment activities. Its products are used in high performance computing, smartphones, Internet of things, automotive, and digital consumer electronics. Taiwan Semiconductor Manufacturing Company Limited was incorporated in 1987 and is headquartered in Hsinchu City, Taiwan.",
     "industry": "Semiconductors",
     "website": "https://www.tsmc.com"
@@ -229,8 +229,8 @@
     "name": "Tower Semiconductor Ltd.",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 25681827840,
-    "pe_ratio": 108.71293,
+    "market_cap": 28360669184,
+    "pe_ratio": 105.42437,
     "description": "Tower Semiconductor Ltd., an independent semiconductor foundry, provides technology, development, and process platforms for integrated circuits in the United States, Japan, rest of Asia, and Europe. The company provides customizable process technologies, including SiGe, SiPho, mixed signal CMOS, RF CMOS, CMOS image sensor, non-imaging sensors, wafers, and integrated power management. It also offers a design enablement platform for a design cycle, as well as transfer optimization and development process services to integrated device manufacturers and fabless companies. The company serves consumer applications, personal computers, communications, handsets and smartphones, automotive, industrial, aerospace, and medical devices. Tower Semiconductor Ltd. was incorporated in 1993 and is headquartered in Migdal Haemek, Israel",
     "industry": "Semiconductors",
     "website": "https://towersemi.com"
@@ -239,8 +239,8 @@
     "name": "Onto Innovation Inc.",
     "exchange": "NYQ",
     "sector": "Technology",
-    "market_cap": 13855574016,
-    "pe_ratio": 130.15887,
+    "market_cap": 14875813888,
+    "pe_ratio": 130.02174,
     "description": "Onto Innovation Inc. engages in the design, development, manufacture, and support of process control tools that perform macro-defect inspection and metrology in the United States, Taiwan, South Korea, Japan, China, Southeast Asia, Asia, and Europe. The company offers lithography systems and process control analytical software; and automated and integrated metrology systems, silicon wafer all-surface inspection, macro defect inspection, automated defect classification and pattern analysis, yield analysis, opaque film metrology, 4D business, advanced packaging lithography, process control software, and yield management software products. It also provides process and yield management solutions, and device packaging and test facilities through standalone systems for optical metrology, macro-defect inspection, packaging lithography, and transparent and opaque thin film measurements. In addition, the company offers process control software portfolio that includes solutions for standalone tools, groups of tools, and factory-wide suites. Further, it engages in systems and software, spare parts, and other services, as well as offers software licensing services; and provides advanced product",
     "industry": "Semiconductor Equipment & Materials",
     "website": "https://www.ontoinnovation.com"
@@ -259,8 +259,8 @@
     "name": "Marvell Technology, Inc.",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 174967324672,
-    "pe_ratio": 64.98,
+    "market_cap": 186653343744,
+    "pe_ratio": 67.08388,
     "description": "Marvell Technology, Inc., together with its subsidiaries, provides data infrastructure semiconductor solutions and spanning the data center core to network edge in the United States, Argentina, China, India, Israel, Japan, Singapore, South Korea, Taiwan, Vietnam, and internationally. The company develops and scales system-on-a-chip architectures, integrating analog, mixed-signal, and digital signal processing functionality. It offers a portfolio of ethernet solutions, including spanning controllers, network adapters, physical transceivers, and switches; single or multiple core processors; and custom application specific integrated circuits, interconnects, fibre channel adapters, and processors. The company also provides interconnect products, including pulse amplitude modulation, coherent and coherent-lite digital signal processors (DSPs), laser drivers, trans-impedance amplifiers, silicon photonics, co-packaged optics, linear pluggable optics chipsets, data center interconnect, active electrical cable DSPs and peripheral component interconnect express retimer solutions; fibre channel products comprising host bus adapters and controllers for server and storage system connectivity; ",
     "industry": "Semiconductors",
     "website": "https://www.marvell.com"
@@ -269,8 +269,8 @@
     "name": "WhiteFiber, Inc.",
     "exchange": "NCM",
     "sector": "Technology",
-    "market_cap": 1047603648,
-    "pe_ratio": 46.50884,
+    "market_cap": 1063821632,
+    "pe_ratio": 47.228844,
     "description": "WhiteFiber, Inc. provides artificial intelligence (AI) infrastructure solutions. It operates through two segments, cloud services and colocation services. The company designs, develops, and operates data centers. It also offers hosting, colocation, and cloud-based high-performance computing (HPC) graphics processing unit (GPU) services. In addition, the company provides data center infrastructure and cloud services for enterprises, research institutions, and AI and machine learning (ML) driven businesses. Further, it serves healthcare, finance, and technologies; and GPU cloud customers. The company was formerly known as Celer, Inc. and changed its name to WhiteFiber, Inc. in October 2024. The company was incorporated in 2024 and is headquartered in New York, New York. WhiteFiber, Inc. is a subsidiary of Bit Digital, Inc.",
     "industry": "Information Technology Services",
     "website": "https://www.whitefiber.com"
@@ -281,8 +281,8 @@
     "sector": "Utilities",
     "industry": "Utilities - Independent Power Producers",
     "website": "https://www.constellationenergy.com",
-    "market_cap": 90525360128,
-    "pe_ratio": 21.929066,
+    "market_cap": 93639294976,
+    "pe_ratio": 22.035295,
     "description": "Constellation Energy Corporation produces and sells energy products and services in the United States. The company operates through five segments: Mid-Atlantic, Midwest, New York, ERCOT, and Other Power Regions. It offers electricity, natural gas, energy-related products, and sustainable solutions. The company has approximately 31,676 megawatts of generating capacity consisting of nuclear, wind, solar, natural gas, and hydroelectric assets. It serves distribution utilities, municipalities, cooperatives, and commercial, industrial, public sector, and residential customers. The company was incorporated in 2021 and is headquartered in Baltimore, Maryland."
   },
   "MOD": {
@@ -291,8 +291,8 @@
     "sector": "Consumer Cyclical",
     "industry": "Auto Parts",
     "website": "https://www.modine.com",
-    "market_cap": 12102064128,
-    "pe_ratio": 100.83186,
+    "market_cap": 13122252800,
+    "pe_ratio": 100.85306,
     "description": "Modine Manufacturing Company designs, engineers, tests, manufactures, and sells mission-critical thermal solutions in the United States, Canada, Italy, Hungary, the United Kingdom, China, and internationally. It offers heat transfer products, including round tube plate fin construction; gas-fired, hydronic, electric, and oil fired unit heaters; roof-mounted direct- and indirect-fired makeup air units, duct furnaces, infrared units, and perimeter heating products; single packaged unit ventilators, modular chillers, air handler and condensing units, and ceiling cassettes; evaporator unit coolers, remote condensers, fluid coolers, gas coolers, and dry and brine coolers; and motor and generator cooling coils, transformer oil coolers, radiators, dryers, and industrial heat exchangers. The company also provides data center products that consists of IT cooling solutions, including chillers, dry coolers, precision air handling units, computer room air conditioning, computer room air handler units, fan walls, rear-door heat exchangers, coolant distribution units, and immersion solutions, as well as sells replacement parts, maintenance service and control solutions for existing equipment and"
   },
   "BTDR": {
@@ -301,8 +301,8 @@
     "sector": "Technology",
     "industry": "Software - Application",
     "website": "https://www.bitdeer.com",
-    "market_cap": 2766476032,
-    "pe_ratio": -32.02817,
+    "market_cap": 3036554240,
+    "pe_ratio": -35.15493,
     "description": "Bitdeer Technologies Group operates as a technology company for blockchain and high-performance computing (HPC) in Singapore, the United States, Bhutan, Norway, Finland, Ethiopia, Canada, and internationally. The company offers hash rate sharing solutions, including cloud hash rate and hash-rate subscription plans; and a one-stop mining rig hosting solution comprising deployment, maintenance, and management services for cryptocurrency mining; as well as mining cryptocurrencies for its own account. It also operates mining datacenters to generate hash rates; handles various processes involved in computing, such as equipment procurement, transport logistics, datacenter design and construction, equipment management, and daily operations; and sells mining rigs. In addition, the company offers Minerplus, a software platform that offers software support to reduce time needed for daily maintenance and mining rig upgrade; AI infrastructure and AI cloud business to offer advanced AI cloud capabilities, HPC services and colocation services; and mining solutions under the SEALMINER brand. The company is headquartered in Singapore."
   },
   "CIFR": {
@@ -311,8 +311,8 @@
     "sector": "Technology",
     "industry": "Information Technology Services",
     "website": "https://www.cipherdigital.com",
-    "market_cap": 8401870848,
-    "pe_ratio": 42.791668,
+    "market_cap": 9363135488,
+    "pe_ratio": 47.6875,
     "description": "Cipher Digital Inc., together with its subsidiaries, develops and operates industrial-scale data centers for bitcoin mining and high-performance compute (HPC) hosting in the United States. It develops HPC data center facilities across various sites for hyperscaler tenants; operates power at one bitcoin mining data center; and maintains a pipeline across various sites. The company was formerly known as Cipher Mining Inc. and change its name to Cipher Digital Inc. in February 2026. The company was founded in 2021 and is headquartered in New York, New York."
   },
   "COHR": {
@@ -321,8 +321,8 @@
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments",
     "website": "https://www.coherent.com",
-    "market_cap": 55835463680,
-    "pe_ratio": 131.52074,
+    "market_cap": 62060707840,
+    "pe_ratio": 134.98724,
     "description": "Coherent Corp. develops, manufactures, and markets engineered materials, optoelectronic components and devices, and laser systems for the use in the industrial, communications, electronics, and instrumentation markets worldwide. It operates through three segments: Networking, Materials, and Lasers. The Networking segment offers transceivers, systems, subsystems, modules, components, optics, and semiconductor devices for datacenter and communications applications. The Materials segment provides engineered materials, laser optics, thermoelectric components, and advanced ceramic and metal-matrix composite materials and products; and vertical-cavity surface-emitting laser, edge-emitting laser, pump lasers, high-power lasers for materials processing, and integrated circuit. The Laser segment offers excimer lasers, solid-state lasers, CO2 lasers, and laser systems for various industrial applications, including semiconductor capital equipment, display manufacturing, precision manufacturing, and scientific research; and laser systems and subsystems. It markets its products and services through direct sales force, representatives, and distributors. The company was formerly known as II-VI In"
   },
   "GLXY": {
@@ -331,8 +331,8 @@
     "sector": "Financial Services",
     "industry": "Capital Markets",
     "website": "https://www.galaxy.com",
-    "market_cap": 9225035776,
-    "pe_ratio": 325.62622,
+    "market_cap": 9907361792,
+    "pe_ratio": 282.5217,
     "description": "Galaxy Digital Inc. engages in the digital asset and data centre infrastructure businesses in North America and internationally. It operates through Digital Assets, Data Centers, and Treasury and Corporate segments. The Digital Assets segment provides over-the-counter spot and derivatives trading, lending, and structured products, as well as mergers and acquisitions advisory, and equity and debt capital markets services. This segment also manages investments in the digital assets' ecosystem; and offers blockchain-centric technology and infrastructure solutions, including staking, tokenization, and custodial technology. The Data Centers segment comprises the Helios infrastructure assets. The Treasury and Corporate segment engages in managing a portfolio of digital assets, ventures, private equity, and fund investments, as well as in bitcoin mining operations. It also offers GalaxyOne, a retail financial technology platform designed for individual investors seeking access to traditional and digital markets. The company was founded in 2018 and is headquartered in New York, New York."
   },
   "HUT": {
@@ -341,8 +341,8 @@
     "sector": "Financial Services",
     "industry": "Capital Markets",
     "website": "https://www.hut8.com",
-    "market_cap": 11364123648,
-    "pe_ratio": -54.336475,
+    "market_cap": 12270507008,
+    "pe_ratio": -56.539562,
     "description": "Hut 8 Corp., together with its subsidiaries, operates as an energy infrastructure platform that integrates power, digital infrastructure, and compute at scale to fuel energy-intensive use cases in the United States and Canada. It operates through Power, Digital Infrastructure, Compute, and Other segments. The company offers managed services for energy infrastructure development, such as site design, procurement, and construction management; software automation, process design, personnel hiring, and team training; utilities contracts, hosting operations, and customer management; energy portfolio optimization and strategic initiatives; and finance, accounting, and safety services. It also engages in the operation of compute infrastructure; and provision, hosting, monitoring, troubleshooting, repair, maintenance, and sale of mining equipment. In addition, the company offers Bitcoin mining; data center and cloud infrastructure services, including colocation services; and ASIC compute, traditional cloud, and AI cloud services. Hut 8 Corp. was founded in 2020 and is based in Miami, Florida."
   },
   "STX": {
@@ -371,8 +371,8 @@
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
     "website": "https://www.babcock.com",
-    "market_cap": 1537512448,
-    "pe_ratio": 21.747368,
+    "market_cap": 1616397312,
+    "pe_ratio": 22.863157,
     "description": "Babcock & Wilcox Enterprises, Inc., together with its subsidiaries, provides energy and emissions control solutions to industrial, electrical utility, municipal, and other customers in the United States, Canada, the United Kingdom, Indonesia, and the Philippines. The company offers BrightLoop chemical looping technology, which produces steam, hydrogen, or syngas for applications in the energy, industrial, and agricultural sectors. It also provides steam generation equipment, including aftermarket parts, construction, maintenance, and field services; steam generation systems, such as package boilers, watertube and firetube waste heat boilers, and other boilers to medium and heavy industrial customers. The company was founded in 1867 and is headquartered in Akron, Ohio."
   },
   "INFY": {
@@ -381,8 +381,8 @@
     "sector": "Technology",
     "industry": "Information Technology Services",
     "website": "https://www.infosys.com",
-    "market_cap": 45793378304,
-    "pe_ratio": 14.316456,
+    "market_cap": 45186035712,
+    "pe_ratio": 14.126582,
     "description": "Infosys Limited provides consulting, technology, outsourcing, and digital services worldwide. The company offers insight services, such as applied and generative AI, sustainability services, and Infosys Topaz, an AI-first set of services, solutions, and platforms; blockchain, Internet of Things, and engineering services; cybersecurity and quality engineering services; and enterprise agile DevOps, API economy and microservices, application modernization, and digital process automation. It also provides digital supply chain, Microsoft business application services, Microsoft cloud business, Oracle, SAP, service experience transformation, Salesforce, energy transition, network transformation services, infrastructure services, global capability center, and Infosys Cobalt, a suite of services, solutions, and platforms. In addition, the company offers experience services, including digital marketing, digital commerce, digital interactions, digital workplace services, digital experience, metaverse, and Infosys Aster, a marketing suite; and EdgeVerve, Infosys Finacle, Infosys Live Enterprise Suite, Infosys Cortex, Infosys Meridian, Panaya, Infosys Equinox, Infosys Topaz Fabric, Infosys Win"
   },
   "KRC": {
@@ -401,8 +401,8 @@
     "sector": "Energy",
     "industry": "Oil & Gas Equipment & Services",
     "website": "https://www.libertyenergy.com",
-    "market_cap": 3928017408,
-    "pe_ratio": 26.163042,
+    "market_cap": 4060202496,
+    "pe_ratio": 27.340658,
     "description": "Liberty Energy Inc.,an integrated energy services and technology company, provides hydraulic fracturing services and related technologies onshore oil, natural gas, and enhanced geothermal exploration and production companies in North America. It offers wireline services, proppant delivery solutions, field gas processing and treating, compressed natural gas (CNG) delivery, data analytics, related goods comprising sand mine operations, and technologies; and proppant handling equipment and logistics software. As of as of December 31, 2025, the company owned and operated a fleet of approximately 40 active hydraulic fracturing; and two sand mines in the Permian Basin. It also provides services primarily in the Permian Basin, the Williston Basin, the Haynesville Shale, the Eagle Ford Shale, the Denver-Julesburg Basin, the Western Canadian Sedimentary Basin, the Powder River Basin, and the Appalachian Basin, as well as in the Anadarko Basin, the Uinta Basin, the San Juan Basin, and the Beetaloo Basin. The company was formerly known as Liberty Oilfield Services Inc. and changed its name to Liberty Energy Inc. in April 2022. Liberty Energy Inc. was founded in 2011 and is headquartered in De"
   },
   "PSIX": {
@@ -411,8 +411,8 @@
     "sector": "Industrials",
     "industry": "Specialty Industrial Machinery",
     "website": "https://psiengines.com",
-    "market_cap": 689208448,
-    "pe_ratio": 6.810934,
+    "market_cap": 732543296,
+    "pe_ratio": 6.7617025,
     "description": "Power Solutions International, Inc. designs, engineers, manufactures, markets, and sells engines and power systems in the United States, the rest of North America, the Pacific Rim, Europe, and internationally. The company offers basic engine blocks integrated with fuel system parts, as well as completely packaged power systems, that include combinations of front accessory drives, cooling systems, electronic systems, air intake systems, fuel systems, housings, power takeoff systems, exhaust systems, hydraulic systems, enclosures, brackets, hoses, tubes, packaging, telematics, and other assembled componentry. It also designs and manufactures large, custom-engineered integrated electrical power generation systems for standby and prime power applications; sells emission-certified compression ignition and spark-ignition internal combustion engines; designs and fabricates power system enclosures; and sources electrification components. In addition, the company provides mobile and stationary gensets for emergency standby, rental, prime power, demand response, microgrid, oil and gas, data center, renewable energy resiliency, and combined heat and power; forklifts, wood chippers, stump grin"
   },
   "PUMP": {
@@ -421,8 +421,8 @@
     "sector": "Energy",
     "industry": "Oil & Gas Equipment & Services",
     "website": "https://www.propetroservices.com",
-    "market_cap": 1581758976,
-    "pe_ratio": 31.69533,
+    "market_cap": 1620996480,
+    "pe_ratio": 32.48157,
     "description": "ProPetro Holding Corp. operates as an integrated energy services company. It offers hydraulic fracturing, wireline and cementing, other complementary energy completion services, and power generation services to oil and gas producers and non-oil and gas applications, such as general industrial projects and data centers located primarily in Texas and New Mexico. ProPetro Holding Corp. was founded in 2007 and is headquartered in Midland, Texas."
   }
 }
