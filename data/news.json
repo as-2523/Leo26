@@ -1,5 +1,205 @@
 [
   {
+    "id": "n34e7c42e20",
+    "headline": "Is Bloom Energy (BE) Undervalued After JPMorgan Backed Its Brookfield AI Power Deal?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-23T06:09:46+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-undervalued-jpmorgan-backed-060946948.html?.tsrc=rss"
+  },
+  {
+    "id": "ncf2b5e9a3e",
+    "headline": "NVIDIA is Acquiring \u2018Dark Fiber\u2019 Across the United States. Here\u2019s Why That\u2019s a Big Deal.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-23T04:16:35+00:00",
+    "url": "https://247wallst.com/investing/2026/07/23/nvidia-is-acquiring-dark-fiber-across-the-united-states-heres-why-thats-a-big-deal/?.tsrc=rss"
+  },
+  {
+    "id": "n840013a15d",
+    "headline": "Bloom Energy (BE) Suffers a Larger Drop Than the General Market: Key Insights",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-22T22:00:02+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-suffers-larger-drop-220002422.html?.tsrc=rss"
+  },
+  {
+    "id": "n54f5491056",
+    "headline": "CoreWeave and Nebius Get Bullish Calls",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-22T21:05:05+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-bullish-calls-210505107.html?.tsrc=rss"
+  },
+  {
+    "id": "ndc0778825b",
+    "headline": "Why EQT Corporation Rallied Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-22T21:02:28+00:00",
+    "url": "https://www.fool.com/investing/2026/07/22/why-eqt-corporation-rallied-today/?.tsrc=rss"
+  },
+  {
+    "id": "n5669e1b18d",
+    "headline": "EQT Corp (EQT) Q2 2026 Earnings Call Highlights: Record Operational Performance and Strategic Moves",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-22T21:01:55+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/eqt-corp-eqt-q2-2026-210155233.html?.tsrc=rss"
+  },
+  {
+    "id": "n16b64d033e",
+    "headline": "CoreWeave, Nebius shares jump after Baird launches bullish coverage",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-22T20:13:52+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-shares-jump-baird-201352616.html?.tsrc=rss"
+  },
+  {
+    "id": "n8680608b37",
+    "headline": "Sector Update: Energy Stocks Gain Late Afternoon",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-22T19:57:08+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195708870.html?.tsrc=rss"
+  },
+  {
+    "id": "nc75a51c985",
+    "headline": "These tech stocks look cheap, but history offers a warning sign",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-22T19:39:35+00:00",
+    "url": "https://finance.yahoo.com/video/these-tech-stocks-look-cheap-but-history-offers-a-warning-sign-193935656.html?.tsrc=rss"
+  },
+  {
+    "id": "n8c3b08a67e",
+    "headline": "Applied Digital (APLD) Stock Looks Expensive After A 314% Return And Weak Value Checks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-22T19:13:04+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-stock-looks-191304284.html?.tsrc=rss"
+  },
+  {
+    "id": "nd04f22a4e1",
+    "headline": "Cathie Wood Reveals Her Favorite Investment With the Boldest Prediction Yet",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-22T19:12:13+00:00",
+    "url": "https://beincrypto.com/cathie-wood-spacex-favorite-stock-prediction-2/?.tsrc=rss"
+  },
+  {
+    "id": "n990986f3c8",
+    "headline": "Stocks making big moves yesterday: Kemper, Tenable, Bloom Energy, PagerDuty, and Wix",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-22T18:46:27+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-184627866.html?.tsrc=rss"
+  },
+  {
+    "id": "naae32b24b8",
+    "headline": "Do Applied Digital\u2019s (APLD) Preferred Equity-Funded AI Leases Reframe Its Risk-Reward Profile?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-22T18:12:20+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-apld-preferred-equity-181220856.html?.tsrc=rss"
+  },
+  {
+    "id": "n359493ec6c",
+    "headline": "Move Over, Micron: Expert Predicts New Industry Will Soon Have Microsoft, Amazon, and Data Centers Over a Barrel",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-22T17:31:55+00:00",
+    "url": "https://247wallst.com/investing/2026/07/22/move-over-micron-expert-predicts-new-industry-will-soon-have-microsoft-amazon-and-data-centers-over-a-barrel/?.tsrc=rss"
+  },
+  {
+    "id": "n517d41c689",
+    "headline": "CoreWeave Just Scored a New 'Buy' Rating. Here's Why.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-22T17:14:02+00:00",
+    "url": "https://www.barchart.com/story/news/3409015/coreweave-just-scored-a-new-buy-rating-here-s-why?.tsrc=rss"
+  },
+  {
+    "id": "nb65bb5a50b",
+    "headline": "EQT Q2 Earnings and Revenues Miss Estimates on Lower Realized Prices",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-22T16:22:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/eqt-q2-earnings-revenues-miss-162200349.html?.tsrc=rss"
+  },
+  {
+    "id": "n63ec1435a1",
+    "headline": "Bloom Energy Corporation (BE) Rose on AI-Driven Power Demand",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-22T16:19:36+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corporation-rose-ai-161936601.html?.tsrc=rss"
+  },
+  {
+    "id": "n03028a226e",
+    "headline": "CoreWeave-Backed Data Center Plans $3.5 Billion Junk-Bond Sale",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-22T14:06:49+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-backed-data-center-plans-140649288.html?.tsrc=rss"
+  },
+  {
+    "id": "n3fd628fc04",
+    "headline": "Is Cipher Digital Stock A Smart Buy As It Builds Its Hyperscale Future?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-22T12:55:15+00:00",
+    "url": "https://www.trefis.com/articles/608187/is-cipher-digital-stock-a-smart-buy-as-it-builds-its-hyperscale-future/2026-07-22?.tsrc=rss"
+  },
+  {
+    "id": "n0273b9f1e2",
+    "headline": "Vistra's Q2 2026 Earnings: What to Expect",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-22T12:50:55+00:00",
+    "url": "https://www.barchart.com/story/news/3403273/vistra-s-q2-2026-earnings-what-to-expect?.tsrc=rss"
+  },
+  {
     "id": "nfe561b9e55",
     "headline": "EQT Raises Production Outlook and Lowers Capital Spending Forecast",
     "source": "Yahoo Finance",
@@ -298,205 +498,5 @@
     ],
     "ts": "2026-07-20T15:52:16+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-apos-active-power-ramp-155216692.html?.tsrc=rss"
-  },
-  {
-    "id": "nc1c7c55ef5",
-    "headline": "IREN, Hut 8 Stocks Surge as AI Deals Restore Neocloud Cheer",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-20T15:04:00+00:00",
-    "url": "https://finance.yahoo.com/m/d3743fb9-bc7c-3f89-9f7b-a53905a71377/iren%2C-hut-8-stocks-surge-as.html?.tsrc=rss"
-  },
-  {
-    "id": "n8249cf4912",
-    "headline": "IREN Soars 17%; Applied Digital, TeraWulf, Core Scientific Surge in a Data Center Rebound",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-20T13:47:40+00:00",
-    "url": "https://247wallst.com/investing/2026/07/20/iren-soars-14-applied-digital-terawulf-core-scientific-surge-in-a-data-center-rebound/?.tsrc=rss"
-  },
-  {
-    "id": "n4d1551b55c",
-    "headline": "EQT Earnings: What To Look For From EQT",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-20T10:31:33+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-earnings-look-eqt-103133888.html?.tsrc=rss"
-  },
-  {
-    "id": "n3fb44fc7a9",
-    "headline": "MU, SNDK, CRWV, IREN Stocks Climb After Brutal Week: Retail Bets On Memory, Neocloud Rebound",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-20T01:47:33+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-crwv-iren-stocks-climb-after-brutal-week-retail-bets-on-memory-neocloud-rebound/cZZLNUzR7Mm?.tsrc=rss"
-  },
-  {
-    "id": "ne51e8fab47",
-    "headline": "CoreWeave vs. Applied Digital: Evaluating Disparities in Revenue Scale for These Artificial Intelligence Companies",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-19T23:51:01+00:00",
-    "url": "https://www.fool.com/coverage/charts/2026/07/19/coreweave-vs-applied-digital-evaluating-disparities-in-revenue-scale-for-these-artificial-intelligence-companies/?.tsrc=rss"
-  },
-  {
-    "id": "ne09b07b29d",
-    "headline": "Utility ETFs Soar 8% YTD on AI Power Demand. Here\u2019s Which One to Buy",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-19T19:58:46+00:00",
-    "url": "https://247wallst.com/investing/2026/07/19/utility-etfs-soar-8-ytd-on-ai-power-demand-heres-which-one-to-buy/?.tsrc=rss"
-  },
-  {
-    "id": "nf6bf3ad567",
-    "headline": "I'm Calling It: Bloom Energy Will Be a Very Different Stock After 2026 for 1 Reason",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-19T15:50:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/19/bloom-energy-will-be-a-very-different-stock-after/?.tsrc=rss"
-  },
-  {
-    "id": "ne7e5523554",
-    "headline": "A $1.7 Billion Reason to Buy Bloom Energy Stock Now",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-19T13:00:02+00:00",
-    "url": "https://www.barchart.com/story/news/3354673/a-1-7-billion-reason-to-buy-bloom-energy-stock-now?.tsrc=rss"
-  },
-  {
-    "id": "ndd96555f1d",
-    "headline": "Bloom Energy vs. Constellation Energy: Which Industrials Stock Is a Better Buy in 2026?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-19T03:17:41+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/07/18/bloom-energy-vs-constellation-energy-which-industrials-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "ne5b8e8348c",
-    "headline": "Why CoreWeave Stock Keeps Falling",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-18T14:57:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/18/why-coreweave-stock-keeps-falling/?.tsrc=rss"
-  },
-  {
-    "id": "n237429d717",
-    "headline": "The 3 Energy Stocks I'd Buy With My Next $1,000",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-18T14:50:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/18/the-3-energy-stocks-id-buy-with-my-next-1000/?.tsrc=rss"
-  },
-  {
-    "id": "n291a205fe0",
-    "headline": "Here's Why CoreWeave Stock Tanked This Week",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-18T14:47:34+00:00",
-    "url": "https://www.fool.com/investing/2026/07/18/heres-why-coreweave-stock-tanked-this-week/?.tsrc=rss"
-  },
-  {
-    "id": "n355274ded5",
-    "headline": "BlackRock CEO Larry Fink Warned of an AI Power Crunch\u2014New York Just Halted Large Data Centers: CEG, VST, NEE in Focus",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-18T14:30:36+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/blackrock-ceo-larry-fink-warned-143036756.html?.tsrc=rss"
-  },
-  {
-    "id": "n99883f351d",
-    "headline": "Bloom Energy\u2019s AI Data Center Growth Story Is Starting to Crack",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-18T12:14:08+00:00",
-    "url": "https://247wallst.com/investing/2026/07/18/bloom-energys-ai-data-center-growth-story-is-starting-to-crack/?.tsrc=rss"
-  },
-  {
-    "id": "n0362397e1a",
-    "headline": "Meta and Anthropic Discuss $10B AI Infrastructure Agreement",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-18T02:47:00+00:00",
-    "url": "https://www.cryptoprowl.com/releases/meta-and-anthropic-discuss-10b-ai-infrastructure-agreement-6196?.tsrc=rss"
-  },
-  {
-    "id": "n4f425c2ec7",
-    "headline": "CoreWeave (CRWV) Explores Chip Hedges As It Launches $2.6 Billion GPU Loan",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-17T21:10:57+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-explores-chip-hedges-211057068.html?.tsrc=rss"
-  },
-  {
-    "id": "n41f413d8c9",
-    "headline": "SpaceX Reportedly In Talks To Supply Pentagon With AI Computing Power Worth Billions",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-17T20:44:00+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/space-x-reportedly-in-talks-to-supply-pentagon-with-ai-computing-power-worth-billions/cZZ7MHGR7MQ?.tsrc=rss"
-  },
-  {
-    "id": "n7eb9736c79",
-    "headline": "Oracle Data Center Plan Hits New Setback",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-17T20:00:32+00:00",
-    "url": "https://finance.yahoo.com/technology/articles/oracle-data-center-plan-hits-200032055.html?.tsrc=rss"
-  },
-  {
-    "id": "n72742b4800",
-    "headline": "SpaceX stock sees brief Pentagon AI bump, while CoreWeave slides on pricing threat",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-17T19:47:25+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/spacex-stock-sees-brief-pentagon-194725291.html?.tsrc=rss"
-  },
-  {
-    "id": "n832a063c42",
-    "headline": "Musk's SpaceX in talks to supply the Pentagon with computing power, WSJ reports",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-17T19:27:08+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/musks-spacex-talks-computing-power-192708574.html?.tsrc=rss"
   }
 ]
