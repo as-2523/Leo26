@@ -1,5 +1,205 @@
 [
   {
+    "id": "n656429fa42",
+    "headline": "David Tepper Has 5% of His Portfolio in This Little-Known Energy Stock. Here's Why.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-24T06:25:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/24/david-tepper-has-5-of-his-portfolio-in-this-little/?.tsrc=rss"
+  },
+  {
+    "id": "nc27d669978",
+    "headline": "Goldman Offers Way to Trade AI Junk Bonds $250 Million at a Time",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-23T20:41:12+00:00",
+    "url": "https://finance.yahoo.com/markets/options/articles/goldman-offers-way-trade-ai-204112017.html?.tsrc=rss"
+  },
+  {
+    "id": "n631ce2dee0",
+    "headline": "3 Cash-Burning Stocks We Approach with Caution",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-23T19:56:31+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-burning-stocks-approach-195631798.html?.tsrc=rss"
+  },
+  {
+    "id": "n640e2c886c",
+    "headline": "Turn The VST Shares You Own Into A 16% Income Stream",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-23T19:05:59+00:00",
+    "url": "https://www.trefis.com/articles/608566/turn-the-vst-shares-you-own-into-a-16-income-stream/2026-07-23?.tsrc=rss"
+  },
+  {
+    "id": "n0ad5493b7a",
+    "headline": "Morgan Stanley sees AI data center pivot unlocking upside for bitcoin miners",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-23T17:53:47+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-sees-ai-data-175347881.html?.tsrc=rss"
+  },
+  {
+    "id": "n43e996e71e",
+    "headline": "Bloom Energy Could Be Behind Massive Panama AI Data Center Projects, Says RBC",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-23T17:36:25+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/bloom-energy-could-be-behind-massive-panama-ai-data-center-projects-rbc/cZZnvYuR7Ug?.tsrc=rss"
+  },
+  {
+    "id": "n57a1e19576",
+    "headline": "Vistra (VST) Could Be 26% Below Fair Value On Power Demand Optimism",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-23T17:10:19+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-could-26-below-171019009.html?.tsrc=rss"
+  },
+  {
+    "id": "ndd4a257da1",
+    "headline": "Nebius, CoreWeave, IREN Stocks Rises After Alphabet Raises AI Capex Forecast",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-23T17:00:17+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nebius-coreweave-iren-stocks-rises-170017501.html?.tsrc=rss"
+  },
+  {
+    "id": "na8fe4bee33",
+    "headline": "Why This Analyst Is Pounding the Table on \u2018Pioneer\u2019 CoreWeave Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-23T16:44:23+00:00",
+    "url": "https://www.barchart.com/story/news/3431433/why-this-analyst-is-pounding-the-table-on-pioneer-coreweave-stock?.tsrc=rss"
+  },
+  {
+    "id": "n19d0dbabd9",
+    "headline": "Cerebras Scores With CrowdStrike Deal: What it Means for Investors",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-23T15:57:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-scores-crowdstrike-deal-means-155700503.html?.tsrc=rss"
+  },
+  {
+    "id": "n242e3dbc2a",
+    "headline": "Applied Digital Set to Report Q4 Earnings: Hold or Fold the Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-23T15:49:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-set-report-q4-154900724.html?.tsrc=rss"
+  },
+  {
+    "id": "na85e343710",
+    "headline": "Bloom Energy Set to Report Q2 Earnings: Buy, Sell or Hold the Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-23T15:21:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-set-report-q2-152100537.html?.tsrc=rss"
+  },
+  {
+    "id": "nacef34af31",
+    "headline": "Morgan Stanley sees 141% upside for Hut 8 with $263 price target",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-23T14:41:34+00:00",
+    "url": "https://blockspace.media/insight/hut-bitcoin-miners-ai-pivot-morgan-stanley-upside/?.tsrc=rss"
+  },
+  {
+    "id": "nbdb7027b43",
+    "headline": "EQT Q2 Earnings Call Highlights Demand Deals, Higher Output",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-23T14:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/eqt-q2-earnings-call-highlights-140000628.html?.tsrc=rss"
+  },
+  {
+    "id": "n3cd52008e4",
+    "headline": "Wall Street Analysts Think Vistra (VST) Could Surge 34.12%: Read This Before Placing a Bet",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-23T13:55:03+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-vistra-135503841.html?.tsrc=rss"
+  },
+  {
+    "id": "na861275c42",
+    "headline": "Compared to Estimates, EQT (EQT) Q2 Earnings: A Look at Key Metrics",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-23T13:30:06+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eqt-eqt-q2-133006266.html?.tsrc=rss"
+  },
+  {
+    "id": "n1e19a91785",
+    "headline": "Galaxy Digital Sells Junk Bonds To Fund A.I. Data Centre Expansion",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-23T13:23:00+00:00",
+    "url": "https://www.cryptoprowl.com/releases/galaxy-digital-sells-junk-bonds-to-fund-ai-data-centre-expansion-6234?.tsrc=rss"
+  },
+  {
+    "id": "n115bcb54c3",
+    "headline": "These high-flying tech stocks are down 60% \u2014 here's how to shop the sell-off: One Big Investment Idea",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-23T13:16:23+00:00",
+    "url": "https://finance.yahoo.com/markets/article/these-high-flying-tech-stocks-are-down-60--heres-how-to-shop-the-sell-off-one-big-investment-idea-131623103.html?.tsrc=rss"
+  },
+  {
+    "id": "ne97221b157",
+    "headline": "Vistra Corp. (VST) is Attracting Investor Attention: Here is What You Should Know",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-23T13:00:05+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-attracting-investor-130005673.html?.tsrc=rss"
+  },
+  {
+    "id": "n5b3bc2a45c",
+    "headline": "Why Bloom Energy Stock Soared 248% in the First Half of 2026",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-23T11:38:35+00:00",
+    "url": "https://www.fool.com/investing/2026/07/23/why-bloom-energy-stock-soared-248-in-the-first-hal/?.tsrc=rss"
+  },
+  {
     "id": "n34e7c42e20",
     "headline": "Is Bloom Energy (BE) Undervalued After JPMorgan Backed Its Brookfield AI Power Deal?",
     "source": "Yahoo Finance",
@@ -298,205 +498,5 @@
     ],
     "ts": "2026-07-21T19:14:04+00:00",
     "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-soars-15-1-191404426.html?.tsrc=rss"
-  },
-  {
-    "id": "ncc7ff98e91",
-    "headline": "Nebius Explodes 16% Higher on NVIDIA Stake Stunner; CoreWeave Surges 8%, Oracle Adds 5% as AI Cloud Plays Pay Off",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-21T18:53:28+00:00",
-    "url": "https://247wallst.com/investing/2026/07/21/nebius-explodes-16-higher-on-nvidia-stake-stunner-coreweave-surges-8-oracle-adds-5-as-ai-cloud-plays-pay-off/?.tsrc=rss"
-  },
-  {
-    "id": "nf44e3c85b2",
-    "headline": "Can Constellation Energy's Diverse Power Fleet Drive Future Growth?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-21T17:36:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/constellation-energys-diverse-power-fleet-173600916.html?.tsrc=rss"
-  },
-  {
-    "id": "n31be670ea1",
-    "headline": "Prediction: Up 140% YTD, Does Bloom Energy Have More Room to Run?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-21T17:00:09+00:00",
-    "url": "https://247wallst.com/investing/2026/07/21/prediction-up-140-ytd-does-bloom-energy-have-more-room-to-run/?.tsrc=rss"
-  },
-  {
-    "id": "n1b870bd2e5",
-    "headline": "Is Vistra (VST) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-21T16:45:02+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-solid-growth-stock-164502534.html?.tsrc=rss"
-  },
-  {
-    "id": "n55c63f5824",
-    "headline": "Nvidia Reveals a Big Stake in This AI Cloud Company, Sending Its Stock Soaring",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-21T16:16:20+00:00",
-    "url": "https://www.investopedia.com/nvidia-reveals-a-big-stake-in-this-ai-cloud-company-sending-its-stock-soaring-nebius-nbis-12023486?.tsrc=rss"
-  },
-  {
-    "id": "n1b06df7bea",
-    "headline": "IREN's AI Pivot Gains Strong Momentum: Time to Buy or Hold the Stock?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-21T16:10:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/irens-ai-pivot-gains-strong-161000588.html?.tsrc=rss"
-  },
-  {
-    "id": "n1f5bbae185",
-    "headline": "Nvidia hits the gas: Next-gen \"Vera Rubin\" AI chips enter full production",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-21T15:45:19+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-hits-gas-next-gen-154519482.html?.tsrc=rss"
-  },
-  {
-    "id": "n493123e468",
-    "headline": "Nvidia touts Vera Rubin performance ahead of rival AMD's Advancing AI event",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-21T15:00:00+00:00",
-    "url": "https://finance.yahoo.com/technology/article/nvidia-touts-vera-rubin-performance-ahead-of-rival-amds-advancing-ai-event-150000768.html?.tsrc=rss"
-  },
-  {
-    "id": "nce23c06e61",
-    "headline": "IREN Expands AI Cloud Platform: Can It Sustain the Momentum?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-21T14:44:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/iren-expands-ai-cloud-platform-144400958.html?.tsrc=rss"
-  },
-  {
-    "id": "na473d2a68e",
-    "headline": "Should You Invest in Vistra (VST) Based on Bullish Wall Street Views?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-21T13:30:03+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/invest-vistra-vst-based-bullish-133003675.html?.tsrc=rss"
-  },
-  {
-    "id": "n8241c84df5",
-    "headline": "3 of Wall Street\u2019s Favorite Stocks with Questionable Fundamentals",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-07-21T11:34:26+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-113426146.html?.tsrc=rss"
-  },
-  {
-    "id": "na66e3b40ba",
-    "headline": "US Stock Market Today: S&P 500 Futures Edge Higher As Inflation Pressure Eases",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-21T08:10:07+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081007943.html?.tsrc=rss"
-  },
-  {
-    "id": "n045e1dd0eb",
-    "headline": "NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-21T02:06:41+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/nbis-stock-jumps-overnight-as-nvidia-reveals-over-9-stake-analyst-sees-more-upside/cZZ1uV9R7HQ?.tsrc=rss"
-  },
-  {
-    "id": "ne5fc4b6f87",
-    "headline": "Applied Digital Sheds 44%: Buy the Dip or Run?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-21T00:19:31+00:00",
-    "url": "https://www.trefis.com/articles/607952/applied-digital-sheds-44-buy-the-dip-or-run/2026-07-20?.tsrc=rss"
-  },
-  {
-    "id": "n87c527f165",
-    "headline": "Top Stock Picks for Week of July 20, 2026",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-20T21:14:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-picks-week-july-211400490.html?.tsrc=rss"
-  },
-  {
-    "id": "n1bc0f95c92",
-    "headline": "Alpha Compute Moves to Revenue Generation; $21-23 Million Run Rate \u2013 Quarterly Update Report",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-20T20:33:43+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/alpha-compute-moves-revenue-generation-203343783.html?.tsrc=rss"
-  },
-  {
-    "id": "n2f9d55806a",
-    "headline": "CoreWeave faces execution test as data center activation ramps up",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-20T19:40:00+00:00",
-    "url": "https://www.proactiveinvestors.com/companies/news/1095728/coreweave-faces-execution-test-as-data-center-activation-ramps-up-1095728.html?.tsrc=rss"
-  },
-  {
-    "id": "n5842b7bb99",
-    "headline": "FuelCell Energy Rallies 6% While Bloom Energy Slides 6%, Splitting the Fuel-Cell Trade",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-20T16:38:01+00:00",
-    "url": "https://247wallst.com/investing/2026/07/20/fuelcell-energy-rallies-6-while-bloom-energy-slides-6-splitting-the-fuel-cell-trade/?.tsrc=rss"
-  },
-  {
-    "id": "n1bc79a1269",
-    "headline": "Why Are ORCL, BE Stocks Falling Today?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-20T16:03:38+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/orcl-be-stock-drops-oracle-project-jupiter-pipeline-rejection-new-mexico/cZZieMLR7uM?.tsrc=rss"
-  },
-  {
-    "id": "n23175e104a",
-    "headline": "CoreWeave's Active Power Ramp to Boost Revenue Growth, Margin Expansion, BofA Says",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-20T15:52:16+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-apos-active-power-ramp-155216692.html?.tsrc=rss"
   }
 ]
