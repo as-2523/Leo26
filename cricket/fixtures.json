@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-1dbxzoi",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Zimbabwe",
-      "startTimeUtc": "2026-07-23T11:00:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "India tour of Zimbabwe 2026",
-      "seriesStartUtc": "2026-07-23T00:00:00.000Z",
-      "seriesEndUtc": "2026-07-26T00:00:00.000Z",
-      "venue": "Harare Sports Club, Harare",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-1ddctt0",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -27,7 +12,7 @@
       "series": "India tour of Zimbabwe 2026",
       "seriesStartUtc": "2026-07-23T00:00:00.000Z",
       "seriesEndUtc": "2026-07-26T00:00:00.000Z",
-      "venue": "",
+      "venue": "Harare Sports Club, Harare",
       "source": "cricapi"
     },
     {
@@ -121,21 +106,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-1pg4a4r",
-      "teamId": "india-u19-men",
-      "teamName": "India Under-19 Men",
-      "opponent": "Australia U19",
-      "startTimeUtc": "2026-09-18T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Youth",
-      "formatLabel": "Unknown",
-      "series": "Australia U19 tour of India 2026",
-      "seriesStartUtc": "2026-09-18T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-08T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-16zby1p",
       "teamId": "india-a-women",
       "teamName": "India A Women",
@@ -147,36 +117,6 @@
       "series": "Australia A Women tour of India 2026",
       "seriesStartUtc": "2026-09-12T00:00:00.000Z",
       "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1cishyd",
-      "teamId": "india-u19-men",
-      "teamName": "India Under-19 Men",
-      "opponent": "Australia U19",
-      "startTimeUtc": "2026-09-21T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Youth",
-      "formatLabel": "Unknown",
-      "series": "Australia U19 tour of India 2026",
-      "seriesStartUtc": "2026-09-18T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-08T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1yxegwj",
-      "teamId": "india-a-men",
-      "teamName": "India A Men",
-      "opponent": "Australia A",
-      "startTimeUtc": "2026-09-22T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Australia A tour of India 2026",
-      "seriesStartUtc": "2026-09-22T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-11T00:00:00.000Z",
       "venue": "",
       "source": "cricapi"
     },
@@ -196,21 +136,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-k7hq3r",
-      "teamId": "india-u19-men",
-      "teamName": "India Under-19 Men",
-      "opponent": "Australia U19",
-      "startTimeUtc": "2026-09-23T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Youth",
-      "formatLabel": "Unknown",
-      "series": "Australia U19 tour of India 2026",
-      "seriesStartUtc": "2026-09-18T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-08T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-7pn1eq",
       "teamId": "india-a-women",
       "teamName": "India A Women",
@@ -222,21 +147,6 @@
       "series": "Australia A Women tour of India 2026",
       "seriesStartUtc": "2026-09-12T00:00:00.000Z",
       "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-ym08dn",
-      "teamId": "india-u19-men",
-      "teamName": "India Under-19 Men",
-      "opponent": "Australia U19",
-      "startTimeUtc": "2026-09-27T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Youth",
-      "formatLabel": "Unknown",
-      "series": "Australia U19 tour of India 2026",
-      "seriesStartUtc": "2026-09-18T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-08T00:00:00.000Z",
       "venue": "",
       "source": "cricapi"
     },
@@ -271,21 +181,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-7cesey",
-      "teamId": "india-a-men",
-      "teamName": "India A Men",
-      "opponent": "Australia A",
-      "startTimeUtc": "2026-09-29T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Australia A tour of India 2026",
-      "seriesStartUtc": "2026-09-22T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-11T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-1ykju8m",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -316,36 +211,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-trf0ov",
-      "teamId": "india-u19-men",
-      "teamName": "India Under-19 Men",
-      "opponent": "Australia U19",
-      "startTimeUtc": "2026-10-05T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Youth",
-      "formatLabel": "Unknown",
-      "series": "Australia U19 tour of India 2026",
-      "seriesStartUtc": "2026-09-18T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-08T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1g60zn1",
-      "teamId": "india-a-men",
-      "teamName": "India A Men",
-      "opponent": "Australia A",
-      "startTimeUtc": "2026-10-06T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Australia A tour of India 2026",
-      "seriesStartUtc": "2026-09-22T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-11T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-8b26tt",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -361,21 +226,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-197muuo",
-      "teamId": "india-a-men",
-      "teamName": "India A Men",
-      "opponent": "Australia A",
-      "startTimeUtc": "2026-10-09T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Australia A tour of India 2026",
-      "seriesStartUtc": "2026-09-22T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-11T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-8d6g0k",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -387,21 +237,6 @@
       "series": "West Indies tour of India, 2026",
       "seriesStartUtc": "2026-09-27T00:00:00.000Z",
       "seriesEndUtc": "2026-10-17T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-axefm1",
-      "teamId": "india-a-men",
-      "teamName": "India A Men",
-      "opponent": "Australia A",
-      "startTimeUtc": "2026-10-11T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Australia A tour of India 2026",
-      "seriesStartUtc": "2026-09-22T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-11T00:00:00.000Z",
       "venue": "",
       "source": "cricapi"
     },
@@ -436,21 +271,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-sloep6",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "Zimbabwe Women",
-      "startTimeUtc": "2026-10-16T13:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "Zimbabwe Women tour of India 2026",
-      "seriesStartUtc": "2026-10-16T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-28T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-8z2eyb",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -462,36 +282,6 @@
       "series": "West Indies tour of India, 2026",
       "seriesStartUtc": "2026-09-27T00:00:00.000Z",
       "seriesEndUtc": "2026-10-17T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-sn38to",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "Zimbabwe Women",
-      "startTimeUtc": "2026-10-18T13:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "Zimbabwe Women tour of India 2026",
-      "seriesStartUtc": "2026-10-16T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-28T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-t4qpdx",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "Zimbabwe Women",
-      "startTimeUtc": "2026-10-20T13:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "Zimbabwe Women tour of India 2026",
-      "seriesStartUtc": "2026-10-16T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-28T00:00:00.000Z",
       "venue": "",
       "source": "cricapi"
     },
@@ -511,21 +301,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-11n4gqc",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "Zimbabwe Women",
-      "startTimeUtc": "2026-10-23T08:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Zimbabwe Women tour of India 2026",
-      "seriesStartUtc": "2026-10-16T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-28T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-ggvzxx",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -541,21 +316,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-9btovq",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "Zimbabwe Women",
-      "startTimeUtc": "2026-10-25T08:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Zimbabwe Women tour of India 2026",
-      "seriesStartUtc": "2026-10-16T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-28T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-gj094o",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -567,21 +327,6 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-2dfk3d",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "Zimbabwe Women",
-      "startTimeUtc": "2026-10-28T08:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Zimbabwe Women tour of India 2026",
-      "seriesStartUtc": "2026-10-16T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-28T00:00:00.000Z",
       "venue": "",
       "source": "cricapi"
     },
@@ -781,21 +526,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-1w0tghu",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "South Africa Women",
-      "startTimeUtc": "2026-12-09T12:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "India Women tour of South Africa, 2026",
-      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-23T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-xz1x4a",
       "teamId": "india-a-women",
       "teamName": "India A Women",
@@ -807,21 +537,6 @@
       "series": "England A Women tour of India 2026",
       "seriesStartUtc": "2026-11-30T00:00:00.000Z",
       "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1j3hobg",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "South Africa Women",
-      "startTimeUtc": "2026-12-12T08:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "India Women tour of South Africa, 2026",
-      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-23T00:00:00.000Z",
       "venue": "",
       "source": "cricapi"
     },
@@ -852,21 +567,6 @@
       "series": "England A Women tour of India 2026",
       "seriesStartUtc": "2026-11-30T00:00:00.000Z",
       "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1c53jj3",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "South Africa Women",
-      "startTimeUtc": "2026-12-15T12:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "India Women tour of South Africa, 2026",
-      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-23T00:00:00.000Z",
       "venue": "",
       "source": "cricapi"
     },
@@ -912,21 +612,6 @@
       "series": "Sri Lanka tour of India, 2026",
       "seriesStartUtc": "2026-12-13T00:00:00.000Z",
       "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-6wgzi3",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "South Africa Women",
-      "startTimeUtc": "2026-12-20T08:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "India Women tour of South Africa, 2026",
-      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-23T00:00:00.000Z",
       "venue": "",
       "source": "cricapi"
     },
@@ -992,9 +677,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-07-23T05:55:59.176Z",
-    "windowStart": "2026-07-23T00:00:00.000Z",
-    "windowEnd": "2027-01-23T00:00:00.000Z",
+    "generatedAt": "2026-07-25T05:44:14.659Z",
+    "windowStart": "2026-07-25T00:00:00.000Z",
+    "windowEnd": "2027-01-25T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -1010,7 +695,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 70
+        "count": 49
       },
       {
         "id": "manual",
@@ -1020,12 +705,6 @@
     ],
     "usedFallback": false,
     "expectedSeries": [
-      {
-        "name": "India U19 tour of Sri Lanka 2026",
-        "startUtc": "2026-07-04T00:00:00.000Z",
-        "endUtc": "2026-07-23T00:00:00.000Z",
-        "sourceUrl": "https://www.espncricinfo.com/search?query=India%20U19%20tour%20of%20Sri%20Lanka%202026"
-      },
       {
         "name": "England Women U19 tour of India 2026",
         "startUtc": "2026-11-26T00:00:00.000Z",
