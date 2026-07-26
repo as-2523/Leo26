@@ -12,7 +12,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 5009871732736,
-    "pe_ratio": 31.96909,
+    "pe_ratio": 31.626911,
     "description": "NVIDIA Corporation operates as a data center scale AI infrastructure company in the United States, Taiwan, China, Hong Kong, Europe, and internationally. It operates through Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics. The company's products are used in gaming, professional visualization, data center, and automotive markets. It sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California.",
     "industry": "Semiconductors",
     "website": "https://www.nvidia.com"
@@ -32,7 +32,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 1817015091200,
-    "pe_ratio": 65.39726,
+    "pe_ratio": 63.653336,
     "description": "Broadcom Inc. designs, develops, and supplies various semiconductor devices and infrastructure software solutions internationally. The company operates in two segments: Semiconductor Solutions and Infrastructure Software. The company offers networking connectivity, such as custom silicon solutions, ethernet switching & routing, ethernet NIC controllers, physical layer devices, and fiber optic components; wireless device connectivity, including RF semiconductor devices, connectivity solutions, custom touch controllers, and inductive charging ASICS; servers and storage system solutions, such as PCIE switches, SAS & raid products, fibre channel products, and HDD & SSD solutions; broadband solutions, includes set-top box, and broadband access; and industrial. The company also offers a private cloud software portfolio, including the VMware Cloud Foundation, Edge, vSphere foundation, telco cloud platform, private AI, live recovery, application networking and security, application development and data services; mainframe software, such as AIOPS & automation, database & data management, DEVX & DEVOPS, cybersecurity & compliance management, beyond code programs, foundational & open mainfram",
     "industry": "Semiconductors",
     "website": "https://www.broadcom.com"
@@ -42,7 +42,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 851091980288,
-    "pe_ratio": 178.75,
+    "pe_ratio": 175.15102,
     "description": "Advanced Micro Devices, Inc. operates as a semiconductor company internationally. It operates in three segments: Data Center, Client and Gaming, and Embedded. The company offers artificial intelligence (AI) accelerators, microprocessors, and graphics processing units (GPUs) as standalone devices or as incorporated into accelerated processing units, chipsets, and data center and professional GPUs; and embedded processors and semi-custom system-on-chip (SoC) products, microprocessor and SoC development services and technology, data processing units, field programmable gate arrays (FPGA), system on modules, AI network interface cards, and adaptive SoC products. It provides processors under the AMD Ryzen, AMD Ryzen AI, AMD Ryzen PRO, AMD Ryzen Threadripper, AMD Ryzen Threadripper PRO, AMD Athlon, and AMD PRO A-Series brands; graphics under the AMD Radeon graphics and AMD Embedded Radeon graphics; professional graphics under the AMD Radeon Pro graphics brand; and AI and general-purpose compute infrastructure for hyperscale providers. The company offers data center graphics under the AMD Instinct accelerators and Radeon PRO V-series brands; server microprocessors under the AMD EPYC brand",
     "industry": "Semiconductors",
     "website": "https://www.amd.com"
@@ -52,7 +52,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 674898247680,
-    "pe_ratio": 62.10993,
+    "pe_ratio": 60.61021,
     "description": "ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. The company offers lithography, metrology, and inspection systems. It also provides extreme ultraviolet lithography systems; and deep ultraviolet lithography systems comprising immersion and dry lithography systems solutions to manufacture various range of semiconductor nodes and technologies. In addition, the company offers metrology and inspection systems, including YieldStar optical metrology systems, a diffraction-based wafer metrology platform to assess the quality of patterns on the wafers; and HMI electron beam solutions to locate and analyze individual chip defects. Further, it provides computational lithography solutions, and lithography systems and control software solutions; and refurbishes and upgrades lithography systems, as well as offers customer support and related services. Additionally, the company offers hardware, software, and services to chipmakers to produce the patterns of integrated circuits. It operates in Japan, South Korea, Singapore, Taiwan, China, rest of Asia, the Netherlands, rest of ",
     "industry": "Semiconductor Equipment & Materials",
     "website": "https://www.asml.com"
@@ -92,7 +92,7 @@
     "exchange": "NYQ",
     "sector": "Energy",
     "market_cap": 5191085568,
-    "pe_ratio": 72.04,
+    "pe_ratio": 64.32143,
     "description": "Solaris Energy Infrastructure, Inc. provides modular and scalable equipment-based solutions for power generation, control and distribution, and management of raw materials used in the completion of oil and natural gas wells in the United States. It operates in Solaris Power Solutions and Solaris Logistics Solutions segments. The Solaris Power Solutions segment delivers power generation, control, and distribution solutions; and offers support to data center, energy, and other commercial and industrial sector. The Solaris Logistics Solutions segment designs and manufactures specialized equipment; and offers field technician support, last mile, and mobilization logistics services, as well as provides software solutions. The company was formerly known as Solaris Oilfield Infrastructure, Inc. and changed its name to Solaris Energy Infrastructure, Inc. in September 2024. Solaris Energy Infrastructure, Inc. was founded in 2014 and is headquartered in Houston, Texas.",
     "industry": "Oil & Gas Equipment & Services",
     "website": "https://www.solaris-energy.com"
@@ -102,7 +102,7 @@
     "exchange": "NYQ",
     "sector": "Utilities",
     "market_cap": 55088873472,
-    "pe_ratio": 28.266436,
+    "pe_ratio": 27.321072,
     "description": "Vistra Corp., together with its subsidiaries, operates as an integrated retail electricity and power generation company in the United States. The company operates through five segments: Retail, Texas, East, West, and Asset Closure. The company retails electricity and natural gas to residential, commercial, and industrial customers across states in the United States and the District of Columbia. It is also involved in electricity generation, wholesale energy purchases and sales, commodity risk management, fuel procurement, and fuel logistics management activities. In addition, the company engages in decommissioning and reclamation of retired generation facilities, including mines, and battery removal and remediation activities. It serves approximately 5 million customers with a generation capacity of approximately 44,000 megawatts with a portfolio of natural gas, nuclear, coal, solar, and battery energy storage facilities. The company was formerly known as Vistra Energy Corp. and changed its name to Vistra Corp. in July 2020. Vistra Corp. was founded in 1882 and is based in Irving, Texas.",
     "industry": "Utilities - Independent Power Producers",
     "website": "https://vistracorp.com"
@@ -140,7 +140,7 @@
     "exchange": "NYQ",
     "sector": "Industrials",
     "market_cap": 111529828352,
-    "pe_ratio": 76.41052,
+    "pe_ratio": 72.95477,
     "description": "Vertiv Holdings Co designs, manufactures, and services critical digital infrastructure technologies and life cycle services for data centers, communication networks, and commercial and industrial environments in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company offers AC and DC power management products, low/medium voltage switchgear, busbar, thermal management products, air cooled and liquid cooled thermal management products, integrated modular solutions, racks, single phase UPS, rack power distribution, rack thermal systems, configurable integrated solutions, energy storage solutions, hardware, and software infrastructure that are integral to the technologies used for various services, including artificial intelligence, e-commerce, online banking, file sharing, video on-demand, energy storage, wireless communications, Internet of Things, and online gaming. It also provides lifecycle management services, predictive analytics, and professional services for deploying, maintaining, and optimizing its products and their related systems; and preventative maintenance, acceptance testing, engineering and consulting, fluid management, performance assessment",
     "industry": "Electrical Equipment & Parts",
     "website": "https://www.vertiv.com"
@@ -160,7 +160,7 @@
     "exchange": "NMS",
     "sector": "Financial Services",
     "market_cap": 13248027648,
-    "pe_ratio": 52.95714,
+    "pe_ratio": 48.142857,
     "description": "IREN Limited operates in the vertically integrated data center business in Australia and Canada. The company owns and operates computing hardware, as well as electrical infrastructure and data centers. It also mines Bitcoin, a scarce digital asset that is created and transmitted through the operation of a peer-to-peer network of computers running the Bitcoin software. The company was formerly known as Iris Energy Limited and changed its name to IREN Limited in November 2024. The company was incorporated in 2018 and is based in Sydney, Australia.",
     "industry": "Capital Markets",
     "website": "https://iren.com"
@@ -190,7 +190,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 59360620544,
-    "pe_ratio": 147.01155,
+    "pe_ratio": 135.04248,
     "description": "Lumentum Holdings Inc. manufactures and sells optical and photonic products in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa. It operates through two segments, Cloud & Networking and Industrial Tech. The Cloud & Networking segment offers optical and photonic chips, components, modules, and subsystems supplied to cloud data center operators, AI/ML infrastructure providers, and network equipment manufacturer customers that are building cloud data centers and network infrastructures. Its Industrial Tech segment provides short-pulse solid-state lasers, kilowatt-class fiber lasers, diode lasers, and gas lasers that serves the semiconductor device, solar cell, display, and electric vehicle and battery manufacturing markets. The company was incorporated in 2015 and is headquartered in San Jose, California.",
     "industry": "Communication Equipment",
     "website": "https://www.lumentum.com"
@@ -200,7 +200,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 212739833856,
-    "pe_ratio": 54.935375,
+    "pe_ratio": 49.012627,
     "description": "Sandisk Corporation develops, manufactures, and sells data storage devices and solutions using NAND flash technology in the United States, Europe, the Middle East, Africa, Asia, and internationally. The company offers solid state drives for desktop and notebook PCs, gaming consoles, and set top boxes; and flash-based embedded storage products for mobile phones, tablets, notebook PCs and other portable and wearable devices, automotive applications, Internet of Things, industrial, and connected home applications, as well as removable cards, universal serial bus drives, and wafers and components. It sells its products to computer manufacturers and original equipment manufacturers, datacenters, private cloud customers, cloud service providers, resellers, distributors, and retailers through its sales personnel, dealers, distributors, retailers, and subsidiaries. Sandisk Corporation was incorporated in 2024 and is based in Milpitas, California.",
     "industry": "Computer Hardware",
     "website": "https://www.sandisk.com"
@@ -210,7 +210,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 1040114647040,
-    "pe_ratio": 22.369446,
+    "pe_ratio": 20.83126,
     "description": "Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments. The company provides memory products, including dynamic random access memory components and modules, CXL-based memory, LPDDR components and modules, graphics memory, high-bandwidth memory, and data center memory products; multichip packages (MCP) comprising embedded multimedia card-based, universal flash storage-based, and NAND-based MCPs; and technology leadership products that include 1y DRAM and G9 NAND technologies. It also offers storage products, such as data center solid-state drives (SSD), client SSD storage, and auto and industrial SSD storage; managed NAND; NAND flash; NOR flash; and memory cards. In addition, the company provides design tools, including FBGA and part decoders; DRAM power calculators; NAND power calculators; simulation models; chipset compatibility guides; serial presence-detection tools; cross-reference ",
     "industry": "Semiconductors",
     "website": "https://www.micron.com"
@@ -220,7 +220,7 @@
     "exchange": "NYQ",
     "sector": "Technology",
     "market_cap": 2092275466240,
-    "pe_ratio": 36.50769,
+    "pe_ratio": 35.574074,
     "description": "Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiaries, manufactures, packages, tests, and sells integrated circuits and other semiconductor devices in Taiwan, China, Europe, the Middle East, Africa, Japan, the United States, and internationally. It provides various wafer fabrication processes, such as processes to manufacture complementary metal- oxide-semiconductor (CMOS) logic, mixed-signal, radio frequency, embedded memory, bipolar CMOS mixed-signal, and others. The company also involved in providing customer and engineering support services; manufacturing of masks; investment in technology start-up companies; research, designing, developing, manufacturing, packaging, testing, and sale of color filters; and investment activities. Its products are used in high performance computing, smartphones, Internet of things, automotive, and digital consumer electronics. Taiwan Semiconductor Manufacturing Company Limited was incorporated in 1987 and is headquartered in Hsinchu City, Taiwan.",
     "industry": "Semiconductors",
     "website": "https://www.tsmc.com"
@@ -230,7 +230,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 26378100736,
-    "pe_ratio": 120.29381,
+    "pe_ratio": 107.54377,
     "description": "Tower Semiconductor Ltd., an independent semiconductor foundry, provides technology, development, and process platforms for integrated circuits in the United States, Japan, rest of Asia, and Europe. The company provides customizable process technologies, including SiGe, SiPho, mixed signal CMOS, RF CMOS, CMOS image sensor, non-imaging sensors, wafers, and integrated power management. It also offers a design enablement platform for a design cycle, as well as transfer optimization and development process services to integrated device manufacturers and fabless companies. The company serves consumer applications, personal computers, communications, handsets and smartphones, automotive, industrial, aerospace, and medical devices. Tower Semiconductor Ltd. was incorporated in 1993 and is headquartered in Migdal Haemek, Israel",
     "industry": "Semiconductors",
     "website": "https://towersemi.com"
@@ -240,7 +240,7 @@
     "exchange": "NYQ",
     "sector": "Technology",
     "market_cap": 13561091072,
-    "pe_ratio": 134.96039,
+    "pe_ratio": 126.799995,
     "description": "Onto Innovation Inc. engages in the design, development, manufacture, and support of process control tools that perform macro-defect inspection and metrology in the United States, Taiwan, South Korea, Japan, China, Southeast Asia, Asia, and Europe. The company offers lithography systems and process control analytical software; and automated and integrated metrology systems, silicon wafer all-surface inspection, macro defect inspection, automated defect classification and pattern analysis, yield analysis, opaque film metrology, 4D business, advanced packaging lithography, process control software, and yield management software products. It also provides process and yield management solutions, and device packaging and test facilities through standalone systems for optical metrology, macro-defect inspection, packaging lithography, and transparent and opaque thin film measurements. In addition, the company offers process control software portfolio that includes solutions for standalone tools, groups of tools, and factory-wide suites. Further, it engages in systems and software, spare parts, and other services, as well as offers software licensing services; and provides advanced product",
     "industry": "Semiconductor Equipment & Materials",
     "website": "https://www.ontoinnovation.com"
@@ -250,7 +250,7 @@
     "exchange": "NYQ",
     "sector": "Energy",
     "market_cap": 33171113984,
-    "pe_ratio": 12.390186,
+    "pe_ratio": 12.303945,
     "description": "EQT Corporation engages in the exploration, production, gathering, and transmission of hydrocarbons and natural gas. The company sells natural gas, natural gas liquids, and oil to marketers, utilities, and industrial customers located in the Appalachian Basin. It also provides marketing services and contractual pipeline capacity management services, as well as engages in risk management and hedging activities. The company was formerly known as Equitable Resources Inc. and changed its name to EQT Corporation in February 2009. EQT Corporation was founded in 1888 and is headquartered in Canonsburg, Pennsylvania.",
     "industry": "Oil & Gas E&P",
     "website": "https://www.eqt.com"
@@ -260,7 +260,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 174330052608,
-    "pe_ratio": 71.937035,
+    "pe_ratio": 66.745705,
     "description": "Marvell Technology, Inc., together with its subsidiaries, provides data infrastructure semiconductor solutions and spanning the data center core to network edge in the United States, Argentina, China, India, Israel, Japan, Singapore, South Korea, Taiwan, Vietnam, and internationally. The company develops and scales system-on-a-chip architectures, integrating analog, mixed-signal, and digital signal processing functionality. It offers a portfolio of ethernet solutions, including spanning controllers, network adapters, physical transceivers, and switches; single or multiple core processors; and custom application specific integrated circuits, interconnects, fibre channel adapters, and processors. The company also provides interconnect products, including pulse amplitude modulation, coherent and coherent-lite digital signal processors (DSPs), laser drivers, trans-impedance amplifiers, silicon photonics, co-packaged optics, linear pluggable optics chipsets, data center interconnect, active electrical cable DSPs and peripheral component interconnect express retimer solutions; fibre channel products comprising host bus adapters and controllers for server and storage system connectivity; ",
     "industry": "Semiconductors",
     "website": "https://www.marvell.com"
@@ -282,7 +282,7 @@
     "industry": "Utilities - Independent Power Producers",
     "website": "https://www.constellationenergy.com",
     "market_cap": 97970937856,
-    "pe_ratio": 23.918919,
+    "pe_ratio": 23.815104,
     "description": "Constellation Energy Corporation produces and sells energy products and services in the United States. The company operates through five segments: Mid-Atlantic, Midwest, New York, ERCOT, and Other Power Regions. It offers electricity, natural gas, energy-related products, and sustainable solutions. The company has approximately 31,676 megawatts of generating capacity consisting of nuclear, wind, solar, natural gas, and hydroelectric assets. It serves distribution utilities, municipalities, cooperatives, and commercial, industrial, public sector, and residential customers. The company was incorporated in 2021 and is headquartered in Baltimore, Maryland."
   },
   "MOD": {
@@ -292,7 +292,7 @@
     "industry": "Auto Parts",
     "website": "https://www.modine.com",
     "market_cap": 12840784896,
-    "pe_ratio": 109.90454,
+    "pe_ratio": 107.46222,
     "description": "Modine Manufacturing Company designs, engineers, tests, manufactures, and sells mission-critical thermal solutions in the United States, Canada, Italy, Hungary, the United Kingdom, China, and internationally. It offers heat transfer products, including round tube plate fin construction; gas-fired, hydronic, electric, and oil fired unit heaters; roof-mounted direct- and indirect-fired makeup air units, duct furnaces, infrared units, and perimeter heating products; single packaged unit ventilators, modular chillers, air handler and condensing units, and ceiling cassettes; evaporator unit coolers, remote condensers, fluid coolers, gas coolers, and dry and brine coolers; and motor and generator cooling coils, transformer oil coolers, radiators, dryers, and industrial heat exchangers. The company also provides data center products that consists of IT cooling solutions, including chillers, dry coolers, precision air handling units, computer room air conditioning, computer room air handler units, fan walls, rear-door heat exchangers, coolant distribution units, and immersion solutions, as well as sells replacement parts, maintenance service and control solutions for existing equipment and"
   },
   "BTDR": {
@@ -322,7 +322,7 @@
     "industry": "Scientific & Technical Instruments",
     "website": "https://www.coherent.com",
     "market_cap": 55246594048,
-    "pe_ratio": 149.4127,
+    "pe_ratio": 135.11484,
     "description": "Coherent Corp. develops, manufactures, and markets engineered materials, optoelectronic components and devices, and laser systems for the use in the industrial, communications, electronics, and instrumentation markets worldwide. It operates through three segments: Networking, Materials, and Lasers. The Networking segment offers transceivers, systems, subsystems, modules, components, optics, and semiconductor devices for datacenter and communications applications. The Materials segment provides engineered materials, laser optics, thermoelectric components, and advanced ceramic and metal-matrix composite materials and products; and vertical-cavity surface-emitting laser, edge-emitting laser, pump lasers, high-power lasers for materials processing, and integrated circuit. The Laser segment offers excimer lasers, solid-state lasers, CO2 lasers, and laser systems for various industrial applications, including semiconductor capital equipment, display manufacturing, precision manufacturing, and scientific research; and laser systems and subsystems. It markets its products and services through direct sales force, representatives, and distributors. The company was formerly known as II-VI In"
   },
   "GLXY": {
@@ -332,7 +332,7 @@
     "industry": "Capital Markets",
     "website": "https://www.galaxy.com",
     "market_cap": 8842934272,
-    "pe_ratio": 252.16812,
+    "pe_ratio": 310.59985,
     "description": "Galaxy Digital Inc. engages in the digital asset and data centre infrastructure businesses in North America and internationally. It operates through Digital Assets, Data Centers, and Treasury and Corporate segments. The Digital Assets segment provides over-the-counter spot and derivatives trading, lending, and structured products, as well as mergers and acquisitions advisory, and equity and debt capital markets services. This segment also manages investments in the digital assets' ecosystem; and offers blockchain-centric technology and infrastructure solutions, including staking, tokenization, and custodial technology. The Data Centers segment comprises the Helios infrastructure assets. The Treasury and Corporate segment engages in managing a portfolio of digital assets, ventures, private equity, and fund investments, as well as in bitcoin mining operations. It also offers GalaxyOne, a retail financial technology platform designed for individual investors seeking access to traditional and digital markets. The company was founded in 2018 and is headquartered in New York, New York."
   },
   "HUT": {
@@ -342,7 +342,7 @@
     "industry": "Capital Markets",
     "website": "https://www.hut8.com",
     "market_cap": 12384226304,
-    "pe_ratio": -41.70237,
+    "pe_ratio": -43.820717,
     "description": "Hut 8 Corp., together with its subsidiaries, operates as an energy infrastructure platform that integrates power, digital infrastructure, and compute at scale to fuel energy-intensive use cases in the United States and Canada. It operates through Power, Digital Infrastructure, Compute, and Other segments. The company offers managed services for energy infrastructure development, such as site design, procurement, and construction management; software automation, process design, personnel hiring, and team training; utilities contracts, hosting operations, and customer management; energy portfolio optimization and strategic initiatives; and finance, accounting, and safety services. It also engages in the operation of compute infrastructure; and provision, hosting, monitoring, troubleshooting, repair, maintenance, and sale of mining equipment. In addition, the company offers Bitcoin mining; data center and cloud infrastructure services, including colocation services; and ASIC compute, traditional cloud, and AI cloud services. Hut 8 Corp. was founded in 2020 and is based in Miami, Florida."
   },
   "STX": {
@@ -352,7 +352,7 @@
     "industry": "Computer Hardware",
     "website": "https://www.seagate.com",
     "market_cap": 190973591552,
-    "pe_ratio": 86.99592,
+    "pe_ratio": 80.65246,
     "description": "Seagate Technology Holdings plc engages in the provision of data storage technology and infrastructure solutions in Singapore, the United States, the Netherlands, and internationally. The company offers mass capacity storage products, including enterprise nearline hard disk drives (HDDs), enterprise nearline solid state drives (SSDs), enterprise nearline systems, video and image HDDs, and network-attached storage drives. It also offers legacy applications comprising Mission Critical HDDs and SSDs; external storage solutions under the Seagate Ultra Touch, One Touch, Expansion, and Basics product lines, as well as under the LaCie brand name; desktop drives for personal computers and workstation applications; notebook drives traditional notebooks, convertible systems, and external storage applications, DVR HDDs for video streaming applications, and gaming SSDs for gaming rigs. In addition, the company provides Lyve edge-to-cloud mass capacity platform, that includes modular hardware and software to support enterprises' on-premise and cloud storage infrastructure needs. It sells its products primarily to original equipment manufacturers, distributors, and retailers. The company was fou"
   },
   "WDC": {
@@ -362,7 +362,7 @@
     "industry": "Computer Hardware",
     "website": "https://www.westerndigital.com",
     "market_cap": 179165773824,
-    "pe_ratio": 33.44916,
+    "pe_ratio": 31.144396,
     "description": "Western Digital Corporation develops, manufactures, and sells data storage devices and solutions based on hard disk drive (HDD) technology in the United States, Asia, Europe, the Middle East, and Africa. The company offers internal HDDs, data center drives, data center platforms, external drives, portable drives, NAS for home and office, and accessories. It sells its data storage devices and solutions through its computer manufacturers, sales personnel, dealers, distributors, and retailers. The company has a collaboration with Open Quantum Design for the development of quantum error correction technology and related systems to advance reliable quantum computing. Western Digital Corporation was founded in 1970 and is headquartered in San Jose, California."
   },
   "BW": {
@@ -382,7 +382,7 @@
     "industry": "Information Technology Services",
     "website": "https://www.infosys.com",
     "market_cap": 44996870144,
-    "pe_ratio": 13.226191,
+    "pe_ratio": 13.716049,
     "description": "Infosys Limited provides consulting, technology, outsourcing, and digital services worldwide. The company offers insight services, such as applied and generative AI, sustainability services, and Infosys Topaz, an AI-first set of services, solutions, and platforms; blockchain, Internet of Things, and engineering services; cybersecurity and quality engineering services; and enterprise agile DevOps, API economy and microservices, application modernization, and digital process automation. It also provides digital supply chain, Microsoft business application services, Microsoft cloud business, Oracle, SAP, service experience transformation, Salesforce, energy transition, network transformation services, infrastructure services, global capability center, and Infosys Cobalt, a suite of services, solutions, and platforms. In addition, the company offers experience services, including digital marketing, digital commerce, digital interactions, digital workplace services, digital experience, metaverse, and Infosys Aster, a marketing suite; and EdgeVerve, Infosys Finacle, Infosys Live Enterprise Suite, Infosys Cortex, Infosys Meridian, Panaya, Infosys Equinox, Infosys Topaz Fabric, Infosys Win"
   },
   "KRC": {
@@ -392,7 +392,7 @@
     "industry": "REIT - Office",
     "website": "https://www.kilroyrealty.com",
     "market_cap": 4628395520,
-    "pe_ratio": 20.968084,
+    "pe_ratio": 21.540981,
     "description": "Kilroy Realty Corporation is a leading U.S. landlord and developer, with operations in the San Francisco Bay Area, Los Angeles, Seattle, San Diego, and Austin. The Company has earned global recognition for sustainability, building operations, innovation, and design. As a pioneer and innovator in the creation of a more sustainable real estate industry, the Company's approach to modern business environments helps drive creativity and productivity for some of the world's leading technology, media, life science, and business services companies. The Company is a publicly traded real estate investment trust and member of the S&P MidCap 400 Index with more than seven decades of experience developing, acquiring, and managing office, life science, and mixed-use projects. As of September 30, 2025, Kilroy's stabilized portfolio totaled approximately 16.8 million square feet of primarily office and life science space that was 81.6% occupied and 83.8% leased. The Company also had approximately 1,000 residential units in Hollywood and San Diego, which had a quarterly average occupancy of 94.1%. In addition, the Company had one development project in the tenant improvement phase totaling approxim"
   },
   "LBRT": {
@@ -412,7 +412,7 @@
     "industry": "Specialty Industrial Machinery",
     "website": "https://psiengines.com",
     "market_cap": 690591488,
-    "pe_ratio": 7.082742,
+    "pe_ratio": 6.7629795,
     "description": "Power Solutions International, Inc. designs, engineers, manufactures, markets, and sells engines and power systems in the United States, the rest of North America, the Pacific Rim, Europe, and internationally. The company offers basic engine blocks integrated with fuel system parts, as well as completely packaged power systems, that include combinations of front accessory drives, cooling systems, electronic systems, air intake systems, fuel systems, housings, power takeoff systems, exhaust systems, hydraulic systems, enclosures, brackets, hoses, tubes, packaging, telematics, and other assembled componentry. It also designs and manufactures large, custom-engineered integrated electrical power generation systems for standby and prime power applications; sells emission-certified compression ignition and spark-ignition internal combustion engines; designs and fabricates power system enclosures; and sources electrification components. In addition, the company provides mobile and stationary gensets for emergency standby, rental, prime power, demand response, microgrid, oil and gas, data center, renewable energy resiliency, and combined heat and power; forklifts, wood chippers, stump grin"
   },
   "PUMP": {

@@ -1,5 +1,65 @@
 [
   {
+    "id": "ndf39fb4b0c",
+    "headline": "Applied Digital Earnings: What To Look For From APLD",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-26T03:41:13+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-earnings-look-apld-034113706.html?.tsrc=rss"
+  },
+  {
+    "id": "nb1255486e5",
+    "headline": "CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What It's Selling.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-25T21:27:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/25/coreweave-stock-fell-114-on-friday-the-sell-off-is/?.tsrc=rss"
+  },
+  {
+    "id": "n9f10fdb9bb",
+    "headline": "EQT (EQT) Accelerates Southgate Pipeline Build While Adding Supply Deal And Midstream Assets",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-25T17:08:54+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/eqt-eqt-accelerates-southgate-pipeline-170854369.html?.tsrc=rss"
+  },
+  {
+    "id": "n6fe373559c",
+    "headline": "I Want Exposure to the AI Boom Without Buying Nvidia. Here's Why Bloom Energy Is My Pick.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-25T15:20:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/25/i-want-exposure-to-the-ai-boom-without-buying-nvid/?.tsrc=rss"
+  },
+  {
+    "id": "ne8f3f10055",
+    "headline": "Should You Buy Bloom Energy Before July 28 Earnings After Its 40% 1-Month Decline?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-25T14:20:25+00:00",
+    "url": "https://247wallst.com/investing/2026/07/25/should-you-buy-bloom-energy-before-july-28-earnings-after-its-40-1-month-decline/?.tsrc=rss"
+  },
+  {
+    "id": "nf089bd9af4",
+    "headline": "2 Millionaire-Maker AI Stocks to Hold for the Next Decade",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-25T09:25:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/25/2-millionaire-maker-ai-stocks-to-hold-for-the-next/?.tsrc=rss"
+  },
+  {
     "id": "n69ebdbde88",
     "headline": "CoreWeave vs. Datadog: What Do the Revenue Trends of These High-Growth Tech Companies Tell Investors?",
     "source": "Yahoo Finance",
@@ -438,65 +498,5 @@
     ],
     "ts": "2026-07-22T18:12:20+00:00",
     "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-apld-preferred-equity-181220856.html?.tsrc=rss"
-  },
-  {
-    "id": "n359493ec6c",
-    "headline": "Move Over, Micron: Expert Predicts New Industry Will Soon Have Microsoft, Amazon, and Data Centers Over a Barrel",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-22T17:31:55+00:00",
-    "url": "https://247wallst.com/investing/2026/07/22/move-over-micron-expert-predicts-new-industry-will-soon-have-microsoft-amazon-and-data-centers-over-a-barrel/?.tsrc=rss"
-  },
-  {
-    "id": "n517d41c689",
-    "headline": "CoreWeave Just Scored a New 'Buy' Rating. Here's Why.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-22T17:14:02+00:00",
-    "url": "https://www.barchart.com/story/news/3409015/coreweave-just-scored-a-new-buy-rating-here-s-why?.tsrc=rss"
-  },
-  {
-    "id": "nb65bb5a50b",
-    "headline": "EQT Q2 Earnings and Revenues Miss Estimates on Lower Realized Prices",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-22T16:22:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-q2-earnings-revenues-miss-162200349.html?.tsrc=rss"
-  },
-  {
-    "id": "n63ec1435a1",
-    "headline": "Bloom Energy Corporation (BE) Rose on AI-Driven Power Demand",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-22T16:19:36+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corporation-rose-ai-161936601.html?.tsrc=rss"
-  },
-  {
-    "id": "n03028a226e",
-    "headline": "CoreWeave-Backed Data Center Plans $3.5 Billion Junk-Bond Sale",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-22T14:06:49+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-backed-data-center-plans-140649288.html?.tsrc=rss"
-  },
-  {
-    "id": "n3fd628fc04",
-    "headline": "Is Cipher Digital Stock A Smart Buy As It Builds Its Hyperscale Future?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-22T12:55:15+00:00",
-    "url": "https://www.trefis.com/articles/608187/is-cipher-digital-stock-a-smart-buy-as-it-builds-its-hyperscale-future/2026-07-22?.tsrc=rss"
   }
 ]
