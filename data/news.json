@@ -1,5 +1,85 @@
 [
   {
+    "id": "n28a023dcbb",
+    "headline": "Nebius Just Revealed the Biggest Problem Facing Neocloud Stocks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-27T10:05:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/27/nebius-just-revealed-the-biggest-problem/?.tsrc=rss"
+  },
+  {
+    "id": "n458f89e544",
+    "headline": "US Stock Market Today S&P 500 Futures Inch Higher As Housing And Services Hold",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-27T08:08:42+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080842250.html?.tsrc=rss"
+  },
+  {
+    "id": "ncd3d020309",
+    "headline": "Should Nebius and CoreWeave Investors Be Worried About Meta's Latest AI Infrastructure Plans?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-27T06:20:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/27/should-nebius-and-coreweave-investors-be-worried-a/?.tsrc=rss"
+  },
+  {
+    "id": "n139f3b1a86",
+    "headline": "Bloom Energy (BE) To Report Earnings Tomorrow: Here Is What To Expect",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-27T05:41:02+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-report-earnings-tomorrow-054102864.html?.tsrc=rss"
+  },
+  {
+    "id": "n19d6a44809",
+    "headline": "Why CoreWeave Stock Fell 30% in Just 1 Month",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-26T20:38:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/26/why-coreweave-stock-fell-30-in-just-1-month/?.tsrc=rss"
+  },
+  {
+    "id": "n7acdfced6c",
+    "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-26T16:35:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/26/neocloud-stocks-vs-hyperscalers-win-ai-capex/?.tsrc=rss"
+  },
+  {
+    "id": "n3dd73c6068",
+    "headline": "Bloom Energy's Next Earnings Report on July 28 Could Send the Stock Soaring. Here's Why.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-26T13:45:01+00:00",
+    "url": "https://www.fool.com/investing/2026/07/26/bloom-energys-next-earnings-report-on-july-28-could-send-the-stock-soaring-heres-why/?.tsrc=rss"
+  },
+  {
+    "id": "nc2fa6cda32",
+    "headline": "Mark Zuckerberg's Meta Is Also One of CoreWeave's Biggest Customers, in a Deal Worth $35 Billion Through 2032. That Didn't Stop CoreWeave Shares From Sinking on Meta's Own Cloud News.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-26T13:20:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/26/mark-zuckerbergs-meta-is-also-one-of-coreweaves-bi/?.tsrc=rss"
+  },
+  {
     "id": "ndf39fb4b0c",
     "headline": "Applied Digital Earnings: What To Look For From APLD",
     "source": "Yahoo Finance",
@@ -418,85 +498,5 @@
     ],
     "ts": "2026-07-22T21:02:28+00:00",
     "url": "https://www.fool.com/investing/2026/07/22/why-eqt-corporation-rallied-today/?.tsrc=rss"
-  },
-  {
-    "id": "n5669e1b18d",
-    "headline": "EQT Corp (EQT) Q2 2026 Earnings Call Highlights: Record Operational Performance and Strategic Moves",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-22T21:01:55+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-corp-eqt-q2-2026-210155233.html?.tsrc=rss"
-  },
-  {
-    "id": "n16b64d033e",
-    "headline": "CoreWeave, Nebius shares jump after Baird launches bullish coverage",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-22T20:13:52+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-shares-jump-baird-201352616.html?.tsrc=rss"
-  },
-  {
-    "id": "n8680608b37",
-    "headline": "Sector Update: Energy Stocks Gain Late Afternoon",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-22T19:57:08+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195708870.html?.tsrc=rss"
-  },
-  {
-    "id": "nc75a51c985",
-    "headline": "These tech stocks look cheap, but history offers a warning sign",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-22T19:39:35+00:00",
-    "url": "https://finance.yahoo.com/video/these-tech-stocks-look-cheap-but-history-offers-a-warning-sign-193935656.html?.tsrc=rss"
-  },
-  {
-    "id": "n8c3b08a67e",
-    "headline": "Applied Digital (APLD) Stock Looks Expensive After A 314% Return And Weak Value Checks",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-22T19:13:04+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-stock-looks-191304284.html?.tsrc=rss"
-  },
-  {
-    "id": "nd04f22a4e1",
-    "headline": "Cathie Wood Reveals Her Favorite Investment With the Boldest Prediction Yet",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-22T19:12:13+00:00",
-    "url": "https://beincrypto.com/cathie-wood-spacex-favorite-stock-prediction-2/?.tsrc=rss"
-  },
-  {
-    "id": "n990986f3c8",
-    "headline": "Stocks making big moves yesterday: Kemper, Tenable, Bloom Energy, PagerDuty, and Wix",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-22T18:46:27+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-184627866.html?.tsrc=rss"
-  },
-  {
-    "id": "naae32b24b8",
-    "headline": "Do Applied Digital\u2019s (APLD) Preferred Equity-Funded AI Leases Reframe Its Risk-Reward Profile?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-22T18:12:20+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-apld-preferred-equity-181220856.html?.tsrc=rss"
   }
 ]

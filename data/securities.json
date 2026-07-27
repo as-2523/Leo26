@@ -62,7 +62,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 465662050304,
-    "pe_ratio": 47.609715,
+    "pe_ratio": 46.494762,
     "description": "Intel Corporation designs, develops, manufactures, markets, sells, and services computing and related end products and services in the United States, Ireland, Israel, and internationally. It operates through three segments: CCG, DCAI, and Intel Foundry. The company offers client computing group products, including client and commercial CPUs, discrete client GPUs, edge computing, and connectivity products; data center and AI products, such as server CPUs, discrete GPUs, and networking products; and semiconductors comprising wafer fabrication, substrates, and other related products and services. It also provides driving assistance and self-driving solutions; and develops and manufactures multi-beam mask writing tools. The company sells its products through sales organizations, distributors, resellers, retailers, and OEM partners. It serves original equipment manufacturers, original design manufacturers, cloud service providers, and other manufacturers and service providers. Intel Corporation has a strategic collaboration with Infosys Limited to develop a multi-layer AI fabric that unifies infrastructure, models, data, applications, and workflows into a composable and agent-ready ecos",
     "industry": "Semiconductors",
     "website": "https://www.intel.com"
@@ -351,7 +351,7 @@
     "sector": "Technology",
     "industry": "Computer Hardware",
     "website": "https://www.seagate.com",
-    "market_cap": 190973591552,
+    "market_cap": 192696664064,
     "pe_ratio": 80.65246,
     "description": "Seagate Technology Holdings plc engages in the provision of data storage technology and infrastructure solutions in Singapore, the United States, the Netherlands, and internationally. The company offers mass capacity storage products, including enterprise nearline hard disk drives (HDDs), enterprise nearline solid state drives (SSDs), enterprise nearline systems, video and image HDDs, and network-attached storage drives. It also offers legacy applications comprising Mission Critical HDDs and SSDs; external storage solutions under the Seagate Ultra Touch, One Touch, Expansion, and Basics product lines, as well as under the LaCie brand name; desktop drives for personal computers and workstation applications; notebook drives traditional notebooks, convertible systems, and external storage applications, DVR HDDs for video streaming applications, and gaming SSDs for gaming rigs. In addition, the company provides Lyve edge-to-cloud mass capacity platform, that includes modular hardware and software to support enterprises' on-premise and cloud storage infrastructure needs. It sells its products primarily to original equipment manufacturers, distributors, and retailers. The company was fou"
   },
