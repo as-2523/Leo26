@@ -1,36 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-1ddctt0",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Zimbabwe",
-      "startTimeUtc": "2026-07-25T11:00:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "India tour of Zimbabwe 2026",
-      "seriesStartUtc": "2026-07-23T00:00:00.000Z",
-      "seriesEndUtc": "2026-07-26T00:00:00.000Z",
-      "venue": "Harare Sports Club, Harare",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1de28v9",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Zimbabwe",
-      "startTimeUtc": "2026-07-26T11:00:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "India tour of Zimbabwe 2026",
-      "seriesStartUtc": "2026-07-23T00:00:00.000Z",
-      "seriesEndUtc": "2026-07-26T00:00:00.000Z",
-      "venue": "",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-4dezyq",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -42,7 +12,7 @@
       "series": "India tour of Sri Lanka 2026",
       "seriesStartUtc": "2026-08-15T00:00:00.000Z",
       "seriesEndUtc": "2026-08-27T00:00:00.000Z",
-      "venue": "",
+      "venue": "Galle International Stadium, Galle",
       "source": "cricapi"
     },
     {
@@ -57,7 +27,7 @@
       "series": "India tour of Sri Lanka 2026",
       "seriesStartUtc": "2026-08-15T00:00:00.000Z",
       "seriesEndUtc": "2026-08-27T00:00:00.000Z",
-      "venue": "",
+      "venue": "Sinhalese Sports Club, Colombo",
       "source": "cricapi"
     },
     {
@@ -72,7 +42,7 @@
       "series": "Australia A Women tour of India 2026",
       "seriesStartUtc": "2026-09-12T00:00:00.000Z",
       "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "",
+      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
       "source": "cricapi"
     },
     {
@@ -87,7 +57,7 @@
       "series": "Australia A Women tour of India 2026",
       "seriesStartUtc": "2026-09-12T00:00:00.000Z",
       "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "",
+      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
       "source": "cricapi"
     },
     {
@@ -102,7 +72,7 @@
       "series": "Australia A Women tour of India 2026",
       "seriesStartUtc": "2026-09-12T00:00:00.000Z",
       "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "",
+      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
       "source": "cricapi"
     },
     {
@@ -117,7 +87,7 @@
       "series": "Australia A Women tour of India 2026",
       "seriesStartUtc": "2026-09-12T00:00:00.000Z",
       "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "",
+      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
       "source": "cricapi"
     },
     {
@@ -132,7 +102,7 @@
       "series": "Australia A Women tour of India 2026",
       "seriesStartUtc": "2026-09-12T00:00:00.000Z",
       "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "",
+      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
       "source": "cricapi"
     },
     {
@@ -147,7 +117,7 @@
       "series": "Australia A Women tour of India 2026",
       "seriesStartUtc": "2026-09-12T00:00:00.000Z",
       "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "",
+      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
       "source": "cricapi"
     },
     {
@@ -162,7 +132,7 @@
       "series": "West Indies tour of India, 2026",
       "seriesStartUtc": "2026-09-27T00:00:00.000Z",
       "seriesEndUtc": "2026-10-17T00:00:00.000Z",
-      "venue": "",
+      "venue": "Greenfield International Stadium, Thiruvananthapuram",
       "source": "cricapi"
     },
     {
@@ -177,7 +147,7 @@
       "series": "Australia A Women tour of India 2026",
       "seriesStartUtc": "2026-09-12T00:00:00.000Z",
       "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "",
+      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
       "source": "cricapi"
     },
     {
@@ -192,7 +162,7 @@
       "series": "West Indies tour of India, 2026",
       "seriesStartUtc": "2026-09-27T00:00:00.000Z",
       "seriesEndUtc": "2026-10-17T00:00:00.000Z",
-      "venue": "",
+      "venue": "Barsapara Cricket Stadium, Guwahati",
       "source": "cricapi"
     },
     {
@@ -207,7 +177,7 @@
       "series": "West Indies tour of India, 2026",
       "seriesStartUtc": "2026-09-27T00:00:00.000Z",
       "seriesEndUtc": "2026-10-17T00:00:00.000Z",
-      "venue": "",
+      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",
       "source": "cricapi"
     },
     {
@@ -222,7 +192,7 @@
       "series": "West Indies tour of India, 2026",
       "seriesStartUtc": "2026-09-27T00:00:00.000Z",
       "seriesEndUtc": "2026-10-17T00:00:00.000Z",
-      "venue": "",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
       "source": "cricapi"
     },
     {
@@ -237,7 +207,7 @@
       "series": "West Indies tour of India, 2026",
       "seriesStartUtc": "2026-09-27T00:00:00.000Z",
       "seriesEndUtc": "2026-10-17T00:00:00.000Z",
-      "venue": "",
+      "venue": "JSCA International Stadium Complex, Ranchi",
       "source": "cricapi"
     },
     {
@@ -252,7 +222,7 @@
       "series": "West Indies tour of India, 2026",
       "seriesStartUtc": "2026-09-27T00:00:00.000Z",
       "seriesEndUtc": "2026-10-17T00:00:00.000Z",
-      "venue": "",
+      "venue": "Holkar Stadium, Indore",
       "source": "cricapi"
     },
     {
@@ -267,7 +237,7 @@
       "series": "West Indies tour of India, 2026",
       "seriesStartUtc": "2026-09-27T00:00:00.000Z",
       "seriesEndUtc": "2026-10-17T00:00:00.000Z",
-      "venue": "",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "source": "cricapi"
     },
     {
@@ -282,7 +252,7 @@
       "series": "West Indies tour of India, 2026",
       "seriesStartUtc": "2026-09-27T00:00:00.000Z",
       "seriesEndUtc": "2026-10-17T00:00:00.000Z",
-      "venue": "",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
       "source": "cricapi"
     },
     {
@@ -297,7 +267,7 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "",
+      "venue": "Hagley Oval, Christchurch",
       "source": "cricapi"
     },
     {
@@ -312,7 +282,7 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "",
+      "venue": "Hagley Oval, Christchurch",
       "source": "cricapi"
     },
     {
@@ -327,7 +297,7 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "",
+      "venue": "Sky Stadium, Wellington",
       "source": "cricapi"
     },
     {
@@ -342,7 +312,7 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "",
+      "venue": "Eden Park, Auckland",
       "source": "cricapi"
     },
     {
@@ -357,7 +327,7 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "",
+      "venue": "Seddon Park, Hamilton",
       "source": "cricapi"
     },
     {
@@ -372,7 +342,7 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "",
+      "venue": "Eden Park, Auckland",
       "source": "cricapi"
     },
     {
@@ -387,7 +357,7 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "",
+      "venue": "Sky Stadium, Wellington",
       "source": "cricapi"
     },
     {
@@ -402,7 +372,7 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "",
+      "venue": "Seddon Park, Hamilton",
       "source": "cricapi"
     },
     {
@@ -417,7 +387,7 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "",
+      "venue": "Bay Oval, Mount Maunganui",
       "source": "cricapi"
     },
     {
@@ -432,7 +402,7 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "",
+      "venue": "Bay Oval, Mount Maunganui",
       "source": "cricapi"
     },
     {
@@ -447,7 +417,7 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "",
+      "venue": "Basin Reserve, Wellington",
       "source": "cricapi"
     },
     {
@@ -462,7 +432,7 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "",
+      "venue": "Hagley Oval, Christchurch",
       "source": "cricapi"
     },
     {
@@ -477,7 +447,7 @@
       "series": "England A Women tour of India 2026",
       "seriesStartUtc": "2026-11-30T00:00:00.000Z",
       "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "",
+      "venue": "Maharashtra Cricket Association Stadium, Pune",
       "source": "cricapi"
     },
     {
@@ -492,7 +462,7 @@
       "series": "England A Women tour of India 2026",
       "seriesStartUtc": "2026-11-30T00:00:00.000Z",
       "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "",
+      "venue": "Maharashtra Cricket Association Stadium, Pune",
       "source": "cricapi"
     },
     {
@@ -507,7 +477,7 @@
       "series": "England A Women tour of India 2026",
       "seriesStartUtc": "2026-11-30T00:00:00.000Z",
       "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "",
+      "venue": "Maharashtra Cricket Association Stadium, Pune",
       "source": "cricapi"
     },
     {
@@ -522,7 +492,7 @@
       "series": "England A Women tour of India 2026",
       "seriesStartUtc": "2026-11-30T00:00:00.000Z",
       "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "",
+      "venue": "Dr DY Patil Sports Academy, Navi Mumbai",
       "source": "cricapi"
     },
     {
@@ -537,7 +507,7 @@
       "series": "England A Women tour of India 2026",
       "seriesStartUtc": "2026-11-30T00:00:00.000Z",
       "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "",
+      "venue": "Dr DY Patil Sports Academy, Navi Mumbai",
       "source": "cricapi"
     },
     {
@@ -552,7 +522,7 @@
       "series": "Sri Lanka tour of India, 2026",
       "seriesStartUtc": "2026-12-13T00:00:00.000Z",
       "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "",
+      "venue": "Arun Jaitley Stadium, Delhi",
       "source": "cricapi"
     },
     {
@@ -567,7 +537,7 @@
       "series": "England A Women tour of India 2026",
       "seriesStartUtc": "2026-11-30T00:00:00.000Z",
       "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "",
+      "venue": "Dr DY Patil Sports Academy, Navi Mumbai",
       "source": "cricapi"
     },
     {
@@ -582,7 +552,7 @@
       "series": "Sri Lanka tour of India, 2026",
       "seriesStartUtc": "2026-12-13T00:00:00.000Z",
       "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "",
+      "venue": "M.Chinnaswamy Stadium, Bengaluru",
       "source": "cricapi"
     },
     {
@@ -597,7 +567,7 @@
       "series": "England A Women tour of India 2026",
       "seriesStartUtc": "2026-11-30T00:00:00.000Z",
       "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "",
+      "venue": "Dr DY Patil Sports Academy, Navi Mumbai",
       "source": "cricapi"
     },
     {
@@ -612,7 +582,7 @@
       "series": "Sri Lanka tour of India, 2026",
       "seriesStartUtc": "2026-12-13T00:00:00.000Z",
       "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
       "source": "cricapi"
     },
     {
@@ -627,7 +597,7 @@
       "series": "Sri Lanka tour of India, 2026",
       "seriesStartUtc": "2026-12-13T00:00:00.000Z",
       "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "",
+      "venue": "Niranjan Shah Stadium, Khandheri, Rajkot",
       "source": "cricapi"
     },
     {
@@ -642,7 +612,7 @@
       "series": "Sri Lanka tour of India, 2026",
       "seriesStartUtc": "2026-12-13T00:00:00.000Z",
       "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "",
+      "venue": "Barabati Stadium, Cuttack",
       "source": "cricapi"
     },
     {
@@ -657,7 +627,7 @@
       "series": "Sri Lanka tour of India, 2026",
       "seriesStartUtc": "2026-12-13T00:00:00.000Z",
       "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "",
+      "venue": "Maharashtra Cricket Association Stadium, Pune",
       "source": "cricapi"
     },
     {
@@ -672,14 +642,14 @@
       "series": "Australia tour of India, 2027",
       "seriesStartUtc": "2027-01-21T00:00:00.000Z",
       "seriesEndUtc": "2027-03-03T00:00:00.000Z",
-      "venue": "",
+      "venue": "Vidarbha Cricket Association Stadium, Nagpur",
       "source": "cricapi"
     }
   ],
   "meta": {
-    "generatedAt": "2026-07-25T05:44:14.659Z",
-    "windowStart": "2026-07-25T00:00:00.000Z",
-    "windowEnd": "2027-01-25T00:00:00.000Z",
+    "generatedAt": "2026-07-27T06:32:14.745Z",
+    "windowStart": "2026-07-27T00:00:00.000Z",
+    "windowEnd": "2027-01-27T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -695,7 +665,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 49
+        "count": 47
       },
       {
         "id": "manual",
