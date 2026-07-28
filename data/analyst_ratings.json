@@ -48,8 +48,8 @@
     "hold": 0,
     "sell": 0,
     "strong_buy": 2,
-    "target_mean": 73.04545,
-    "target_high": 106.0,
+    "target_mean": 73.31818,
+    "target_high": 109.0,
     "target_low": 36.5,
     "recent_upgrades": [],
     "recent_downgrades": []
@@ -191,9 +191,9 @@
     "hold": 5,
     "sell": 1,
     "strong_buy": 6,
-    "target_mean": 2115.4993,
-    "target_high": 2849.5464,
-    "target_low": 882.14374,
+    "target_mean": 2109.486,
+    "target_high": 2841.4465,
+    "target_low": 879.6362,
     "recent_upgrades": [],
     "recent_downgrades": []
   },
@@ -422,9 +422,9 @@
     "hold": 5,
     "sell": 0,
     "strong_buy": 3,
-    "target_mean": 33.84615,
-    "target_high": 40.0,
-    "target_low": 21.0,
+    "target_mean": 30.73077,
+    "target_high": 38.0,
+    "target_low": 23.0,
     "recent_upgrades": [],
     "recent_downgrades": []
   },
@@ -451,5 +451,5 @@
     "recent_downgrades": []
   },
   "_note": "Analyst ratings from Yahoo Finance. Not investment advice.",
-  "_as_of": "2026-07-27T10:27:04.160924+00:00"
+  "_as_of": "2026-07-28T09:18:12.965449+00:00"
 }

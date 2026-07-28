@@ -1,5 +1,165 @@
 [
   {
+    "id": "n7cf46f5cae",
+    "headline": "Nasdaq, S&P 500 Futures Slip As Korea Chip Shock Dents AI Memory Heavyweights Ahead Of Fed Decision: Why NVDA, SNDK, MU, APLD, SPCX, SLS, CAPR Are In Focus",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-28T08:46:55+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-slip-korea-chip-shock-ai-memory-fed-decision-why-nvda-sndk-mu-apld-spcx-sls-capr-in-focus/cZZCK96RJG0?.tsrc=rss"
+  },
+  {
+    "id": "n5279a6952c",
+    "headline": "BE Stock Dips Premarket Ahead Of Q2 Results: Retail Calls Bloom 'The Real Deal,' Wall Street Wants Proof",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-28T08:13:07+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-dips-premarket-ahead-of-q2-results-retail-calls-bloom-the-real-deal-wall-street-wants-proof/cZZC0h6RJGX?.tsrc=rss"
+  },
+  {
+    "id": "ne4605d7ecb",
+    "headline": "Applied Digital Corp (APLD) Q4 2026 Earnings Call Highlights: Record Revenue Surge Amid ...",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-28T05:00:31+00:00",
+    "url": "https://finance.yahoo.com/technology/articles/applied-digital-corp-apld-q4-050031723.html?.tsrc=rss"
+  },
+  {
+    "id": "n3ae520ba8c",
+    "headline": "Bloom Energy Reports Earnings Tuesday and Is Still Up More Than 100% This Year.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-28T04:12:00+00:00",
+    "url": "https://www.fool.com/investing/2026/07/27/bloom-energy-reports-earnings-tuesday-and-is-still/?.tsrc=rss"
+  },
+  {
+    "id": "nbbc410855b",
+    "headline": "Nvidia behind $50bn lease on Texas data centre that will use its chips",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-28T04:00:15+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-behind-50bn-lease-texas-040015134.html?.tsrc=rss"
+  },
+  {
+    "id": "nb24540e4da",
+    "headline": "APLD Stock Is Back In The Green Overnight: What\u2019s Behind The 3% Jump?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-28T03:58:47+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/apld-stock-is-back-in-the-green-overnight-what-s-behind-the-3-jump/cZZCBZrRJG2?.tsrc=rss"
+  },
+  {
+    "id": "n35e0444ffc",
+    "headline": "Applied Digital Q4 Earnings Call Highlights",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-27T23:03:25+00:00",
+    "url": "https://www.marketbeat.com/instant-alerts/applied-digital-q4-earnings-call-highlights-2026-07-27/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
+  },
+  {
+    "id": "n6ab79406c4",
+    "headline": "APLD Stock Soars 6% After-Hours After Q4 Revenue Quadruples On $20B Backlog",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-27T21:23:57+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/apld-q4-revenue-quadruples-on-20-b-backlog/cZZxMX8R76M?.tsrc=rss"
+  },
+  {
+    "id": "n1ad084b089",
+    "headline": "Applied Digital beats quarterly revenue estimates on surging AI infrastructure demand",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-27T20:46:38+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-beats-quarterly-revenue-204638538.html?.tsrc=rss"
+  },
+  {
+    "id": "n1a9d47e6eb",
+    "headline": "CoreWeave Announces Date of Second Quarter 2026 Financial Results and Conference Call",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-27T20:05:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-announces-date-second-quarter-200500527.html?.tsrc=rss"
+  },
+  {
+    "id": "nced4aa73d2",
+    "headline": "Baker Hughes Q2 Earnings Beat Estimates on IET Segment Strength",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-27T18:26:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/baker-hughes-q2-earnings-beat-182600083.html?.tsrc=rss"
+  },
+  {
+    "id": "nbdf0db6244",
+    "headline": "BE vs. PLUG: Which Alternative Energy Stock Looks More Attractive?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-27T17:40:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/vs-plug-alternative-energy-stock-174000314.html?.tsrc=rss"
+  },
+  {
+    "id": "n7880a4009e",
+    "headline": "Coreweave is $71 After Falling 43% in a Year: One Analyst Thinks It Can Rocket to $250",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-27T16:44:24+00:00",
+    "url": "https://247wallst.com/investing/2026/07/27/coreweave-is-71-after-falling-43-in-a-year-one-analyst-thinks-it-can-rocket-to-250/?.tsrc=rss"
+  },
+  {
+    "id": "n938b25ec9a",
+    "headline": "Why Google Cloud\u2019s Hot Sales Can\u2019t Save Alphabet Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-27T15:57:00+00:00",
+    "url": "https://finance.yahoo.com/m/ac3aa464-925b-3a67-81ce-0abd48e9fda5/why-google-cloud%E2%80%99s-hot-sales.html?.tsrc=rss"
+  },
+  {
+    "id": "ne1818dada9",
+    "headline": "Expand Energy to Acquire Twin Eagle in $1.25 Billion Deal",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-07-27T15:28:50+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/expand-energy-acquire-twin-eagle-152850842.html?.tsrc=rss"
+  },
+  {
+    "id": "n2122f88854",
+    "headline": "Dear Bloom Energy Stock Fans, Mark Your Calendars for July 28",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-27T15:03:15+00:00",
+    "url": "https://www.barchart.com/story/news/3481568/dear-bloom-energy-stock-fans-mark-your-calendars-for-july-28?.tsrc=rss"
+  },
+  {
     "id": "n28a023dcbb",
     "headline": "Nebius Just Revealed the Biggest Problem Facing Neocloud Stocks",
     "source": "Yahoo Finance",
@@ -338,165 +498,5 @@
     ],
     "ts": "2026-07-23T16:44:23+00:00",
     "url": "https://www.barchart.com/story/news/3431433/why-this-analyst-is-pounding-the-table-on-pioneer-coreweave-stock?.tsrc=rss"
-  },
-  {
-    "id": "n19d0dbabd9",
-    "headline": "Cerebras Scores With CrowdStrike Deal: What it Means for Investors",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-23T15:57:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-scores-crowdstrike-deal-means-155700503.html?.tsrc=rss"
-  },
-  {
-    "id": "n242e3dbc2a",
-    "headline": "Applied Digital Set to Report Q4 Earnings: Hold or Fold the Stock?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-23T15:49:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-set-report-q4-154900724.html?.tsrc=rss"
-  },
-  {
-    "id": "na85e343710",
-    "headline": "Bloom Energy Set to Report Q2 Earnings: Buy, Sell or Hold the Stock?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-23T15:21:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-set-report-q2-152100537.html?.tsrc=rss"
-  },
-  {
-    "id": "nacef34af31",
-    "headline": "Morgan Stanley sees 141% upside for Hut 8 with $263 price target",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-23T14:41:34+00:00",
-    "url": "https://blockspace.media/insight/hut-bitcoin-miners-ai-pivot-morgan-stanley-upside/?.tsrc=rss"
-  },
-  {
-    "id": "nbdb7027b43",
-    "headline": "EQT Q2 Earnings Call Highlights Demand Deals, Higher Output",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-23T14:00:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-q2-earnings-call-highlights-140000628.html?.tsrc=rss"
-  },
-  {
-    "id": "n3cd52008e4",
-    "headline": "Wall Street Analysts Think Vistra (VST) Could Surge 34.12%: Read This Before Placing a Bet",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-23T13:55:03+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-vistra-135503841.html?.tsrc=rss"
-  },
-  {
-    "id": "na861275c42",
-    "headline": "Compared to Estimates, EQT (EQT) Q2 Earnings: A Look at Key Metrics",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-23T13:30:06+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-eqt-eqt-q2-133006266.html?.tsrc=rss"
-  },
-  {
-    "id": "n1e19a91785",
-    "headline": "Galaxy Digital Sells Junk Bonds To Fund A.I. Data Centre Expansion",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-23T13:23:00+00:00",
-    "url": "https://www.cryptoprowl.com/releases/galaxy-digital-sells-junk-bonds-to-fund-ai-data-centre-expansion-6234?.tsrc=rss"
-  },
-  {
-    "id": "n115bcb54c3",
-    "headline": "These high-flying tech stocks are down 60% \u2014 here's how to shop the sell-off: One Big Investment Idea",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-23T13:16:23+00:00",
-    "url": "https://finance.yahoo.com/markets/article/these-high-flying-tech-stocks-are-down-60--heres-how-to-shop-the-sell-off-one-big-investment-idea-131623103.html?.tsrc=rss"
-  },
-  {
-    "id": "ne97221b157",
-    "headline": "Vistra Corp. (VST) is Attracting Investor Attention: Here is What You Should Know",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-23T13:00:05+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-attracting-investor-130005673.html?.tsrc=rss"
-  },
-  {
-    "id": "n5b3bc2a45c",
-    "headline": "Why Bloom Energy Stock Soared 248% in the First Half of 2026",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-23T11:38:35+00:00",
-    "url": "https://www.fool.com/investing/2026/07/23/why-bloom-energy-stock-soared-248-in-the-first-hal/?.tsrc=rss"
-  },
-  {
-    "id": "n34e7c42e20",
-    "headline": "Is Bloom Energy (BE) Undervalued After JPMorgan Backed Its Brookfield AI Power Deal?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-23T06:09:46+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-undervalued-jpmorgan-backed-060946948.html?.tsrc=rss"
-  },
-  {
-    "id": "ncf2b5e9a3e",
-    "headline": "NVIDIA is Acquiring \u2018Dark Fiber\u2019 Across the United States. Here\u2019s Why That\u2019s a Big Deal.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-23T04:16:35+00:00",
-    "url": "https://247wallst.com/investing/2026/07/23/nvidia-is-acquiring-dark-fiber-across-the-united-states-heres-why-thats-a-big-deal/?.tsrc=rss"
-  },
-  {
-    "id": "n840013a15d",
-    "headline": "Bloom Energy (BE) Suffers a Larger Drop Than the General Market: Key Insights",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-22T22:00:02+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-suffers-larger-drop-220002422.html?.tsrc=rss"
-  },
-  {
-    "id": "n54f5491056",
-    "headline": "CoreWeave and Nebius Get Bullish Calls",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-22T21:05:05+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-nebius-bullish-calls-210505107.html?.tsrc=rss"
-  },
-  {
-    "id": "ndc0778825b",
-    "headline": "Why EQT Corporation Rallied Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-22T21:02:28+00:00",
-    "url": "https://www.fool.com/investing/2026/07/22/why-eqt-corporation-rallied-today/?.tsrc=rss"
   }
 ]
