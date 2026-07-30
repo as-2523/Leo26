@@ -1,5 +1,145 @@
 [
   {
+    "id": "nbefc78e078",
+    "headline": "BE Stock Slips After Record Quarter \u2013 But One Market Strategist Sees 'Speed-To-Power' Edge In AI Race",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-30T04:58:44+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-slips-after-record-quarter-but-one-market-strategist-sees-speed-to-power-edge-in-ai-race/cZNPY1cRJTz?.tsrc=rss"
+  },
+  {
+    "id": "n0ca74a46ad",
+    "headline": "Overlooked AI stock is growing faster than Nvidia",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-30T01:37:00+00:00",
+    "url": "https://www.thestreet.com/investing/bloom-energy-stock-nvidia-revenue-growth?.tsrc=rss"
+  },
+  {
+    "id": "n5aff3556d3",
+    "headline": "CoreWeave's CEO Sold Company Stock Worth Nearly $25 Million Amid Share Price Declines. Here's a Closer Look at the Transaction.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-29T23:00:01+00:00",
+    "url": "https://www.fool.com/coverage/filings/2026/07/29/coreweave-s-ceo-sold-company-stock-worth-nearly-usd25-million-amid-share-price-declines-here-s-a-closer-look-at-the-transaction/?.tsrc=rss"
+  },
+  {
+    "id": "n8e9ef45fc3",
+    "headline": "Vistra (VST) Stock Looks Reasonable Following New York Data Center Limits",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-29T22:08:39+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-stock-looks-reasonable-220839951.html?.tsrc=rss"
+  },
+  {
+    "id": "n346355c60c",
+    "headline": "Vertiv, SoFi, GE HealthCare, Micron, SK Hynix, Garmin, and More Stocks That Explain Today\u2019s Market",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-29T21:12:00+00:00",
+    "url": "https://finance.yahoo.com/m/a452da21-959c-302f-8f74-9807931aacb4/vertiv%2C-sofi%2C-ge-healthcare%2C.html?.tsrc=rss"
+  },
+  {
+    "id": "na49be68df9",
+    "headline": "Vistra Declares Dividend on Common Stock and Series A Preferred Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-29T20:36:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-declares-dividend-common-stock-203600130.html?.tsrc=rss"
+  },
+  {
+    "id": "neb0b79cf40",
+    "headline": "Bloom Energy Earnings Surge 680%, But AI Power Player Skids",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-29T20:05:07+00:00",
+    "url": "https://finance.yahoo.com/m/06f15e12-4bda-3a35-9188-c52868b34a56/bloom-energy-earnings-surge.html?.tsrc=rss"
+  },
+  {
+    "id": "nd3edd2352f",
+    "headline": "AI-Fueled Demand Signals a Bigger Opportunity for Bloom Energy (BE) Investors",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-07-29T19:58:04+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-demand-signals-bigger-195804712.html?.tsrc=rss"
+  },
+  {
+    "id": "n4f6c6b924c",
+    "headline": "AMD's Core Scientific deal is bigger than the headline number",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-29T19:13:00+00:00",
+    "url": "https://www.thestreet.com/investing/stocks/amd-core-scientific-ai-data-center-deal?.tsrc=rss"
+  },
+  {
+    "id": "nf9a6f5b844",
+    "headline": "IREN, TeraWulf, and Applied Digital Are All Down 30% in a Month. Is More Pain Coming for Data Center Stocks?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-07-29T18:11:24+00:00",
+    "url": "https://247wallst.com/investing/2026/07/29/iren-terawulf-and-applied-digital-are-all-down-30-in-a-month-is-more-pain-coming-for-data-center-stocks/?.tsrc=rss"
+  },
+  {
+    "id": "n73e5edbafd",
+    "headline": "CoreWeave said to sweeten $2.6 billion loan terms amid debt concerns",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-29T18:02:08+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-said-sweeten-2-6-180208831.html?.tsrc=rss"
+  },
+  {
+    "id": "n5ae87d2770",
+    "headline": "Nebius Drops 10%, CoreWeave Sinks 9% as Rising Credit-Swap Costs Hit the AI Cloud Trade",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-29T16:43:01+00:00",
+    "url": "https://247wallst.com/investing/2026/07/29/nebius-drops-10-coreweave-sinks-9-as-rising-credit-swap-costs-hit-the-ai-cloud-trade/?.tsrc=rss"
+  },
+  {
+    "id": "n428aed0dd4",
+    "headline": "Edison International to Release Q2 Earnings: What's in Store?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-07-29T14:28:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/edison-international-release-q2-earnings-142800056.html?.tsrc=rss"
+  },
+  {
+    "id": "n387eae3af6",
+    "headline": "Wall Street Picks AI Winners and Losers as Credit Swaps Surge",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-29T14:07:35+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-picks-ai-winners-140735436.html?.tsrc=rss"
+  },
+  {
     "id": "n21dad1d967",
     "headline": "Why Bloom Energy May Be Emerging As The \u2018Power\u2019 Layer Behind AI Boom: 5 Takeaways From Its Record Quarter",
     "source": "Yahoo Finance",
@@ -358,145 +498,5 @@
     ],
     "ts": "2026-07-27T15:03:15+00:00",
     "url": "https://www.barchart.com/story/news/3481568/dear-bloom-energy-stock-fans-mark-your-calendars-for-july-28?.tsrc=rss"
-  },
-  {
-    "id": "n28a023dcbb",
-    "headline": "Nebius Just Revealed the Biggest Problem Facing Neocloud Stocks",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-27T10:05:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/27/nebius-just-revealed-the-biggest-problem/?.tsrc=rss"
-  },
-  {
-    "id": "n458f89e544",
-    "headline": "US Stock Market Today S&P 500 Futures Inch Higher As Housing And Services Hold",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-27T08:08:42+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080842250.html?.tsrc=rss"
-  },
-  {
-    "id": "ncd3d020309",
-    "headline": "Should Nebius and CoreWeave Investors Be Worried About Meta's Latest AI Infrastructure Plans?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-27T06:20:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/27/should-nebius-and-coreweave-investors-be-worried-a/?.tsrc=rss"
-  },
-  {
-    "id": "n139f3b1a86",
-    "headline": "Bloom Energy (BE) To Report Earnings Tomorrow: Here Is What To Expect",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-27T05:41:02+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-report-earnings-tomorrow-054102864.html?.tsrc=rss"
-  },
-  {
-    "id": "n19d6a44809",
-    "headline": "Why CoreWeave Stock Fell 30% in Just 1 Month",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-26T20:38:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/26/why-coreweave-stock-fell-30-in-just-1-month/?.tsrc=rss"
-  },
-  {
-    "id": "n7acdfced6c",
-    "headline": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-26T16:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/26/neocloud-stocks-vs-hyperscalers-win-ai-capex/?.tsrc=rss"
-  },
-  {
-    "id": "n3dd73c6068",
-    "headline": "Bloom Energy's Next Earnings Report on July 28 Could Send the Stock Soaring. Here's Why.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-26T13:45:01+00:00",
-    "url": "https://www.fool.com/investing/2026/07/26/bloom-energys-next-earnings-report-on-july-28-could-send-the-stock-soaring-heres-why/?.tsrc=rss"
-  },
-  {
-    "id": "nc2fa6cda32",
-    "headline": "Mark Zuckerberg's Meta Is Also One of CoreWeave's Biggest Customers, in a Deal Worth $35 Billion Through 2032. That Didn't Stop CoreWeave Shares From Sinking on Meta's Own Cloud News.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-26T13:20:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/26/mark-zuckerbergs-meta-is-also-one-of-coreweaves-bi/?.tsrc=rss"
-  },
-  {
-    "id": "ndf39fb4b0c",
-    "headline": "Applied Digital Earnings: What To Look For From APLD",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-26T03:41:13+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-earnings-look-apld-034113706.html?.tsrc=rss"
-  },
-  {
-    "id": "nb1255486e5",
-    "headline": "CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What It's Selling.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-25T21:27:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/25/coreweave-stock-fell-114-on-friday-the-sell-off-is/?.tsrc=rss"
-  },
-  {
-    "id": "n9f10fdb9bb",
-    "headline": "EQT (EQT) Accelerates Southgate Pipeline Build While Adding Supply Deal And Midstream Assets",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-07-25T17:08:54+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-eqt-accelerates-southgate-pipeline-170854369.html?.tsrc=rss"
-  },
-  {
-    "id": "n6fe373559c",
-    "headline": "I Want Exposure to the AI Boom Without Buying Nvidia. Here's Why Bloom Energy Is My Pick.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-25T15:20:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/25/i-want-exposure-to-the-ai-boom-without-buying-nvid/?.tsrc=rss"
-  },
-  {
-    "id": "ne8f3f10055",
-    "headline": "Should You Buy Bloom Energy Before July 28 Earnings After Its 40% 1-Month Decline?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-25T14:20:25+00:00",
-    "url": "https://247wallst.com/investing/2026/07/25/should-you-buy-bloom-energy-before-july-28-earnings-after-its-40-1-month-decline/?.tsrc=rss"
-  },
-  {
-    "id": "nf089bd9af4",
-    "headline": "2 Millionaire-Maker AI Stocks to Hold for the Next Decade",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-25T09:25:00+00:00",
-    "url": "https://www.fool.com/investing/2026/07/25/2-millionaire-maker-ai-stocks-to-hold-for-the-next/?.tsrc=rss"
   }
 ]
