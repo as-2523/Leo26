@@ -1,36 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-4dezyq",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Sri Lanka",
-      "startTimeUtc": "2026-08-15T04:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Test",
-      "formatLabel": "test",
-      "series": "India tour of Sri Lanka 2026",
-      "seriesStartUtc": "2026-08-15T00:00:00.000Z",
-      "seriesEndUtc": "2026-08-27T00:00:00.000Z",
-      "venue": "Galle International Stadium, Galle",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-ofq0wh",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Sri Lanka",
-      "startTimeUtc": "2026-08-23T04:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Test",
-      "formatLabel": "test",
-      "series": "India tour of Sri Lanka 2026",
-      "seriesStartUtc": "2026-08-15T00:00:00.000Z",
-      "seriesEndUtc": "2026-08-27T00:00:00.000Z",
-      "venue": "Sinhalese Sports Club, Colombo",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-mngvf6",
       "teamId": "india-a-women",
       "teamName": "India A Women",
@@ -644,12 +614,27 @@
       "seriesEndUtc": "2027-03-03T00:00:00.000Z",
       "venue": "Vidarbha Cricket Association Stadium, Nagpur",
       "source": "cricapi"
+    },
+    {
+      "id": "fx-1naj04i",
+      "teamId": "india-men",
+      "teamName": "India Men",
+      "opponent": "Australia",
+      "startTimeUtc": "2027-01-29T04:00:00.000Z",
+      "hasStartTime": true,
+      "format": "Test",
+      "formatLabel": "test",
+      "series": "Australia tour of India, 2027",
+      "seriesStartUtc": "2027-01-21T00:00:00.000Z",
+      "seriesEndUtc": "2027-03-03T00:00:00.000Z",
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "source": "cricapi"
     }
   ],
   "meta": {
-    "generatedAt": "2026-07-29T05:53:42.872Z",
-    "windowStart": "2026-07-29T00:00:00.000Z",
-    "windowEnd": "2027-01-29T00:00:00.000Z",
+    "generatedAt": "2026-07-31T06:15:15.189Z",
+    "windowStart": "2026-07-31T00:00:00.000Z",
+    "windowEnd": "2027-01-31T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -665,7 +650,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 47
+        "count": 45
       },
       {
         "id": "manual",
