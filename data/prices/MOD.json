@@ -1,19 +1,11 @@
 {
   "ticker": "MOD",
-  "current_price": 193.91,
-  "prev_close": 178.04,
-  "day_change_pct": 8.91,
+  "current_price": 201.06,
+  "prev_close": 193.91,
+  "day_change_pct": 3.69,
   "week_52_high": 323.25,
   "week_52_low": 111.18,
   "history": [
-    {
-      "date": "2026-03-23",
-      "open": 204.3,
-      "high": 218.29,
-      "low": 204.0,
-      "close": 211.47,
-      "volume": 1211100
-    },
     {
       "date": "2026-03-24",
       "open": 209.5,
@@ -725,8 +717,16 @@
       "low": 170.21,
       "close": 193.91,
       "volume": 5168700
+    },
+    {
+      "date": "2026-07-31",
+      "open": 200.92,
+      "high": 207.46,
+      "low": 195.38,
+      "close": 201.06,
+      "volume": 2507200
     }
   ],
-  "as_of": "2026-07-31T09:24:32.552143+00:00",
+  "as_of": "2026-08-01T08:40:23.429460+00:00",
   "stale": false
 }
