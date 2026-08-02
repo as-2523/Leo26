@@ -1,5 +1,45 @@
 [
   {
+    "id": "nd63745852c",
+    "headline": "Is Bloom Energy in Its Nvidia Moment?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-01T18:31:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/01/is-bloom-energy-in-its-nvidia-moment/?.tsrc=rss"
+  },
+  {
+    "id": "n297b1e6270",
+    "headline": "Bloom Energy Is Soaring: Is There a Better Way To Play The AI Power Boom?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-01T12:35:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/01/bloom-energy-is-soaring-is-there-a-better-way-to-p/?.tsrc=rss"
+  },
+  {
+    "id": "n7ec345c0eb",
+    "headline": "ARK Invest Buys $6.7 Million Of CRCL Stock, Adds CoreWeave And Solana ETF, Sells Shopify",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-01T09:04:40+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/ark-invest-buys-circle-crwv-sells-shopify-crowdstrike/cZ8xtLFRJ5I?.tsrc=rss"
+  },
+  {
+    "id": "ncbda36c8b8",
+    "headline": "Prediction: Bloom Energy Doubles Its Revenue Again by 2029. Here's the Math.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-01T08:31:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/01/prediction-bloom-energy-doubles-its-revenue-again/?.tsrc=rss"
+  },
+  {
     "id": "n4bdc787655",
     "headline": "Brookfield Infrastructure Partners Q2 Earnings Call Highlights",
     "source": "Yahoo Finance",
@@ -18,6 +58,16 @@
     ],
     "ts": "2026-07-31T21:16:01+00:00",
     "url": "https://www.fool.com/coverage/better-buy/2026/07/31/bloom-energy-or-plug-power-which-hot-fuel-cell-stock-is-a-better-buy-in-2026/?.tsrc=rss"
+  },
+  {
+    "id": "n9992cfced3",
+    "headline": "Why some investors are wrong about GPU depreciation",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-07-31T21:15:50+00:00",
+    "url": "https://blockspace.media/short/why-some-investors-are-wrong-about-gpu-depreciation/?.tsrc=rss"
   },
   {
     "id": "nc075379c01",
@@ -448,55 +498,5 @@
     ],
     "ts": "2026-07-29T06:30:00+00:00",
     "url": "https://finance.yahoo.com/m/8762d384-fbe1-3a21-9687-d1f230bd2101/nvidia%E2%80%99s-creative-financing.html?.tsrc=rss"
-  },
-  {
-    "id": "n013613e541",
-    "headline": "Neocloud Tenants Spark Data Center Financing Concerns",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-29T05:50:13+00:00",
-    "url": "https://www.credaily.com/briefs/neocloud-tenants-spark-data-center-financing-concerns/?.tsrc=rss"
-  },
-  {
-    "id": "n9bf0125ce6",
-    "headline": "Bloom Energy Corp (BE) Q2 2026 Earnings Call Highlights: Record Revenue and Strategic Expansion",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-29T05:00:39+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corp-q2-2026-050039362.html?.tsrc=rss"
-  },
-  {
-    "id": "nada50c58c1",
-    "headline": "Dow Jones Futures: Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Earnings Late",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-29T03:06:28+00:00",
-    "url": "https://finance.yahoo.com/m/0eb51c4d-da78-36ad-bd11-f37d9adcc2f8/dow-jones-futures%3A-oil-jumps.html?.tsrc=rss"
-  },
-  {
-    "id": "n5abb6a2a86",
-    "headline": "Bloom Energy Q2 Earnings Call Highlights",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-29T00:03:55+00:00",
-    "url": "https://www.marketbeat.com/instant-alerts/bloom-energy-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n6aac55ed58",
-    "headline": "Bloom Energy Shares Soar on Back of AI Power Demand",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-28T23:30:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-shares-soar-back-233000037.html?.tsrc=rss"
   }
 ]
