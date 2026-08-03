@@ -1,5 +1,85 @@
 [
   {
+    "id": "n74ed3820f3",
+    "headline": "This Is The Best-Performing Nuclear Stock Now Even As Peers Are Losing Value",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-03T04:36:58+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/this-is-the-best-performing-nuclear-stock-now-even-as-peers-are-losing-value/cZoR6lERJ5q?.tsrc=rss"
+  },
+  {
+    "id": "n20b9129ead",
+    "headline": "Bloom Energy vs. Oklo: Which Power Stock Is a Better Buy in 2026?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-02T17:20:01+00:00",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/02/bloom-energy-vs-oklo-which-power-stock-is-a-better-buy-in-2026/?.tsrc=rss"
+  },
+  {
+    "id": "nf99394fe8a",
+    "headline": "Bloom Energy (BE) Faces Class Action Over Chinese Scandium Supply Claims",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-02T16:08:59+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-faces-class-action-160859020.html?.tsrc=rss"
+  },
+  {
+    "id": "n44b329ad50",
+    "headline": "Is It Too Late to Buy Bloom Energy? My Honest Take.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-02T15:20:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/02/is-it-too-late-to-buy-bloom-energy-my-honest-take/?.tsrc=rss"
+  },
+  {
+    "id": "nfbbd5240a0",
+    "headline": "Should You Buy Billionaire Investor Stephen Mandel\u2019s Top 5 Stock Picks in August?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-02T14:30:05+00:00",
+    "url": "https://247wallst.com/investing/2026/08/02/should-you-buy-billionaire-investor-stephen-mandels-top-5-stock-picks-in-august/?.tsrc=rss"
+  },
+  {
+    "id": "n33a78d662a",
+    "headline": "CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-02T14:12:39+00:00",
+    "url": "https://www.barchart.com/story/news/3602297/coreweave-just-scored-a-leidos-partnership-what-that-means-for-crwv-stock-here?.tsrc=rss"
+  },
+  {
+    "id": "n8577774e77",
+    "headline": "Nebius and CoreWeave Stocks are Plummeting. Is It Time to Buy the Dip?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-02T09:20:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/02/nebius-and-coreweave-stocks-are-plummeting-is-it-t/?.tsrc=rss"
+  },
+  {
+    "id": "n2908e6b5c0",
+    "headline": "Loan Investors Are Pushing Back as Fear Rises",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-01T19:00:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/loan-investors-pushing-back-fear-190000602.html?.tsrc=rss"
+  },
+  {
     "id": "nd63745852c",
     "headline": "Is Bloom Energy in Its Nvidia Moment?",
     "source": "Yahoo Finance",
@@ -418,85 +498,5 @@
     ],
     "ts": "2026-07-29T19:58:04+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-demand-signals-bigger-195804712.html?.tsrc=rss"
-  },
-  {
-    "id": "n4f6c6b924c",
-    "headline": "AMD's Core Scientific deal is bigger than the headline number",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-29T19:13:00+00:00",
-    "url": "https://www.thestreet.com/investing/stocks/amd-core-scientific-ai-data-center-deal?.tsrc=rss"
-  },
-  {
-    "id": "nf9a6f5b844",
-    "headline": "IREN, TeraWulf, and Applied Digital Are All Down 30% in a Month. Is More Pain Coming for Data Center Stocks?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-29T18:11:24+00:00",
-    "url": "https://247wallst.com/investing/2026/07/29/iren-terawulf-and-applied-digital-are-all-down-30-in-a-month-is-more-pain-coming-for-data-center-stocks/?.tsrc=rss"
-  },
-  {
-    "id": "n73e5edbafd",
-    "headline": "CoreWeave said to sweeten $2.6 billion loan terms amid debt concerns",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-29T18:02:08+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-said-sweeten-2-6-180208831.html?.tsrc=rss"
-  },
-  {
-    "id": "n5ae87d2770",
-    "headline": "Nebius Drops 10%, CoreWeave Sinks 9% as Rising Credit-Swap Costs Hit the AI Cloud Trade",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-29T16:43:01+00:00",
-    "url": "https://247wallst.com/investing/2026/07/29/nebius-drops-10-coreweave-sinks-9-as-rising-credit-swap-costs-hit-the-ai-cloud-trade/?.tsrc=rss"
-  },
-  {
-    "id": "n428aed0dd4",
-    "headline": "Edison International to Release Q2 Earnings: What's in Store?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-29T14:28:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/edison-international-release-q2-earnings-142800056.html?.tsrc=rss"
-  },
-  {
-    "id": "n387eae3af6",
-    "headline": "Wall Street Picks AI Winners and Losers as Credit Swaps Surge",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-29T14:07:35+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-picks-ai-winners-140735436.html?.tsrc=rss"
-  },
-  {
-    "id": "n21dad1d967",
-    "headline": "Why Bloom Energy May Be Emerging As The \u2018Power\u2019 Layer Behind AI Boom: 5 Takeaways From Its Record Quarter",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-29T06:40:33+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/why-bloom-energy-may-be-emerging-as-the-power-layer-behind-ai-boom-5-takeaways-from-its-record-quarter/cZNRZchRJRJ?.tsrc=rss"
-  },
-  {
-    "id": "neefc701acb",
-    "headline": "Nvidia\u2019s Creative Financing Is More Reward Than Risk",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-29T06:30:00+00:00",
-    "url": "https://finance.yahoo.com/m/8762d384-fbe1-3a21-9687-d1f230bd2101/nvidia%E2%80%99s-creative-financing.html?.tsrc=rss"
   }
 ]
