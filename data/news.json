@@ -1,5 +1,125 @@
 [
   {
+    "id": "n38b86572b4",
+    "headline": "US Stock Market Today: S&P 500 Futures Rise On Steady Growth And Calmer Yields",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-04T08:12:10+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081210914.html?.tsrc=rss"
+  },
+  {
+    "id": "ne07c4d4ad5",
+    "headline": "Backblaze Inc (BLZE) (Q2 2026) Earnings Call Highlights: Record $335M Coreweave Deal and 34% B2 ...",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-04T05:04:27+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/backblaze-inc-blze-q2-2026-050427975.html?.tsrc=rss"
+  },
+  {
+    "id": "n918516d95d",
+    "headline": "Better Neocloud Stock: CoreWeave vs. Nebius",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-04T04:20:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/04/better-neocloud-stock-nebius-vs-coreweave/?.tsrc=rss"
+  },
+  {
+    "id": "n458ab45d3c",
+    "headline": "Down 38% From Its High, Is Bloom Energy Stock a Buy?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-03T20:50:30+00:00",
+    "url": "https://www.fool.com/investing/2026/08/03/down-38-from-its-high-is-bloom-energy-stock-a-buy/?.tsrc=rss"
+  },
+  {
+    "id": "n95f2718939",
+    "headline": "Oracle Is Still Down 28% This Year. What Will It Take to Get ORCL Stock Back to $200?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-03T19:12:22+00:00",
+    "url": "https://247wallst.com/investing/2026/08/03/oracle-is-still-down-28-this-year-what-will-it-take-to-get-orcl-stock-back-to-200/?.tsrc=rss"
+  },
+  {
+    "id": "n4638cd1e74",
+    "headline": "Nebius (NBIS): The Neocloud Leader",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-03T18:56:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nebius-nbis-neocloud-leader-185600913.html?.tsrc=rss"
+  },
+  {
+    "id": "nc72dc8e4cb",
+    "headline": "Eversource Energy Q2 Earnings Lag Estimates, Revenues Rise Y/Y",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-03T18:41:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/eversource-energy-q2-earnings-lag-184100346.html?.tsrc=rss"
+  },
+  {
+    "id": "n739c812a0b",
+    "headline": "Repurchases of shares by EQT AB during week 31, 2026",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-08-03T16:33:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/repurchases-shares-eqt-ab-during-163300787.html?.tsrc=rss"
+  },
+  {
+    "id": "n7fd7c2ac68",
+    "headline": "Mizuho Says Bloom Energy Stock Is a \u2018Buy.\u2019 Here\u2019s Why, and Whether You Should Snap Up BE Here.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-03T16:01:31+00:00",
+    "url": "https://www.barchart.com/story/news/3616055/mizuho-says-bloom-energy-stock-is-a-buy-heres-why-and-whether-you-should-snap-up-be-here?.tsrc=rss"
+  },
+  {
+    "id": "nd5881ad102",
+    "headline": "Constellation Energy vs. Vistra: Which Utilities Stock Is a Better Buy in 2026?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-03T13:01:01+00:00",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/03/constellation-energy-vs-vistra-which-utilities-stock-is-a-better-buy-in-2026/?.tsrc=rss"
+  },
+  {
+    "id": "n4f993daee4",
+    "headline": "Situational Awareness: When Leverage Meets Volatility",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-03T13:00:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/situational-awareness-leverage-meets-volatility-130000366.html?.tsrc=rss"
+  },
+  {
+    "id": "n93cb625f23",
+    "headline": "3 Reasons to Buy Bloom Energy Stock -- and 3 Reasons to Wait",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-03T10:25:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/03/3-reasons-to-buy-bloom-energy-stock-and-3-reasons/?.tsrc=rss"
+  },
+  {
     "id": "n74ed3820f3",
     "headline": "This Is The Best-Performing Nuclear Stock Now Even As Peers Are Losing Value",
     "source": "Yahoo Finance",
@@ -378,125 +498,5 @@
     ],
     "ts": "2026-07-30T16:37:00+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-release-q2-earnings-163700654.html?.tsrc=rss"
-  },
-  {
-    "id": "n446989663c",
-    "headline": "Applied Digital: The AI Selloff May Have Created a 159% Opportunity in This Under-$30 Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-30T16:07:04+00:00",
-    "url": "https://www.barchart.com/story/news/3556410/applied-digital-the-ai-selloff-may-have-created-a-159-opportunity-in-this-under-30-stock?.tsrc=rss"
-  },
-  {
-    "id": "n9dad393b93",
-    "headline": "Citadel buys bulk of Situational Awareness portfolio after AI stock losses: WSJ",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-30T15:59:51+00:00",
-    "url": "https://blockspace.media/insight/citadel-buys-situational-awareness-portfolio-2026/?.tsrc=rss"
-  },
-  {
-    "id": "n4173aea20e",
-    "headline": "Morgan Stanley Sees CIFR, GLXY Upside From ERCOT\u2019s 65 GW Batch Zero",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-30T14:47:55+00:00",
-    "url": "https://blockspace.media/insight/ercot-batch-zero-morgan-stanley-base-load-2026/?.tsrc=rss"
-  },
-  {
-    "id": "n3ae2729d5b",
-    "headline": "Earnings Calendar and Analysis for This Week (July 27-31)",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-07-30T12:19:51+00:00",
-    "url": "https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks?.tsrc=rss"
-  },
-  {
-    "id": "nbefc78e078",
-    "headline": "BE Stock Slips After Record Quarter \u2013 But One Market Strategist Sees 'Speed-To-Power' Edge In AI Race",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-30T04:58:44+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-slips-after-record-quarter-but-one-market-strategist-sees-speed-to-power-edge-in-ai-race/cZNPY1cRJTz?.tsrc=rss"
-  },
-  {
-    "id": "n0ca74a46ad",
-    "headline": "Overlooked AI stock is growing faster than Nvidia",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-30T01:37:00+00:00",
-    "url": "https://www.thestreet.com/investing/bloom-energy-stock-nvidia-revenue-growth?.tsrc=rss"
-  },
-  {
-    "id": "n5aff3556d3",
-    "headline": "CoreWeave's CEO Sold Company Stock Worth Nearly $25 Million Amid Share Price Declines. Here's a Closer Look at the Transaction.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-29T23:00:01+00:00",
-    "url": "https://www.fool.com/coverage/filings/2026/07/29/coreweave-s-ceo-sold-company-stock-worth-nearly-usd25-million-amid-share-price-declines-here-s-a-closer-look-at-the-transaction/?.tsrc=rss"
-  },
-  {
-    "id": "n8e9ef45fc3",
-    "headline": "Vistra (VST) Stock Looks Reasonable Following New York Data Center Limits",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-29T22:08:39+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-stock-looks-reasonable-220839951.html?.tsrc=rss"
-  },
-  {
-    "id": "n346355c60c",
-    "headline": "Vertiv, SoFi, GE HealthCare, Micron, SK Hynix, Garmin, and More Stocks That Explain Today\u2019s Market",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-29T21:12:00+00:00",
-    "url": "https://finance.yahoo.com/m/a452da21-959c-302f-8f74-9807931aacb4/vertiv%2C-sofi%2C-ge-healthcare%2C.html?.tsrc=rss"
-  },
-  {
-    "id": "na49be68df9",
-    "headline": "Vistra Declares Dividend on Common Stock and Series A Preferred Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-07-29T20:36:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-declares-dividend-common-stock-203600130.html?.tsrc=rss"
-  },
-  {
-    "id": "neb0b79cf40",
-    "headline": "Bloom Energy Earnings Surge 680%, But AI Power Player Skids",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-29T20:05:07+00:00",
-    "url": "https://finance.yahoo.com/m/06f15e12-4bda-3a35-9188-c52868b34a56/bloom-energy-earnings-surge.html?.tsrc=rss"
-  },
-  {
-    "id": "nd3edd2352f",
-    "headline": "AI-Fueled Demand Signals a Bigger Opportunity for Bloom Energy (BE) Investors",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-29T19:58:04+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-demand-signals-bigger-195804712.html?.tsrc=rss"
   }
 ]
