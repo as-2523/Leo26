@@ -632,9 +632,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-08-03T06:24:44.931Z",
-    "windowStart": "2026-08-03T00:00:00.000Z",
-    "windowEnd": "2027-02-03T00:00:00.000Z",
+    "generatedAt": "2026-08-05T05:46:58.483Z",
+    "windowStart": "2026-08-05T00:00:00.000Z",
+    "windowEnd": "2027-02-05T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
