@@ -1,5 +1,175 @@
 [
   {
+    "id": "n32ed1f4899",
+    "headline": "Jane Street Eyes $11 Billion Private Credit Refinance to Support AI Investments: Report",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-07T07:01:37+00:00",
+    "url": "https://www.benzinga.com/markets/tech/26/08/61029611/jane-street-reportedly-looks-to-private-credit-to-fund-bigger-ai-ambitions?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
+  },
+  {
+    "id": "n68e3a30090",
+    "headline": "SoFi and Visa Earnings Point to Consumer Confidence",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-07T05:00:46+00:00",
+    "url": "https://www.fool.com/investing/2026/08/07/sofi-and-visa-earnings-point-to-consumer-confidence/?.tsrc=rss"
+  },
+  {
+    "id": "nf8507f0b25",
+    "headline": "Should You Buy CoreWeave Before or After Earnings? The Best Move Might Be Neither.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-07T04:25:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/07/should-you-buy-coreweave-before-or-after-earnings/?.tsrc=rss"
+  },
+  {
+    "id": "nf2b76ab8c1",
+    "headline": "3 Overlooked Stocks Poised to Follow Nebius Higher",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-07T03:20:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/06/3-overlooked-stocks-poised-to-follow-nebius-higher/?.tsrc=rss"
+  },
+  {
+    "id": "n7369f53d39",
+    "headline": "CoreWeave Stock, Nebius Highlight Data Center Earnings; Tech Stars Lumentum, AMAT Also Due",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-06T23:28:29+00:00",
+    "url": "https://finance.yahoo.com/m/91fefda5-65de-3c62-8953-02ad631cd84f/coreweave-stock%2C-nebius.html?.tsrc=rss"
+  },
+  {
+    "id": "n99d7aeb929",
+    "headline": "Bloom Energy Continues to Set the Standard for AI Onsite Power with Expanded MiTAC Partnership",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-06T23:11:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-continues-set-standard-231100049.html?.tsrc=rss"
+  },
+  {
+    "id": "nf874f45075",
+    "headline": "Bloom Energy Is Down 20% in a Month. Is It Time to Switch to Plug Power or FuelCell Energy?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-06T19:19:34+00:00",
+    "url": "https://247wallst.com/investing/2026/08/06/bloom-energy-is-down-20-in-a-month-is-it-time-to-switch-to-plug-power-or-fuelcell-energy/?.tsrc=rss"
+  },
+  {
+    "id": "n6d03bd5347",
+    "headline": "MDU Resources Q2 Earnings Beat Estimates, Revenues Increase Y/Y",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-06T18:51:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/mdu-resources-q2-earnings-beat-185100074.html?.tsrc=rss"
+  },
+  {
+    "id": "nd347d10f4f",
+    "headline": "Nebius Is Still Up 136% This Year. It Is Time to Take Profits and Switch to Cloudflare, CoreWeave, or Snowflake?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-06T18:34:58+00:00",
+    "url": "https://247wallst.com/investing/2026/08/06/nebius-is-still-up-136-this-year-it-is-time-to-take-profits-and-switch-to-cloudflare-coreweave-or-snowflake/?.tsrc=rss"
+  },
+  {
+    "id": "n43827fe22c",
+    "headline": "UGI Q3 Earnings Beat Estimates, Revenues Miss on LPG Weakness",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-06T18:28:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ugi-q3-earnings-beat-estimates-182800449.html?.tsrc=rss"
+  },
+  {
+    "id": "n8d27240523",
+    "headline": "Vistra (VST) Is Seen As A Beneficiary Of Rising AI Power Demand",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-06T18:21:27+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/vistra-vst-seen-beneficiary-rising-182127335.html?.tsrc=rss"
+  },
+  {
+    "id": "n6611a059ae",
+    "headline": "Atmos Energy Q3 Earnings Beat Estimates, Revenues Increase Y/Y",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-06T18:19:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/atmos-energy-q3-earnings-beat-181900633.html?.tsrc=rss"
+  },
+  {
+    "id": "n96bc7e4920",
+    "headline": "What to Expect From These 2 Utility Stocks This Season?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-06T17:21:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/expect-2-utility-stocks-season-172100843.html?.tsrc=rss"
+  },
+  {
+    "id": "n4b1aeef335",
+    "headline": "SpaceX's need for power is a 'clear positive' for these companies",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-08-06T15:46:04+00:00",
+    "url": "https://finance.yahoo.com/markets/article/spacexs-need-for-power-is-a-clear-positive-for-these-companies-154604075.html?.tsrc=rss"
+  },
+  {
+    "id": "n63f71434ed",
+    "headline": "Prediction: Up 120% YTD, Bloom Energy Has Room to Run",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-06T13:30:11+00:00",
+    "url": "https://247wallst.com/investing/2026/08/06/up-120-ytd-bloom-energy-has-room-to-run/?.tsrc=rss"
+  },
+  {
+    "id": "n4d8a1eb30a",
+    "headline": "Is Bloom Energy (BE) Undervalued Following The Lawsuit And Short Seller Report?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-06T10:11:57+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-undervalued-following-lawsuit-101157679.html?.tsrc=rss"
+  },
+  {
+    "id": "nca90ee64b5",
+    "headline": "EQT Corporation\u00a0Stock Outlook: Is Wall Street Bullish or Bearish?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-08-06T06:20:02+00:00",
+    "url": "https://www.barchart.com/story/news/3682937/eqt-corporation-stock-outlook-is-wall-street-bullish-or-bearish?.tsrc=rss"
+  },
+  {
     "id": "ncb2e78ab88",
     "headline": "Solaris Energy Infrastructure, Inc. (SEI) Q2 Earnings and Revenues Top Estimates",
     "source": "Yahoo Finance",
@@ -328,175 +498,5 @@
     ],
     "ts": "2026-08-03T13:01:01+00:00",
     "url": "https://www.fool.com/coverage/better-buy/2026/08/03/constellation-energy-vs-vistra-which-utilities-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "n4f993daee4",
-    "headline": "Situational Awareness: When Leverage Meets Volatility",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-03T13:00:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/situational-awareness-leverage-meets-volatility-130000366.html?.tsrc=rss"
-  },
-  {
-    "id": "n93cb625f23",
-    "headline": "3 Reasons to Buy Bloom Energy Stock -- and 3 Reasons to Wait",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-03T10:25:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/03/3-reasons-to-buy-bloom-energy-stock-and-3-reasons/?.tsrc=rss"
-  },
-  {
-    "id": "n74ed3820f3",
-    "headline": "This Is The Best-Performing Nuclear Stock Now Even As Peers Are Losing Value",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-03T04:36:58+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/this-is-the-best-performing-nuclear-stock-now-even-as-peers-are-losing-value/cZoR6lERJ5q?.tsrc=rss"
-  },
-  {
-    "id": "n20b9129ead",
-    "headline": "Bloom Energy vs. Oklo: Which Power Stock Is a Better Buy in 2026?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-02T17:20:01+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/08/02/bloom-energy-vs-oklo-which-power-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "nf99394fe8a",
-    "headline": "Bloom Energy (BE) Faces Class Action Over Chinese Scandium Supply Claims",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-02T16:08:59+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-faces-class-action-160859020.html?.tsrc=rss"
-  },
-  {
-    "id": "n44b329ad50",
-    "headline": "Is It Too Late to Buy Bloom Energy? My Honest Take.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-02T15:20:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/02/is-it-too-late-to-buy-bloom-energy-my-honest-take/?.tsrc=rss"
-  },
-  {
-    "id": "nfbbd5240a0",
-    "headline": "Should You Buy Billionaire Investor Stephen Mandel\u2019s Top 5 Stock Picks in August?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-02T14:30:05+00:00",
-    "url": "https://247wallst.com/investing/2026/08/02/should-you-buy-billionaire-investor-stephen-mandels-top-5-stock-picks-in-august/?.tsrc=rss"
-  },
-  {
-    "id": "n33a78d662a",
-    "headline": "CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-02T14:12:39+00:00",
-    "url": "https://www.barchart.com/story/news/3602297/coreweave-just-scored-a-leidos-partnership-what-that-means-for-crwv-stock-here?.tsrc=rss"
-  },
-  {
-    "id": "n8577774e77",
-    "headline": "Nebius and CoreWeave Stocks are Plummeting. Is It Time to Buy the Dip?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-02T09:20:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/02/nebius-and-coreweave-stocks-are-plummeting-is-it-t/?.tsrc=rss"
-  },
-  {
-    "id": "n2908e6b5c0",
-    "headline": "Loan Investors Are Pushing Back as Fear Rises",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-01T19:00:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/loan-investors-pushing-back-fear-190000602.html?.tsrc=rss"
-  },
-  {
-    "id": "nd63745852c",
-    "headline": "Is Bloom Energy in Its Nvidia Moment?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-01T18:31:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/01/is-bloom-energy-in-its-nvidia-moment/?.tsrc=rss"
-  },
-  {
-    "id": "n297b1e6270",
-    "headline": "Bloom Energy Is Soaring: Is There a Better Way To Play The AI Power Boom?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-01T12:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/01/bloom-energy-is-soaring-is-there-a-better-way-to-p/?.tsrc=rss"
-  },
-  {
-    "id": "n7ec345c0eb",
-    "headline": "ARK Invest Buys $6.7 Million Of CRCL Stock, Adds CoreWeave And Solana ETF, Sells Shopify",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-01T09:04:40+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/ark-invest-buys-circle-crwv-sells-shopify-crowdstrike/cZ8xtLFRJ5I?.tsrc=rss"
-  },
-  {
-    "id": "ncbda36c8b8",
-    "headline": "Prediction: Bloom Energy Doubles Its Revenue Again by 2029. Here's the Math.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-01T08:31:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/01/prediction-bloom-energy-doubles-its-revenue-again/?.tsrc=rss"
-  },
-  {
-    "id": "n4bdc787655",
-    "headline": "Brookfield Infrastructure Partners Q2 Earnings Call Highlights",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-01T04:02:46+00:00",
-    "url": "https://www.marketbeat.com/instant-alerts/brookfield-infrastructure-partners-q2-earnings-call-highlights-2026-07-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n43b5425ade",
-    "headline": "Bloom Energy or Plug Power: Which Hot Fuel Cell Stock Is a Better Buy in 2026?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-07-31T21:16:01+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/07/31/bloom-energy-or-plug-power-which-hot-fuel-cell-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "n9992cfced3",
-    "headline": "Why some investors are wrong about GPU depreciation",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-07-31T21:15:50+00:00",
-    "url": "https://blockspace.media/short/why-some-investors-are-wrong-about-gpu-depreciation/?.tsrc=rss"
   }
 ]
