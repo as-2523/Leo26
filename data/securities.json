@@ -42,7 +42,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 789073100800,
-    "pe_ratio": 124.89922,
+    "pe_ratio": 123.306114,
     "description": "Advanced Micro Devices, Inc. operates as a semiconductor company internationally. It operates in three segments: Data Center, Client and Gaming, and Embedded. The company offers artificial intelligence (AI) accelerators, microprocessors, and graphics processing units (GPUs) as standalone devices or as incorporated into accelerated processing units, chipsets, and data center and professional GPUs; and embedded processors and semi-custom system-on-chip (SoC) products, microprocessor and SoC development services and technology, data processing units, field programmable gate arrays (FPGA), system on modules, AI network interface cards, and adaptive SoC products. It provides processors under the AMD Ryzen, AMD Ryzen AI, AMD Ryzen PRO, AMD Ryzen Threadripper, AMD Ryzen Threadripper PRO, AMD Athlon, and AMD PRO A-Series brands; graphics under the AMD Radeon graphics and AMD Embedded Radeon graphics; professional graphics under the AMD Radeon Pro graphics brand; and AI and general-purpose compute infrastructure for hyperscale providers. The company offers data center graphics under the AMD Instinct accelerators and Radeon PRO V-series brands; server microprocessors under the AMD EPYC brand",
     "industry": "Semiconductors",
     "website": "https://www.amd.com"
@@ -72,7 +72,7 @@
     "exchange": "NYQ",
     "sector": "Technology",
     "market_cap": 142424784896,
-    "pe_ratio": 72.34934,
+    "pe_ratio": 76.35023,
     "description": "Corning Incorporated operates in optical communications, display, specialty materials, automotive, and life sciences businesses in the United States, Canada, Mexico, Japan, Taiwan, China, South Korea, Germany, and internationally. The company provides optical fibers and cables; and hardware and equipment products, such as cable assemblies, fiber optic hardware and connectors, optical components and couplers, closures, network interface devices, and other accessories for the telecommunications industry, businesses, governments, and individuals. It also offers glass substrates for flat panel displays, including liquid crystal displays and organic light-emitting diodes that are used in televisions, notebook computers, desktop monitors, tablets, and handheld devices. In addition, it manufactures products that offer material formulations for glass, glass ceramics, crystals, precision metrology instruments, and software, as well as glass wafers and substrates, tinted sunglasses, and radiation shielding products for markets, such as mobile consumer electronics, semiconductor equipment optics and consumables, aerospace and defense optics, radiation shielding products, sunglasses, and telec",
     "industry": "Electronic Components",
     "website": "https://www.corning.com"
@@ -210,7 +210,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 991121571840,
-    "pe_ratio": 19.922134,
+    "pe_ratio": 19.841059,
     "description": "Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments. The company provides memory products, including dynamic random access memory components and modules, CXL-based memory, LPDDR components and modules, graphics memory, high-bandwidth memory, and data center memory products; multichip packages (MCP) comprising embedded multimedia card-based, universal flash storage-based, and NAND-based MCPs; and technology leadership products that include 1y DRAM and G9 NAND technologies. It also offers storage products, such as data center solid-state drives (SSD), client SSD storage, and auto and industrial SSD storage; managed NAND; NAND flash; NOR flash; and memory cards. In addition, the company provides design tools, including FBGA and part decoders; DRAM power calculators; NAND power calculators; simulation models; chipset compatibility guides; serial presence-detection tools; cross-reference ",
     "industry": "Semiconductors",
     "website": "https://www.micron.com"
@@ -250,7 +250,7 @@
     "exchange": "NYQ",
     "sector": "Energy",
     "market_cap": 32332922880,
-    "pe_ratio": 11.965277,
+    "pe_ratio": 11.993039,
     "description": "EQT Corporation engages in the exploration, production, gathering, and transmission of hydrocarbons and natural gas. The company sells natural gas, natural gas liquids, and oil to marketers, utilities, and industrial customers located in the Appalachian Basin. It also provides marketing services and contractual pipeline capacity management services, as well as engages in risk management and hedging activities. The company was formerly known as Equitable Resources Inc. and changed its name to EQT Corporation in February 2009. EQT Corporation was founded in 1888 and is headquartered in Canonsburg, Pennsylvania.",
     "industry": "Oil & Gas E&P",
     "website": "https://www.eqt.com"
@@ -332,7 +332,7 @@
     "industry": "Capital Markets",
     "website": "https://www.galaxy.com",
     "market_cap": 7930990080,
-    "pe_ratio": -565.93713,
+    "pe_ratio": -123.61341,
     "description": "Galaxy Digital Inc. engages in the digital asset and data centre infrastructure businesses in North America and internationally. It operates through Digital Assets, Data Centers, and Treasury and Corporate segments. The Digital Assets segment provides over-the-counter spot and derivatives trading, lending, and structured products, as well as mergers and acquisitions advisory, and equity and debt capital markets services. This segment also manages investments in the digital assets' ecosystem; and offers blockchain-centric technology and infrastructure solutions, including staking, tokenization, and custodial technology. The Data Centers segment comprises the Helios infrastructure assets. The Treasury and Corporate segment engages in managing a portfolio of digital assets, ventures, private equity, and fund investments, as well as in bitcoin mining operations. It also offers GalaxyOne, a retail financial technology platform designed for individual investors seeking access to traditional and digital markets. The company has a strategic collaboration with BNY to advance digital asset infrastructure. The company was founded in 2018 and is headquartered in New York, New York."
   },
   "HUT": {
@@ -342,7 +342,7 @@
     "industry": "Capital Markets",
     "website": "https://www.hut8.com",
     "market_cap": 10919556096,
-    "pe_ratio": -15.686586,
+    "pe_ratio": -17.061144,
     "description": "Hut 8 Corp., together with its subsidiaries, operates as an energy infrastructure platform that integrates power, digital infrastructure, and compute at scale to fuel energy-intensive use cases in the United States and Canada. It operates through Power, Digital Infrastructure, Compute, and Other segments. The company offers managed services for energy infrastructure development, such as site design, procurement, and construction management; software automation, process design, personnel hiring, and team training; utilities contracts, hosting operations, and customer management; energy portfolio optimization and strategic initiatives; and finance, accounting, and safety services. It also engages in the operation of compute infrastructure; and provision, hosting, monitoring, troubleshooting, repair, maintenance, and sale of mining equipment. In addition, the company offers Bitcoin mining; data center and cloud infrastructure services, including colocation services; and ASIC compute, traditional cloud, and AI cloud services. Hut 8 Corp. was founded in 2020 and is based in Miami, Florida."
   },
   "STX": {
@@ -352,7 +352,7 @@
     "industry": "Computer Hardware",
     "website": "https://www.seagate.com",
     "market_cap": 184496521216,
-    "pe_ratio": 61.340378,
+    "pe_ratio": 58.471943,
     "description": "Seagate Technology Holdings plc engages in providing data storage solutions in Singapore, the United States, the Netherlands, and internationally. The company offers External and internal hard drives; external and internal solid-state drives (SSDs); enterprise hard drives and SSDs; data storage systems; network attached storage (NAS) hard drives; video and analytics hard drives; and hyperscale and cloud solution. It offers its products for Healthcare, Media & Entertainment, Surveillance & Security, and telecommunication industry. The company sells its products primarily to original equipment manufacturers, distributors, and retailers. The company was founded in 1978 and is based in Singapore."
   },
   "WDC": {
@@ -362,7 +362,7 @@
     "industry": "Computer Hardware",
     "website": "https://www.westerndigital.com",
     "market_cap": 149695447040,
-    "pe_ratio": 18.583652,
+    "pe_ratio": 17.88715,
     "description": "Western Digital Corporation develops, manufactures, and sells data storage devices and solutions based on hard disk drive (HDD) technology in the United States, Asia, Europe, the Middle East, and Africa. The company offers internal HDDs, data center drives, data center platforms, external drives, portable drives, NAS for home and office, and accessories. It sells its data storage devices and solutions through its computer manufacturers, sales personnel, dealers, distributors, and retailers. The company has a collaboration with Open Quantum Design for the development of quantum error correction technology and related systems to advance reliable quantum computing. Western Digital Corporation was founded in 1970 and is headquartered in San Jose, California."
   },
   "BW": {
@@ -392,7 +392,7 @@
     "industry": "REIT - Office",
     "website": "https://www.kilroyrealty.com",
     "market_cap": 4459293696,
-    "pe_ratio": 26.00685,
+    "pe_ratio": 26.55245,
     "description": "Kilroy Realty Corporation is a leading U.S. landlord and developer, with operations in the San Francisco Bay Area, Los Angeles, Seattle, San Diego, and Austin. The Company has earned global recognition for sustainability, building operations, innovation, and design. As a pioneer and innovator in the creation of a more sustainable real estate industry, the Company's approach to modern business environments helps drive creativity and productivity for some of the world's leading technology, media, life science, and professional services companies. The Company is a publicly traded real estate investment trust and member of the S&P MidCap 400 Index with more than seven decades of experience managing, developing, and acquiring office, life science, and mixed-use projects. As of June 30, 2026, Kilroy's stabilized portfolio totaled approximately 17.1 million square feet of primarily office and life science space that was 77.0% occupied and 81.5% leased. The Company also has 608 residential units in San Diego, with a quarterly average occupancy of 95.6%. Kilroy Realty Corporation was incorporated in 1947 in Maryland. Kilroy Realty Corporation is based in Los Angeles, California."
   },
   "LBRT": {
