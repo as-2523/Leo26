@@ -1,5 +1,125 @@
 [
   {
+    "id": "n5a8dbdbafd",
+    "headline": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-13T03:09:24+00:00",
+    "url": "https://finance.yahoo.com/m/1a4df130-7c08-3f7f-8a30-395b0e9950f6/dow-jones-futures%3A-cisco%2C.html?.tsrc=rss"
+  },
+  {
+    "id": "nc2b0fabfb0",
+    "headline": "BE Stock Rises Overnight: Analyst Says Bloom\u2019s Speed To Power Is \u2018Cherry On Top Of The Icing On Top Of The Cake\u2019",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-13T02:25:33+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-rises-overnight-analyst-says-bloom-s-speed-to-power-is-cherry-on-top-of-the-icing-on-top-of-the-cake/cZopvSrRJhc?.tsrc=rss"
+  },
+  {
+    "id": "ne32f322053",
+    "headline": "CoreWeave Has $104 Billion of Contracted Revenue and a $59 Billion Market Value",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-13T01:34:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/12/coreweave-has-104-billion-of-contracted-revenue-an/?.tsrc=rss"
+  },
+  {
+    "id": "n076831f3a2",
+    "headline": "Solaris Energy Infrastructure (SEI) Q2 2026 Earnings Call Transcript",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-08-13T01:14:20+00:00",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/12/solaris-energy-infrastructure-sei-q2-2026-earnings-call-transcript/?.tsrc=rss"
+  },
+  {
+    "id": "nb935318b3f",
+    "headline": "S&P 500 ends higher as CoreWeave results fuel AI optimism",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-12T22:39:24+00:00",
+    "url": "https://finance.yahoo.com/video/p-500-ends-higher-coreweave-223924354.html?.tsrc=rss"
+  },
+  {
+    "id": "n75f9c7d0cf",
+    "headline": "SpaceX adds combined value of 4 major AI companies in single day",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-12T22:15:43+00:00",
+    "url": "https://www.thestreet.com/crypto/markets/spacex-adds-combined-value-of-4-major-ai-companies-in-single-day?.tsrc=rss"
+  },
+  {
+    "id": "nfc1520cab3",
+    "headline": "Nebius, CoreWeave, and Bloom Energy Lead AI Stock Gainers on Wednesday",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-12T22:15:31+00:00",
+    "url": "https://247wallst.com/investing/2026/08/12/nebius-coreweave-and-bloom-energy-lead-ai-stock-gainers-on-wednesday/?.tsrc=rss"
+  },
+  {
+    "id": "n64ccd5222d",
+    "headline": "Applied Digital vs. Microsoft: Which Technology Stock Is a Better Buy in 2026?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-12T21:27:53+00:00",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/12/applied-digital-vs-microsoft-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss"
+  },
+  {
+    "id": "n1b6448372c",
+    "headline": "CoreWeave Q2 Earnings and CDO Interview, Nebius Q2 Earnings, WhiteFiber Q2 Earnings",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-12T21:11:00+00:00",
+    "url": "https://blockspace.media/podcast/coreweave-q2-earnings-and-cdo-interview-nebius-q2-earnings-whitefiber-q2-earnings/?.tsrc=rss"
+  },
+  {
+    "id": "n2b8e413e33",
+    "headline": "Bloom Energy Says It's Now \"The Standard for AI Onsite Power.\" Here's What That Means for the Stock.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-12T18:25:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/12/bloom-energy-says-its-now-the-standard-for-ai-onsi/?.tsrc=rss"
+  },
+  {
+    "id": "ne2372382c2",
+    "headline": "Bloom Energy Skyrockets 143% YTD: Time to Buy the Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-12T18:06:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-skyrockets-143-ytd-180600314.html?.tsrc=rss"
+  },
+  {
+    "id": "n288b636c22",
+    "headline": "Vistra Q2 Earnings Beat Estimates on Pricing and Lotus, Revenues Miss",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-12T13:48:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-q2-earnings-beat-estimates-134800362.html?.tsrc=rss"
+  },
+  {
     "id": "n8cbb243747",
     "headline": "CoreWeave soars after fifth straight quarter of record revenue, raised guide",
     "source": "Yahoo Finance",
@@ -108,6 +228,16 @@
     ],
     "ts": "2026-08-11T17:48:23+00:00",
     "url": "https://www.fool.com/investing/2026/08/11/why-bloom-energy-stock-crashed-in-july/?.tsrc=rss"
+  },
+  {
+    "id": "n7331fa2781",
+    "headline": "VST Q2 Earnings Call Balances Data Center Growth With ERCOT Softness",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-11T15:41:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vst-q2-earnings-call-balances-154100202.html?.tsrc=rss"
   },
   {
     "id": "nf408b9d7ea",
@@ -250,6 +380,16 @@
     "url": "https://www.trefis.com/articles/610764/cipher-digital-delivered-early-but-its-growth-waits-on-texas/2026-08-10?.tsrc=rss"
   },
   {
+    "id": "nba48f21bc2",
+    "headline": "Vistra (VST) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-10T18:30:01+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-q2-earnings-taking-183001435.html?.tsrc=rss"
+  },
+  {
     "id": "n02ea5ce1e2",
     "headline": "Bloom Energy (BE) Expands Its Reach Into AI Manufacturing Power",
     "source": "Yahoo Finance",
@@ -358,145 +498,5 @@
     ],
     "ts": "2026-08-09T01:12:03+00:00",
     "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-wins-bigger-ai-011203516.html?.tsrc=rss"
-  },
-  {
-    "id": "n5f3c4c489b",
-    "headline": "OR Royalties Q2 Earnings Call Highlights",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-08T23:03:49+00:00",
-    "url": "https://www.marketbeat.com/instant-alerts/or-royalties-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "nda10f84a13",
-    "headline": "Realty Income Q2 Earnings Call Highlights",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-08T22:03:52+00:00",
-    "url": "https://www.marketbeat.com/instant-alerts/realty-income-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n0928cd1526",
-    "headline": "Where Does Vistra (VST) Valuation Sit After Revenue Miss And Firm Guidance?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-07T22:12:48+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/where-does-vistra-vst-valuation-221248319.html?.tsrc=rss"
-  },
-  {
-    "id": "n2bd680da8e",
-    "headline": "C3.ai vs. Applied Digital: Which Artificial Intelligence Stock Is a Better Buy in 2026?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-07T21:07:01+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/08/07/c3-ai-vs-applied-digital-which-artificial-intelligence-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "n5b6ffa8799",
-    "headline": "Vistra Corp (VST) (Q2 2026) Earnings Call Highlights: Record EBITDA Surge and Strategic Helix ...",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-07T21:05:09+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-q2-2026-210509941.html?.tsrc=rss"
-  },
-  {
-    "id": "n16993c39f8",
-    "headline": "Berkshire Hathaway earnings, CPI inflation data, & more: What to Watch",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-07T20:55:40+00:00",
-    "url": "https://finance.yahoo.com/video/berkshire-hathaway-earnings-cpi-inflation-205540844.html?.tsrc=rss"
-  },
-  {
-    "id": "n157b06efdb",
-    "headline": "S&P 500 Posts Weekly Gain as Tech Giants Surge",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-07T20:53:41+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-205341016.html?.tsrc=rss"
-  },
-  {
-    "id": "n672d2fe9c3",
-    "headline": "Here\u2019s How Much Traders See CoreWeave Stock Moving After Earnings",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-07T20:26:44+00:00",
-    "url": "https://www.investopedia.com/here-is-how-much-traders-see-coreweave-stock-moving-after-earnings-q2-fy2026-12036388?.tsrc=rss"
-  },
-  {
-    "id": "ncdc881e363",
-    "headline": "Sector Update: Energy Stocks Fall Late Afternoon",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-07T19:58:12+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-195812887.html?.tsrc=rss"
-  },
-  {
-    "id": "n8434ee7ade",
-    "headline": "Solaris Energy Infrastructure, Inc. (SEI) Reports Q2 Earnings: What Key Metrics Have to Say",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-08-07T18:00:02+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-inc-sei-180002861.html?.tsrc=rss"
-  },
-  {
-    "id": "n9c952808bb",
-    "headline": "Sector Update: Energy Stocks Decline Friday Afternoon",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-07T17:46:24+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-friday-174624121.html?.tsrc=rss"
-  },
-  {
-    "id": "n295a8460b9",
-    "headline": "This Power Stock Could Be a Big Winner From the Data Center Boom",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-07T17:25:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/07/this-power-stock-big-winner-data-center-boom/?.tsrc=rss"
-  },
-  {
-    "id": "n51d86841b4",
-    "headline": "CoreWeave's CEO Sells Company Stock Worth $28.2 Million. Here's What That Means for Investors.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-07T17:20:04+00:00",
-    "url": "https://www.fool.com/coverage/filings/2026/08/07/coreweave-s-ceo-sells-company-stock-worth-usd28-2-million-here-s-what-that-means-for-investors/?.tsrc=rss"
-  },
-  {
-    "id": "n7d9bbe3553",
-    "headline": "CoreWeave Faces a 15.5% Earnings Swing as AI Spending Gets Tested",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-07T15:39:07+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-faces-15-5-earnings-153907526.html?.tsrc=rss"
   }
 ]
