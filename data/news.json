@@ -1,5 +1,135 @@
 [
   {
+    "id": "nfabb38ebc0",
+    "headline": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-14T05:30:00+00:00",
+    "url": "https://finance.yahoo.com/m/c34b8123-cb29-3b50-9bfd-26cb6f8912d7/bleeding-edge-ai-meets.html?.tsrc=rss"
+  },
+  {
+    "id": "ncd40209847",
+    "headline": "CoreWeave\u2019s $39 billion AI bet says something bigger is happening",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-14T05:07:00+00:00",
+    "url": "https://www.thestreet.com/investing/coreweaves-39-billion-ai-bet-says-something-bigger-is-happening?.tsrc=rss"
+  },
+  {
+    "id": "naa6587142a",
+    "headline": "Bloom Energy Stock Carries A Multiple Built On Quarters It Has Outgrown",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-13T23:04:40+00:00",
+    "url": "https://www.trefis.com/articles/611358/bloom-energy-stock-carries-a-multiple-built-on-quarters-it-has-outgrown/2026-08-13?.tsrc=rss"
+  },
+  {
+    "id": "n40db85205f",
+    "headline": "CoreWeave Is Winning On Price And Racing Its Own Interest Bill",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-13T22:52:33+00:00",
+    "url": "https://www.trefis.com/articles/611369/coreweave-is-winning-on-price-and-racing-its-own-interest-bill/2026-08-13?.tsrc=rss"
+  },
+  {
+    "id": "n8ed1a8b3c6",
+    "headline": "Scandium Supply Chain Dispute Might Change The Case For Investing In Bloom Energy (BE)",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-13T21:11:17+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/scandium-supply-chain-dispute-might-211117730.html?.tsrc=rss"
+  },
+  {
+    "id": "n9e12c80d0a",
+    "headline": "These 3 companies just delivered a reality check on AI bubble fears",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-13T19:53:00+00:00",
+    "url": "https://finance.yahoo.com/video/3-companies-just-delivered-reality-195300723.html?.tsrc=rss"
+  },
+  {
+    "id": "n991023ca6e",
+    "headline": "Mad Money\u2019s Jim Cramer Says These 6 AI Stocks are Primed to Surge",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-13T19:24:19+00:00",
+    "url": "https://beincrypto.com/jim-cramer-ai-data-center-stocks/?.tsrc=rss"
+  },
+  {
+    "id": "n40dc17b502",
+    "headline": "Is Bloom Energy a Buy, Hold, or Sell After Its 1,920% Run?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-13T18:30:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/13/is-bloom-energy-a-buy-hold-or-sell-after-its-run/?.tsrc=rss"
+  },
+  {
+    "id": "nd3d71187e1",
+    "headline": "IREN Rallies 6% as Microsoft Signs Off on Horizon 1, NVIDIA Grants Exemplar Cloud Status",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-13T15:21:28+00:00",
+    "url": "https://247wallst.com/investing/2026/08/13/iren-rallies-6-as-microsoft-signs-off-on-horizon-1-nvidia-grants-exemplar-cloud-status/?.tsrc=rss"
+  },
+  {
+    "id": "n0752d56ba0",
+    "headline": "CoreWeave\u2019s Spike Hasn\u2019t Erased 3-Month Losses: Why Trusted Wall Street Pro Expects 65% Post-Spike Gains",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-13T14:28:58+00:00",
+    "url": "https://247wallst.com/investing/2026/08/13/coreweaves-spike-hasnt-erased-3-month-losses-why-trusted-wall-street-pro-expects-65-post-spike-gains/?.tsrc=rss"
+  },
+  {
+    "id": "n79f2d973cd",
+    "headline": "Solaris Energy Q2 Earnings Beat Estimates on Power Solutions Growth",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-08-13T14:15:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/solaris-energy-q2-earnings-beat-141500398.html?.tsrc=rss"
+  },
+  {
+    "id": "nfc4603eae3",
+    "headline": "The Zacks Analyst Blog Highlights Bloom Energy, Talen Energy and Plug Power",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-13T12:30:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/zacks-analyst-blog-highlights-bloom-123000984.html?.tsrc=rss"
+  },
+  {
+    "id": "n485f9b30d0",
+    "headline": "New Strong Sell Stocks for August 13th",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-13T10:13:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-august-13th-101300367.html?.tsrc=rss"
+  },
+  {
     "id": "n5a8dbdbafd",
     "headline": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally",
     "source": "Yahoo Finance",
@@ -368,135 +498,5 @@
     ],
     "ts": "2026-08-10T20:11:43+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-36-9-201143798.html?.tsrc=rss"
-  },
-  {
-    "id": "n7c3843a6a0",
-    "headline": "Cipher Digital Delivered Early, But Its Growth Waits On Texas",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-10T19:27:27+00:00",
-    "url": "https://www.trefis.com/articles/610764/cipher-digital-delivered-early-but-its-growth-waits-on-texas/2026-08-10?.tsrc=rss"
-  },
-  {
-    "id": "nba48f21bc2",
-    "headline": "Vistra (VST) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-10T18:30:01+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-q2-earnings-taking-183001435.html?.tsrc=rss"
-  },
-  {
-    "id": "n02ea5ce1e2",
-    "headline": "Bloom Energy (BE) Expands Its Reach Into AI Manufacturing Power",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-10T18:19:15+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-expands-reach-ai-181915548.html?.tsrc=rss"
-  },
-  {
-    "id": "n5c4747aa97",
-    "headline": "Is GE Vernova Stock a Buy After Its 25.2% Six-Month Rally?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-10T14:42:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stock-buy-25-144200787.html?.tsrc=rss"
-  },
-  {
-    "id": "ncea780a058",
-    "headline": "Vistra Corp (VST) Stock\u2019s Underperformance Could Open Up a Contrarian Options Trade",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-10T13:15:02+00:00",
-    "url": "https://www.barchart.com/story/news/3755907/vistra-corp-vst-stocks-underperformance-could-open-up-a-contrarian-options-trade?.tsrc=rss"
-  },
-  {
-    "id": "n45ff2fb8ad",
-    "headline": "Deployable Energy Welcomes Strategic Investment and Commercialization Collaboration with Solaris Energy Infrastructure",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-08-10T13:09:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/deployable-energy-welcomes-strategic-investment-130900373.html?.tsrc=rss"
-  },
-  {
-    "id": "n1920fc2f2b",
-    "headline": "The Part of the AI Power Story Everyone's Ignoring -- and the Stock Cashing in on It",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-10T10:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/10/the-part-of-the-ai-power-story-everyones-ignoring/?.tsrc=rss"
-  },
-  {
-    "id": "n604616929a",
-    "headline": "Vistra supports Texas data center pause, execs say",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-10T10:19:41+00:00",
-    "url": "https://www.utilitydive.com/news/vistra-texas-data-center-pause-comanche-amazon-earnings/827434/?.tsrc=rss"
-  },
-  {
-    "id": "nea04be98c5",
-    "headline": "Core Scientific (CORZ) Shareholders Rejected a $9B Sale. Does the AMD Deal Vindicate Them?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-09T20:33:04+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-corz-shareholders-rejected-203304503.html?.tsrc=rss"
-  },
-  {
-    "id": "n85e8a304bc",
-    "headline": "IREN (IREN) vs. CORZ and APLD: Can Its AI Cloud Buildout Turn Contracted Demand Into Profits?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-09T18:24:31+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/iren-iren-vs-corz-apld-182431338.html?.tsrc=rss"
-  },
-  {
-    "id": "n9a80c39821",
-    "headline": "Vistra Q2 Earnings Call Highlights",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-09T15:04:18+00:00",
-    "url": "https://www.marketbeat.com/instant-alerts/vistra-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "nec0faad44d",
-    "headline": "Solaris Energy Infrastructure Q2 Earnings Call Highlights",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-08-09T05:03:52+00:00",
-    "url": "https://www.marketbeat.com/instant-alerts/solaris-energy-infrastructure-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "nd73b440d26",
-    "headline": "CoreWeave (CRWV) Wins Bigger AI Trading Capacity Deal As Finance Demand Deepens",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-09T01:12:03+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-wins-bigger-ai-011203516.html?.tsrc=rss"
   }
 ]
