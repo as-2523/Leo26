@@ -1,96 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-mngvf6",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "Australia A Women",
-      "startTimeUtc": "2026-09-12T12:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "Australia A Women tour of India 2026",
-      "seriesStartUtc": "2026-09-12T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-mpl4lx",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "Australia A Women",
-      "startTimeUtc": "2026-09-15T12:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "Australia A Women tour of India 2026",
-      "seriesStartUtc": "2026-09-12T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-mqzyqf",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "Australia A Women",
-      "startTimeUtc": "2026-09-17T12:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "Australia A Women tour of India 2026",
-      "seriesStartUtc": "2026-09-12T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-16zby1p",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "Australia A Women",
-      "startTimeUtc": "2026-09-20T08:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Australia A Women tour of India 2026",
-      "seriesStartUtc": "2026-09-12T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-100xt9c",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "Australia A Women",
-      "startTimeUtc": "2026-09-23T03:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Australia A Women tour of India 2026",
-      "seriesStartUtc": "2026-09-12T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-7pn1eq",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "Australia A Women",
-      "startTimeUtc": "2026-09-25T08:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Australia A Women tour of India 2026",
-      "seriesStartUtc": "2026-09-12T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-1y26ym4",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -103,21 +13,6 @@
       "seriesStartUtc": "2026-09-27T00:00:00.000Z",
       "seriesEndUtc": "2026-10-17T00:00:00.000Z",
       "venue": "Greenfield International Stadium, Thiruvananthapuram",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-m45jom",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "Australia A Women",
-      "startTimeUtc": "2026-09-29T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Australia A Women tour of India 2026",
-      "seriesStartUtc": "2026-09-12T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-02T00:00:00.000Z",
-      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
       "source": "cricapi"
     },
     {
@@ -647,9 +542,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-08-13T04:51:25.993Z",
-    "windowStart": "2026-08-13T00:00:00.000Z",
-    "windowEnd": "2027-02-13T00:00:00.000Z",
+    "generatedAt": "2026-08-15T03:39:47.351Z",
+    "windowStart": "2026-08-15T00:00:00.000Z",
+    "windowEnd": "2027-02-15T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -665,7 +560,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 45
+        "count": 38
       },
       {
         "id": "manual",
