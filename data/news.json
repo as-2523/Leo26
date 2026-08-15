@@ -1,5 +1,145 @@
 [
   {
+    "id": "n6ddfa6b833",
+    "headline": "Vistra (VST) Is Not Just a Power Producer, But an AI Infrastructure Bet",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-15T00:26:58+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/vistra-vst-not-just-power-002658669.html?.tsrc=rss"
+  },
+  {
+    "id": "n9c1fe76376",
+    "headline": "Applied Digital (APLD) Stock Trades Up, Here Is Why",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-14T23:25:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-stock-trades-232500526.html?.tsrc=rss"
+  },
+  {
+    "id": "n2c16a485a0",
+    "headline": "Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walmart, Target Due",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-14T21:04:48+00:00",
+    "url": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-market.html?.tsrc=rss"
+  },
+  {
+    "id": "n3adcb09e1d",
+    "headline": "1 of Wall Street\u2019s Favorite Stocks for Long-Term Investors and 2 Facing Challenges",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-14T20:21:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-202100051.html?.tsrc=rss"
+  },
+  {
+    "id": "ne70a96e06a",
+    "headline": "CoreWeave (CRWV) Stock May Trade Below Fair Value On AI Price Hike",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-14T17:10:08+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-stock-may-trade-171008502.html?.tsrc=rss"
+  },
+  {
+    "id": "nfcc5715ea6",
+    "headline": "Bloom Energy Stock Has Exploded. Here\u2019s What Could Drive It Even Higher.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-14T17:00:13+00:00",
+    "url": "https://247wallst.com/investing/2026/08/14/bloom-energy-stock-has-exploded-heres-what-could-drive-it-even-higher/?.tsrc=rss"
+  },
+  {
+    "id": "naecf79957e",
+    "headline": "Earnings Estimates Rising for Bloom Energy (BE): Will It Gain?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-14T16:20:02+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-estimates-rising-bloom-energy-162002831.html?.tsrc=rss"
+  },
+  {
+    "id": "n536f4507ae",
+    "headline": "Coreweave Stock Is Back in Rally Mode. How CRWV Can Reclaim Its $153.20 High.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-14T16:00:44+00:00",
+    "url": "https://www.barchart.com/story/news/3855210/coreweave-stock-is-back-in-rally-mode-how-crwv-can-reclaim-its-153-20-high?.tsrc=rss"
+  },
+  {
+    "id": "n6dbf44b4b3",
+    "headline": "Bloom Energy vs. Oklo: Which AI-Power Stock Is the Smarter Buy Now?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-14T15:50:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/14/bloom-energy-vs-oklo-which-ai-power-stock-is-the-s/?.tsrc=rss"
+  },
+  {
+    "id": "nfe1d0a0898",
+    "headline": "I Think You Missed CoreWeave's Zero-Cost-Basis Engine",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-14T15:44:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/14/i-think-you-missed-coreweaves-zero-cost-basis-engi/?.tsrc=rss"
+  },
+  {
+    "id": "n97bc52a37a",
+    "headline": "104 Billion Reasons to Buy CoreWeave Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-14T13:15:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/14/104-billion-reasons-to-buy-coreweave-stock/?.tsrc=rss"
+  },
+  {
+    "id": "n12779be925",
+    "headline": "Vistra (VST) Q2 2026 Earnings Call Transcript",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-14T13:14:21+00:00",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/vistra-vst-q2-2026-earnings-call-transcript/?.tsrc=rss"
+  },
+  {
+    "id": "n627856ff80",
+    "headline": "The 5 Most Interesting Analyst Questions From Solaris Energy Infrastructure\u2019s Q2 Earnings Call",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-08-14T12:53:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-125300353.html?.tsrc=rss"
+  },
+  {
+    "id": "n4e950d5cac",
+    "headline": "Jim Chanos Warns CoreWeave's AI Moat Depends On Nvidia, Calls Neoclouds \u2018Financial Conduits, Not Technology Companies\u2019",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-14T12:31:49+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/jim-chanos-nvidia-nvda-controls-coreweave-crwv-neocloud-moat/cZotKunRJ0I?.tsrc=rss"
+  },
+  {
     "id": "nfabb38ebc0",
     "headline": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
     "source": "Yahoo Finance",
@@ -358,145 +498,5 @@
     ],
     "ts": "2026-08-11T17:48:23+00:00",
     "url": "https://www.fool.com/investing/2026/08/11/why-bloom-energy-stock-crashed-in-july/?.tsrc=rss"
-  },
-  {
-    "id": "n7331fa2781",
-    "headline": "VST Q2 Earnings Call Balances Data Center Growth With ERCOT Softness",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-11T15:41:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vst-q2-earnings-call-balances-154100202.html?.tsrc=rss"
-  },
-  {
-    "id": "nf408b9d7ea",
-    "headline": "Riot Platforms Soars 17% on $9.1B Anthropic Data Center Deal; AI Infrastructure Peers IREN, Applied Digital, TeraWulf Head Higher",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-11T13:05:37+00:00",
-    "url": "https://247wallst.com/investing/2026/08/11/riot-platforms-soars-17-on-9-1b-anthropic-data-center-deal-ai-infrastructure-peers-iren-applied-digital-terawulf-head-higher/?.tsrc=rss"
-  },
-  {
-    "id": "na47116a5d0",
-    "headline": "Bloom Energy vs. GE Vernova: Which AI Power Stock Deserves Your $5,000 Today?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-11T11:10:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/11/bloom-energy-vs-ge-vernova-which-ai-power-stock-de/?.tsrc=rss"
-  },
-  {
-    "id": "n33cef13ba3",
-    "headline": "CoreWeave Earnings Will Test Its Speedrun to AI Hyperscale",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-11T06:00:00+00:00",
-    "url": "https://finance.yahoo.com/m/48aa52e4-83ba-370f-a920-f4f43486ddba/coreweave-earnings-will-test.html?.tsrc=rss"
-  },
-  {
-    "id": "n9f41b73adf",
-    "headline": "Bloom Energy (BE) Deepens AI Power Footprint In Fremont",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-11T05:41:55+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-deepens-ai-power-054155542.html?.tsrc=rss"
-  },
-  {
-    "id": "n90aef9dcc5",
-    "headline": "Jim Cramer Picks CoreWeave (CRWV) as the Better Buy Over IREN",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-11T05:04:43+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-picks-coreweave-crwv-050443784.html?.tsrc=rss"
-  },
-  {
-    "id": "na7d22b5296",
-    "headline": "Best Growth Stocks to Buy for August 11th",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-11T04:39:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/best-growth-stocks-buy-august-043900488.html?.tsrc=rss"
-  },
-  {
-    "id": "n62ccfbdd05",
-    "headline": "Q2 Earnings Season Standouts: 3 Companies Raising Guidance",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-10T22:30:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-standouts-3-223000265.html?.tsrc=rss"
-  },
-  {
-    "id": "nb825c3aa00",
-    "headline": "Applied Digital (APLD) Stock Looks Overvalued Despite 294% Returns And AI Growth",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-10T22:11:11+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-stock-looks-221111835.html?.tsrc=rss"
-  },
-  {
-    "id": "n34294f5180",
-    "headline": "CoreWeave Investors Face a Growing Problem",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-10T21:38:47+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-investors-face-growing-problem-213847404.html?.tsrc=rss"
-  },
-  {
-    "id": "n543646dc55",
-    "headline": "Applied Digital (APLD), What Is Behind The Fresh Attention On The Stock?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-10T21:10:57+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-behind-fresh-211057009.html?.tsrc=rss"
-  },
-  {
-    "id": "neb4aeec0ba",
-    "headline": "Earnings live updates: Plug Power stock jumps on improving margins, raised revenue guidance",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-10T20:23:02+00:00",
-    "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-plug-power-stock-jumps-on-improving-margins-raised-revenue-guidance-202302733.html?.tsrc=rss"
-  },
-  {
-    "id": "n52030d7780",
-    "headline": "What\u2019s Driving TeraWulf (WULF) Stock, and Are Its Peers Moving Too?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-10T20:19:59+00:00",
-    "url": "https://247wallst.com/investing/2026/08/10/whats-driving-terawulf-wulf-stock-and-are-its-peers-moving-too/?.tsrc=rss"
-  },
-  {
-    "id": "n80d99c000f",
-    "headline": "Cathie Wood Invests $36.9 Million in Surging Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-10T20:11:43+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-36-9-201143798.html?.tsrc=rss"
   }
 ]
