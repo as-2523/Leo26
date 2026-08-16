@@ -1,5 +1,35 @@
 [
   {
+    "id": "nc14fbdbe32",
+    "headline": "Nvidia Is Looking to Own Another Layer of the AI Ecosystem",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-15T14:36:02+00:00",
+    "url": "https://247wallst.com/investing/2026/08/15/nvidia-is-looking-to-own-another-layer-of-the-ai-ecosystem/?.tsrc=rss"
+  },
+  {
+    "id": "n56f7fab706",
+    "headline": "Nebius Just Gave Bloom Energy a Big Boost. What It Means for BE Stock.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-15T14:00:02+00:00",
+    "url": "https://www.barchart.com/story/news/3869220/nebius-just-gave-bloom-energy-a-big-boost-what-it-means-for-be-stock?.tsrc=rss"
+  },
+  {
+    "id": "nc79c8b9f68",
+    "headline": "Why We\u2019re Betting $10,000 on This Supplier Behind the SpaceX Data Center Boom",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-08-15T13:31:34+00:00",
+    "url": "https://247wallst.com/investing/2026/08/15/why-were-betting-10000-on-this-supplier-behind-the-spacex-data-center-boom/?.tsrc=rss"
+  },
+  {
     "id": "n6ddfa6b833",
     "headline": "Vistra (VST) Is Not Just a Power Producer, But an AI Infrastructure Bet",
     "source": "Yahoo Finance",
@@ -8,6 +38,16 @@
     ],
     "ts": "2026-08-15T00:26:58+00:00",
     "url": "https://finance.yahoo.com/energy/articles/vistra-vst-not-just-power-002658669.html?.tsrc=rss"
+  },
+  {
+    "id": "n86091f2020",
+    "headline": "Jim Cramer Reviews NVIDIA (NVDA) and Data Center Demand",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-14T23:58:46+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-reviews-nvidia-nvda-235846609.html?.tsrc=rss"
   },
   {
     "id": "n9c1fe76376",
@@ -130,6 +170,16 @@
     "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-125300353.html?.tsrc=rss"
   },
   {
+    "id": "n40304c18a0",
+    "headline": "This Stock Has Already Turned $10,000 Into $161,250. Here's Why I Still Want to Buy It.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-14T12:35:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/14/this-stock-has-already-turned-10000-into-161250-he/?.tsrc=rss"
+  },
+  {
     "id": "n4e950d5cac",
     "headline": "Jim Chanos Warns CoreWeave's AI Moat Depends On Nvidia, Calls Neoclouds \u2018Financial Conduits, Not Technology Companies\u2019",
     "source": "Yahoo Finance",
@@ -220,6 +270,16 @@
     "url": "https://www.fool.com/investing/2026/08/13/is-bloom-energy-a-buy-hold-or-sell-after-its-run/?.tsrc=rss"
   },
   {
+    "id": "n598c7a9e94",
+    "headline": "Terrestrial Energy\u2019s Lifetime Revenue Up 29%, Advancing in Texas A&M, DOE Fuel Program \u2013 Quarterly Update Report",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-13T17:17:15+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/terrestrial-energy-lifetime-revenue-29-171715432.html?.tsrc=rss"
+  },
+  {
     "id": "nd3d71187e1",
     "headline": "IREN Rallies 6% as Microsoft Signs Off on Horizon 1, NVIDIA Grants Exemplar Cloud Status",
     "source": "Yahoo Finance",
@@ -248,6 +308,16 @@
     ],
     "ts": "2026-08-13T14:15:00+00:00",
     "url": "https://finance.yahoo.com/energy/articles/solaris-energy-q2-earnings-beat-141500398.html?.tsrc=rss"
+  },
+  {
+    "id": "n7fc1b7f75b",
+    "headline": "Can GE Vernova's Strong Q2 Results Fuel Further Earnings Growth?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-13T12:50:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernovas-strong-q2-results-125000036.html?.tsrc=rss"
   },
   {
     "id": "nfc4603eae3",
@@ -428,75 +498,5 @@
     ],
     "ts": "2026-08-12T05:00:33+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-inc-crwv-q2-2026-050033531.html?.tsrc=rss"
-  },
-  {
-    "id": "n8c6fc6242e",
-    "headline": "CoreWeave Says Data Center Moratoriums Won\u2019t Stop AI Expansion: \u2018They Are Going to Impact Where This Infrastructure Gets Built\u2019",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-12T04:37:29+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-says-data-center-moratoriums-043729174.html?.tsrc=rss"
-  },
-  {
-    "id": "n13315ebe28",
-    "headline": "Solaris Energy Infrastructure (SEI) Earnings And Dividend Update Put Valuation Back In Focus",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-08-12T03:22:06+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-sei-earnings-032206070.html?.tsrc=rss"
-  },
-  {
-    "id": "n0a11381f89",
-    "headline": "CoreWeave\u2019s Record Q2 Supercharges Nebius Stock Ahead Of Earnings \u2014 What Does Wall Street Expect Amid Cloud Boom?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-12T01:50:27+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/core-weave-s-record-q2-supercharges-nebius-stock-ahead-of-earnings-what-does-wall-street-expect-amid-cloud-boom/cZoFnh8RJXr?.tsrc=rss"
-  },
-  {
-    "id": "n08f2d704b2",
-    "headline": "Bloom Energy Stock Is Up 153% This Year. Can the Rally Continue?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-11T20:25:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/11/bloom-energy-stock-is-up-153-this-year-can-the-ral/?.tsrc=rss"
-  },
-  {
-    "id": "nf7d6eb8ec0",
-    "headline": "Solaris Energy Infrastructure (SEI) Is Up 5.5% After Microreactor Investment And Dividend Announcement - What's Changed",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-08-11T19:15:30+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/solaris-energy-infrastructure-sei-5-191530127.html?.tsrc=rss"
-  },
-  {
-    "id": "nf4943a9510",
-    "headline": "Vistra (VST) Just Grew Ebitda 30%, So Why Did Profit Fall?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-11T18:52:14+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/vistra-vst-just-grew-ebitda-185214479.html?.tsrc=rss"
-  },
-  {
-    "id": "n881cdf3b6d",
-    "headline": "Why Bloom Energy Stock Crashed in July",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-11T17:48:23+00:00",
-    "url": "https://www.fool.com/investing/2026/08/11/why-bloom-energy-stock-crashed-in-july/?.tsrc=rss"
   }
 ]
