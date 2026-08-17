@@ -376,21 +376,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-1oqiqi5",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Sri Lanka",
-      "startTimeUtc": "2026-12-13T08:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Sri Lanka tour of India, 2026",
-      "seriesStartUtc": "2026-12-13T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "Arun Jaitley Stadium, Delhi",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-r0nsbx",
       "teamId": "india-a-women",
       "teamName": "India A Women",
@@ -406,21 +391,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-1hs4lps",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Sri Lanka",
-      "startTimeUtc": "2026-12-16T08:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Sri Lanka tour of India, 2026",
-      "seriesStartUtc": "2026-12-13T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "M.Chinnaswamy Stadium, Bengaluru",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-1qs2xo2",
       "teamId": "india-a-women",
       "teamName": "India A Women",
@@ -433,66 +403,6 @@
       "seriesStartUtc": "2026-11-30T00:00:00.000Z",
       "seriesEndUtc": "2026-12-22T00:00:00.000Z",
       "venue": "Dr DY Patil Sports Academy, Navi Mumbai",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1atqgxf",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Sri Lanka",
-      "startTimeUtc": "2026-12-19T08:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Sri Lanka tour of India, 2026",
-      "seriesStartUtc": "2026-12-13T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "Narendra Modi Stadium, Ahmedabad",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1gzsx9d",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Sri Lanka",
-      "startTimeUtc": "2026-12-22T13:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "Sri Lanka tour of India, 2026",
-      "seriesStartUtc": "2026-12-13T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "Niranjan Shah Stadium, Khandheri, Rajkot",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1h17rdv",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Sri Lanka",
-      "startTimeUtc": "2026-12-24T13:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "Sri Lanka tour of India, 2026",
-      "seriesStartUtc": "2026-12-13T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "Barabati Stadium, Cuttack",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1h3c0km",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Sri Lanka",
-      "startTimeUtc": "2026-12-27T13:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "Sri Lanka tour of India, 2026",
-      "seriesStartUtc": "2026-12-13T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "Maharashtra Cricket Association Stadium, Pune",
       "source": "cricapi"
     },
     {
@@ -542,9 +452,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-08-15T03:39:47.351Z",
-    "windowStart": "2026-08-15T00:00:00.000Z",
-    "windowEnd": "2027-02-15T00:00:00.000Z",
+    "generatedAt": "2026-08-17T03:51:05.017Z",
+    "windowStart": "2026-08-17T00:00:00.000Z",
+    "windowEnd": "2027-02-17T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -560,7 +470,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 38
+        "count": 32
       },
       {
         "id": "manual",
@@ -570,6 +480,12 @@
     ],
     "usedFallback": false,
     "expectedSeries": [
+      {
+        "name": "India tour of Sri Lanka — 2 Tests (World Test Championship)",
+        "startUtc": "2026-08-01T00:00:00.000Z",
+        "endUtc": "2026-08-31T00:00:00.000Z",
+        "sourceUrl": "https://www.olympics.com/en/news/indian-cricket-team-2026-calendar-schedule-dates"
+      },
       {
         "name": "England Women U19 tour of India 2026",
         "startUtc": "2026-11-26T00:00:00.000Z",
