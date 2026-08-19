@@ -452,9 +452,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-08-17T03:51:05.017Z",
-    "windowStart": "2026-08-17T00:00:00.000Z",
-    "windowEnd": "2027-02-17T00:00:00.000Z",
+    "generatedAt": "2026-08-19T03:47:09.418Z",
+    "windowStart": "2026-08-19T00:00:00.000Z",
+    "windowEnd": "2027-02-19T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -485,12 +485,6 @@
         "startUtc": "2026-08-01T00:00:00.000Z",
         "endUtc": "2026-08-31T00:00:00.000Z",
         "sourceUrl": "https://www.olympics.com/en/news/indian-cricket-team-2026-calendar-schedule-dates"
-      },
-      {
-        "name": "England Women U19 tour of India 2026",
-        "startUtc": "2026-11-26T00:00:00.000Z",
-        "endUtc": "2026-12-06T00:00:00.000Z",
-        "sourceUrl": "https://www.espncricinfo.com/search?query=England%20Women%20U19%20tour%20of%20India%202026"
       }
     ]
   }
