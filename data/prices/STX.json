@@ -1,19 +1,11 @@
 {
   "ticker": "STX",
-  "current_price": 994.79,
-  "prev_close": 973.44,
-  "day_change_pct": 2.19,
+  "current_price": 903.68,
+  "prev_close": 994.79,
+  "day_change_pct": -9.16,
   "week_52_high": 1145.0,
   "week_52_low": 152.5,
   "history": [
-    {
-      "date": "2026-04-09",
-      "open": 503.6409,
-      "high": 508.3475,
-      "low": 492.8486,
-      "close": 500.4132,
-      "volume": 3092200
-    },
     {
       "date": "2026-04-10",
       "open": 504.3104,
@@ -720,13 +712,21 @@
     },
     {
       "date": "2026-08-17",
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "volume": 4322235
+      "open": 990.33,
+      "high": 1013.99,
+      "low": 978.63,
+      "close": 994.79,
+      "volume": 4330500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 929.5,
+      "high": 961.27,
+      "low": 898.68,
+      "close": 903.68,
+      "volume": 4594700
     }
   ],
-  "as_of": "2026-08-18T07:20:26.811165+00:00",
+  "as_of": "2026-08-19T07:21:13.843644+00:00",
   "stale": false
 }

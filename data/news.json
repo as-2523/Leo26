@@ -1,5 +1,115 @@
 [
   {
+    "id": "nb58e27a301",
+    "headline": "HUT Stock Heads For 4th Week Of Declines: Why This Analyst Thinks Hut 8 Is a Buy",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-19T03:45:01+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/hut-stock-heads-for-4th-week-of-declines-why-this-analyst-thinks-hut-8-is-a-buy/cZYd216RJkI?.tsrc=rss"
+  },
+  {
+    "id": "n3e5f7565b0",
+    "headline": "David Tepper Just Made a $107 Million Bet on Top AI Stock. George Soros Is Holding Puts Against It.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-19T03:19:09+00:00",
+    "url": "https://247wallst.com/investing/2026/08/18/david-tepper-just-made-a-107-million-bet-on-top-ai-stock-george-soros-is-holding-puts-against-it/?.tsrc=rss"
+  },
+  {
+    "id": "n6f189e58de",
+    "headline": "5 Energy Stocks Cashing In On The New Energy Crunch",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-19T00:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-cashing-energy-000000545.html?.tsrc=rss"
+  },
+  {
+    "id": "nb6be036ebb",
+    "headline": "CoreWeave (CRWV) Q2 2026 Earnings Call Transcript",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-18T22:44:15+00:00",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/18/coreweave-crwv-q2-2026-earnings-call-transcript/?.tsrc=rss"
+  },
+  {
+    "id": "nf9cf1d2fd6",
+    "headline": "Stock Market Today, Aug. 18: CoreWeave Falls as Debt-Financing Concerns and Capital Spending Pressures Rise With Interest Rates",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-18T21:24:29+00:00",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/08/18/stock-market-today-aug-18-coreweave-falls-as-debt-financing-concerns-and-capital-spending-pressures-rise-with-interest-rates/?.tsrc=rss"
+  },
+  {
+    "id": "n6a4f66391e",
+    "headline": "Can Applied Digital\u2019s (APLD) Debt-Funded AI Pivot Strengthen Its Story or Strain Flexibility?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-18T21:10:39+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-apld-debt-funded-211039990.html?.tsrc=rss"
+  },
+  {
+    "id": "n2146153299",
+    "headline": "Why CoreWeave Stock Is Down 11.8%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-18T18:35:02+00:00",
+    "url": "https://www.fool.com/investing/2026/08/18/why-coreweave-stock-is-down-11/?.tsrc=rss"
+  },
+  {
+    "id": "neb62957986",
+    "headline": "Neocloud Stocks Plummet on Rising Overspend Fears. CoreWeave Down 7%, Nebius Down 5%, Terawulf Down 6%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-18T16:55:17+00:00",
+    "url": "https://247wallst.com/investing/2026/08/18/neocloud-stocks-plummet-on-rising-overspend-fears-coreweave-down-7-nebius-down-5-terawulf-down-6/?.tsrc=rss"
+  },
+  {
+    "id": "n599009f136",
+    "headline": "Plug Power Falls 5%, Bloom Energy Sinks 8% With the 10-Year Yield Near a 52-Week High",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-18T14:35:08+00:00",
+    "url": "https://247wallst.com/investing/2026/08/18/plug-power-falls-5-bloom-energy-sinks-8-with-the-10-year-yield-near-a-52-week-high/?.tsrc=rss"
+  },
+  {
+    "id": "n91d9090894",
+    "headline": "Solaris Energy Infrastructure (SEI): Buy, Sell, or Hold Post Q2 Earnings?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-08-18T12:29:33+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-sei-buy-122933118.html?.tsrc=rss"
+  },
+  {
+    "id": "ndc4df581a8",
+    "headline": "If You Invested $2,000 in Bloom Energy at Its 52-Week Low Here's How Much You'd Have Now",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-18T12:00:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/18/if-you-invested-2000-in-bloom-energy-at-its-52-wee/?.tsrc=rss"
+  },
+  {
     "id": "n09d2b60435",
     "headline": "CRWV vs NBIS vs IREN: Which Neocloud Operator To Bet On Right Now?",
     "source": "Yahoo Finance",
@@ -388,115 +498,5 @@
     ],
     "ts": "2026-08-14T05:30:00+00:00",
     "url": "https://finance.yahoo.com/m/c34b8123-cb29-3b50-9bfd-26cb6f8912d7/bleeding-edge-ai-meets.html?.tsrc=rss"
-  },
-  {
-    "id": "ncd40209847",
-    "headline": "CoreWeave\u2019s $39 billion AI bet says something bigger is happening",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-14T05:07:00+00:00",
-    "url": "https://www.thestreet.com/investing/coreweaves-39-billion-ai-bet-says-something-bigger-is-happening?.tsrc=rss"
-  },
-  {
-    "id": "naa6587142a",
-    "headline": "Bloom Energy Stock Carries A Multiple Built On Quarters It Has Outgrown",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-13T23:04:40+00:00",
-    "url": "https://www.trefis.com/articles/611358/bloom-energy-stock-carries-a-multiple-built-on-quarters-it-has-outgrown/2026-08-13?.tsrc=rss"
-  },
-  {
-    "id": "n40db85205f",
-    "headline": "CoreWeave Is Winning On Price And Racing Its Own Interest Bill",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-13T22:52:33+00:00",
-    "url": "https://www.trefis.com/articles/611369/coreweave-is-winning-on-price-and-racing-its-own-interest-bill/2026-08-13?.tsrc=rss"
-  },
-  {
-    "id": "n8ed1a8b3c6",
-    "headline": "Scandium Supply Chain Dispute Might Change The Case For Investing In Bloom Energy (BE)",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-13T21:11:17+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/scandium-supply-chain-dispute-might-211117730.html?.tsrc=rss"
-  },
-  {
-    "id": "n9e12c80d0a",
-    "headline": "These 3 companies just delivered a reality check on AI bubble fears",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-13T19:53:00+00:00",
-    "url": "https://finance.yahoo.com/video/3-companies-just-delivered-reality-195300723.html?.tsrc=rss"
-  },
-  {
-    "id": "n991023ca6e",
-    "headline": "Mad Money\u2019s Jim Cramer Says These 6 AI Stocks are Primed to Surge",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-13T19:24:19+00:00",
-    "url": "https://beincrypto.com/jim-cramer-ai-data-center-stocks/?.tsrc=rss"
-  },
-  {
-    "id": "n40dc17b502",
-    "headline": "Is Bloom Energy a Buy, Hold, or Sell After Its 1,920% Run?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-13T18:30:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/13/is-bloom-energy-a-buy-hold-or-sell-after-its-run/?.tsrc=rss"
-  },
-  {
-    "id": "n598c7a9e94",
-    "headline": "Terrestrial Energy\u2019s Lifetime Revenue Up 29%, Advancing in Texas A&M, DOE Fuel Program \u2013 Quarterly Update Report",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-13T17:17:15+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/terrestrial-energy-lifetime-revenue-29-171715432.html?.tsrc=rss"
-  },
-  {
-    "id": "nd3d71187e1",
-    "headline": "IREN Rallies 6% as Microsoft Signs Off on Horizon 1, NVIDIA Grants Exemplar Cloud Status",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-13T15:21:28+00:00",
-    "url": "https://247wallst.com/investing/2026/08/13/iren-rallies-6-as-microsoft-signs-off-on-horizon-1-nvidia-grants-exemplar-cloud-status/?.tsrc=rss"
-  },
-  {
-    "id": "n0752d56ba0",
-    "headline": "CoreWeave\u2019s Spike Hasn\u2019t Erased 3-Month Losses: Why Trusted Wall Street Pro Expects 65% Post-Spike Gains",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-13T14:28:58+00:00",
-    "url": "https://247wallst.com/investing/2026/08/13/coreweaves-spike-hasnt-erased-3-month-losses-why-trusted-wall-street-pro-expects-65-post-spike-gains/?.tsrc=rss"
-  },
-  {
-    "id": "n79f2d973cd",
-    "headline": "Solaris Energy Q2 Earnings Beat Estimates on Power Solutions Growth",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-08-13T14:15:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/solaris-energy-q2-earnings-beat-141500398.html?.tsrc=rss"
   }
 ]

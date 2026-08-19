@@ -1,19 +1,11 @@
 {
   "ticker": "KRC",
-  "current_price": 36.03,
-  "prev_close": 36.31,
-  "day_change_pct": -0.77,
+  "current_price": 36.16,
+  "prev_close": 36.03,
+  "day_change_pct": 0.36,
   "week_52_high": 45.03,
   "week_52_low": 27.36,
   "history": [
-    {
-      "date": "2026-04-09",
-      "open": 27.695,
-      "high": 28.1978,
-      "low": 26.9851,
-      "close": 27.3302,
-      "volume": 3111600
-    },
     {
       "date": "2026-04-10",
       "open": 27.3499,
@@ -720,13 +712,21 @@
     },
     {
       "date": "2026-08-17",
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "volume": 1040482
+      "open": 36.27,
+      "high": 36.68,
+      "low": 35.65,
+      "close": 36.03,
+      "volume": 1388800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 36.07,
+      "high": 36.5,
+      "low": 35.78,
+      "close": 36.16,
+      "volume": 1196500
     }
   ],
-  "as_of": "2026-08-18T07:20:32.337324+00:00",
+  "as_of": "2026-08-19T07:21:18.461346+00:00",
   "stale": false
 }

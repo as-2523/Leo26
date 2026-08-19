@@ -1,19 +1,11 @@
 {
   "ticker": "BW",
-  "current_price": 9.92,
-  "prev_close": 10.29,
-  "day_change_pct": -3.6,
+  "current_price": 9.14,
+  "prev_close": 9.92,
+  "day_change_pct": -7.86,
   "week_52_high": 22.03,
   "week_52_low": 1.4,
   "history": [
-    {
-      "date": "2026-04-09",
-      "open": 17.01,
-      "high": 18.18,
-      "low": 17.01,
-      "close": 18.02,
-      "volume": 2970100
-    },
     {
       "date": "2026-04-10",
       "open": 18.22,
@@ -567,22 +559,6 @@
       "volume": 2670100
     },
     {
-      "date": "2026-07-21",
-      "open": 10.68,
-      "high": 10.86,
-      "low": 10.505,
-      "close": 10.86,
-      "volume": 1770600
-    },
-    {
-      "date": "2026-07-22",
-      "open": 10.53,
-      "high": 10.94,
-      "low": 10.53,
-      "close": 10.69,
-      "volume": 1842500
-    },
-    {
       "date": "2026-07-23",
       "open": 10.58,
       "high": 11.11,
@@ -720,13 +696,21 @@
     },
     {
       "date": "2026-08-17",
-      "open": NaN,
-      "high": NaN,
-      "low": NaN,
-      "close": NaN,
-      "volume": 4497777
+      "open": 10.35,
+      "high": 10.469,
+      "low": 9.78,
+      "close": 9.92,
+      "volume": 4512000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.6,
+      "high": 9.76,
+      "low": 9.015,
+      "close": 9.14,
+      "volume": 5232200
     }
   ],
-  "as_of": "2026-08-18T07:20:28.748564+00:00",
+  "as_of": "2026-08-19T07:21:15.499475+00:00",
   "stale": false
 }
