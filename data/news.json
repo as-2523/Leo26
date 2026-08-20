@@ -1,5 +1,95 @@
 [
   {
+    "id": "nb25b9ca5c9",
+    "headline": "AppLovin vs. CoreWeave: What Recent Revenue Trends Tell Investors",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-20T04:43:26+00:00",
+    "url": "https://www.fool.com/coverage/charts/2026/08/20/applovin-vs-coreweave-what-recent-revenue-trends-tell-investors/?.tsrc=rss"
+  },
+  {
+    "id": "n077eeb24d7",
+    "headline": "CoreWeave Drops 12%, but Truist Still Sees 66% Upside",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-19T21:50:16+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-drops-12-truist-still-215016559.html?.tsrc=rss"
+  },
+  {
+    "id": "n73f9995505",
+    "headline": "Pennsylvania Sets New Data-Center Rules\u2014and Some Energy Companies Can Actually Benefit",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-19T21:19:00+00:00",
+    "url": "https://finance.yahoo.com/m/dbbd7f1e-ac63-383e-99e2-57f249f7ff11/pennsylvania-sets-new.html?.tsrc=rss"
+  },
+  {
+    "id": "nc57389f783",
+    "headline": "Is Bloom Energy (BE) Power Connect A Faster Route Into AI Data Centers?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-19T20:09:08+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-power-connect-faster-200908309.html?.tsrc=rss"
+  },
+  {
+    "id": "n1d11700629",
+    "headline": "Bloom Energy's New Product Just Made Its Biggest AI Advantage Even Stronger. Here's What Investors Need to Know.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-19T19:50:01+00:00",
+    "url": "https://www.fool.com/investing/2026/08/19/bloom-energy-s-new-product-just-made-its-biggest-ai-advantage-even-stronger-here-s-what-investors-need-to-know/?.tsrc=rss"
+  },
+  {
+    "id": "n8113fe0da0",
+    "headline": "Can Investing in Bloom Energy Stock Double Your Money?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-19T17:31:17+00:00",
+    "url": "https://www.fool.com/investing/2026/08/19/can-investing-in-bloom-energy-stock-double-your-mo/?.tsrc=rss"
+  },
+  {
+    "id": "ne18dd57cc5",
+    "headline": "Nebius Dives 14% and CoreWeave Falls 4% Before Rebounding. Neocloud Stocks Face Volatility as the Nasdaq Whipsaws.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-19T16:45:36+00:00",
+    "url": "https://247wallst.com/investing/2026/08/19/nebius-dives-14-and-coreweave-falls-4-before-rebounding-neocloud-stocks-face-volatility-as-the-nasdaq-whipsaws/?.tsrc=rss"
+  },
+  {
+    "id": "nfdf87f554b",
+    "headline": "Famous Hedge Fund Tiger Global Opened a New Position in This 1 AI Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-19T16:33:06+00:00",
+    "url": "https://www.barchart.com/story/news/3933476/famous-hedge-fund-tiger-global-opened-a-new-position-in-this-1-ai-stock?.tsrc=rss"
+  },
+  {
+    "id": "n051fcc783c",
+    "headline": "Bloom Energy's Fuel Cell Technology: Can it Be a Game Changer?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-19T16:32:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/bloom-energys-fuel-cell-technology-163200892.html?.tsrc=rss"
+  },
+  {
     "id": "nb58e27a301",
     "headline": "HUT Stock Heads For 4th Week Of Declines: Why This Analyst Thinks Hut 8 Is a Buy",
     "source": "Yahoo Finance",
@@ -408,95 +498,5 @@
     ],
     "ts": "2026-08-14T16:00:44+00:00",
     "url": "https://www.barchart.com/story/news/3855210/coreweave-stock-is-back-in-rally-mode-how-crwv-can-reclaim-its-153-20-high?.tsrc=rss"
-  },
-  {
-    "id": "n6dbf44b4b3",
-    "headline": "Bloom Energy vs. Oklo: Which AI-Power Stock Is the Smarter Buy Now?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-14T15:50:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/14/bloom-energy-vs-oklo-which-ai-power-stock-is-the-s/?.tsrc=rss"
-  },
-  {
-    "id": "nfe1d0a0898",
-    "headline": "I Think You Missed CoreWeave's Zero-Cost-Basis Engine",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-14T15:44:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/14/i-think-you-missed-coreweaves-zero-cost-basis-engi/?.tsrc=rss"
-  },
-  {
-    "id": "nc9e9c040eb",
-    "headline": "The Global Gas Market Has Shifted. Now Wall Street Loves These 5 Energy Stocks For August",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-08-14T14:00:12+00:00",
-    "url": "https://247wallst.com/investing/2026/08/14/the-global-gas-market-has-shifted-now-wall-street-loves-these-5-energy-stocks-for-august/?.tsrc=rss"
-  },
-  {
-    "id": "n97bc52a37a",
-    "headline": "104 Billion Reasons to Buy CoreWeave Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-14T13:15:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/14/104-billion-reasons-to-buy-coreweave-stock/?.tsrc=rss"
-  },
-  {
-    "id": "n12779be925",
-    "headline": "Vistra (VST) Q2 2026 Earnings Call Transcript",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-14T13:14:21+00:00",
-    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/14/vistra-vst-q2-2026-earnings-call-transcript/?.tsrc=rss"
-  },
-  {
-    "id": "n627856ff80",
-    "headline": "The 5 Most Interesting Analyst Questions From Solaris Energy Infrastructure\u2019s Q2 Earnings Call",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-08-14T12:53:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-125300353.html?.tsrc=rss"
-  },
-  {
-    "id": "n40304c18a0",
-    "headline": "This Stock Has Already Turned $10,000 Into $161,250. Here's Why I Still Want to Buy It.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-14T12:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/14/this-stock-has-already-turned-10000-into-161250-he/?.tsrc=rss"
-  },
-  {
-    "id": "n4e950d5cac",
-    "headline": "Jim Chanos Warns CoreWeave's AI Moat Depends On Nvidia, Calls Neoclouds \u2018Financial Conduits, Not Technology Companies\u2019",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-14T12:31:49+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/jim-chanos-nvidia-nvda-controls-coreweave-crwv-neocloud-moat/cZotKunRJ0I?.tsrc=rss"
-  },
-  {
-    "id": "nfabb38ebc0",
-    "headline": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-14T05:30:00+00:00",
-    "url": "https://finance.yahoo.com/m/c34b8123-cb29-3b50-9bfd-26cb6f8912d7/bleeding-edge-ai-meets.html?.tsrc=rss"
   }
 ]
