@@ -286,21 +286,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-t7gmth",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "New Zealand",
-      "startTimeUtc": "2026-11-27T22:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "India tour of New Zealand 2026",
-      "seriesStartUtc": "2026-10-22T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "Hagley Oval, Christchurch",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-120z8ri",
       "teamId": "india-a-women",
       "teamName": "India A Women",
@@ -449,12 +434,27 @@
       "seriesEndUtc": "2027-03-03T00:00:00.000Z",
       "venue": "Barsapara Cricket Stadium, Guwahati",
       "source": "cricapi"
+    },
+    {
+      "id": "fx-1y96276",
+      "teamId": "india-men",
+      "teamName": "India Men",
+      "opponent": "Australia",
+      "startTimeUtc": "2027-02-19T04:00:00.000Z",
+      "hasStartTime": true,
+      "format": "Test",
+      "formatLabel": "test",
+      "series": "Australia tour of India, 2027",
+      "seriesStartUtc": "2027-01-21T00:00:00.000Z",
+      "seriesEndUtc": "2027-03-03T00:00:00.000Z",
+      "venue": "JSCA International Stadium Complex, Ranchi",
+      "source": "cricapi"
     }
   ],
   "meta": {
-    "generatedAt": "2026-08-19T03:47:09.418Z",
-    "windowStart": "2026-08-19T00:00:00.000Z",
-    "windowEnd": "2027-02-19T00:00:00.000Z",
+    "generatedAt": "2026-08-21T03:50:58.410Z",
+    "windowStart": "2026-08-21T00:00:00.000Z",
+    "windowEnd": "2027-02-21T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -470,7 +470,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 32
+        "count": 31
       },
       {
         "id": "manual",
