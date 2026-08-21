@@ -1,5 +1,115 @@
 [
   {
+    "id": "naa53cfd384",
+    "headline": "\u2018Pharma Bro\u2019 Martin Shkreli \u2018Covered\u2019 CoreWeave Short Position: CRWV Stock Slides For Third Session",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-21T05:51:03+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/pharma-bro-martin-shkreli-covered-core-weave-short-position-crwv-stock-slides-for-third-session/cZYBm3QRJNI?.tsrc=rss"
+  },
+  {
+    "id": "n02ab7fa5c6",
+    "headline": "CoreWeave Signs Hudson River Trading to a Multiyear AI Deal",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-20T18:30:53+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-signs-hudson-river-trading-183053735.html?.tsrc=rss"
+  },
+  {
+    "id": "n44d552dd8b",
+    "headline": "Arista Networks vs. CoreWeave: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-20T18:20:01+00:00",
+    "url": "https://www.fool.com/coverage/charts/2026/08/20/arista-networks-vs-coreweave-what-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/?.tsrc=rss"
+  },
+  {
+    "id": "ncbdf1deb9f",
+    "headline": "FuelCell Energy Sinks 8%, Bloom Energy Falls 3%, Plug Power Drops 3%: What\u2019s Behind the Hydrogen Stock Selloff?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-20T17:22:50+00:00",
+    "url": "https://247wallst.com/investing/2026/08/20/fuelcell-energy-sinks-8-bloom-energy-falls-3-plug-power-drops-3-whats-behind-the-hydrogen-stock-selloff/?.tsrc=rss"
+  },
+  {
+    "id": "n4e475b4859",
+    "headline": "Bloom Energy: Up 136% This Year -- Is There Still Room to Run?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-20T16:39:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/20/bloom-energy-up-136-this-year-is-there-still-room/?.tsrc=rss"
+  },
+  {
+    "id": "nbcc3e77e04",
+    "headline": "PENG vs. APLD: Which AI Infrastructure Stock Has Better Potential?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-20T15:57:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/peng-vs-apld-ai-infrastructure-155700863.html?.tsrc=rss"
+  },
+  {
+    "id": "n457da60607",
+    "headline": "EQT (EQT) Down 0.7% Since Last Earnings Report: Can It Rebound?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-08-20T15:30:04+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-down-0-7-153004913.html?.tsrc=rss"
+  },
+  {
+    "id": "nb21eda0062",
+    "headline": "CRWV Stock On Track For Third Straight Day In The Red Despite New Hudson River Trading Deal",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-20T15:28:53+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/crwv-stock-on-track-for-third-straight-day-in-the-red-despite-new-hudson-river-trading-deal/cZYIsLURJZ7?.tsrc=rss"
+  },
+  {
+    "id": "nd891c5b4ba",
+    "headline": "CoreWeave Lands Multibillion-Dollar Hudson River Deal as Wall Street Races for Nvidia Chips",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-20T13:57:21+00:00",
+    "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61329962/coreweave-hudson-river-ai-deal?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
+  },
+  {
+    "id": "n33de73e6a5",
+    "headline": "Could EQT (EQT) Be a Major Winner\u00a0From\u00a0LNG and Data\u00a0Center\u00a0Power Demand?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-08-20T12:55:43+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/could-eqt-eqt-major-winner-125543750.html?.tsrc=rss"
+  },
+  {
+    "id": "nb2b4e83c00",
+    "headline": "KKR Data Center Chief Vaults to Prominence With Nvidia Pact",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-20T11:30:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/kkr-data-center-chief-vaults-113000247.html?.tsrc=rss"
+  },
+  {
     "id": "nb25b9ca5c9",
     "headline": "AppLovin vs. CoreWeave: What Recent Revenue Trends Tell Investors",
     "source": "Yahoo Finance",
@@ -388,115 +498,5 @@
     ],
     "ts": "2026-08-15T14:36:02+00:00",
     "url": "https://247wallst.com/investing/2026/08/15/nvidia-is-looking-to-own-another-layer-of-the-ai-ecosystem/?.tsrc=rss"
-  },
-  {
-    "id": "n56f7fab706",
-    "headline": "Nebius Just Gave Bloom Energy a Big Boost. What It Means for BE Stock.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-15T14:00:02+00:00",
-    "url": "https://www.barchart.com/story/news/3869220/nebius-just-gave-bloom-energy-a-big-boost-what-it-means-for-be-stock?.tsrc=rss"
-  },
-  {
-    "id": "nc79c8b9f68",
-    "headline": "Why We\u2019re Betting $10,000 on This Supplier Behind the SpaceX Data Center Boom",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-08-15T13:31:34+00:00",
-    "url": "https://247wallst.com/investing/2026/08/15/why-were-betting-10000-on-this-supplier-behind-the-spacex-data-center-boom/?.tsrc=rss"
-  },
-  {
-    "id": "n6ddfa6b833",
-    "headline": "Vistra (VST) Is Not Just a Power Producer, But an AI Infrastructure Bet",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-15T00:26:58+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/vistra-vst-not-just-power-002658669.html?.tsrc=rss"
-  },
-  {
-    "id": "n86091f2020",
-    "headline": "Jim Cramer Reviews NVIDIA (NVDA) and Data Center Demand",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-14T23:58:46+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-reviews-nvidia-nvda-235846609.html?.tsrc=rss"
-  },
-  {
-    "id": "n9c1fe76376",
-    "headline": "Applied Digital (APLD) Stock Trades Up, Here Is Why",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-14T23:25:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-stock-trades-232500526.html?.tsrc=rss"
-  },
-  {
-    "id": "n2c16a485a0",
-    "headline": "Dow Jones Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walmart, Target Due",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-14T21:04:48+00:00",
-    "url": "https://finance.yahoo.com/m/79b73c1c-e364-315f-8433-18e9ae96269d/dow-jones-futures%3A-market.html?.tsrc=rss"
-  },
-  {
-    "id": "n3adcb09e1d",
-    "headline": "1 of Wall Street\u2019s Favorite Stocks for Long-Term Investors and 2 Facing Challenges",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-14T20:21:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-202100051.html?.tsrc=rss"
-  },
-  {
-    "id": "ne70a96e06a",
-    "headline": "CoreWeave (CRWV) Stock May Trade Below Fair Value On AI Price Hike",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-14T17:10:08+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-stock-may-trade-171008502.html?.tsrc=rss"
-  },
-  {
-    "id": "nfcc5715ea6",
-    "headline": "Bloom Energy Stock Has Exploded. Here\u2019s What Could Drive It Even Higher.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-14T17:00:13+00:00",
-    "url": "https://247wallst.com/investing/2026/08/14/bloom-energy-stock-has-exploded-heres-what-could-drive-it-even-higher/?.tsrc=rss"
-  },
-  {
-    "id": "naecf79957e",
-    "headline": "Earnings Estimates Rising for Bloom Energy (BE): Will It Gain?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-14T16:20:02+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-estimates-rising-bloom-energy-162002831.html?.tsrc=rss"
-  },
-  {
-    "id": "n536f4507ae",
-    "headline": "Coreweave Stock Is Back in Rally Mode. How CRWV Can Reclaim Its $153.20 High.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-14T16:00:44+00:00",
-    "url": "https://www.barchart.com/story/news/3855210/coreweave-stock-is-back-in-rally-mode-how-crwv-can-reclaim-its-153-20-high?.tsrc=rss"
   }
 ]
