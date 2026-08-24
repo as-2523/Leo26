@@ -1,5 +1,25 @@
 [
   {
+    "id": "nbdee1f196d",
+    "headline": "Vistra Is the Quietest Big Winner of the AI Power Boom. Here's Why.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-23T19:39:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/23/vistra-is-the-quietest-big-winner-of-the-ai-power/?.tsrc=rss"
+  },
+  {
+    "id": "n645b5ebbb9",
+    "headline": "Applied Digital vs. TeraWulf: Which AI Data Center Stock Is the Better Buy?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-23T13:40:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/23/applied-digital-vs-terawulf-which-ai-data-center/?.tsrc=rss"
+  },
+  {
     "id": "nad8882d155",
     "headline": "$5,000 in Bloom Energy at Its COVID-Era Low Would Be Worth This Much Now",
     "source": "Yahoo Finance",
@@ -478,25 +498,5 @@
     ],
     "ts": "2026-08-18T06:10:37+00:00",
     "url": "https://stocktwits.com/news-articles/markets/equity/crwv-vs-nbis-vs-iren-which-neocloud-operator-to-bet-on-right-now/cZYcGJzRJSl?.tsrc=rss"
-  },
-  {
-    "id": "nfb247d5f39",
-    "headline": "Bloom Energy Says It Has Visibility on 25 Gigawatts of Deployments. Here's What That Would Be Worth.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-18T05:50:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/18/bloom-energy-says-it-has-visibility-on-25-gigawatt/?.tsrc=rss"
-  },
-  {
-    "id": "n0e51657a52",
-    "headline": "CoreWeave (CRWV) Draws Fresh Hedge Fund Interest After New Institutional Stake",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-18T04:32:34+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-draws-fresh-hedge-043234492.html?.tsrc=rss"
   }
 ]
