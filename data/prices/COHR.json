@@ -1,19 +1,11 @@
 {
   "ticker": "COHR",
-  "current_price": 289.52,
-  "prev_close": 290.03,
-  "day_change_pct": -0.18,
+  "current_price": 275.49,
+  "prev_close": 289.52,
+  "day_change_pct": -4.85,
   "week_52_high": 440.0,
   "week_52_low": 85.94,
   "history": [
-    {
-      "date": "2026-04-15",
-      "open": 313.5,
-      "high": 322.48,
-      "low": 304.06,
-      "close": 308.2,
-      "volume": 4953400
-    },
     {
       "date": "2026-04-16",
       "open": 315.0,
@@ -725,8 +717,16 @@
       "low": 283.41,
       "close": 289.52,
       "volume": 6000800
+    },
+    {
+      "date": "2026-08-24",
+      "open": 275.3,
+      "high": 279.95,
+      "low": 262.62,
+      "close": 275.49,
+      "volume": 6903000
     }
   ],
-  "as_of": "2026-08-24T07:37:47.866488+00:00",
+  "as_of": "2026-08-25T07:25:53.257034+00:00",
   "stale": false
 }

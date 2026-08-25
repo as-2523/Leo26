@@ -1,5 +1,155 @@
 [
   {
+    "id": "nb5fdcc77a7",
+    "headline": "BE Stock Climbs Overnight: Retail Turns Bullish On Pelosi Trade",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-25T05:04:11+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-climbs-overnight-retail-turns-bullish-on-pelosi-trade/cZYkfStRJ8R?.tsrc=rss"
+  },
+  {
+    "id": "n9a35a93e9e",
+    "headline": "Nancy Pelosi Invested $3 Million in This AI Energy Play",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-24T21:14:00+00:00",
+    "url": "https://finance.yahoo.com/m/9ec3003d-84db-3775-a298-fb5ddceebf18/nancy-pelosi-invested-%243.html?.tsrc=rss"
+  },
+  {
+    "id": "n0016312166",
+    "headline": "Bloom Energy vs. Plug Power: 1 Stock Clearly Wins the AI Revenue Race",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-24T19:12:15+00:00",
+    "url": "https://www.fool.com/coverage/charts/2026/08/24/bloom-energy-vs-plug-power-1-stock-clearly-wins-the-ai-revenue-race/?.tsrc=rss"
+  },
+  {
+    "id": "n12721fcf7e",
+    "headline": "CoreWeave CFO Nitin Agrawal Sells 10,062 Shares for $924,500",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-24T18:50:01+00:00",
+    "url": "https://www.fool.com/coverage/filings/2026/08/24/coreweave-cfo-nitin-agrawal-sells-10-062-shares-for-usd924-500/?.tsrc=rss"
+  },
+  {
+    "id": "n101671ae0c",
+    "headline": "Nancy Pelosi Disclosure Reveals Two Fresh AI Stock Bets",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-24T18:34:32+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-disclosure-reveals-two-183432115.html?.tsrc=rss"
+  },
+  {
+    "id": "nd5384d48fb",
+    "headline": "Plug Power Falls 4%, Bloom Energy Moves Up as the Hydrogen Trade Divides",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-24T17:35:38+00:00",
+    "url": "https://247wallst.com/investing/2026/08/24/plug-power-falls-4-bloom-energy-moves-up-as-the-hydrogen-trade-divides/?.tsrc=rss"
+  },
+  {
+    "id": "n5405885d37",
+    "headline": "Forget CoreWeave \u2014 This Is the AI Stock You Should Instead Be Buying",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-24T17:31:26+00:00",
+    "url": "https://247wallst.com/investing/2026/08/24/forget-coreweave-this-is-the-ai-stock-you-should-instead-be-buying/?.tsrc=rss"
+  },
+  {
+    "id": "n0a27f4bb79",
+    "headline": "AI Infrastructure Stocks Surge: How Long Can CoreWeave (CRWV) and Super Micro Computer (SMCI) Keep It Up?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-24T17:24:11+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-surge-long-172411864.html?.tsrc=rss"
+  },
+  {
+    "id": "n7738b9e187",
+    "headline": "Why EQT (EQT) Is Getting Attention Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-08-24T15:12:44+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-eqt-eqt-getting-attention-151244460.html?.tsrc=rss"
+  },
+  {
+    "id": "n4a70cc44df",
+    "headline": "CoreWeave (CRWV) Lands AI Cloud Deal As Data Center Rules Tighten",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-24T15:11:35+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-lands-ai-cloud-151135672.html?.tsrc=rss"
+  },
+  {
+    "id": "nbaacf3c6e4",
+    "headline": "Morgan Stanley expects powered-shell deal wave by October",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-24T14:24:27+00:00",
+    "url": "https://blockspace.media/insight/morgan-stanley-powered-shell-deal-wave-october/?.tsrc=rss"
+  },
+  {
+    "id": "nb4e91cd2ef",
+    "headline": "CoreWeave Just Announced Fantastic News for Nvidia Stock Investors",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-24T14:05:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/24/coreweave-just-announced-fantastic-news-for-nvidia/?.tsrc=rss"
+  },
+  {
+    "id": "nc13c248278",
+    "headline": "How Investors Are Reacting To EQT (EQT) Earnings Beat On Higher Gas Prices And Data Center Demand",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-08-24T12:08:51+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-eqt-eqt-earnings-120851031.html?.tsrc=rss"
+  },
+  {
+    "id": "nbe79ae350e",
+    "headline": "Peter Thiel\u2019s $418 Million Bet On These 8 Companies Reveals AI\u2019s Biggest Bottleneck",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-24T11:04:41+00:00",
+    "url": "https://247wallst.com/investing/2026/08/24/peter-thiels-418-million-bet-on-these-8-companies-reveals-ais-biggest-bottleneck/?.tsrc=rss"
+  },
+  {
+    "id": "ne1d4770f62",
+    "headline": "Vistra Corp. Stock: Is Wall Street Bullish or Bearish?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-24T11:02:15+00:00",
+    "url": "https://www.barchart.com/story/news/3999453/vistra-corp-stock-is-wall-street-bullish-or-bearish?.tsrc=rss"
+  },
+  {
     "id": "nbdee1f196d",
     "headline": "Vistra Is the Quietest Big Winner of the AI Power Boom. Here's Why.",
     "source": "Yahoo Finance",
@@ -348,155 +498,5 @@
     ],
     "ts": "2026-08-19T17:31:17+00:00",
     "url": "https://www.fool.com/investing/2026/08/19/can-investing-in-bloom-energy-stock-double-your-mo/?.tsrc=rss"
-  },
-  {
-    "id": "ne18dd57cc5",
-    "headline": "Nebius Dives 14% and CoreWeave Falls 4% Before Rebounding. Neocloud Stocks Face Volatility as the Nasdaq Whipsaws.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-19T16:45:36+00:00",
-    "url": "https://247wallst.com/investing/2026/08/19/nebius-dives-14-and-coreweave-falls-4-before-rebounding-neocloud-stocks-face-volatility-as-the-nasdaq-whipsaws/?.tsrc=rss"
-  },
-  {
-    "id": "nfdf87f554b",
-    "headline": "Famous Hedge Fund Tiger Global Opened a New Position in This 1 AI Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-19T16:33:06+00:00",
-    "url": "https://www.barchart.com/story/news/3933476/famous-hedge-fund-tiger-global-opened-a-new-position-in-this-1-ai-stock?.tsrc=rss"
-  },
-  {
-    "id": "n051fcc783c",
-    "headline": "Bloom Energy's Fuel Cell Technology: Can it Be a Game Changer?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-19T16:32:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/bloom-energys-fuel-cell-technology-163200892.html?.tsrc=rss"
-  },
-  {
-    "id": "nb58e27a301",
-    "headline": "HUT Stock Heads For 4th Week Of Declines: Why This Analyst Thinks Hut 8 Is a Buy",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-19T03:45:01+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/hut-stock-heads-for-4th-week-of-declines-why-this-analyst-thinks-hut-8-is-a-buy/cZYd216RJkI?.tsrc=rss"
-  },
-  {
-    "id": "n3e5f7565b0",
-    "headline": "David Tepper Just Made a $107 Million Bet on Top AI Stock. George Soros Is Holding Puts Against It.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-19T03:19:09+00:00",
-    "url": "https://247wallst.com/investing/2026/08/18/david-tepper-just-made-a-107-million-bet-on-top-ai-stock-george-soros-is-holding-puts-against-it/?.tsrc=rss"
-  },
-  {
-    "id": "n6f189e58de",
-    "headline": "5 Energy Stocks Cashing In On The New Energy Crunch",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-19T00:00:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/5-energy-stocks-cashing-energy-000000545.html?.tsrc=rss"
-  },
-  {
-    "id": "nb6be036ebb",
-    "headline": "CoreWeave (CRWV) Q2 2026 Earnings Call Transcript",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-18T22:44:15+00:00",
-    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/18/coreweave-crwv-q2-2026-earnings-call-transcript/?.tsrc=rss"
-  },
-  {
-    "id": "nf9cf1d2fd6",
-    "headline": "Stock Market Today, Aug. 18: CoreWeave Falls as Debt-Financing Concerns and Capital Spending Pressures Rise With Interest Rates",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-18T21:24:29+00:00",
-    "url": "https://www.fool.com/coverage/stock-market-today/2026/08/18/stock-market-today-aug-18-coreweave-falls-as-debt-financing-concerns-and-capital-spending-pressures-rise-with-interest-rates/?.tsrc=rss"
-  },
-  {
-    "id": "n6a4f66391e",
-    "headline": "Can Applied Digital\u2019s (APLD) Debt-Funded AI Pivot Strengthen Its Story or Strain Flexibility?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-18T21:10:39+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-apld-debt-funded-211039990.html?.tsrc=rss"
-  },
-  {
-    "id": "n2146153299",
-    "headline": "Why CoreWeave Stock Is Down 11.8%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-18T18:35:02+00:00",
-    "url": "https://www.fool.com/investing/2026/08/18/why-coreweave-stock-is-down-11/?.tsrc=rss"
-  },
-  {
-    "id": "neb62957986",
-    "headline": "Neocloud Stocks Plummet on Rising Overspend Fears. CoreWeave Down 7%, Nebius Down 5%, Terawulf Down 6%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-18T16:55:17+00:00",
-    "url": "https://247wallst.com/investing/2026/08/18/neocloud-stocks-plummet-on-rising-overspend-fears-coreweave-down-7-nebius-down-5-terawulf-down-6/?.tsrc=rss"
-  },
-  {
-    "id": "n599009f136",
-    "headline": "Plug Power Falls 5%, Bloom Energy Sinks 8% With the 10-Year Yield Near a 52-Week High",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-18T14:35:08+00:00",
-    "url": "https://247wallst.com/investing/2026/08/18/plug-power-falls-5-bloom-energy-sinks-8-with-the-10-year-yield-near-a-52-week-high/?.tsrc=rss"
-  },
-  {
-    "id": "n91d9090894",
-    "headline": "Solaris Energy Infrastructure (SEI): Buy, Sell, or Hold Post Q2 Earnings?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-08-18T12:29:33+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-sei-buy-122933118.html?.tsrc=rss"
-  },
-  {
-    "id": "ndc4df581a8",
-    "headline": "If You Invested $2,000 in Bloom Energy at Its 52-Week Low Here's How Much You'd Have Now",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-18T12:00:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/18/if-you-invested-2000-in-bloom-energy-at-its-52-wee/?.tsrc=rss"
-  },
-  {
-    "id": "n09d2b60435",
-    "headline": "CRWV vs NBIS vs IREN: Which Neocloud Operator To Bet On Right Now?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-18T06:10:37+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/crwv-vs-nbis-vs-iren-which-neocloud-operator-to-bet-on-right-now/cZYcGJzRJSl?.tsrc=rss"
   }
 ]
