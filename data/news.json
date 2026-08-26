@@ -1,5 +1,125 @@
 [
   {
+    "id": "n12517827e8",
+    "headline": "This $30 Stock Could Be Primed for a Breakout",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-26T01:50:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/25/this-30-stock-could-be-primed-for-a-breakout/?.tsrc=rss"
+  },
+  {
+    "id": "n86374aad21",
+    "headline": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-25T19:46:03+00:00",
+    "url": "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade?.tsrc=rss"
+  },
+  {
+    "id": "nc7643e10b1",
+    "headline": "Why Is Bloom Energy (BE) Stock Soaring Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-25T19:18:44+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-stock-soaring-191844776.html?.tsrc=rss"
+  },
+  {
+    "id": "n591b5a05ee",
+    "headline": "Applied Digital and IREN Climb 6% as the Digital Infrastructure Bid Broadens Past Bitcoin, Core Scientific Gains 4%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-25T18:30:28+00:00",
+    "url": "https://247wallst.com/investing/2026/08/25/applied-digital-and-iren-climb-6-as-the-digital-infrastructure-bid-broadens-past-bitcoin-core-scientific-gains-4/?.tsrc=rss"
+  },
+  {
+    "id": "n45697ec295",
+    "headline": "AI Data Centers Need More Power and Bloom Energy Could Be a Big Winner",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-25T18:30:10+00:00",
+    "url": "https://247wallst.com/investing/2026/08/25/ai-data-centers-need-more-power-and-bloom-energy-could-be-a-big-winner/?.tsrc=rss"
+  },
+  {
+    "id": "n00ffd4ab27",
+    "headline": "RUM Group Surges 11% as CEO Vows to Take On CoreWeave and Nebius, Trump Media Holds Flat",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-25T17:21:18+00:00",
+    "url": "https://247wallst.com/investing/2026/08/25/rum-group-surges-11-as-ceo-vows-to-take-on-coreweave-and-nebius-trump-media-holds-flat/?.tsrc=rss"
+  },
+  {
+    "id": "n763a5b96bd",
+    "headline": "CoreWeave Just Landed a Multibillion-Dollar AI Deal. How to Play CRWV Stock.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-25T16:02:30+00:00",
+    "url": "https://www.barchart.com/story/news/4026121/coreweave-just-landed-a-multibillion-dollar-ai-deal-how-to-play-crwv-stock?.tsrc=rss"
+  },
+  {
+    "id": "n91c6c8219b",
+    "headline": "SpaceX and CoreWeave Helped Turn Dell Into an AI Rocket. Earnings Could Bring It Back to Earth",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-25T15:45:12+00:00",
+    "url": "https://247wallst.com/investing/2026/08/25/spacex-and-coreweave-helped-turn-dell-into-an-ai-rocket-earnings-could-bring-it-back-to-earth/?.tsrc=rss"
+  },
+  {
+    "id": "n4e2b9ffced",
+    "headline": "Why Is Bloom Energy (BE) Drawing Attention After Pelosi\u2019s Household Investment?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-25T15:06:38+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-drawing-attention-150638114.html?.tsrc=rss"
+  },
+  {
+    "id": "nd434b2b9ff",
+    "headline": "CRWV Stock Rebounds After 5-Day Slump \u2013 CoreWeave Teams With Rescale To Expand AI Cloud Reach",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-25T14:14:31+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/crwv-stock-rebounds-after-5-day-slump-coreweave-teams-with-rescale/cZYkp4vRJ8y?.tsrc=rss"
+  },
+  {
+    "id": "n45ce59b45f",
+    "headline": "CoreWeave\u2019s AI Data Center Capacity Is Exploding \u2014 Its $35 Billion Debt Load Still Makes the Stock Untouchable",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-25T14:11:07+00:00",
+    "url": "https://247wallst.com/investing/2026/08/25/coreweaves-ai-data-center-capacity-is-exploding-its-35-billion-debt-load-still-makes-the-stock-untouchable/?.tsrc=rss"
+  },
+  {
+    "id": "n3d8309dba2",
+    "headline": "Bloom Energy Climbs 5% on Nancy Pelosi Disclosure, FuelCell Rises 4%, Plug Power Advances 2%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-25T12:42:20+00:00",
+    "url": "https://247wallst.com/investing/2026/08/25/bloom-energy-climbs-5-on-nancy-pelosi-disclosure-fuelcell-rises-4-plug-power-advances-2/?.tsrc=rss"
+  },
+  {
     "id": "nb5fdcc77a7",
     "headline": "BE Stock Climbs Overnight: Retail Turns Bullish On Pelosi Trade",
     "source": "Yahoo Finance",
@@ -378,125 +498,5 @@
     ],
     "ts": "2026-08-20T16:39:00+00:00",
     "url": "https://www.fool.com/investing/2026/08/20/bloom-energy-up-136-this-year-is-there-still-room/?.tsrc=rss"
-  },
-  {
-    "id": "nbcc3e77e04",
-    "headline": "PENG vs. APLD: Which AI Infrastructure Stock Has Better Potential?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-20T15:57:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/peng-vs-apld-ai-infrastructure-155700863.html?.tsrc=rss"
-  },
-  {
-    "id": "n457da60607",
-    "headline": "EQT (EQT) Down 0.7% Since Last Earnings Report: Can It Rebound?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-08-20T15:30:04+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-down-0-7-153004913.html?.tsrc=rss"
-  },
-  {
-    "id": "nb21eda0062",
-    "headline": "CRWV Stock On Track For Third Straight Day In The Red Despite New Hudson River Trading Deal",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-20T15:28:53+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/crwv-stock-on-track-for-third-straight-day-in-the-red-despite-new-hudson-river-trading-deal/cZYIsLURJZ7?.tsrc=rss"
-  },
-  {
-    "id": "nd891c5b4ba",
-    "headline": "CoreWeave Lands Multibillion-Dollar Hudson River Deal as Wall Street Races for Nvidia Chips",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-20T13:57:21+00:00",
-    "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61329962/coreweave-hudson-river-ai-deal?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
-  },
-  {
-    "id": "n33de73e6a5",
-    "headline": "Could EQT (EQT) Be a Major Winner\u00a0From\u00a0LNG and Data\u00a0Center\u00a0Power Demand?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-08-20T12:55:43+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/could-eqt-eqt-major-winner-125543750.html?.tsrc=rss"
-  },
-  {
-    "id": "nb2b4e83c00",
-    "headline": "KKR Data Center Chief Vaults to Prominence With Nvidia Pact",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-20T11:30:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/kkr-data-center-chief-vaults-113000247.html?.tsrc=rss"
-  },
-  {
-    "id": "nb25b9ca5c9",
-    "headline": "AppLovin vs. CoreWeave: What Recent Revenue Trends Tell Investors",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-20T04:43:26+00:00",
-    "url": "https://www.fool.com/coverage/charts/2026/08/20/applovin-vs-coreweave-what-recent-revenue-trends-tell-investors/?.tsrc=rss"
-  },
-  {
-    "id": "n077eeb24d7",
-    "headline": "CoreWeave Drops 12%, but Truist Still Sees 66% Upside",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-19T21:50:16+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-drops-12-truist-still-215016559.html?.tsrc=rss"
-  },
-  {
-    "id": "n73f9995505",
-    "headline": "Pennsylvania Sets New Data-Center Rules\u2014and Some Energy Companies Can Actually Benefit",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-19T21:19:00+00:00",
-    "url": "https://finance.yahoo.com/m/dbbd7f1e-ac63-383e-99e2-57f249f7ff11/pennsylvania-sets-new.html?.tsrc=rss"
-  },
-  {
-    "id": "nc57389f783",
-    "headline": "Is Bloom Energy (BE) Power Connect A Faster Route Into AI Data Centers?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-19T20:09:08+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-power-connect-faster-200908309.html?.tsrc=rss"
-  },
-  {
-    "id": "n1d11700629",
-    "headline": "Bloom Energy's New Product Just Made Its Biggest AI Advantage Even Stronger. Here's What Investors Need to Know.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-19T19:50:01+00:00",
-    "url": "https://www.fool.com/investing/2026/08/19/bloom-energy-s-new-product-just-made-its-biggest-ai-advantage-even-stronger-here-s-what-investors-need-to-know/?.tsrc=rss"
-  },
-  {
-    "id": "n8113fe0da0",
-    "headline": "Can Investing in Bloom Energy Stock Double Your Money?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-19T17:31:17+00:00",
-    "url": "https://www.fool.com/investing/2026/08/19/can-investing-in-bloom-energy-stock-double-your-mo/?.tsrc=rss"
   }
 ]
