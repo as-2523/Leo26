@@ -286,6 +286,21 @@
       "source": "cricapi"
     },
     {
+      "id": "fx-t7gmth",
+      "teamId": "india-men",
+      "teamName": "India Men",
+      "opponent": "New Zealand",
+      "startTimeUtc": "2026-11-27T22:00:00.000Z",
+      "hasStartTime": true,
+      "format": "Other",
+      "formatLabel": "Unknown",
+      "series": "India tour of New Zealand 2026",
+      "seriesStartUtc": "2026-10-22T00:00:00.000Z",
+      "seriesEndUtc": "2026-12-01T00:00:00.000Z",
+      "venue": "Hagley Oval, Christchurch",
+      "source": "cricapi"
+    },
+    {
       "id": "fx-120z8ri",
       "teamId": "india-a-women",
       "teamName": "India A Women",
@@ -452,9 +467,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-08-25T03:49:24.117Z",
-    "windowStart": "2026-08-25T00:00:00.000Z",
-    "windowEnd": "2027-02-25T00:00:00.000Z",
+    "generatedAt": "2026-08-27T13:52:57.610Z",
+    "windowStart": "2026-08-27T00:00:00.000Z",
+    "windowEnd": "2027-02-27T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -470,7 +485,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 31
+        "count": 32
       },
       {
         "id": "manual",
