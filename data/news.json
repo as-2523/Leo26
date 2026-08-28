@@ -1,5 +1,125 @@
 [
   {
+    "id": "n2d6bcc1afe",
+    "headline": "CoreWeave (CRWV) Enters Next Generation Engineering AI Workloads",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-28T18:14:56+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-enters-next-generation-181456287.html?.tsrc=rss"
+  },
+  {
+    "id": "ne9f25e3bf9",
+    "headline": "Applied Digital (APLD) Stock Looks Strong On Returns But Expensive On Sales",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-28T17:07:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-stock-looks-170700339.html?.tsrc=rss"
+  },
+  {
+    "id": "n233d7a5595",
+    "headline": "Applied Digital Sinks 7%, IREN Tumbles 13% as Data Center Selloff Broadens Past One Name",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-28T16:43:15+00:00",
+    "url": "https://247wallst.com/investing/2026/08/28/applied-digital-sinks-7-iren-tumbles-13-as-data-center-selloff-broadens-past-one-name/?.tsrc=rss"
+  },
+  {
+    "id": "n7cf899c628",
+    "headline": "Bloom Energy vs. Eos Energy Enterprises: Which Energy Storage Stock Is a Better Buy in 2026?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-28T15:32:01+00:00",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/28/bloom-energy-vs-eos-energy-enterprises-which-energy-storage-stock-is-a-better-buy-in-2026/?.tsrc=rss"
+  },
+  {
+    "id": "n64cd0522a2",
+    "headline": "Bloom Energy vs. NuScale Power: Which Energy Innovator Stock Is a Better Buy in 2026?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-28T15:03:01+00:00",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/28/bloom-energy-vs-nuscale-power-which-energy-innovator-stock-is-a-better-buy-in-2026/?.tsrc=rss"
+  },
+  {
+    "id": "nc43a977bca",
+    "headline": "Nvidia Warns Of AI Power Bottleneck \u2014 And Bloom Energy Could Benefit",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-28T14:16:35+00:00",
+    "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61493971/nvidia-ai-power-bloom-energy?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
+  },
+  {
+    "id": "ne6ed85bd1c",
+    "headline": "Prediction: Applied Digital Stock Will Jump 156% in 3 Years. Here\u2019s the Math.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-28T13:50:01+00:00",
+    "url": "https://www.fool.com/investing/2026/08/28/prediction-applied-digital-stock-will-jump-156-in-3-years-here-s-the-math/?.tsrc=rss"
+  },
+  {
+    "id": "n3c1daad866",
+    "headline": "GE Vernova vs. Bloom Energy: Which AI-Power Bet Has More Upside Ahead?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-28T13:50:00+00:00",
+    "url": "https://www.fool.com/investing/2026/08/28/ge-vernova-vs-bloom-energy-which-ai-power-bet-has/?.tsrc=rss"
+  },
+  {
+    "id": "n9ffe1ae2d2",
+    "headline": "Bloom Energy (BE) Is Up 7.6% After Launching Power Connect To Speed Data Center Deployments",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-28T08:19:49+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/bloom-energy-7-6-launching-081949773.html?.tsrc=rss"
+  },
+  {
+    "id": "n4883125bd7",
+    "headline": "Applied Digital Stock Is Down, But Its AI Data Center Business Is Powering Up. What Gives?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-28T00:36:46+00:00",
+    "url": "https://www.trefis.com/articles/613277/applied-digital-stock-is-down-but-its-ai-data-center-business-is-powering-up-what-gives/2026-08-27?.tsrc=rss"
+  },
+  {
+    "id": "n1d8de760f4",
+    "headline": "Nvidia\u2019s GPU Price Hikes Look Bad for CoreWeave. Truist Says the Opposite May Be True",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-27T20:06:39+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-gpu-price-hikes-look-200639918.html?.tsrc=rss"
+  },
+  {
+    "id": "n48ee945db2",
+    "headline": "Is Vistra (VST) Undervalued As Power Demand Expectations Stay In Focus?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-27T19:12:31+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/vistra-vst-undervalued-power-demand-191231844.html?.tsrc=rss"
+  },
+  {
     "id": "nc43750c86f",
     "headline": "Plug Power Gains 4% as Risk Appetite Returns; FuelCell Inches Higher, Bloom Energy Holds Flat",
     "source": "Yahoo Finance",
@@ -378,125 +498,5 @@
     ],
     "ts": "2026-08-23T19:39:00+00:00",
     "url": "https://www.fool.com/investing/2026/08/23/vistra-is-the-quietest-big-winner-of-the-ai-power/?.tsrc=rss"
-  },
-  {
-    "id": "n645b5ebbb9",
-    "headline": "Applied Digital vs. TeraWulf: Which AI Data Center Stock Is the Better Buy?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-23T13:40:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/23/applied-digital-vs-terawulf-which-ai-data-center/?.tsrc=rss"
-  },
-  {
-    "id": "nad8882d155",
-    "headline": "$5,000 in Bloom Energy at Its COVID-Era Low Would Be Worth This Much Now",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-23T00:25:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/22/5000-in-bloom-energy-at-its-covid-low-would-be/?.tsrc=rss"
-  },
-  {
-    "id": "nc6791d8cf6",
-    "headline": "CoreWeave CEO Michael Intrator Sold Over 13,000 Shares for $1.2 Million. What Does This Mean for Investors?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-22T18:20:01+00:00",
-    "url": "https://www.fool.com/coverage/filings/2026/08/22/coreweave-ceo-michael-intrator-sold-over-13-000-shares-for-usd1-2-million-what-does-this-mean-for-investors/?.tsrc=rss"
-  },
-  {
-    "id": "n36af074e2f",
-    "headline": "Can Bloom Energy Keep Beating the Market?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-22T16:05:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/22/can-bloom-energy-keep-beating-the-market/?.tsrc=rss"
-  },
-  {
-    "id": "n2ba1dea3de",
-    "headline": "Prediction: CoreWeave Stock Will Double on This Date",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-22T15:00:03+00:00",
-    "url": "https://247wallst.com/investing/2026/08/22/prediction-coreweave-stock-will-double-on-this-date/?.tsrc=rss"
-  },
-  {
-    "id": "n9d917ecbce",
-    "headline": "These 3 AI stocks are bought by both hedge funds and mutual funds",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-22T11:31:13+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-bought-both-113113447.html?.tsrc=rss"
-  },
-  {
-    "id": "n2333490c10",
-    "headline": "Neoclouds Shine in AI Build Out",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-21T22:50:01+00:00",
-    "url": "https://www.fool.com/investing/2026/08/21/neoclouds-shine-in-ai-build-out/?.tsrc=rss"
-  },
-  {
-    "id": "n59b2988d76",
-    "headline": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-21T22:39:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/21/billionaire-david-tepper-piled-into-a-debt-laden-a/?.tsrc=rss"
-  },
-  {
-    "id": "n0ca2437718",
-    "headline": "CoreWeave vs. Nebius Group: Which Artificial Intelligence (AI) Cloud Stock Has More Upside?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-21T18:29:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/21/coreweave-vs-nebius-group-which-artificial-intelli/?.tsrc=rss"
-  },
-  {
-    "id": "n99a85c69b8",
-    "headline": "FuelCell Energy Jumps 5%, Plug Power Climbs 4%, Bloom Energy Slips as the Hydrogen Trade Splits",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-21T18:04:43+00:00",
-    "url": "https://247wallst.com/investing/2026/08/21/fuelcell-energy-jumps-5-plug-power-climbs-4-bloom-energy-slips-as-the-hydrogen-trade-splits/?.tsrc=rss"
-  },
-  {
-    "id": "n021459c0f0",
-    "headline": "BCA Research Sees a Dangerous Risk in CoreWeave (CRWV) and Nebius (NBIS)",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-21T17:50:54+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bca-research-sees-dangerous-risk-175054863.html?.tsrc=rss"
-  },
-  {
-    "id": "n59a4afd279",
-    "headline": "Bloom Energy vs. Palantir: Which \"Story Stock\" Actually Has More Room to Run?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-21T16:25:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/21/bloom-energy-vs-palantir-which-story-stock-actuall/?.tsrc=rss"
   }
 ]
