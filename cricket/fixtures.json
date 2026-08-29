@@ -464,12 +464,27 @@
       "seriesEndUtc": "2027-03-03T00:00:00.000Z",
       "venue": "JSCA International Stadium Complex, Ranchi",
       "source": "cricapi"
+    },
+    {
+      "id": "fx-jad15t",
+      "teamId": "india-men",
+      "teamName": "India Men",
+      "opponent": "Australia",
+      "startTimeUtc": "2027-02-27T04:00:00.000Z",
+      "hasStartTime": true,
+      "format": "Test",
+      "formatLabel": "test",
+      "series": "Australia tour of India, 2027",
+      "seriesStartUtc": "2027-01-21T00:00:00.000Z",
+      "seriesEndUtc": "2027-03-03T00:00:00.000Z",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "source": "cricapi"
     }
   ],
   "meta": {
-    "generatedAt": "2026-08-27T13:52:57.610Z",
-    "windowStart": "2026-08-27T00:00:00.000Z",
-    "windowEnd": "2027-02-27T00:00:00.000Z",
+    "generatedAt": "2026-08-29T09:47:47.126Z",
+    "windowStart": "2026-08-29T00:00:00.000Z",
+    "windowEnd": "2027-02-28T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
