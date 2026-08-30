@@ -1,5 +1,25 @@
 [
   {
+    "id": "na92d1f0029",
+    "headline": "Here's My 3-Part Plan for Turning a Bloom Energy Stake Into Real Retirement Income",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-30T10:20:01+00:00",
+    "url": "https://www.fool.com/investing/2026/08/30/here-s-my-3-part-plan-for-turning-a-bloom-energy-stake-into-real-retirement-income/?.tsrc=rss"
+  },
+  {
+    "id": "nb6820cee85",
+    "headline": "Nobody's Talking About This Energy Company, but It's Quietly Signing the Power Deals Feeding the AI Build-Out",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-29T12:55:01+00:00",
+    "url": "https://www.fool.com/investing/2026/08/29/nobody-s-talking-about-this-energy-company-but-it-s-quietly-signing-the-power-deals-feeding-the-ai-build-out/?.tsrc=rss"
+  },
+  {
     "id": "n216d1a44e9",
     "headline": "I Wouldn't Touch This Hydrogen Stock Yet -- Here's the One Number I'm Waiting On",
     "source": "Yahoo Finance",
@@ -478,25 +498,5 @@
     ],
     "ts": "2026-08-24T14:24:27+00:00",
     "url": "https://blockspace.media/insight/morgan-stanley-powered-shell-deal-wave-october/?.tsrc=rss"
-  },
-  {
-    "id": "nb4e91cd2ef",
-    "headline": "CoreWeave Just Announced Fantastic News for Nvidia Stock Investors",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-24T14:05:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/24/coreweave-just-announced-fantastic-news-for-nvidia/?.tsrc=rss"
-  },
-  {
-    "id": "nc13c248278",
-    "headline": "How Investors Are Reacting To EQT (EQT) Earnings Beat On Higher Gas Prices And Data Center Demand",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-08-24T12:08:51+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-eqt-eqt-earnings-120851031.html?.tsrc=rss"
   }
 ]
