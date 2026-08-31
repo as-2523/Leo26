@@ -1,5 +1,75 @@
 [
   {
+    "id": "nef99ddd8e3",
+    "headline": "Is Rescale's Cloud Expansion Another Catalyst for CRWV's AI Growth?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-31T13:17:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/rescales-cloud-expansion-another-catalyst-131700605.html?.tsrc=rss"
+  },
+  {
+    "id": "ncc0b6278b1",
+    "headline": "Charah Solutions Adds Seasoned Energy Industry Leaders to Its Board and Strengthens Balance Sheet",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-31T13:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/charah-solutions-adds-seasoned-energy-130000896.html?.tsrc=rss"
+  },
+  {
+    "id": "n5be0de8826",
+    "headline": "IREN Limited Keeps Falling: A Respected Ratings Agency Sees 185% Growth Anyway",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-08-31T11:33:44+00:00",
+    "url": "https://247wallst.com/investing/2026/08/31/iren-limited-keeps-falling-a-respected-ratings-agency-sees-185-growth-anyway/?.tsrc=rss"
+  },
+  {
+    "id": "nfda1477054",
+    "headline": "Vistra Won\u2019t Stop Declining in 2026: Why Does This Prominent Wall Street Firm Expect 120% Returns?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-31T11:32:52+00:00",
+    "url": "https://247wallst.com/investing/2026/08/31/vistra-wont-stop-declining-in-2026-why-does-this-prominent-wall-street-firm-expect-120-returns/?.tsrc=rss"
+  },
+  {
+    "id": "ndd3f8177cb",
+    "headline": "EQT closes combination with Coller Capital",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-08-31T09:01:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-closes-combination-coller-capital-090100532.html?.tsrc=rss"
+  },
+  {
+    "id": "n59acf60d52",
+    "headline": "Vistra Stock Sits 37% Below Its High While Power Demand Keeps Climbing. Should You Buy It?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-31T03:01:01+00:00",
+    "url": "https://www.fool.com/investing/2026/08/30/vistra-stock-sits-37-below-its-high-while-power-demand-keeps-climbing-should-you-buy-it/?.tsrc=rss"
+  },
+  {
+    "id": "nf0a9b8f047",
+    "headline": "GE Vernova vs. Vistra: The AI Power Stock to Buy Now for 2026 and Beyond",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-08-30T17:12:07+00:00",
+    "url": "https://www.fool.com/coverage/better-buy/2026/08/30/ge-vernova-vs-vistra-the-ai-power-stock-to-buy-now-for-2026-and-beyond/?.tsrc=rss"
+  },
+  {
     "id": "na92d1f0029",
     "headline": "Here's My 3-Part Plan for Turning a Bloom Energy Stake Into Real Retirement Income",
     "source": "Yahoo Finance",
@@ -428,75 +498,5 @@
     ],
     "ts": "2026-08-24T18:50:01+00:00",
     "url": "https://www.fool.com/coverage/filings/2026/08/24/coreweave-cfo-nitin-agrawal-sells-10-062-shares-for-usd924-500/?.tsrc=rss"
-  },
-  {
-    "id": "n101671ae0c",
-    "headline": "Nancy Pelosi Disclosure Reveals Two Fresh AI Stock Bets",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-24T18:34:32+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-disclosure-reveals-two-183432115.html?.tsrc=rss"
-  },
-  {
-    "id": "nd5384d48fb",
-    "headline": "Plug Power Falls 4%, Bloom Energy Moves Up as the Hydrogen Trade Divides",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-24T17:35:38+00:00",
-    "url": "https://247wallst.com/investing/2026/08/24/plug-power-falls-4-bloom-energy-moves-up-as-the-hydrogen-trade-divides/?.tsrc=rss"
-  },
-  {
-    "id": "n5405885d37",
-    "headline": "Forget CoreWeave \u2014 This Is the AI Stock You Should Instead Be Buying",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-24T17:31:26+00:00",
-    "url": "https://247wallst.com/investing/2026/08/24/forget-coreweave-this-is-the-ai-stock-you-should-instead-be-buying/?.tsrc=rss"
-  },
-  {
-    "id": "n0a27f4bb79",
-    "headline": "AI Infrastructure Stocks Surge: How Long Can CoreWeave (CRWV) and Super Micro Computer (SMCI) Keep It Up?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-24T17:24:11+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-surge-long-172411864.html?.tsrc=rss"
-  },
-  {
-    "id": "n7738b9e187",
-    "headline": "Why EQT (EQT) Is Getting Attention Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-08-24T15:12:44+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-eqt-eqt-getting-attention-151244460.html?.tsrc=rss"
-  },
-  {
-    "id": "n4a70cc44df",
-    "headline": "CoreWeave (CRWV) Lands AI Cloud Deal As Data Center Rules Tighten",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-24T15:11:35+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-lands-ai-cloud-151135672.html?.tsrc=rss"
-  },
-  {
-    "id": "nbaacf3c6e4",
-    "headline": "Morgan Stanley expects powered-shell deal wave by October",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-24T14:24:27+00:00",
-    "url": "https://blockspace.media/insight/morgan-stanley-powered-shell-deal-wave-october/?.tsrc=rss"
   }
 ]
