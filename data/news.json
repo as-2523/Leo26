@@ -1,5 +1,85 @@
 [
   {
+    "id": "n4c1900c6f8",
+    "headline": "CoreWeave's CEO Dumps Over 300,000 Shares Worth $27.3 Million",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-01T04:26:51+00:00",
+    "url": "https://www.fool.com/coverage/filings/2026/09/01/coreweave-s-ceo-dumps-over-300-000-shares-worth-usd27-3-million/?.tsrc=rss"
+  },
+  {
+    "id": "nc7b146ee93",
+    "headline": "Vistra CEO James Burke Buys 2,000 Shares After 29% Stock Decline",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-01T03:38:00+00:00",
+    "url": "https://www.fool.com/coverage/filings/2026/08/31/vistra-ceo-james-burke-buys-2000-shares-after-29-stock-decline/?.tsrc=rss"
+  },
+  {
+    "id": "n0e8cf2389c",
+    "headline": "Vistra Stock Is Down, But Is This Power Producer's Dip An Opportunity?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-01T01:27:19+00:00",
+    "url": "https://www.trefis.com/articles/613700/vistra-stock-is-down-but-is-this-power-producers-dip-an-opportunity/2026-08-31?.tsrc=rss"
+  },
+  {
+    "id": "ne9dffdb77c",
+    "headline": "CoreWeave GC Kristen McVeety Sells 2,100 Shares",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-08-31T20:32:01+00:00",
+    "url": "https://www.fool.com/coverage/filings/2026/08/31/coreweave-gc-kristen-mcveety-sells-2100-shares/?.tsrc=rss"
+  },
+  {
+    "id": "ndc2d54127a",
+    "headline": "Is Bloom Energy (BE) Priced For Perfection After AI Demand?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-31T19:05:12+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-priced-perfection-ai-190512221.html?.tsrc=rss"
+  },
+  {
+    "id": "n16904885f4",
+    "headline": "Will Faster Installations Drive Bloom Energy's AI Expansion?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-08-31T17:56:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/faster-installations-drive-bloom-energys-175600335.html?.tsrc=rss"
+  },
+  {
+    "id": "n0dcf3f161d",
+    "headline": "EQT (EQT): 3 Reasons We Love This Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-08-31T16:38:24+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-3-reasons-love-163824978.html?.tsrc=rss"
+  },
+  {
+    "id": "ndbb3386815",
+    "headline": "Repurchases of shares by EQT AB during week 35, 2026",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-08-31T16:38:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/repurchases-shares-eqt-ab-during-163800904.html?.tsrc=rss"
+  },
+  {
     "id": "nef99ddd8e3",
     "headline": "Is Rescale's Cloud Expansion Another Catalyst for CRWV's AI Growth?",
     "source": "Yahoo Finance",
@@ -418,85 +498,5 @@
     ],
     "ts": "2026-08-25T15:45:12+00:00",
     "url": "https://247wallst.com/investing/2026/08/25/spacex-and-coreweave-helped-turn-dell-into-an-ai-rocket-earnings-could-bring-it-back-to-earth/?.tsrc=rss"
-  },
-  {
-    "id": "n4e2b9ffced",
-    "headline": "Why Is Bloom Energy (BE) Drawing Attention After Pelosi\u2019s Household Investment?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-25T15:06:38+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-drawing-attention-150638114.html?.tsrc=rss"
-  },
-  {
-    "id": "nd434b2b9ff",
-    "headline": "CRWV Stock Rebounds After 5-Day Slump \u2013 CoreWeave Teams With Rescale To Expand AI Cloud Reach",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-25T14:14:31+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/crwv-stock-rebounds-after-5-day-slump-coreweave-teams-with-rescale/cZYkp4vRJ8y?.tsrc=rss"
-  },
-  {
-    "id": "n45ce59b45f",
-    "headline": "CoreWeave\u2019s AI Data Center Capacity Is Exploding \u2014 Its $35 Billion Debt Load Still Makes the Stock Untouchable",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-25T14:11:07+00:00",
-    "url": "https://247wallst.com/investing/2026/08/25/coreweaves-ai-data-center-capacity-is-exploding-its-35-billion-debt-load-still-makes-the-stock-untouchable/?.tsrc=rss"
-  },
-  {
-    "id": "n3d8309dba2",
-    "headline": "Bloom Energy Climbs 5% on Nancy Pelosi Disclosure, FuelCell Rises 4%, Plug Power Advances 2%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-25T12:42:20+00:00",
-    "url": "https://247wallst.com/investing/2026/08/25/bloom-energy-climbs-5-on-nancy-pelosi-disclosure-fuelcell-rises-4-plug-power-advances-2/?.tsrc=rss"
-  },
-  {
-    "id": "nb5fdcc77a7",
-    "headline": "BE Stock Climbs Overnight: Retail Turns Bullish On Pelosi Trade",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-25T05:04:11+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-climbs-overnight-retail-turns-bullish-on-pelosi-trade/cZYkfStRJ8R?.tsrc=rss"
-  },
-  {
-    "id": "n9a35a93e9e",
-    "headline": "Nancy Pelosi Invested $3 Million in This AI Energy Play",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-24T21:14:00+00:00",
-    "url": "https://finance.yahoo.com/m/9ec3003d-84db-3775-a298-fb5ddceebf18/nancy-pelosi-invested-%243.html?.tsrc=rss"
-  },
-  {
-    "id": "n0016312166",
-    "headline": "Bloom Energy vs. Plug Power: 1 Stock Clearly Wins the AI Revenue Race",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-24T19:12:15+00:00",
-    "url": "https://www.fool.com/coverage/charts/2026/08/24/bloom-energy-vs-plug-power-1-stock-clearly-wins-the-ai-revenue-race/?.tsrc=rss"
-  },
-  {
-    "id": "n12721fcf7e",
-    "headline": "CoreWeave CFO Nitin Agrawal Sells 10,062 Shares for $924,500",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-24T18:50:01+00:00",
-    "url": "https://www.fool.com/coverage/filings/2026/08/24/coreweave-cfo-nitin-agrawal-sells-10-062-shares-for-usd924-500/?.tsrc=rss"
   }
 ]
