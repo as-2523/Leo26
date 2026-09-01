@@ -482,9 +482,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-08-31T09:25:37.598Z",
-    "windowStart": "2026-08-31T00:00:00.000Z",
-    "windowEnd": "2027-02-28T00:00:00.000Z",
+    "generatedAt": "2026-09-01T08:23:01.148Z",
+    "windowStart": "2026-09-01T00:00:00.000Z",
+    "windowEnd": "2027-03-01T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -509,13 +509,6 @@
       }
     ],
     "usedFallback": false,
-    "expectedSeries": [
-      {
-        "name": "India tour of Sri Lanka — 2 Tests (World Test Championship)",
-        "startUtc": "2026-08-01T00:00:00.000Z",
-        "endUtc": "2026-08-31T00:00:00.000Z",
-        "sourceUrl": "https://www.olympics.com/en/news/indian-cricket-team-2026-calendar-schedule-dates"
-      }
-    ]
+    "expectedSeries": []
   }
 }
