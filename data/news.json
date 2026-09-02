@@ -1,5 +1,105 @@
 [
   {
+    "id": "n5426bb02b5",
+    "headline": "Brookfield Quintupled Its AI Power Framework to $25 Billion. Bloom Gets the Opportunity, but Who Takes the Risk?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-02T11:05:05+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/brookfield-quintupled-ai-power-framework-110505014.html?.tsrc=rss"
+  },
+  {
+    "id": "n0ac4e70c3d",
+    "headline": "Solaris Energy Infrastructure Acquires Omega, Adding Specialized EPC Capabilities to Its Power Infrastructure Offering",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-09-02T11:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/solaris-energy-infrastructure-acquires-omega-110000293.html?.tsrc=rss"
+  },
+  {
+    "id": "n6dbb16d2e5",
+    "headline": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-02T10:16:00+00:00",
+    "url": "https://www.fool.com/investing/2026/09/02/forget-nebius-coreweave-has-a-new-competitor-and-i/?.tsrc=rss"
+  },
+  {
+    "id": "n119f4c0d02",
+    "headline": "Why CoreWeave Stock Gained 18% in August",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-02T05:20:00+00:00",
+    "url": "https://www.fool.com/investing/2026/09/02/why-coreweave-stock-gained-18-in-august/?.tsrc=rss"
+  },
+  {
+    "id": "n92e6c7e364",
+    "headline": "NBIS, IREN, CRWV At Risk? OpenAI Co-Founder Warns AI Agents Could Turn Neoclouds Into Cybersecurity Targets \u2014 Palo Alto CEO Offers Fix",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-02T04:55:25+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/nbis-iren-crwv-at-risk-open-ai-co-founder-warns-ai-agents-could-turn-neoclouds-into-cybersecurity-targets-palo-alto-ceo-offers-fix/cZsAW0KRJuJ?.tsrc=rss"
+  },
+  {
+    "id": "n7e88494589",
+    "headline": "CoreWeave's Interest Expense Hit $640 Million Last Quarter, 2.4 Times What It Was a Year Ago",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-02T02:36:01+00:00",
+    "url": "https://www.fool.com/investing/2026/09/01/coreweave-s-interest-expense-hit-usd640-million-last-quarter-2-4-times-what-it-was-a-year-ago/?.tsrc=rss"
+  },
+  {
+    "id": "n40e998868b",
+    "headline": "Solaris Energy Infrastructure, TETRA Technologies, SLB, and Weatherford Stocks Trade Down, What You Need To Know",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-09-01T21:22:20+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-tetra-technologies-212220800.html?.tsrc=rss"
+  },
+  {
+    "id": "n15a0cb9987",
+    "headline": "Does EQT (OM:EQT) Still Trade Below Fair Value After Coller Capital?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-09-01T21:07:46+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/does-eqt-om-eqt-still-210746676.html?.tsrc=rss"
+  },
+  {
+    "id": "n522dbc7d75",
+    "headline": "CoreWeave (CRWV) Stock May Be Cheap On Sales Yet Weak On Broader Checks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-01T18:12:44+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-stock-may-cheap-181244883.html?.tsrc=rss"
+  },
+  {
+    "id": "n44eb707c6d",
+    "headline": "Applied Digital Drops 4% as Rising Yields Hit AI Infrastructure, Cipher Mining Sinks 6%, Core Scientific Slides 3%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-01T14:03:37+00:00",
+    "url": "https://247wallst.com/investing/2026/09/01/applied-digital-drops-4-as-rising-yields-hit-ai-infrastructure-cipher-mining-sinks-6-core-scientific-slides-3/?.tsrc=rss"
+  },
+  {
     "id": "n4c1900c6f8",
     "headline": "CoreWeave's CEO Dumps Over 300,000 Shares Worth $27.3 Million",
     "source": "Yahoo Finance",
@@ -398,105 +498,5 @@
     ],
     "ts": "2026-08-26T15:30:02+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/why-applied-digital-corporation-apld-153002219.html?.tsrc=rss"
-  },
-  {
-    "id": "ncfaf4d0799",
-    "headline": "Prediction: These 3 AI Stocks Could Be the Next Big Winners",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-26T15:00:22+00:00",
-    "url": "https://247wallst.com/investing/2026/08/26/these-3-ai-stocks-could-be-the-next-big-winners/?.tsrc=rss"
-  },
-  {
-    "id": "nc037896caa",
-    "headline": "Is SEI Worth Buying as Growth Accelerates but Valuation Stays High?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-08-26T13:08:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/sei-worth-buying-growth-accelerates-130800814.html?.tsrc=rss"
-  },
-  {
-    "id": "n12517827e8",
-    "headline": "This $30 Stock Could Be Primed for a Breakout",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-26T01:50:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/25/this-30-stock-could-be-primed-for-a-breakout/?.tsrc=rss"
-  },
-  {
-    "id": "n86374aad21",
-    "headline": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-25T19:46:03+00:00",
-    "url": "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade?.tsrc=rss"
-  },
-  {
-    "id": "nc7643e10b1",
-    "headline": "Why Is Bloom Energy (BE) Stock Soaring Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-25T19:18:44+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-stock-soaring-191844776.html?.tsrc=rss"
-  },
-  {
-    "id": "n591b5a05ee",
-    "headline": "Applied Digital and IREN Climb 6% as the Digital Infrastructure Bid Broadens Past Bitcoin, Core Scientific Gains 4%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-25T18:30:28+00:00",
-    "url": "https://247wallst.com/investing/2026/08/25/applied-digital-and-iren-climb-6-as-the-digital-infrastructure-bid-broadens-past-bitcoin-core-scientific-gains-4/?.tsrc=rss"
-  },
-  {
-    "id": "n45697ec295",
-    "headline": "AI Data Centers Need More Power and Bloom Energy Could Be a Big Winner",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-25T18:30:10+00:00",
-    "url": "https://247wallst.com/investing/2026/08/25/ai-data-centers-need-more-power-and-bloom-energy-could-be-a-big-winner/?.tsrc=rss"
-  },
-  {
-    "id": "n00ffd4ab27",
-    "headline": "RUM Group Surges 11% as CEO Vows to Take On CoreWeave and Nebius, Trump Media Holds Flat",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-25T17:21:18+00:00",
-    "url": "https://247wallst.com/investing/2026/08/25/rum-group-surges-11-as-ceo-vows-to-take-on-coreweave-and-nebius-trump-media-holds-flat/?.tsrc=rss"
-  },
-  {
-    "id": "n763a5b96bd",
-    "headline": "CoreWeave Just Landed a Multibillion-Dollar AI Deal. How to Play CRWV Stock.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-25T16:02:30+00:00",
-    "url": "https://www.barchart.com/story/news/4026121/coreweave-just-landed-a-multibillion-dollar-ai-deal-how-to-play-crwv-stock?.tsrc=rss"
-  },
-  {
-    "id": "n91c6c8219b",
-    "headline": "SpaceX and CoreWeave Helped Turn Dell Into an AI Rocket. Earnings Could Bring It Back to Earth",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-25T15:45:12+00:00",
-    "url": "https://247wallst.com/investing/2026/08/25/spacex-and-coreweave-helped-turn-dell-into-an-ai-rocket-earnings-could-bring-it-back-to-earth/?.tsrc=rss"
   }
 ]
