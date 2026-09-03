@@ -1,5 +1,75 @@
 [
   {
+    "id": "ndd9d0e9f11",
+    "headline": "Should CoreWeave and Nebius Group Investors Be Worried About Circular Financing? Here's What the Numbers Say",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-03T07:40:00+00:00",
+    "url": "https://www.fool.com/investing/2026/09/03/should-coreweave-and-nebius-group-stock-investors/?.tsrc=rss"
+  },
+  {
+    "id": "nf27bf94719",
+    "headline": "3 AI Power Stocks With Revenue Over $4B",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-03T04:33:33+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-power-stocks-revenue-043333548.html?.tsrc=rss"
+  },
+  {
+    "id": "n7768fb96d9",
+    "headline": "Why Did Solaris Energy Infrastructure (SEI) Move Today?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-09-03T03:27:38+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-solaris-energy-infrastructure-032738398.html?.tsrc=rss"
+  },
+  {
+    "id": "na05c5c43cd",
+    "headline": "Bridgewater Cut Nvidia 18% and More Than Doubled Vistra. Is It Rotating From Chips to Power?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-03T03:19:29+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bridgewater-cut-nvidia-18-more-031929630.html?.tsrc=rss"
+  },
+  {
+    "id": "nc1c3070c72",
+    "headline": "Does Solaris Energy Infrastructure (SEI) Gain An Edge In Power Projects?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-09-02T17:07:51+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/does-solaris-energy-infrastructure-sei-170751945.html?.tsrc=rss"
+  },
+  {
+    "id": "nae1daadbe6",
+    "headline": "Bloom Energy and 7 More Stocks That Could Join the S&P 500 This Month",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-02T14:56:00+00:00",
+    "url": "https://finance.yahoo.com/m/4a416e31-99e7-33ee-acf1-92a31c44bbd0/bloom-energy-and-7-more.html?.tsrc=rss"
+  },
+  {
+    "id": "nb1a597b4bd",
+    "headline": "Is Bloom Energy (BE) Stock Outpacing Its Oils-Energy Peers This Year?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-02T13:40:02+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-outpacing-oils-134002788.html?.tsrc=rss"
+  },
+  {
     "id": "n5426bb02b5",
     "headline": "Brookfield Quintupled Its AI Power Framework to $25 Billion. Bloom Gets the Opportunity, but Who Takes the Risk?",
     "source": "Yahoo Finance",
@@ -428,75 +498,5 @@
     ],
     "ts": "2026-08-27T16:29:52+00:00",
     "url": "https://247wallst.com/investing/2026/08/27/plug-power-gains-4-as-risk-appetite-returns-fuelcell-inches-higher-bloom-energy-holds-flat/?.tsrc=rss"
-  },
-  {
-    "id": "n9a85c4667b",
-    "headline": "Forget Bloom Energy Stock at $207 Per Share. Buy This Hydrogen-Focused ETF Instead for Just $43.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-27T13:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/27/forget-bloom-energy-stock-buy-this-hydrogen-etf/?.tsrc=rss"
-  },
-  {
-    "id": "n263d2b4c5a",
-    "headline": "I Finally Bought Bloom Energy. Here's What Took Me So Long.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-27T10:20:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/27/i-finally-bought-bloom-energy-heres-what-took-me-s/?.tsrc=rss"
-  },
-  {
-    "id": "n1fe2d4932c",
-    "headline": "Prediction: Bloom Energy's Backlog Will Top $50 Billion Before Year's End",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-27T06:52:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/27/prediction-bloom-energys-backlog-tops-50-billion-b/?.tsrc=rss"
-  },
-  {
-    "id": "nf3188d21a3",
-    "headline": "CRWV, NBIS, IREN Stocks Jump Overnight On Nvidia\u2019s Blowout Q2 \u2014 But Palo Alto CEO Predicts Neocloud Price Crash Is Coming",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-27T02:28:20+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/crwv-nbis-iren-nvidia-q2-palo-alto-ceo-neocloud-crash/cZY8NVHRJpX?.tsrc=rss"
-  },
-  {
-    "id": "n60b177223b",
-    "headline": "Truist sees investment doubling potential in tumbling tech stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-26T23:37:00+00:00",
-    "url": "https://www.thestreet.com/investing/stocks/truist-crwv-coreweave-stock-price-target-165-usd?.tsrc=rss"
-  },
-  {
-    "id": "nfa14c839cf",
-    "headline": "Will Bloom Energy Be the Next SpaceX? What the Numbers Actually Say.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-26T16:25:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/26/will-bloom-energy-be-the-next-spacex/?.tsrc=rss"
-  },
-  {
-    "id": "nd8248141e9",
-    "headline": "Why Is Applied Digital Corporation (APLD) Up 8.4% Since Last Earnings Report?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-26T15:30:02+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-applied-digital-corporation-apld-153002219.html?.tsrc=rss"
   }
 ]
