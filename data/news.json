@@ -1,5 +1,115 @@
 [
   {
+    "id": "n2622dc1607",
+    "headline": "Jim Cramer Backs CRWV: 'If You're Going For Neoclouds, Only One I Like Is CoreWeave'",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-04T09:25:24+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/jim-cramer-backs-crwv-if-you-re-going-for-neoclouds-only-one-i-like-is-core-weave/cZswCCZRJwN?.tsrc=rss"
+  },
+  {
+    "id": "ned73fd9833",
+    "headline": "Watch These 2 Energy Stocks \u2014 S&P 500 Addition Could Come Before Quarter's End",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-04T01:16:15+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/watch-these-2-energy-stocks-s-and-p-500-addition-could-come-before-quarter-s-end/cZswnUNRJvU?.tsrc=rss"
+  },
+  {
+    "id": "n32c66d1374",
+    "headline": "What Are You Actually Buying In Applied Digital Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-04T00:06:12+00:00",
+    "url": "https://www.trefis.com/articles/614232/what-are-you-actually-buying-in-applied-digital-stock/2026-09-03?.tsrc=rss"
+  },
+  {
+    "id": "n921f4d1725",
+    "headline": "Can Vistra (VST) Still Look Cheap After a Very Large Run?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-03T22:41:09+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-still-look-cheap-224109898.html?.tsrc=rss"
+  },
+  {
+    "id": "n73aef30ffe",
+    "headline": "Applied Digital and Cipher Just Sank Together. Did Rising Yields Expose AI\u2019s Weakest Business Model?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-03T19:54:27+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-cipher-just-sank-195427638.html?.tsrc=rss"
+  },
+  {
+    "id": "n2e4e2c8991",
+    "headline": "Peter Thiel\u2019s Fund Disclosed $59 Million in This Beaten-Down Power Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-03T18:50:30+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/peter-thiel-fund-disclosed-59-185030291.html?.tsrc=rss"
+  },
+  {
+    "id": "n1ba1470938",
+    "headline": "I'm Calling It: Bloom Energy's Revenue Guidance Will Keep Surprising Wall Street Through Year-End",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-03T17:34:00+00:00",
+    "url": "https://www.fool.com/investing/2026/09/03/im-calling-it-bloom-energys-revenue-guidance-keeps/?.tsrc=rss"
+  },
+  {
+    "id": "n2572f91ff7",
+    "headline": "Bloom Energy Spikes 8% as Risk-On Tape Lifts High-Beta Names, FuelCell Ticks Up, Plug Power Stays Flat",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-03T16:20:59+00:00",
+    "url": "https://247wallst.com/investing/2026/09/03/bloom-energy-spikes-8-as-risk-on-tape-lifts-high-beta-names-fuelcell-ticks-up-plug-power-stays-flat/?.tsrc=rss"
+  },
+  {
+    "id": "n16970562aa",
+    "headline": "Why Is EOG Resources (EOG) Up 11% Since Last Earnings Report?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-09-03T15:30:12+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-eog-resources-eog-11-153012782.html?.tsrc=rss"
+  },
+  {
+    "id": "nd8ef6ca516",
+    "headline": "Solaris Energy Expands Power Infrastructure With Omega Deal",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-09-03T15:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/solaris-energy-expands-power-infrastructure-150000593.html?.tsrc=rss"
+  },
+  {
+    "id": "n5d5e311310",
+    "headline": "What Makes Bloom Energy (BE) a Compelling Investment Bet?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-03T13:29:28+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/makes-bloom-energy-compelling-investment-132928579.html?.tsrc=rss"
+  },
+  {
     "id": "ndd9d0e9f11",
     "headline": "Should CoreWeave and Nebius Group Investors Be Worried About Circular Financing? Here's What the Numbers Say",
     "source": "Yahoo Finance",
@@ -388,115 +498,5 @@
     ],
     "ts": "2026-08-28T17:07:00+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-stock-looks-170700339.html?.tsrc=rss"
-  },
-  {
-    "id": "n233d7a5595",
-    "headline": "Applied Digital Sinks 7%, IREN Tumbles 13% as Data Center Selloff Broadens Past One Name",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-28T16:43:15+00:00",
-    "url": "https://247wallst.com/investing/2026/08/28/applied-digital-sinks-7-iren-tumbles-13-as-data-center-selloff-broadens-past-one-name/?.tsrc=rss"
-  },
-  {
-    "id": "n7cf899c628",
-    "headline": "Bloom Energy vs. Eos Energy Enterprises: Which Energy Storage Stock Is a Better Buy in 2026?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-28T15:32:01+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/08/28/bloom-energy-vs-eos-energy-enterprises-which-energy-storage-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "n64cd0522a2",
-    "headline": "Bloom Energy vs. NuScale Power: Which Energy Innovator Stock Is a Better Buy in 2026?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-28T15:03:01+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/08/28/bloom-energy-vs-nuscale-power-which-energy-innovator-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "nc43a977bca",
-    "headline": "Nvidia Warns Of AI Power Bottleneck \u2014 And Bloom Energy Could Benefit",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-28T14:16:35+00:00",
-    "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61493971/nvidia-ai-power-bloom-energy?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
-  },
-  {
-    "id": "ne6ed85bd1c",
-    "headline": "Prediction: Applied Digital Stock Will Jump 156% in 3 Years. Here\u2019s the Math.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-28T13:50:01+00:00",
-    "url": "https://www.fool.com/investing/2026/08/28/prediction-applied-digital-stock-will-jump-156-in-3-years-here-s-the-math/?.tsrc=rss"
-  },
-  {
-    "id": "n3c1daad866",
-    "headline": "GE Vernova vs. Bloom Energy: Which AI-Power Bet Has More Upside Ahead?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-28T13:50:00+00:00",
-    "url": "https://www.fool.com/investing/2026/08/28/ge-vernova-vs-bloom-energy-which-ai-power-bet-has/?.tsrc=rss"
-  },
-  {
-    "id": "n9ffe1ae2d2",
-    "headline": "Bloom Energy (BE) Is Up 7.6% After Launching Power Connect To Speed Data Center Deployments",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-28T08:19:49+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/bloom-energy-7-6-launching-081949773.html?.tsrc=rss"
-  },
-  {
-    "id": "n4883125bd7",
-    "headline": "Applied Digital Stock Is Down, But Its AI Data Center Business Is Powering Up. What Gives?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-08-28T00:36:46+00:00",
-    "url": "https://www.trefis.com/articles/613277/applied-digital-stock-is-down-but-its-ai-data-center-business-is-powering-up-what-gives/2026-08-27?.tsrc=rss"
-  },
-  {
-    "id": "n1d8de760f4",
-    "headline": "Nvidia\u2019s GPU Price Hikes Look Bad for CoreWeave. Truist Says the Opposite May Be True",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-27T20:06:39+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-gpu-price-hikes-look-200639918.html?.tsrc=rss"
-  },
-  {
-    "id": "n48ee945db2",
-    "headline": "Is Vistra (VST) Undervalued As Power Demand Expectations Stay In Focus?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-08-27T19:12:31+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/vistra-vst-undervalued-power-demand-191231844.html?.tsrc=rss"
-  },
-  {
-    "id": "nc43750c86f",
-    "headline": "Plug Power Gains 4% as Risk Appetite Returns; FuelCell Inches Higher, Bloom Energy Holds Flat",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-27T16:29:52+00:00",
-    "url": "https://247wallst.com/investing/2026/08/27/plug-power-gains-4-as-risk-appetite-returns-fuelcell-inches-higher-bloom-energy-holds-flat/?.tsrc=rss"
   }
 ]
