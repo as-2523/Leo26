@@ -1,5 +1,15 @@
 [
   {
+    "id": "n322621007c",
+    "headline": "I Love Bloom Energy for 1 Reason, and It's Not the Backlog",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-05T10:50:00+00:00",
+    "url": "https://www.fool.com/investing/2026/09/05/i-love-bloom-energy-for-1-reason-and-its-not-the-b/?.tsrc=rss"
+  },
+  {
     "id": "n537f8ae514",
     "headline": "Vistra\u2019s CEO Bought $1.17 Million of Stock After the Selloff. Is AI Power Demand Mispriced?",
     "source": "Yahoo Finance",
@@ -488,15 +498,5 @@
     ],
     "ts": "2026-08-31T16:38:00+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/repurchases-shares-eqt-ab-during-163800904.html?.tsrc=rss"
-  },
-  {
-    "id": "nef99ddd8e3",
-    "headline": "Is Rescale's Cloud Expansion Another Catalyst for CRWV's AI Growth?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-31T13:17:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/rescales-cloud-expansion-another-catalyst-131700605.html?.tsrc=rss"
   }
 ]
