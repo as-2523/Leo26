@@ -1,5 +1,55 @@
 [
   {
+    "id": "ne3f82c6dd1",
+    "headline": "Nebius Stock Up 254% in a Year: Should You Buy, Hold or Sell?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-07T12:38:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-254-buy-hold-123800481.html?.tsrc=rss"
+  },
+  {
+    "id": "n310968f69a",
+    "headline": "Bloom Energy Up 52% Since Pelosi's Bottom Buy: What Does She Know?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-07T04:12:00+00:00",
+    "url": "https://beincrypto.com/bloom-energy-pelosi-bottom-buy/?.tsrc=rss"
+  },
+  {
+    "id": "n8f95a577ce",
+    "headline": "Nvidia\u2019s $99 Billion Portfolio Is Turning Intel and CoreWeave Into an AI Stress Test",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-07T03:42:18+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-99-billion-portfolio-turning-034218904.html?.tsrc=rss"
+  },
+  {
+    "id": "n493766e838",
+    "headline": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-07T02:22:00+00:00",
+    "url": "https://www.fool.com/investing/2026/09/06/nuclear-stock-face-off-is-stock-or-stock-the-bette/?.tsrc=rss"
+  },
+  {
+    "id": "nec842a1717",
+    "headline": "Analyzing Applied Digital vs. IREN: Accelerating Upward Trajectories vs. Sequential Contractions in Quarterly Revenue Generation",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-06T21:06:13+00:00",
+    "url": "https://www.fool.com/coverage/charts/2026/09/06/analyzing-applied-digital-vs-iren-accelerating-upward-trajectories-vs-sequential-contractions-in-quarterly-revenue-generation/?.tsrc=rss"
+  },
+  {
     "id": "n322621007c",
     "headline": "I Love Bloom Energy for 1 Reason, and It's Not the Backlog",
     "source": "Yahoo Finance",
@@ -448,55 +498,5 @@
     ],
     "ts": "2026-09-01T01:27:19+00:00",
     "url": "https://www.trefis.com/articles/613700/vistra-stock-is-down-but-is-this-power-producers-dip-an-opportunity/2026-08-31?.tsrc=rss"
-  },
-  {
-    "id": "ne9dffdb77c",
-    "headline": "CoreWeave GC Kristen McVeety Sells 2,100 Shares",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-08-31T20:32:01+00:00",
-    "url": "https://www.fool.com/coverage/filings/2026/08/31/coreweave-gc-kristen-mcveety-sells-2100-shares/?.tsrc=rss"
-  },
-  {
-    "id": "ndc2d54127a",
-    "headline": "Is Bloom Energy (BE) Priced For Perfection After AI Demand?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-31T19:05:12+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-priced-perfection-ai-190512221.html?.tsrc=rss"
-  },
-  {
-    "id": "n16904885f4",
-    "headline": "Will Faster Installations Drive Bloom Energy's AI Expansion?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-08-31T17:56:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/faster-installations-drive-bloom-energys-175600335.html?.tsrc=rss"
-  },
-  {
-    "id": "n0dcf3f161d",
-    "headline": "EQT (EQT): 3 Reasons We Love This Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-08-31T16:38:24+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-3-reasons-love-163824978.html?.tsrc=rss"
-  },
-  {
-    "id": "ndbb3386815",
-    "headline": "Repurchases of shares by EQT AB during week 35, 2026",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-08-31T16:38:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/repurchases-shares-eqt-ab-during-163800904.html?.tsrc=rss"
   }
 ]
