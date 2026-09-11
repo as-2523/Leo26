@@ -1,19 +1,11 @@
 {
   "ticker": "PUMP",
-  "current_price": 12.22,
-  "prev_close": 12.03,
-  "day_change_pct": 1.58,
+  "current_price": 11.5,
+  "prev_close": 12.22,
+  "day_change_pct": -5.89,
   "week_52_high": 18.5,
   "week_52_low": 4.635,
   "history": [
-    {
-      "date": "2026-05-01",
-      "open": 16.96,
-      "high": 17.21,
-      "low": 16.37,
-      "close": 16.62,
-      "volume": 3785500
-    },
     {
       "date": "2026-05-04",
       "open": 15.96,
@@ -725,8 +717,16 @@
       "low": 11.875,
       "close": 12.22,
       "volume": 2325700
+    },
+    {
+      "date": "2026-09-10",
+      "open": 12.37,
+      "high": 12.37,
+      "low": 11.46,
+      "close": 11.5,
+      "volume": 4617700
     }
   ],
-  "as_of": "2026-09-10T11:41:25.130480+00:00",
+  "as_of": "2026-09-11T11:42:01.151184+00:00",
   "stale": false
 }
