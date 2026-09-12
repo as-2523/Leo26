@@ -1,5 +1,145 @@
 [
   {
+    "id": "n2ac048b7ee",
+    "headline": "David Tepper makes surprising double bet on AI's biggest bottleneck",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-12T01:03:00+00:00",
+    "url": "https://www.thestreet.com/investing/david-tepper-adds-coreweave-spacex-stock-ai-bottleneck?.tsrc=rss"
+  },
+  {
+    "id": "n661aaf73b9",
+    "headline": "Oracle Just Showed a Less Painful Way to Finance AI Clouds. That\u2019s Awkward for CoreWeave",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-11T22:50:38+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-just-showed-less-painful-225038778.html?.tsrc=rss"
+  },
+  {
+    "id": "nf7078a1c37",
+    "headline": "Stocks making big moves this week: Solaris Energy Infrastructure, Revolve, AeroVironment, DigitalOcean, and SoFi",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-09-11T22:43:05+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-224305749.html?.tsrc=rss"
+  },
+  {
+    "id": "n4f22616fbc",
+    "headline": "Oracle's AI Cloud Growth Lifts CoreWeave, Nebius and IREN",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-11T21:10:41+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracles-ai-cloud-growth-lifts-211041374.html?.tsrc=rss"
+  },
+  {
+    "id": "n40b4483e4f",
+    "headline": "Solaris (SEI) Lifts EBITDA Guidance, But Is the Stock Too Expensive?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-09-11T20:17:15+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-sei-lifts-ebitda-guidance-201715510.html?.tsrc=rss"
+  },
+  {
+    "id": "n5787b65f01",
+    "headline": "Is Vistra Stock Underperforming the Nasdaq?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-11T18:40:21+00:00",
+    "url": "https://www.barchart.com/story/news/4563283/is-vistra-stock-underperforming-the-nasdaq?.tsrc=rss"
+  },
+  {
+    "id": "n43cab14af3",
+    "headline": "CoreWeave Is My Top IPO Pick Right Now: Over 75% of Its Revenue Is Locked In Through Contracts",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-11T17:50:00+00:00",
+    "url": "https://www.fool.com/investing/2026/09/11/coreweave-is-my-top-ipo-pick-right-now-x-of-its-re/?.tsrc=rss"
+  },
+  {
+    "id": "n01eb43c0b9",
+    "headline": "TeraWulf Rallies 7% as Miner Selloff Reverses; Applied Digital Gains 4%, IREN Sits Out the Rally",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-11T16:50:43+00:00",
+    "url": "https://247wallst.com/investing/2026/09/11/terawulf-rallies-7-as-miner-selloff-reverses-applied-digital-gains-4-iren-sits-out-the-rally/?.tsrc=rss"
+  },
+  {
+    "id": "n63d29bfb11",
+    "headline": "3 Reasons to Avoid APLD and 1 Stock to Buy Instead",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-11T16:35:05+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-apld-1-163505596.html?.tsrc=rss"
+  },
+  {
+    "id": "ne8ecf1a0ae",
+    "headline": "Stock Of The Day: AI Energy Play Bloom Energy Nears Buy Point, S&P 500 Entry",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-11T16:03:43+00:00",
+    "url": "https://finance.yahoo.com/m/f5d942f5-6923-34b7-ad17-d8aa49ee7151/stock-of-the-day%3A-ai-energy.html?.tsrc=rss"
+  },
+  {
+    "id": "n50861f1440",
+    "headline": "Bloom Energy Hits the Road with ESPN College Football Campus Tour to Bring the Power Conversation to Communities Nationwide",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-11T16:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/bloom-energy-hits-road-espn-160000656.html?.tsrc=rss"
+  },
+  {
+    "id": "nb81732d12c",
+    "headline": "Bloom Energy Climbs 7% as Fuel Cell Bid Spreads Beyond Its S&P 500 Add, FuelCell Energy Rises 4%, Plug Power Inches Higher",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-11T15:49:05+00:00",
+    "url": "https://247wallst.com/investing/2026/09/11/bloom-energy-climbs-7-as-fuel-cell-bid-spreads-beyond-its-sp-500-add-fuelcell-energy-rises-4-plug-power-inches-higher/?.tsrc=rss"
+  },
+  {
+    "id": "n2f57f51d9d",
+    "headline": "AMD, BE, CRWV In Focus: Situational Awareness Has Been Reportedly Buying Options Tied To These Stocks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-11T15:48:11+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/amd-be-crwv-in-focus-situational-awareness-has-been-reportedly-buying-options-tied-to-these-stocks/cZtXVIiRBbT?.tsrc=rss"
+  },
+  {
+    "id": "n62d76e5ab5",
+    "headline": "What's Going On With Vistra Stock Friday?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-11T10:32:02+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-vistra-stock-friday-103202125.html?.tsrc=rss"
+  },
+  {
     "id": "n12cf7effee",
     "headline": "Vistra Prices Registered Offering of $1.5 Billion of Junior Subordinated Notes",
     "source": "Yahoo Finance",
@@ -358,145 +498,5 @@
     ],
     "ts": "2026-09-09T00:09:06+00:00",
     "url": "https://www.trefis.com/articles/614527/the-bloom-energy-stock-signal-hiding-behind-the-demand-story/2026-09-08?.tsrc=rss"
-  },
-  {
-    "id": "n9da1457c92",
-    "headline": "Why CoreWeave Stock Soared 12% Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-08T20:51:53+00:00",
-    "url": "https://www.fool.com/investing/2026/09/08/why-coreweave-stock-soared-xx-today/?.tsrc=rss"
-  },
-  {
-    "id": "nf730b0b08f",
-    "headline": "Top Stock Picks for Week of September 7, 2026",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-08T20:17:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-picks-week-september-201700610.html?.tsrc=rss"
-  },
-  {
-    "id": "n2760bac77f",
-    "headline": "Vistra Is Down 30% From Its High. Here's What I'd Do Now.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-09-08T18:50:00+00:00",
-    "url": "https://www.fool.com/investing/2026/09/08/vistra-is-down-30-from-its-high-heres-what-id-do/?.tsrc=rss"
-  },
-  {
-    "id": "ne1d93a3ad9",
-    "headline": "Global Data Center Market Projected to Reach $517 Billion By 2030",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-09-08T18:11:00+00:00",
-    "url": "https://finance.yahoo.com/technology/articles/global-data-center-market-projected-181100367.html?.tsrc=rss"
-  },
-  {
-    "id": "n20199156a1",
-    "headline": "From Oil Fields to Data Centers. Why This Stock Is Surging 16% Today.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-09-08T15:45:00+00:00",
-    "url": "https://finance.yahoo.com/m/accbc4ae-ebf7-398f-8074-5f5997d66bdc/from-oil-fields-to-data.html?.tsrc=rss"
-  },
-  {
-    "id": "n4657e17f63",
-    "headline": "IREN Surges 7% on Conditional ERCOT Status for 2GW Sweetwater Hub, Applied Digital Climbs 6%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-09-08T14:10:59+00:00",
-    "url": "https://247wallst.com/investing/2026/09/08/iren-surges-7-on-conditional-ercot-status-for-2gw-sweetwater-hub-applied-digital-climbs-6/?.tsrc=rss"
-  },
-  {
-    "id": "nb86cf5bfaa",
-    "headline": "Investors Heavily Search Vistra Corp. (VST): Here is What You Need to Know",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-09-08T13:00:06+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-vistra-corp-130006340.html?.tsrc=rss"
-  },
-  {
-    "id": "n5e40416591",
-    "headline": "Why Is SEI Stock Rising Today?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-09-08T12:56:56+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/why-is-sei-stock-rising-today-sept-8-2026/cZt3x4PRJUj?.tsrc=rss"
-  },
-  {
-    "id": "n12325dd2fe",
-    "headline": "Billionaire David Tepper Just Bought These 2 Artificial Intelligence (AI) Stocks That Wall Street Thinks Could Soar by 50% or More",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-08T12:50:01+00:00",
-    "url": "https://www.fool.com/investing/2026/09/08/billionaire-david-tepper-just-bought-these-2-artificial-intelligence-ai-stocks-that-wall-street-thinks-could-soar-by-50-or-more/?.tsrc=rss"
-  },
-  {
-    "id": "n8bc2e2196e",
-    "headline": "Solaris Energy Infrastructure Shares Rise After Raising 2026 EBITDA Guidance",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-09-08T12:49:50+00:00",
-    "url": "https://investorshub.advfn.com/market-news/article/35826/solaris-energy-infrastructure-shares-rise-after-raising-2026-ebitda-guidance?.tsrc=rss"
-  },
-  {
-    "id": "nf73f1354aa",
-    "headline": "Bloom Energy Is Joining the S&P 500: Is the Stock Still a Buy After Its Massive Run?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-08T11:05:00+00:00",
-    "url": "https://www.fool.com/investing/2026/09/08/bloom-energy-is-joining-the-sp-500-is-the-stock-st/?.tsrc=rss"
-  },
-  {
-    "id": "n8079e7a9c3",
-    "headline": "Bloom Energy Shares Rise After S&P 500 Inclusion Confirmed",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-08T10:48:38+00:00",
-    "url": "https://investorshub.advfn.com/market-news/article/35808/bloom-energy-shares-rise-after-sp-500-inclusion-confirmed?.tsrc=rss"
-  },
-  {
-    "id": "n310af9cc6c",
-    "headline": "Solaris Energy Infrastructure Raises 2026 and Initiates First Quarter 2027 Guidance",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-09-08T10:45:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/solaris-energy-infrastructure-raises-2026-104500051.html?.tsrc=rss"
-  },
-  {
-    "id": "n32b564c6d4",
-    "headline": "Weeks After Nancy Pelosi Disclosed A $3 Million Bet, Bloom Energy Is Joining The S&P 500 And The Stock Is Soaring",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-08T10:20:10+00:00",
-    "url": "https://247wallst.com/investing/2026/09/08/weeks-after-nancy-pelosi-disclosed-a-3-million-bet-bloom-energy-is-joining-the-sp-500-and-the-stock-is-soaring/?.tsrc=rss"
   }
 ]
