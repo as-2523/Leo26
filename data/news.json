@@ -1,5 +1,35 @@
 [
   {
+    "id": "n92070c1036",
+    "headline": "Louis Navellier is buying 3 headline-making stocks, including Google",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-13T02:33:00+00:00",
+    "url": "https://www.thestreet.com/investing/stocks/louis-navellier-is-buying-3-headline-making-stocks-including-google?.tsrc=rss"
+  },
+  {
+    "id": "ndcd4aed84c",
+    "headline": "Cramer Asked Who Was Buying Gigantic Bloom Energy Calls. A Pelosi Filing Named Two of the Same Stocks Weeks Earlier.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-12T14:50:41+00:00",
+    "url": "https://247wallst.com/investing/2026/09/12/cramer-asked-who-was-buying-gigantic-bloom-energy-calls-a-pelosi-filing-named-two-of-the-same-stocks-weeks-earlier/?.tsrc=rss"
+  },
+  {
+    "id": "n13e4dfbc71",
+    "headline": "Dear Bloom Energy Stock Fans, Mark Your Calendars for September 21",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-12T13:00:02+00:00",
+    "url": "https://www.barchart.com/story/news/4572910/dear-bloom-energy-stock-fans-mark-your-calendars-for-september-21?.tsrc=rss"
+  },
+  {
     "id": "n2ac048b7ee",
     "headline": "David Tepper makes surprising double bet on AI's biggest bottleneck",
     "source": "Yahoo Finance",
@@ -468,35 +498,5 @@
     ],
     "ts": "2026-09-09T01:35:18+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/why-solaris-energy-infrastructure-sei-013518182.html?.tsrc=rss"
-  },
-  {
-    "id": "ndee8adbaa0",
-    "headline": "3 Stocks Soon Joining the S&P 500",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-09T00:38:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-soon-joining-p-003800655.html?.tsrc=rss"
-  },
-  {
-    "id": "n2d79d14ea6",
-    "headline": "Why Bloom Energy (BE) Stock Is Trading Up Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-09T00:31:18+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-stock-trading-003118317.html?.tsrc=rss"
-  },
-  {
-    "id": "n6da2b7f4ae",
-    "headline": "The Bloom Energy Stock Signal Hiding Behind The Demand Story",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-09T00:09:06+00:00",
-    "url": "https://www.trefis.com/articles/614527/the-bloom-energy-stock-signal-hiding-behind-the-demand-story/2026-09-08?.tsrc=rss"
   }
 ]
