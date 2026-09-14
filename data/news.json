@@ -1,5 +1,45 @@
 [
   {
+    "id": "n24f2ee2ccc",
+    "headline": "Vistra\u2019s Price Has Edged Downward Throught 2026: One Analyst Says It\u2019s Due to Double Soon.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-14T11:49:06+00:00",
+    "url": "https://247wallst.com/investing/2026/09/14/vistras-price-has-edged-downward-throught-2026-one-analyst-says-its-due-to-double-soon/?.tsrc=rss"
+  },
+  {
+    "id": "n7129a9539b",
+    "headline": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-14T10:15:18+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/article/ai-warnings-by-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-could-hammer-this-momentum-stock-101518585.html?.tsrc=rss"
+  },
+  {
+    "id": "nd2ee58201a",
+    "headline": "Nvidia\u2019s Jensen Huang Just Delivered a Huge Vote of Confidence to CoreWeave and Nebius",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-13T18:30:02+00:00",
+    "url": "https://www.barchart.com/story/news/4580433/nvidias-jensen-huang-just-delivered-a-huge-vote-of-confidence-to-coreweave-and-nebius?.tsrc=rss"
+  },
+  {
+    "id": "n2ba46e0d24",
+    "headline": "NVIDIA\u2019s Older GPUs Still Earn Rent. What That Does and Doesn\u2019t Prove for CoreWeave",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-13T14:02:10+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html?.tsrc=rss"
+  },
+  {
     "id": "n92070c1036",
     "headline": "Louis Navellier is buying 3 headline-making stocks, including Google",
     "source": "Yahoo Finance",
@@ -458,45 +498,5 @@
     ],
     "ts": "2026-09-09T14:52:54+00:00",
     "url": "https://finance.yahoo.com/markets/article/coreweave-ceo-americas-data-center-backlash-wont-stop-the-ai-build-out-145254372.html?.tsrc=rss"
-  },
-  {
-    "id": "n854f2f84c4",
-    "headline": "Vistra Has Edged Lower Throughout 2026: One Bank Says It\u2019s On The Verge of Doubling",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-09-09T11:26:10+00:00",
-    "url": "https://247wallst.com/investing/2026/09/09/vistra-has-edged-lower-throughout-2026-one-bank-says-its-on-the-verge-of-doubling/?.tsrc=rss"
-  },
-  {
-    "id": "n0b3a1e14d4",
-    "headline": "Bloom Energy Delivered Power to an Oracle Data Center in 55 Days. Here's Why That Number Matters More Than the Revenue Beat.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-09T10:05:00+00:00",
-    "url": "https://www.fool.com/investing/2026/09/09/bloom-energy-delivered-power-to-an-oracle-data-cen/?.tsrc=rss"
-  },
-  {
-    "id": "nd190b89686",
-    "headline": "Solaris Energy (SEI) Rockets 16% on Upbeat H2, Hedge Fund Holdings Jump",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-09-09T02:56:19+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-sei-rockets-16-025619506.html?.tsrc=rss"
-  },
-  {
-    "id": "nd60da88de5",
-    "headline": "Why Solaris Energy Infrastructure (SEI) Stock Is Up Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-09-09T01:35:18+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-solaris-energy-infrastructure-sei-013518182.html?.tsrc=rss"
   }
 ]
