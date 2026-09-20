@@ -1,5 +1,45 @@
 [
   {
+    "id": "nffc91bd6b0",
+    "headline": "Plug Power vs. Bloom Energy: Which Hydrogen-Adjacent Stock Actually Has a Real Business Model?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-20T06:25:00+00:00",
+    "url": "https://www.fool.com/investing/2026/09/20/plug-power-vs-bloom-energy-which-hydrogen-adjacent/?.tsrc=rss"
+  },
+  {
+    "id": "nb850018efd",
+    "headline": "Bloom Energy Is Riding the Data Center Boom to a $25 Billion Backlog. Plug Power Is Passing on It. Here's Why.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-19T22:25:00+00:00",
+    "url": "https://www.fool.com/investing/2026/09/19/bloom-energy-is-riding-the-data-center-boom-to-a-2/?.tsrc=rss"
+  },
+  {
+    "id": "n094b4c2e5a",
+    "headline": "CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-19T19:32:52+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-charging-more-ai-193252050.html?.tsrc=rss"
+  },
+  {
+    "id": "n19eb0640f8",
+    "headline": "The Unexpected Rival Threatening to Shake Up CoreWeave's Market",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-19T17:47:00+00:00",
+    "url": "https://www.fool.com/investing/2026/09/19/surprise-rival-threatening-to-shake-up-coreweave/?.tsrc=rss"
+  },
+  {
     "id": "n74725f3530",
     "headline": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
     "source": "Yahoo Finance",
@@ -458,45 +498,5 @@
     ],
     "ts": "2026-09-15T14:43:15+00:00",
     "url": "https://www.fool.com/coverage/better-buy/2026/09/15/bloom-energy-vs-ge-vernova-which-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "n82200de007",
-    "headline": "Wall Street Analysts See Vistra (VST) as a Buy: Should You Invest?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-09-15T13:30:03+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-vistra-133003192.html?.tsrc=rss"
-  },
-  {
-    "id": "n0a78ac4bb6",
-    "headline": "Bernstein Drops Stark Take On CoreWeave Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-15T12:25:46+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/bernstein-drops-stark-coreweave-stock-122546789.html?.tsrc=rss"
-  },
-  {
-    "id": "n7b5736fbc6",
-    "headline": "CoreWeave Imploded Over The Last Few Months: One High-Conviction Wall Street Pro Says 200% Gains Start Now",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-15T11:45:51+00:00",
-    "url": "https://247wallst.com/investing/2026/09/15/coreweave-imploded-over-the-last-few-months-one-high-conviction-wall-street-pro-says-200-gains-start-now/?.tsrc=rss"
-  },
-  {
-    "id": "n559ea9e645",
-    "headline": "The AI Company You Haven't Heard of -- But Should Keep on Your Radar",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-15T11:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/09/15/the-ai-company-you-havent-heard-of-but-should-keep/?.tsrc=rss"
   }
 ]
