@@ -1,19 +1,11 @@
 {
   "ticker": "LBRT",
-  "current_price": 19.33,
-  "prev_close": 19.11,
-  "day_change_pct": 1.15,
+  "current_price": 18.85,
+  "prev_close": 19.33,
+  "day_change_pct": -2.48,
   "week_52_high": 34.478,
-  "week_52_low": 10.685,
+  "week_52_low": 11.52,
   "history": [
-    {
-      "date": "2026-05-12",
-      "open": 33.1363,
-      "high": 33.1859,
-      "low": 31.9252,
-      "close": 32.9874,
-      "volume": 3613100
-    },
     {
       "date": "2026-05-13",
       "open": 33.4341,
@@ -725,8 +717,16 @@
       "low": 19.01,
       "close": 19.33,
       "volume": 5222600
+    },
+    {
+      "date": "2026-09-21",
+      "open": 19.21,
+      "high": 19.25,
+      "low": 18.59,
+      "close": 18.85,
+      "volume": 2807800
     }
   ],
-  "as_of": "2026-09-21T13:10:56.443769+00:00",
+  "as_of": "2026-09-22T11:57:26.472181+00:00",
   "stale": false
 }
