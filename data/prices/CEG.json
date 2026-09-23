@@ -1,19 +1,11 @@
 {
   "ticker": "CEG",
-  "current_price": 262.11,
-  "prev_close": 254.71,
-  "day_change_pct": 2.91,
+  "current_price": 263.46,
+  "prev_close": 262.11,
+  "day_change_pct": 0.52,
   "week_52_high": 412.7,
   "week_52_low": 228.63,
   "history": [
-    {
-      "date": "2026-05-13",
-      "open": 288.3082,
-      "high": 291.0995,
-      "low": 268.1505,
-      "close": 274.0423,
-      "volume": 6653700
-    },
     {
       "date": "2026-05-14",
       "open": 273.8529,
@@ -725,8 +717,16 @@
       "low": 250.55,
       "close": 262.11,
       "volume": 3398800
+    },
+    {
+      "date": "2026-09-22",
+      "open": NaN,
+      "high": NaN,
+      "low": NaN,
+      "close": NaN,
+      "volume": 2420400
     }
   ],
-  "as_of": "2026-09-22T11:57:15.089311+00:00",
+  "as_of": "2026-09-23T11:57:58.390912+00:00",
   "stale": false
 }
