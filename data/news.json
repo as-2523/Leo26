@@ -1,5 +1,125 @@
 [
   {
+    "id": "nbb826b2c5c",
+    "headline": "JPMorgan upgrades CoreWeave on stronger compute pricing",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-24T11:31:49+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-upgrades-coreweave-stronger-compute-113149967.html?.tsrc=rss"
+  },
+  {
+    "id": "n4b957d3c92",
+    "headline": "This Artificial Intelligence (AI) Stock Could Soar by 63%, According to Wall Street",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-24T10:14:01+00:00",
+    "url": "https://www.fool.com/investing/2026/09/24/this-artificial-intelligence-ai-stock-could-soar-by-63-according-to-wall-street/?.tsrc=rss"
+  },
+  {
+    "id": "na78a714654",
+    "headline": "CoreWeave Priced an Upsized $3.7 Billion Convertible Note as Capex Spending Spikes. What That Means for CRWV Stock Fans.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-23T22:35:33+00:00",
+    "url": "https://www.barchart.com/story/news/4766246/coreweave-priced-an-upsized-3-7-billion-convertible-note-as-capex-spending-spikes-what-that-means-for-crwv-stock-fans?.tsrc=rss"
+  },
+  {
+    "id": "n1f16c56254",
+    "headline": "Bloom Energy vs. Marathon Petroleum: Which Popular Energy Stock Is the Better Buy?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-23T22:07:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/bloom-energy-vs-marathon-petroleum-220700133.html?.tsrc=rss"
+  },
+  {
+    "id": "nadc088afb6",
+    "headline": "Vistra Corp. (VST) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-23T21:45:06+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-sees-more-214506629.html?.tsrc=rss"
+  },
+  {
+    "id": "n562a5a166b",
+    "headline": "CoreWeave Becomes the Only Provider to Earn SemiAnalysis' Platinum ClusterMAX\u2122 Rating Three Consecutive Times",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-23T21:31:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-becomes-only-provider-earn-213100780.html?.tsrc=rss"
+  },
+  {
+    "id": "n85ddccf4a8",
+    "headline": "CoreWeave Just Scored Another Big AI Win",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-23T19:33:21+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-just-scored-another-big-193321375.html?.tsrc=rss"
+  },
+  {
+    "id": "n4c0a5c1e78",
+    "headline": "Morgan Stanley Sees a 33-GW AI Power Shortfall. These 2 Stocks Could Help Fill It",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-23T18:40:07+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-33-gw-184007932.html?.tsrc=rss"
+  },
+  {
+    "id": "nc26e956bc3",
+    "headline": "Should You Sell Your APLD Stock Now?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-23T17:07:19+00:00",
+    "url": "https://www.trefis.com/articles/616276/should-you-sell-your-apld-stock-now/2026-09-23?.tsrc=rss"
+  },
+  {
+    "id": "ne4edacefb6",
+    "headline": "Plug Power vs. Bloom Energy: Which Clean Energy Stock Has More Upside?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-23T15:50:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/plug-power-vs-bloom-energy-155000011.html?.tsrc=rss"
+  },
+  {
+    "id": "nb0afb370a2",
+    "headline": "Bloom Energy Stock Is Up 218% in 2026 and Just Joined the S&P 500. Is It Too Late to Buy?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-23T14:59:37+00:00",
+    "url": "https://www.tikr.com/blog/bloom-energy-stock-is-up-218-in-2026-and-just-joined-the-sp-500-is-it-too-late-to-buy?ref=yahoofinance&.tsrc=rss"
+  },
+  {
+    "id": "n84262ba42d",
+    "headline": "EQT Corporation Stock: Is EQT Underperforming the Energy Sector?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-09-23T10:24:27+00:00",
+    "url": "https://www.barchart.com/story/news/4750582/eqt-corporation-stock-is-eqt-underperforming-the-energy-sector?.tsrc=rss"
+  },
+  {
     "id": "n6ff3df3bb3",
     "headline": "Top 3 Grid Stocks To Watch In September 2026",
     "source": "Yahoo Finance",
@@ -378,125 +498,5 @@
     ],
     "ts": "2026-09-20T19:26:46+00:00",
     "url": "https://www.fool.com/investing/2026/09/20/bloom-energys-time-to-power-moat/?.tsrc=rss"
-  },
-  {
-    "id": "n5631153148",
-    "headline": "CoreWeave Rises After Going Live With Vera Rubin Racks. What This Means for CRWV Stock.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-20T18:30:02+00:00",
-    "url": "https://www.barchart.com/story/news/4702590/coreweave-rises-after-going-live-with-vera-rubin-racks-what-this-means-for-crwv-stock?.tsrc=rss"
-  },
-  {
-    "id": "nf5bc2836cc",
-    "headline": "Bloom Energy (BE) Unveils a New Power Play for the AI Boom",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-20T16:45:10+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-unveils-power-play-164510735.html?.tsrc=rss"
-  },
-  {
-    "id": "nffc91bd6b0",
-    "headline": "Plug Power vs. Bloom Energy: Which Hydrogen-Adjacent Stock Actually Has a Real Business Model?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-20T06:25:00+00:00",
-    "url": "https://www.fool.com/investing/2026/09/20/plug-power-vs-bloom-energy-which-hydrogen-adjacent/?.tsrc=rss"
-  },
-  {
-    "id": "nb850018efd",
-    "headline": "Bloom Energy Is Riding the Data Center Boom to a $25 Billion Backlog. Plug Power Is Passing on It. Here's Why.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-19T22:25:00+00:00",
-    "url": "https://www.fool.com/investing/2026/09/19/bloom-energy-is-riding-the-data-center-boom-to-a-2/?.tsrc=rss"
-  },
-  {
-    "id": "n094b4c2e5a",
-    "headline": "CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-19T19:32:52+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-charging-more-ai-193252050.html?.tsrc=rss"
-  },
-  {
-    "id": "n19eb0640f8",
-    "headline": "The Unexpected Rival Threatening to Shake Up CoreWeave's Market",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-19T17:47:00+00:00",
-    "url": "https://www.fool.com/investing/2026/09/19/surprise-rival-threatening-to-shake-up-coreweave/?.tsrc=rss"
-  },
-  {
-    "id": "n74725f3530",
-    "headline": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-18T21:38:30+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/crwv-arkb-crcl-coin-cathie-wood-biggest-ark-invest-trades-week/cZtH7mZRBEg?.tsrc=rss"
-  },
-  {
-    "id": "n4ae5831fee",
-    "headline": "Bloom Energy Honors Louisville First Responders During ESPN College Football Campus Tour",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-18T19:49:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/bloom-energy-honors-louisville-first-194900948.html?.tsrc=rss"
-  },
-  {
-    "id": "n32cf0414c8",
-    "headline": "Applied Digital Co-Founder's Stake in the Company Drops by Nearly 50,000 Shares Worth $1.3 Million",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-09-18T18:35:29+00:00",
-    "url": "https://www.fool.com/coverage/filings/2026/09/18/applied-digital-co-founder-s-stake-in-the-company-drops-by-nearly-50-000-shares-worth-usd1-3-million/?.tsrc=rss"
-  },
-  {
-    "id": "nee3468800d",
-    "headline": "A $25 Billion Reason to Buy CoreWeave Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-18T17:48:56+00:00",
-    "url": "https://www.barchart.com/story/news/4684161/a-25-billion-reason-to-buy-coreweave-stock?.tsrc=rss"
-  },
-  {
-    "id": "n1a492be55c",
-    "headline": "Jim Cramer on CoreWeave (CRWV): \u201cI Think It\u2019s Going to Be Okay to Buy\u201d",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-18T17:29:10+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-coreweave-crwv-think-172910718.html?.tsrc=rss"
-  },
-  {
-    "id": "ned6416edb2",
-    "headline": "CoreWeave's $104 billion backlog comes with a costly catch",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-18T13:54:48+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweaves-104-billion-backlog-comes-135448034.html?.tsrc=rss"
   }
 ]
