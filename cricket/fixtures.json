@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-1y26ym4",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "West Indies",
-      "startTimeUtc": "2026-09-27T08:30:00.000Z",
-      "hasStartTime": true,
-      "format": "ODI",
-      "formatLabel": "odi",
-      "series": "West Indies tour of India, 2026",
-      "seriesStartUtc": "2026-09-27T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-17T00:00:00.000Z",
-      "venue": "Greenfield International Stadium, Thiruvananthapuram",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-1ykju8m",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -299,117 +284,12 @@
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
       "venue": "Hagley Oval, Christchurch",
       "source": "cricapi"
-    },
-    {
-      "id": "fx-120z8ri",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "England A Women",
-      "startTimeUtc": "2026-11-30T07:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "England A Women tour of India 2026",
-      "seriesStartUtc": "2026-11-30T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "Maharashtra Cricket Association Stadium, Pune",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-unzo2n",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "England A Women",
-      "startTimeUtc": "2026-12-03T12:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "England A Women tour of India 2026",
-      "seriesStartUtc": "2026-11-30T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "Maharashtra Cricket Association Stadium, Pune",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-upei75",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "England A Women",
-      "startTimeUtc": "2026-12-05T12:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "England A Women tour of India 2026",
-      "seriesStartUtc": "2026-11-30T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "Maharashtra Cricket Association Stadium, Pune",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1awdpao",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "England A Women",
-      "startTimeUtc": "2026-12-08T03:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "England A Women tour of India 2026",
-      "seriesStartUtc": "2026-11-30T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "Dr DY Patil Sports Academy, Navi Mumbai",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-xz1x4a",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "England A Women",
-      "startTimeUtc": "2026-12-11T08:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "England A Women tour of India 2026",
-      "seriesStartUtc": "2026-11-30T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "Dr DY Patil Sports Academy, Navi Mumbai",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-r0nsbx",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "England A Women",
-      "startTimeUtc": "2026-12-14T08:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "England A Women tour of India 2026",
-      "seriesStartUtc": "2026-11-30T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "Dr DY Patil Sports Academy, Navi Mumbai",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1qs2xo2",
-      "teamId": "india-a-women",
-      "teamName": "India A Women",
-      "opponent": "England A Women",
-      "startTimeUtc": "2026-12-19T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "England A Women tour of India 2026",
-      "seriesStartUtc": "2026-11-30T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-22T00:00:00.000Z",
-      "venue": "Dr DY Patil Sports Academy, Navi Mumbai",
-      "source": "cricapi"
     }
   ],
   "meta": {
-    "generatedAt": "2026-09-25T08:35:45.806Z",
-    "windowStart": "2026-09-25T00:00:00.000Z",
-    "windowEnd": "2027-03-25T00:00:00.000Z",
+    "generatedAt": "2026-09-27T09:00:19.702Z",
+    "windowStart": "2026-09-27T00:00:00.000Z",
+    "windowEnd": "2027-03-27T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -425,7 +305,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 27
+        "count": 19
       },
       {
         "id": "manual",
