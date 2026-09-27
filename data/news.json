@@ -1,5 +1,85 @@
 [
   {
+    "id": "n582b29910e",
+    "headline": "Will US$1 Billion Senior Notes Issue Reshape Solaris Energy Infrastructure's (SEI) Leverage and Funding Narrative",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-09-27T06:11:44+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/us-1-billion-senior-notes-061144814.html?.tsrc=rss"
+  },
+  {
+    "id": "n8c2bc722ca",
+    "headline": "EQT (EQT) Sets A Record Well Length, Is It Still A Bargain?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-09-26T23:07:39+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-sets-record-well-230739620.html?.tsrc=rss"
+  },
+  {
+    "id": "nc00250626c",
+    "headline": "Solaris Energy Infrastructure (SEI) Stock Could Be Rich After $1.25B Notes Pricing",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-09-26T22:07:18+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-sei-stock-220718722.html?.tsrc=rss"
+  },
+  {
+    "id": "nbc0352f442",
+    "headline": "UBS makes bold call as CoreWeave faces $35 billion problem",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-26T20:23:00+00:00",
+    "url": "https://www.thestreet.com/investing/stocks/coreweave-buy-rating-120-price-target-ubs?.tsrc=rss"
+  },
+  {
+    "id": "n33b8e8ff59",
+    "headline": "What Does EQT (EQT) Record Lateral Mean For Its Gas Recovery Plans?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-09-26T15:13:52+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/does-eqt-eqt-record-lateral-151352655.html?.tsrc=rss"
+  },
+  {
+    "id": "n102d2fc4af",
+    "headline": "Vistra Stock Is Down 31% Over the Last Year. Is It Time to Buy the Dip?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-26T15:04:49+00:00",
+    "url": "https://www.tikr.com/blog/vistra-stock-is-down-31-over-the-last-year-is-it-time-to-buy-the-dip?ref=yahoofinance&.tsrc=rss"
+  },
+  {
+    "id": "n546833b426",
+    "headline": "Bloom Energy, TSM Lead 5 Stocks Near Buy Points As AI Rebounds",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-26T12:00:43+00:00",
+    "url": "https://finance.yahoo.com/m/97afab0a-1fa1-3054-a367-310db0aa49c9/bloom-energy%2C-tsm-lead-5.html?.tsrc=rss"
+  },
+  {
+    "id": "n0dd05254f9",
+    "headline": "MarketBeat Week in Review \u2013 09/21 - 09/25",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-26T11:00:00+00:00",
+    "url": "https://www.marketbeat.com/articles/marketbeat-week-in-review-09-21-09-25/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
+  },
+  {
     "id": "nc156cacaa8",
     "headline": "Bloom Energy (BE) Is Up 8.7% After Oracle Reaffirms 2.4 GW AI Fuel Cell Deal Commitment \u2013 Has The Bull Case Changed?",
     "source": "Yahoo Finance",
@@ -418,85 +498,5 @@
     ],
     "ts": "2026-09-22T20:15:32+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-back-focus-following-201532969.html?.tsrc=rss"
-  },
-  {
-    "id": "nd758abca5c",
-    "headline": "3 Trending AI Stocks to Watch: ARM, AMD, and CRWV",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-22T20:00:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/3-trending-ai-stocks-watch-200000745.html?.tsrc=rss"
-  },
-  {
-    "id": "n5a09f98a0a",
-    "headline": "Bloom Energy vs. Plug Power: Which Fuel Cell Stock Is a Better Buy in 2026?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-22T19:44:01+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/09/22/bloom-energy-vs-plug-power-which-fuel-cell-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "nba286d6d56",
-    "headline": "CoreWeave Has the Ingredients for a Monster Rally. Here\u2019s Our Price Target",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-22T16:30:26+00:00",
-    "url": "https://247wallst.com/investing/2026/09/22/coreweave-has-the-ingredients-for-a-monster-rally-heres-our-price-target/?.tsrc=rss"
-  },
-  {
-    "id": "n2dd71d1907",
-    "headline": "Is Vistra (VST) A Bargain Or Fully Priced After New Power Deals?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-09-22T15:14:46+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-bargain-fully-priced-151446784.html?.tsrc=rss"
-  },
-  {
-    "id": "n1ec4974357",
-    "headline": "CoreWeave Vs. Nebius: One is Much More Exposed to The Looming Neocloud Threat",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-22T14:24:07+00:00",
-    "url": "https://247wallst.com/investing/2026/09/22/coreweave-vs-nebius-one-is-much-more-exposed-to-the-looming-neocloud-threat/?.tsrc=rss"
-  },
-  {
-    "id": "n1668406604",
-    "headline": "Rothschild Redburn starts CoreWeave at Sell with $54 target",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-22T13:29:01+00:00",
-    "url": "https://blockspace.media/insight/coreweave-sell-rating-54-target/?.tsrc=rss"
-  },
-  {
-    "id": "n10f8fae50c",
-    "headline": "Sector Update: Energy Stocks Fall Pre-Bell Tuesday",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-09-22T13:27:01+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-pre-132701797.html?.tsrc=rss"
-  },
-  {
-    "id": "nf2540b6867",
-    "headline": "Vistra Corp. (VST) Is a Trending Stock: Facts to Know Before Betting on It",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-09-22T13:00:06+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-trending-stock-130006014.html?.tsrc=rss"
   }
 ]

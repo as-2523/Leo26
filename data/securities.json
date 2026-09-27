@@ -32,7 +32,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 1684184367104,
-    "pe_ratio": 44.94395,
+    "pe_ratio": 45.582687,
     "description": "Broadcom Inc. designs, develops, and supplies various semiconductor devices and infrastructure software solutions internationally. The company operates in two segments: Semiconductor Solutions and Infrastructure Software. The company offers networking connectivity, such as custom silicon solutions, ethernet switching & routing, ethernet NIC controllers, physical layer devices, and fiber optic components; wireless device connectivity, including RF semiconductor devices, connectivity solutions, custom touch controllers, and inductive charging ASICS; servers and storage system solutions, such as PCIE switches, SAS & raid products, fibre channel products, and HDD & SSD solutions; broadband solutions, includes set-top box, and broadband access; and industrial. The company also offers a private cloud software portfolio, including the VMware Cloud Foundation, Edge, vSphere foundation, telco cloud platform, private AI, live recovery, application networking and security, application development and data services; mainframe software, such as AIOPS & automation, database & data management, DEVX & DEVOPS, cybersecurity & compliance management, beyond code programs, foundational & open mainfram",
     "industry": "Semiconductors",
     "website": "https://www.broadcom.com"
@@ -42,7 +42,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 1029487722496,
-    "pe_ratio": 161.7,
+    "pe_ratio": 161.28644,
     "description": "Advanced Micro Devices, Inc. operates as a semiconductor company internationally. It operates in three segments: Data Center, Client and Gaming, and Embedded. The company offers artificial intelligence (AI) accelerators, microprocessors, and graphics processing units (GPUs) as standalone devices or as incorporated into accelerated processing units, chipsets, and data center and professional GPUs; and embedded processors and semi-custom system-on-chip (SoC) products, microprocessor and SoC development services and technology, data processing units, field programmable gate arrays (FPGA), system on modules, AI network interface cards, and adaptive SoC products. It provides processors under the AMD Ryzen, AMD Ryzen AI, AMD Ryzen PRO, AMD Ryzen Threadripper, AMD Ryzen Threadripper PRO, AMD Athlon, and AMD PRO A-Series brands; graphics under the AMD Radeon graphics and AMD Embedded Radeon graphics; professional graphics under the AMD Radeon Pro graphics brand; and AI and general-purpose compute infrastructure for hyperscale providers. The company offers data center graphics under the AMD Instinct accelerators and Radeon PRO V-series brands; server microprocessors under the AMD EPYC brand",
     "industry": "Semiconductors",
     "website": "https://www.amd.com"
@@ -71,7 +71,7 @@
     "name": "Corning Incorporated",
     "exchange": "NYQ",
     "sector": "Technology",
-    "market_cap": 134739640320,
+    "market_cap": 135014014976,
     "pe_ratio": 72.56481,
     "description": "Corning Incorporated operates in optical communications, display, specialty materials, automotive, and life sciences businesses in the United States, Canada, Mexico, Japan, Taiwan, China, South Korea, Germany, and internationally. The company provides optical fibers and cables; and hardware and equipment products, such as cable assemblies, fiber optic hardware and connectors, optical components and couplers, closures, network interface devices, and other accessories for the telecommunications industry, businesses, governments, and individuals. It also offers glass substrates for flat panel displays, including liquid crystal displays and organic light-emitting diodes that are used in televisions, notebook computers, desktop monitors, tablets, and handheld devices. In addition, it manufactures products that offer material formulations for glass, glass ceramics, crystals, precision metrology instruments, and software, as well as glass wafers and substrates, tinted sunglasses, and radiation shielding products for markets, such as mobile consumer electronics, semiconductor equipment optics and consumables, aerospace and defense optics, radiation shielding products, sunglasses, and telec",
     "industry": "Electronic Components",
@@ -82,7 +82,7 @@
     "exchange": "NYQ",
     "sector": "Industrials",
     "market_cap": 85030051840,
-    "pe_ratio": 374.9351,
+    "pe_ratio": 384.93335,
     "description": "Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide fuel cell systems for on-site power generation in the United States and internationally. It offers Bloom Energy Server, an energy server platform to convert fuel, such as natural gas, biogas, hydrogen, or a blend of these fuels, into electricity through a non-combustion electrochemical process. The company also provides Bloom Electrolyzer for producing hydrogen. It sells its products through direct and indirect sales channels to utilities, data centers, retail, healthcare, education, telecom, manufacturing, and other industries. The company was formerly known as Ion America Corp. and changed its name to Bloom Energy Corporation in 2006. Bloom Energy Corporation was incorporated in 2001 and is headquartered in San Jose, California.",
     "industry": "Electrical Equipment & Parts",
     "website": "https://www.bloomenergy.com"
@@ -140,7 +140,7 @@
     "exchange": "NYQ",
     "sector": "Industrials",
     "market_cap": 97509801984,
-    "pe_ratio": 57.303165,
+    "pe_ratio": 57.173817,
     "description": "Vertiv Holdings Co designs, manufactures, and services critical digital infrastructure technologies and life cycle services for data centers, communication networks, and commercial and industrial environments in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company offers AC and DC power management products, low/medium voltage switchgear, busbar, thermal management products, air cooled and liquid cooled thermal management products, integrated modular solutions, racks, single phase UPS, rack power distribution, rack thermal systems, configurable integrated solutions, energy storage solutions, hardware, and software infrastructure that are integral to the technologies used for various services, including artificial intelligence, e-commerce, online banking, file sharing, video on-demand, energy storage, wireless communications, Internet of Things, and online gaming. It also provides lifecycle management services, predictive analytics, and professional services for deploying, maintaining, and optimizing its products and their related systems; and preventative maintenance, acceptance testing, engineering and consulting, fluid management, performance assessment",
     "industry": "Electrical Equipment & Parts",
     "website": "https://www.vertiv.com"
@@ -260,7 +260,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 235402199040,
-    "pe_ratio": 86.4472,
+    "pe_ratio": 87.02159,
     "description": "Marvell Technology, Inc., together with its subsidiaries, provides data infrastructure semiconductor solutions and spanning the data center core to network edge in the United States, Argentina, China, India, Israel, Japan, Singapore, South Korea, Taiwan, Vietnam, and internationally. The company develops and scales system-on-a-chip architectures, integrating analog, mixed-signal, and digital signal processing functionality. It offers a portfolio of ethernet solutions, including spanning controllers, network adapters, physical transceivers, and switches; single or multiple core processors; and custom application specific integrated circuits, interconnects, fibre channel adapters, and processors. The company also provides interconnect products, including pulse amplitude modulation, coherent and coherent-lite digital signal processors (DSPs), laser drivers, trans-impedance amplifiers, silicon photonics, co-packaged optics, linear pluggable optics chipsets, data center interconnect, active electrical cable DSPs and peripheral component interconnect express retimer solutions; fibre channel products comprising host bus adapters and controllers for server and storage system connectivity; ",
     "industry": "Semiconductors",
     "website": "https://www.marvell.com"
@@ -282,7 +282,7 @@
     "industry": "Utilities - Independent Power Producers",
     "website": "https://www.constellationenergy.com",
     "market_cap": 93278502912,
-    "pe_ratio": 25.735092,
+    "pe_ratio": 25.70996,
     "description": "Constellation Energy Corporation produces and sells energy products and services in the United States. The company operates through five segments: Mid-Atlantic, Midwest, New York, ERCOT, and Other Power Regions. It offers electricity, natural gas, energy-related products, and sustainable solutions. The company has approximately 31,676 megawatts of generating capacity consisting of nuclear, wind, solar, natural gas, and hydroelectric assets. It serves distribution utilities, municipalities, cooperatives, and commercial, industrial, public sector, and residential customers. The company was incorporated in 2021 and is headquartered in Baltimore, Maryland."
   },
   "MOD": {
@@ -362,7 +362,7 @@
     "industry": "Computer Hardware",
     "website": "https://www.westerndigital.com",
     "market_cap": 164698701824,
-    "pe_ratio": 16.962866,
+    "pe_ratio": 16.975473,
     "description": "Western Digital Corporation engages in the development, manufacture, and sale of data storage devices and solutions based on hard disk drive (HDD) technology in the United States, Asia, Europe, the Middle East, and Africa. The company offers internal HDDs, data center drives, data center platforms, external drives, portable drives, NAS for home and office, and accessories. It sells its data storage devices and solutions through its computer sales personnel, dealers, distributors, retailers, and subsidiaries. The company has a collaboration with Open Quantum Design for the development of quantum error correction technology and related systems to advance reliable quantum computing. Western Digital Corporation was founded in 1970 and is headquartered in San Jose, California."
   },
   "BW": {
