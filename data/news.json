@@ -1,5 +1,45 @@
 [
   {
+    "id": "nf624a0fa54",
+    "headline": "3 AI Stocks With Revenue Growth Up To 41%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-28T14:11:10+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-revenue-growth-141110606.html?.tsrc=rss"
+  },
+  {
+    "id": "na0779631d0",
+    "headline": "Here Are Monday\u2019s Top Wall Street Analyst Research Calls: Applied Digital, Autodesk, Datadog, First Solar, L3Harris Technologies, PepsiCo, Roblox, Snowflake, TeraWulf and More",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-28T12:12:06+00:00",
+    "url": "https://247wallst.com/investing/2026/09/28/here-are-mondays-top-wall-street-analyst-research-calls-applied-digital-autodesk-datadog-first-solar-l3harris-technologies-pepsico-roblox-snowflake-terawulf-and-more/?.tsrc=rss"
+  },
+  {
+    "id": "n3b921ed454",
+    "headline": "Take the Zacks Approach to Beat the Markets: Bloom Energy, Microsoft & Amgen in Focus",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-28T12:12:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-approach-beat-markets-bloom-121200794.html?.tsrc=rss"
+  },
+  {
+    "id": "n384d2b5ea4",
+    "headline": "3 AI Stocks With Up To 120% Earnings Growth",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-28T08:08:46+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-120-earnings-080846749.html?.tsrc=rss"
+  },
+  {
     "id": "n582b29910e",
     "headline": "Will US$1 Billion Senior Notes Issue Reshape Solaris Energy Infrastructure's (SEI) Leverage and Funding Narrative",
     "source": "Yahoo Finance",
@@ -458,45 +498,5 @@
     ],
     "ts": "2026-09-22T23:09:48+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-starts-applied-digital-230948097.html?.tsrc=rss"
-  },
-  {
-    "id": "n755c55ce7f",
-    "headline": "Bloom Energy vs. NextEra Energy: Which Renewable Energy Stock Is a Better Buy in 2026?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-22T21:38:01+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/09/22/bloom-energy-vs-nextera-energy-which-renewable-energy-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "n7b78f6fe27",
-    "headline": "Solaris Energy Infrastructure Announces Pricing of Upsized Offering of $1.25 Billion of 7.000% Senior Notes due 2032",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-09-22T21:24:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/solaris-energy-infrastructure-announces-pricing-212400400.html?.tsrc=rss"
-  },
-  {
-    "id": "ne49970eaa7",
-    "headline": "Bloom Energy vs. Eos Energy Enterprises: Which Energy Storage Stock Is a Better Buy in 2026?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-22T20:40:01+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/09/22/bloom-energy-vs-eos-energy-enterprises-which-energy-storage-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "nb1468a00c9",
-    "headline": "Bloom Energy (BE) Back In Focus Following Index Reshuffle As Undervalued Narrative Builds",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-22T20:15:32+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-back-focus-following-201532969.html?.tsrc=rss"
   }
 ]
