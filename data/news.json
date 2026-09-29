@@ -1,5 +1,145 @@
 [
   {
+    "id": "n6741b633d5",
+    "headline": "Retail Energy Supply Association Elects New President to Serve the Organization Through 2027",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-29T12:11:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/retail-energy-supply-association-elects-121100877.html?.tsrc=rss"
+  },
+  {
+    "id": "n6cd1101748",
+    "headline": "New Strong Sell Stocks for September 29th",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-29T08:41:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-september-29th-084100999.html?.tsrc=rss"
+  },
+  {
+    "id": "n8e84b56dc6",
+    "headline": "Applied Digital (APLD) Could Be 64% Undervalued As Analysts Split Ahead Of Earnings",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-29T07:08:57+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-could-64-070857159.html?.tsrc=rss"
+  },
+  {
+    "id": "n43efdfb6c6",
+    "headline": "BE Stock Slumps Most In Over A Month: This Analyst Says New Fremont Facility Is An Indicator Of Strong Demand",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-29T01:32:43+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-slumps-most-in-over-a-month-this-analyst-says-new-fremont-facility-is-an-indicator-of-strong-demand/cZMmk68RBX1?.tsrc=rss"
+  },
+  {
+    "id": "n2789a607e1",
+    "headline": "Why Bloom Energy (BE) Shares Are Sliding Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-29T00:06:36+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-shares-sliding-000636170.html?.tsrc=rss"
+  },
+  {
+    "id": "n9f83f11eb6",
+    "headline": "S&P 500's Newest Member Is Monday's Biggest Loser",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-28T21:39:23+00:00",
+    "url": "https://finance.yahoo.com/m/3f09d80c-e3a1-3601-8dc0-2a8c1d4332af/s%26p-500%27s-newest-member-is.html?.tsrc=rss"
+  },
+  {
+    "id": "n332e8c5736",
+    "headline": "Is CoreWeave (CRWV)\u2019s Recent Pullback a Buying Opportunity?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-28T21:29:28+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-recent-pullback-buying-212928061.html?.tsrc=rss"
+  },
+  {
+    "id": "ndf06abda37",
+    "headline": "Can the AI Power Boom Justify Bloom Energy\u2019s (BE) $85 Billion Valuation?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-28T20:45:58+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ai-power-boom-justify-bloom-204558114.html?.tsrc=rss"
+  },
+  {
+    "id": "n05e9d6ed1c",
+    "headline": "Can CoreWeave\u2019s (CRWV) Computing Advantage Become a Lasting Moat?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-28T19:52:20+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-computing-advantage-become-195220773.html?.tsrc=rss"
+  },
+  {
+    "id": "n1c8f9cbde3",
+    "headline": "CoreWeave Just Gave Investors Multiple Reasons to Remain Bullish on Its Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-28T17:20:01+00:00",
+    "url": "https://www.fool.com/investing/2026/09/28/coreweave-just-gave-investors-multiple-reasons-to-remain-bullish-on-its-stock/?.tsrc=rss"
+  },
+  {
+    "id": "nbdce3b4084",
+    "headline": "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-28T17:12:45+00:00",
+    "url": "https://247wallst.com/investing/2026/09/28/bloom-energy-sinks-8-as-sharp-run-unwinds-plug-power-drops-6-fuelcell-eases/?.tsrc=rss"
+  },
+  {
+    "id": "n94b4055c75",
+    "headline": "Applied Digital Falls 6% Despite $70 Buy Initiation at Jones Trading; TeraWulf and Core Scientific Drop 4%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-28T15:58:14+00:00",
+    "url": "https://247wallst.com/investing/2026/09/28/applied-digital-falls-6-despite-70-buy-initiation-at-jones-trading-terawulf-and-core-scientific-drop-4/?.tsrc=rss"
+  },
+  {
+    "id": "n4a2b0428e8",
+    "headline": "Forget LNG Exporters: EQT Is the Natural Gas Stock I'd Buy Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-09-28T15:35:00+00:00",
+    "url": "https://www.fool.com/investing/2026/09/28/forget-lng-exporters-eqt-is-the-natural-gas-stock/?.tsrc=rss"
+  },
+  {
+    "id": "nc766c9bca5",
+    "headline": "These Energy Stocks Just Delivered Massive September Gains",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-09-28T14:41:07+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/energy-stocks-just-delivered-massive-144107564.html?.tsrc=rss"
+  },
+  {
     "id": "nf624a0fa54",
     "headline": "3 AI Stocks With Revenue Growth Up To 41%",
     "source": "Yahoo Finance",
@@ -28,6 +168,16 @@
     ],
     "ts": "2026-09-28T12:12:00+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-approach-beat-markets-bloom-121200794.html?.tsrc=rss"
+  },
+  {
+    "id": "nd3796265e5",
+    "headline": "UBS Started Coverage of CoreWeave With a \u2018Buy\u2019 Rating. What This Means for CRWV Stock.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-28T11:00:02+00:00",
+    "url": "https://www.barchart.com/story/news/4829125/ubs-started-coverage-of-coreweave-with-a-buy-rating-what-this-means-for-crwv-stock?.tsrc=rss"
   },
   {
     "id": "n384d2b5ea4",
@@ -348,155 +498,5 @@
     ],
     "ts": "2026-09-24T13:45:00+00:00",
     "url": "https://www.marketbeat.com/articles/power-play-vistra-powers-new-eras-ai-data-center-deal/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "nbb826b2c5c",
-    "headline": "JPMorgan upgrades CoreWeave on stronger compute pricing",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-24T11:31:49+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-upgrades-coreweave-stronger-compute-113149967.html?.tsrc=rss"
-  },
-  {
-    "id": "n4b957d3c92",
-    "headline": "This Artificial Intelligence (AI) Stock Could Soar by 63%, According to Wall Street",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-24T10:14:01+00:00",
-    "url": "https://www.fool.com/investing/2026/09/24/this-artificial-intelligence-ai-stock-could-soar-by-63-according-to-wall-street/?.tsrc=rss"
-  },
-  {
-    "id": "na78a714654",
-    "headline": "CoreWeave Priced an Upsized $3.7 Billion Convertible Note as Capex Spending Spikes. What That Means for CRWV Stock Fans.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-23T22:35:33+00:00",
-    "url": "https://www.barchart.com/story/news/4766246/coreweave-priced-an-upsized-3-7-billion-convertible-note-as-capex-spending-spikes-what-that-means-for-crwv-stock-fans?.tsrc=rss"
-  },
-  {
-    "id": "n1f16c56254",
-    "headline": "Bloom Energy vs. Marathon Petroleum: Which Popular Energy Stock Is the Better Buy?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-23T22:07:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/bloom-energy-vs-marathon-petroleum-220700133.html?.tsrc=rss"
-  },
-  {
-    "id": "nadc088afb6",
-    "headline": "Vistra Corp. (VST) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-09-23T21:45:06+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-sees-more-214506629.html?.tsrc=rss"
-  },
-  {
-    "id": "n562a5a166b",
-    "headline": "CoreWeave Becomes the Only Provider to Earn SemiAnalysis' Platinum ClusterMAX\u2122 Rating Three Consecutive Times",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-23T21:31:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-becomes-only-provider-earn-213100780.html?.tsrc=rss"
-  },
-  {
-    "id": "n85ddccf4a8",
-    "headline": "CoreWeave Just Scored Another Big AI Win",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-23T19:33:21+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-just-scored-another-big-193321375.html?.tsrc=rss"
-  },
-  {
-    "id": "n4c0a5c1e78",
-    "headline": "Morgan Stanley Sees a 33-GW AI Power Shortfall. These 2 Stocks Could Help Fill It",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-23T18:40:07+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-33-gw-184007932.html?.tsrc=rss"
-  },
-  {
-    "id": "nc26e956bc3",
-    "headline": "Should You Sell Your APLD Stock Now?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-09-23T17:07:19+00:00",
-    "url": "https://www.trefis.com/articles/616276/should-you-sell-your-apld-stock-now/2026-09-23?.tsrc=rss"
-  },
-  {
-    "id": "ne4edacefb6",
-    "headline": "Plug Power vs. Bloom Energy: Which Clean Energy Stock Has More Upside?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-23T15:50:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/plug-power-vs-bloom-energy-155000011.html?.tsrc=rss"
-  },
-  {
-    "id": "nb0afb370a2",
-    "headline": "Bloom Energy Stock Is Up 218% in 2026 and Just Joined the S&P 500. Is It Too Late to Buy?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-23T14:59:37+00:00",
-    "url": "https://www.tikr.com/blog/bloom-energy-stock-is-up-218-in-2026-and-just-joined-the-sp-500-is-it-too-late-to-buy?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n84262ba42d",
-    "headline": "EQT Corporation Stock: Is EQT Underperforming the Energy Sector?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-09-23T10:24:27+00:00",
-    "url": "https://www.barchart.com/story/news/4750582/eqt-corporation-stock-is-eqt-underperforming-the-energy-sector?.tsrc=rss"
-  },
-  {
-    "id": "n6ff3df3bb3",
-    "headline": "Top 3 Grid Stocks To Watch In September 2026",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-23T08:17:46+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-grid-stocks-watch-081746937.html?.tsrc=rss"
-  },
-  {
-    "id": "n14cba2554c",
-    "headline": "Applied Digital (APLD) Stock Sees Fair Value Cut As Analysts Split On AI Buildout",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-09-23T03:21:05+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-stock-sees-032105251.html?.tsrc=rss"
-  },
-  {
-    "id": "nb36ab40a67",
-    "headline": "Wells Fargo Starts Applied Digital (APLD) at Overweight and Calls it a Top Idea",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-09-22T23:09:48+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-starts-applied-digital-230948097.html?.tsrc=rss"
   }
 ]
