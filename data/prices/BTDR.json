@@ -1,19 +1,11 @@
 {
   "ticker": "BTDR",
-  "current_price": 11.03,
-  "prev_close": 11.51,
-  "day_change_pct": -4.17,
+  "current_price": 10.9,
+  "prev_close": 11.03,
+  "day_change_pct": -1.18,
   "week_52_high": 27.8,
   "week_52_low": 6.916,
   "history": [
-    {
-      "date": "2026-05-20",
-      "open": 12.97,
-      "high": 13.75,
-      "low": 12.83,
-      "close": 13.28,
-      "volume": 7089900
-    },
     {
       "date": "2026-05-21",
       "open": 13.36,
@@ -724,9 +716,17 @@
       "high": 11.53,
       "low": 10.95,
       "close": 11.03,
-      "volume": 9543500
+      "volume": 11574700
+    },
+    {
+      "date": "2026-09-29",
+      "open": 11.275,
+      "high": 11.445,
+      "low": 10.885,
+      "close": 10.9,
+      "volume": 15382700
     }
   ],
-  "as_of": "2026-09-29T13:13:20.527746+00:00",
+  "as_of": "2026-09-30T12:54:06.782021+00:00",
   "stale": false
 }

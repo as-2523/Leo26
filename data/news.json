@@ -1,5 +1,155 @@
 [
   {
+    "id": "n26a26cfdd1",
+    "headline": "Jefferies Just Raised Its Bloom Energy Price Target -- Stock Jumps 10%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-30T12:30:26+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-just-raised-bloom-energy-123026496.html?.tsrc=rss"
+  },
+  {
+    "id": "nb8885d6002",
+    "headline": "CRWV Stock Gets An 'Outperform' Rating \u2013 William Blair Says Rapid Scaling Of AI Is Creating Substantial Demand",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-30T11:10:22+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/crwv-stock-outperform-rating-william-blair-ai-creating-substantial-demand/cZMF3msRBhL?.tsrc=rss"
+  },
+  {
+    "id": "nfa48398132",
+    "headline": "Is Applied Digital (APLD) Balancing AI Data Center Ambitions With Funding and Execution Discipline?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-30T08:10:46+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-apld-balancing-ai-081046491.html?.tsrc=rss"
+  },
+  {
+    "id": "n9e7d7ad44a",
+    "headline": "Bloom Energy Stock Rose 16-Fold in 5 Years. All of the Gain Came in the Last 2.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-30T03:11:01+00:00",
+    "url": "https://www.fool.com/investing/2026/09/29/bloom-energy-stock-rose-16-fold-in-5-years-all-of-the-gain-came-in-the-last-2/?.tsrc=rss"
+  },
+  {
+    "id": "n1b9c9ba6d8",
+    "headline": "Bloom Energy (BE) Stock Still Looks Undervalued After a 24x Run",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-30T03:09:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-still-looks-030900510.html?.tsrc=rss"
+  },
+  {
+    "id": "n80cf3c7009",
+    "headline": "This Zacks Screen Finds Strong Growth Stocks Like Bloom Energy",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-29T23:33:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-screen-finds-strong-growth-233300733.html?.tsrc=rss"
+  },
+  {
+    "id": "n5f81d2830e",
+    "headline": "Vistra to Report Third Quarter Results on Nov. 6, 2026",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-29T21:30:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/vistra-report-third-quarter-results-213000118.html?.tsrc=rss"
+  },
+  {
+    "id": "n8261d55182",
+    "headline": "Bloom Energy CEO: Power Demand Is Coming From All Angles",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-29T21:29:25+00:00",
+    "url": "https://finance.yahoo.com/video/bloom-energy-ceo-power-demand-212925033.html?.tsrc=rss"
+  },
+  {
+    "id": "n2b1e7f6e29",
+    "headline": "Vistra Corp. (VST) Gains As Market Dips: What You Should Know",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-29T20:45:05+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-gains-market-204505195.html?.tsrc=rss"
+  },
+  {
+    "id": "nd18cb997e1",
+    "headline": "Q2 Earnings Outperformers: Solaris Energy Infrastructure (NYSE:SEI) And The Rest Of The Mixed or Offshore Upstream E&P Stocks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-09-29T19:44:02+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/q2-earnings-outperformers-solaris-energy-194402341.html?.tsrc=rss"
+  },
+  {
+    "id": "n515b8334f5",
+    "headline": "Is Applied Digital (APLD) Above Fair Value After $36B Leases?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-29T18:07:56+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-above-fair-180756753.html?.tsrc=rss"
+  },
+  {
+    "id": "nbfa81c9b6b",
+    "headline": "CoreWeave And 2 Other Top Crypto Stocks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-29T17:11:21+00:00",
+    "url": "https://finance.yahoo.com/markets/crypto/articles/coreweave-2-other-top-crypto-171121825.html?.tsrc=rss"
+  },
+  {
+    "id": "nd777ddeeca",
+    "headline": "CoreWeave Stock Just Got a Jaw-Dropping Upgrade From JPMorgan",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-29T14:30:06+00:00",
+    "url": "https://www.barchart.com/story/news/4858310/coreweave-stock-just-got-a-jaw-dropping-upgrade-from-jpmorgan?.tsrc=rss"
+  },
+  {
+    "id": "n184d65a68f",
+    "headline": "Rising Treasury Yields Threaten to Increase Debt Costs for AI Infrastructure Providers",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-29T14:11:50+00:00",
+    "url": "https://www.tikr.com/blog/coreweave-stock-rising-treasury-yields-ai-debt-costs?ref=yahoofinance&.tsrc=rss"
+  },
+  {
+    "id": "nca74cf1174",
+    "headline": "Constellation Energy vs. Vistra: Nuclear's Two Biggest AI Bets, and why I'm Picking One.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-09-29T13:10:02+00:00",
+    "url": "https://www.barchart.com/story/news/4855799/constellation-energy-vs-vistra-nuclear-s-two-biggest-ai-bets-and-why-i-m-picking-one?.tsrc=rss"
+  },
+  {
     "id": "n6741b633d5",
     "headline": "Retail Energy Supply Association Elects New President to Serve the Organization Through 2027",
     "source": "Yahoo Finance",
@@ -348,155 +498,5 @@
     ],
     "ts": "2026-09-25T12:59:08+00:00",
     "url": "https://247wallst.com/investing/2026/09/25/akamai-surges-15-on-11-6b-anthropic-cloud-deal-coreweave-and-cloudflare-tick-up/?.tsrc=rss"
-  },
-  {
-    "id": "n573e512b41",
-    "headline": "Update: WhiteHawk Minerals Closes $111.8 Million in Acquisitions",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-09-25T10:30:17+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/whitehawk-minerals-closes-111-8-103017880.html?.tsrc=rss"
-  },
-  {
-    "id": "nd056a56c7d",
-    "headline": "CoreWeave (CRWV) Lands A Third Straight Platinum Rating For Its AI Cloud",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-25T09:08:53+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-lands-third-straight-090853419.html?.tsrc=rss"
-  },
-  {
-    "id": "n63434d1a4c",
-    "headline": "BE Stock Eyes Best Month Since April: Oracle Reaffirms 2.4 GW Fuel Cell Deal Amid Project Jupiter Jitters",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-25T07:26:41+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-oracle-reaffirms-fuel-cell-deal-amid-project-jupiter-jitters/cZMOGvmRBa0?.tsrc=rss"
-  },
-  {
-    "id": "nc009cdc0cf",
-    "headline": "Constellation vs. Vistra: Which AI Power Stock Is the Better Buy?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-09-25T04:11:42+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-vs-vistra-ai-power-041142956.html?.tsrc=rss"
-  },
-  {
-    "id": "nd41f1dd263",
-    "headline": "Bloom Energy's Backlog Is 5 Times This Year's Expected Revenue. Here's How Fast It Can Actually Build.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-25T00:47:01+00:00",
-    "url": "https://www.fool.com/investing/2026/09/24/bloom-energy-s-backlog-is-5-times-this-year-s-expected-revenue-here-s-how-fast-it-can-actually-build/?.tsrc=rss"
-  },
-  {
-    "id": "n8148ec0f42",
-    "headline": "VST Keeps Writing Checks To Its Shareholders",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-09-25T00:30:14+00:00",
-    "url": "https://www.trefis.com/articles/616406/vst-keeps-writing-checks-to-its-shareholders/2026-09-24?.tsrc=rss"
-  },
-  {
-    "id": "nec2cea7fa0",
-    "headline": "Oracle\u2019s Data Center Delay Warning Rattles AI Partners Like Bloom Energy",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-24T21:12:00+00:00",
-    "url": "https://finance.yahoo.com/m/ef561640-9eba-34ba-b05b-9956747ecaee/oracle%E2%80%99s-data-center-delay.html?.tsrc=rss"
-  },
-  {
-    "id": "n85cde25fc6",
-    "headline": "JPMorgan Just Upgraded CoreWeave Stock. Here's Why.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-24T21:02:40+00:00",
-    "url": "https://www.barchart.com/story/news/4787757/jpmorgan-just-upgraded-coreweave-stock-here-s-why?.tsrc=rss"
-  },
-  {
-    "id": "ne09af04b05",
-    "headline": "AI Boom Adds More Customers But Spending Remains Highly Concentrated: What It Means for Nvidia, CoreWeave",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-24T20:25:58+00:00",
-    "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61985209/ai-spending-concentration-nvidia-coreweave?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
-  },
-  {
-    "id": "n6a784b4382",
-    "headline": "Oracle Just Dealt Bloom Energy a Major Blow. What Comes Next for BE Stock.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-24T19:15:52+00:00",
-    "url": "https://www.barchart.com/story/news/4785628/oracle-just-dealt-bloom-energy-a-major-blow-what-comes-next-for-be-stock?.tsrc=rss"
-  },
-  {
-    "id": "n91f5608199",
-    "headline": "This $267 Stock Could Be Your Ticket to Millionaire Status",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-24T19:00:00+00:00",
-    "url": "https://www.fool.com/investing/2026/09/24/this-x-stock-could-be-your-ticket-to-millionaire-s/?.tsrc=rss"
-  },
-  {
-    "id": "n7d1145f2a4",
-    "headline": "Most Investors Are Chasing Flashy IPOs. CoreWeave Is the One I Predict Will Outperform by 2028.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-24T18:54:00+00:00",
-    "url": "https://www.fool.com/investing/2026/09/24/most-investors-are-chasing-flashy-ipos-coreweave-i/?.tsrc=rss"
-  },
-  {
-    "id": "nf64ce8979b",
-    "headline": "CoreWeave and Nebius Score Upgrades",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-24T18:47:00+00:00",
-    "url": "https://finance.yahoo.com/m/5313e83c-952a-3c4c-9bb3-c6ce8ad606e5/coreweave-and-nebius-score.html?.tsrc=rss"
-  },
-  {
-    "id": "n9d4a4a2389",
-    "headline": "Applied Digital vs. IREN: Which Technology Stock Is a Better Buy in 2026?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-09-24T18:22:20+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/09/24/applied-digital-vs-iren-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "nc6af7d238d",
-    "headline": "Power Play: Vistra Powers New Era\u2019s AI Data Center Deal",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-09-24T13:45:00+00:00",
-    "url": "https://www.marketbeat.com/articles/power-play-vistra-powers-new-eras-ai-data-center-deal/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
   }
 ]
