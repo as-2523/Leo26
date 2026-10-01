@@ -1,5 +1,125 @@
 [
   {
+    "id": "n5b7a3a1d50",
+    "headline": "CoreWeave Stock Lost Over a Third of Its Value in the Past Year. Here\u2019s What Analysts Expect Next",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-01T13:06:47+00:00",
+    "url": "https://www.tikr.com/blog/coreweave-stock-lost-over-a-third-of-its-value-in-the-past-year-heres-what-analysts-expect-next?ref=yahoofinance&.tsrc=rss"
+  },
+  {
+    "id": "nef1c8fb9c8",
+    "headline": "Can CoreWeave's Partner Network and AI Deals Expand Its Reach?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-01T11:39:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweaves-partner-network-ai-deals-113900636.html?.tsrc=rss"
+  },
+  {
+    "id": "n66e140baec",
+    "headline": "Vistra\u2019s Price Dropped 30% in 1 Year: Why One Wall Street Analyst Predicts 115% Returns From Here",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-01T11:15:40+00:00",
+    "url": "https://247wallst.com/investing/2026/10/01/vistras-price-dropped-30-in-1-year-why-one-wall-street-analyst-predicts-115-returns-from-here/?.tsrc=rss"
+  },
+  {
+    "id": "n7fb186ce9a",
+    "headline": "3 U.S. Utility Stocks Riding the Gas and Nuclear Buildout",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-01T04:21:14+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/3-u-utility-stocks-riding-042114349.html?.tsrc=rss"
+  },
+  {
+    "id": "n7849f64355",
+    "headline": "CoreWeave (CRWV) Unveils Forge For AI Development",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-01T02:09:22+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-unveils-forge-ai-020922457.html?.tsrc=rss"
+  },
+  {
+    "id": "n2112734280",
+    "headline": "Has Buying Applied Digital Stock's Dips Paid Off?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-09-30T20:00:56+00:00",
+    "url": "https://www.trefis.com/articles/616973/has-buying-applied-digital-stocks-dips-paid-off/2026-09-30?.tsrc=rss"
+  },
+  {
+    "id": "n7d05111bae",
+    "headline": "Should Bloom Energy Stock Investors Worry About Its Record Quarter?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-30T19:38:50+00:00",
+    "url": "https://www.trefis.com/articles/617129/should-bloom-energy-stock-investors-worry-about-its-record-quarter/2026-09-30?.tsrc=rss"
+  },
+  {
+    "id": "n2167271be5",
+    "headline": "Bloom Energy CEO delivers stark warning on America's power demand",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-30T18:47:00+00:00",
+    "url": "https://www.thestreet.com/investing/stocks/be-bloom-energy-ceo-kr-sridhar-says-power-demand-is-coming-from-all-angles?.tsrc=rss"
+  },
+  {
+    "id": "n18820623c9",
+    "headline": "Analysts Are Feeling Bullish on CoreWeave Stock. Here's Why.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-30T17:57:55+00:00",
+    "url": "https://www.barchart.com/story/news/4886569/analysts-are-feeling-bullish-on-coreweave-stock-here-s-why?.tsrc=rss"
+  },
+  {
+    "id": "n352a2b1da9",
+    "headline": "CoreWeave Stock Rises After Neocloud Goes Live With New Nvidia Hardware",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-09-30T15:22:00+00:00",
+    "url": "https://finance.yahoo.com/m/d2996a92-cc1f-361d-a9cf-17363b81aa19/coreweave-stock-rises-after.html?.tsrc=rss"
+  },
+  {
+    "id": "n582eed6cf4",
+    "headline": "Plug Power Advances 4% on Electrolyzer Supply Agreement; Bloom Energy Sinks 3%, FuelCell Energy Treads Water",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-09-30T15:16:03+00:00",
+    "url": "https://247wallst.com/investing/2026/09/30/plug-power-advances-4-on-electrolyzer-supply-agreement-bloom-energy-sinks-3-fuelcell-energy-treads-water/?.tsrc=rss"
+  },
+  {
+    "id": "nbfd6b4eba8",
+    "headline": "What You Need to Know Ahead of EQT\u2019s Earnings Release",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-09-30T13:57:09+00:00",
+    "url": "https://www.barchart.com/story/news/4881380/what-you-need-to-know-ahead-of-eqts-earnings-release?.tsrc=rss"
+  },
+  {
     "id": "n26a26cfdd1",
     "headline": "Jefferies Just Raised Its Bloom Energy Price Target -- Stock Jumps 10%",
     "source": "Yahoo Finance",
@@ -378,125 +498,5 @@
     ],
     "ts": "2026-09-26T20:23:00+00:00",
     "url": "https://www.thestreet.com/investing/stocks/coreweave-buy-rating-120-price-target-ubs?.tsrc=rss"
-  },
-  {
-    "id": "n33b8e8ff59",
-    "headline": "What Does EQT (EQT) Record Lateral Mean For Its Gas Recovery Plans?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-09-26T15:13:52+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/does-eqt-eqt-record-lateral-151352655.html?.tsrc=rss"
-  },
-  {
-    "id": "n102d2fc4af",
-    "headline": "Vistra Stock Is Down 31% Over the Last Year. Is It Time to Buy the Dip?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-09-26T15:04:49+00:00",
-    "url": "https://www.tikr.com/blog/vistra-stock-is-down-31-over-the-last-year-is-it-time-to-buy-the-dip?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n546833b426",
-    "headline": "Bloom Energy, TSM Lead 5 Stocks Near Buy Points As AI Rebounds",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-26T12:00:43+00:00",
-    "url": "https://finance.yahoo.com/m/97afab0a-1fa1-3054-a367-310db0aa49c9/bloom-energy%2C-tsm-lead-5.html?.tsrc=rss"
-  },
-  {
-    "id": "n0dd05254f9",
-    "headline": "MarketBeat Week in Review \u2013 09/21 - 09/25",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-26T11:00:00+00:00",
-    "url": "https://www.marketbeat.com/articles/marketbeat-week-in-review-09-21-09-25/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "nc156cacaa8",
-    "headline": "Bloom Energy (BE) Is Up 8.7% After Oracle Reaffirms 2.4 GW AI Fuel Cell Deal Commitment \u2013 Has The Bull Case Changed?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-25T22:08:01+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-8-7-oracle-220801648.html?.tsrc=rss"
-  },
-  {
-    "id": "n4a3196d548",
-    "headline": "Is Bloom Energy Stock's Drop A Chance To Buy?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-25T21:55:06+00:00",
-    "url": "https://www.trefis.com/articles/616641/is-bloom-energy-stocks-drop-a-chance-to-buy/2026-09-25?.tsrc=rss"
-  },
-  {
-    "id": "n3a98dc8374",
-    "headline": "Bloom Energy Stock Is Today\u2019s Top S&P 500 Performer. It Has a Lot to Do With Oracle.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-25T20:59:00+00:00",
-    "url": "https://finance.yahoo.com/m/300e83da-4c7f-39d5-aebf-8b7500e7087e/bloom-energy-stock-is-today%E2%80%99s.html?.tsrc=rss"
-  },
-  {
-    "id": "nf30604362b",
-    "headline": "JPMorgan backs CoreWeave's pricing play as a bear digs in",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-25T18:33:00+00:00",
-    "url": "https://www.thestreet.com/investing/coreweave-crwv-stock-ai-pricing-power-jpmorgan-upgrade?.tsrc=rss"
-  },
-  {
-    "id": "nbc4719640a",
-    "headline": "Is CoreWeave Stock Making Your Portfolio's Bad Days Worse?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-25T17:41:49+00:00",
-    "url": "https://www.trefis.com/articles/616601/is-coreweave-stock-making-your-portfolios-bad-days-worse/2026-09-25?.tsrc=rss"
-  },
-  {
-    "id": "n2d5cd5496c",
-    "headline": "Bloom Energy Jumps 8% as Oracle Reaffirms 2.4 GW Fuel Cell Contract After Force Majeure Notice",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-25T16:55:23+00:00",
-    "url": "https://247wallst.com/investing/2026/09/25/bloom-energy-jumps-8-as-oracle-reaffirms-2-4-gw-fuel-cell-contract-after-force-majeure-notice/?.tsrc=rss"
-  },
-  {
-    "id": "n23a9152f44",
-    "headline": "2 Large-Cap Stocks Worth Your Attention and 1 We Avoid",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-09-25T15:28:37+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/2-large-cap-stocks-worth-152837316.html?.tsrc=rss"
-  },
-  {
-    "id": "n4d334e195d",
-    "headline": "Akamai Surges 15% on $11.6B Anthropic Cloud Deal; CoreWeave and Cloudflare Tick Up",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-25T12:59:08+00:00",
-    "url": "https://247wallst.com/investing/2026/09/25/akamai-surges-15-on-11-6b-anthropic-cloud-deal-coreweave-and-cloudflare-tick-up/?.tsrc=rss"
   }
 ]
