@@ -1,5 +1,55 @@
 [
   {
+    "id": "nddd2f724a3",
+    "headline": "Applied Digital Brings an Additional 75 MW of AI Infrastructure Online at Polaris Forge 1",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-02T12:00:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-brings-additional-75-120000939.html?.tsrc=rss"
+  },
+  {
+    "id": "naa691e646b",
+    "headline": "Bloom Energy CEO Shrugs Off Oracle Force Majeure Worries, Says Bloom Boxes Are 'Fungible'",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-02T01:39:54+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/bloom-energy-ceo-shrugs-off-oracle-force-majeure-worries-says-bloom-boxes-are-fungible/cZDSHM1RB0l?.tsrc=rss"
+  },
+  {
+    "id": "n8c9e43d562",
+    "headline": "Bloom Energy Stock: 3 Catalysts For AI Data-Center Fuel-Cell Play",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-01T21:04:45+00:00",
+    "url": "https://finance.yahoo.com/m/bf91a64b-1207-39d7-bce1-714c802d8669/bloom-energy-stock%3A-3.html?.tsrc=rss"
+  },
+  {
+    "id": "n97159c952a",
+    "headline": "Here Is What a $500 Investment in CoreWeave Could Be Worth by 2030",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-01T20:35:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/01/here-is-what-a-500-investment-in-coreweave-could-b/?.tsrc=rss"
+  },
+  {
+    "id": "n1fe1230d07",
+    "headline": "The Best IPO to Buy in 2026 Isn't What You Think. I'm Betting on CoreWeave.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-01T13:36:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/01/the-best-ipo-to-buy-in-2026-isnt-who-you-think-im/?.tsrc=rss"
+  },
+  {
     "id": "n5b7a3a1d50",
     "headline": "CoreWeave Stock Lost Over a Third of Its Value in the Past Year. Here\u2019s What Analysts Expect Next",
     "source": "Yahoo Finance",
@@ -18,6 +68,16 @@
     ],
     "ts": "2026-10-01T11:39:00+00:00",
     "url": "https://finance.yahoo.com/technology/ai/articles/coreweaves-partner-network-ai-deals-113900636.html?.tsrc=rss"
+  },
+  {
+    "id": "n976831ba23",
+    "headline": "Why Now Is the Ideal Time to Buy CoreWeave Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-01T11:30:02+00:00",
+    "url": "https://www.barchart.com/story/news/4901390/why-now-is-the-ideal-time-to-buy-coreweave-stock?.tsrc=rss"
   },
   {
     "id": "n66e140baec",
@@ -438,65 +498,5 @@
     ],
     "ts": "2026-09-28T12:12:00+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-approach-beat-markets-bloom-121200794.html?.tsrc=rss"
-  },
-  {
-    "id": "nd3796265e5",
-    "headline": "UBS Started Coverage of CoreWeave With a \u2018Buy\u2019 Rating. What This Means for CRWV Stock.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-28T11:00:02+00:00",
-    "url": "https://www.barchart.com/story/news/4829125/ubs-started-coverage-of-coreweave-with-a-buy-rating-what-this-means-for-crwv-stock?.tsrc=rss"
-  },
-  {
-    "id": "n384d2b5ea4",
-    "headline": "3 AI Stocks With Up To 120% Earnings Growth",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-28T08:08:46+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-120-earnings-080846749.html?.tsrc=rss"
-  },
-  {
-    "id": "n582b29910e",
-    "headline": "Will US$1 Billion Senior Notes Issue Reshape Solaris Energy Infrastructure's (SEI) Leverage and Funding Narrative",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-09-27T06:11:44+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/us-1-billion-senior-notes-061144814.html?.tsrc=rss"
-  },
-  {
-    "id": "n8c2bc722ca",
-    "headline": "EQT (EQT) Sets A Record Well Length, Is It Still A Bargain?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-09-26T23:07:39+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-sets-record-well-230739620.html?.tsrc=rss"
-  },
-  {
-    "id": "nc00250626c",
-    "headline": "Solaris Energy Infrastructure (SEI) Stock Could Be Rich After $1.25B Notes Pricing",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-09-26T22:07:18+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-sei-stock-220718722.html?.tsrc=rss"
-  },
-  {
-    "id": "nbc0352f442",
-    "headline": "UBS makes bold call as CoreWeave faces $35 billion problem",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-26T20:23:00+00:00",
-    "url": "https://www.thestreet.com/investing/stocks/coreweave-buy-rating-120-price-target-ubs?.tsrc=rss"
   }
 ]
