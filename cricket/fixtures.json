@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-88xxn2",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "West Indies",
-      "startTimeUtc": "2026-10-03T08:30:00.000Z",
-      "hasStartTime": true,
-      "format": "ODI",
-      "formatLabel": "odi",
-      "series": "West Indies tour of India, 2026",
-      "seriesStartUtc": "2026-09-27T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-17T00:00:00.000Z",
-      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, New Chandigarh",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-8b26tt",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -272,9 +257,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-01T09:50:43.938Z",
-    "windowStart": "2026-10-01T00:00:00.000Z",
-    "windowEnd": "2027-04-01T00:00:00.000Z",
+    "generatedAt": "2026-10-03T08:55:38.520Z",
+    "windowStart": "2026-10-03T00:00:00.000Z",
+    "windowEnd": "2027-04-03T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -290,7 +275,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 18
+        "count": 17
       },
       {
         "id": "manual",
