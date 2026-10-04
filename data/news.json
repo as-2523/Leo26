@@ -1,5 +1,55 @@
 [
   {
+    "id": "na0c05e002d",
+    "headline": "Dow Jones Futures: Nasdaq Hits High As Nvidia, SpaceX, Bloom Energy Flash Buy Signals, But Note These Risks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-04T12:33:59+00:00",
+    "url": "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures%3A-nasdaq.html?.tsrc=rss"
+  },
+  {
+    "id": "n9a80942fe5",
+    "headline": "Nancy Pelosi Owns This Hot 2026 Stock \u2014 And LeBron James Is About to Wear It",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-04T03:30:21+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-owns-hot-2026-033021430.html?.tsrc=rss"
+  },
+  {
+    "id": "n5e4b7dac4d",
+    "headline": "3 Nuclear Utility Stocks With Data Center Demand and Federal Support \u0aaa\u0abe\u0a9b\u0ab3",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-03T23:07:18+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/3-nuclear-utility-stocks-data-230718400.html?.tsrc=rss"
+  },
+  {
+    "id": "n2d08bdcb52",
+    "headline": "3 AI-Power Stocks Riding the Same Data Center Boom, Ranked By Risk",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-03T18:35:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/03/3-ai-power-stocks-riding-the-same-data-center-boom/?.tsrc=rss"
+  },
+  {
+    "id": "n59f54db210",
+    "headline": "U.S. to reportedly lend Vistra $4.2 billion to expand nuclear power output",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-03T14:09:07+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/u-reportedly-lend-vistra-4-140907646.html?.tsrc=rss"
+  },
+  {
     "id": "n3e5e87674d",
     "headline": "Bloom Energy Trades at a 380x P/E Ratio. Here's What Has to Go Right to Justify That.",
     "source": "Yahoo Finance",
@@ -448,55 +498,5 @@
     ],
     "ts": "2026-09-29T19:44:02+00:00",
     "url": "https://finance.yahoo.com/energy/articles/q2-earnings-outperformers-solaris-energy-194402341.html?.tsrc=rss"
-  },
-  {
-    "id": "n515b8334f5",
-    "headline": "Is Applied Digital (APLD) Above Fair Value After $36B Leases?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-09-29T18:07:56+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-above-fair-180756753.html?.tsrc=rss"
-  },
-  {
-    "id": "nbfa81c9b6b",
-    "headline": "CoreWeave And 2 Other Top Crypto Stocks",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-29T17:11:21+00:00",
-    "url": "https://finance.yahoo.com/markets/crypto/articles/coreweave-2-other-top-crypto-171121825.html?.tsrc=rss"
-  },
-  {
-    "id": "nd777ddeeca",
-    "headline": "CoreWeave Stock Just Got a Jaw-Dropping Upgrade From JPMorgan",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-29T14:30:06+00:00",
-    "url": "https://www.barchart.com/story/news/4858310/coreweave-stock-just-got-a-jaw-dropping-upgrade-from-jpmorgan?.tsrc=rss"
-  },
-  {
-    "id": "n184d65a68f",
-    "headline": "Rising Treasury Yields Threaten to Increase Debt Costs for AI Infrastructure Providers",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-09-29T14:11:50+00:00",
-    "url": "https://www.tikr.com/blog/coreweave-stock-rising-treasury-yields-ai-debt-costs?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "nca74cf1174",
-    "headline": "Constellation Energy vs. Vistra: Nuclear's Two Biggest AI Bets, and why I'm Picking One.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-09-29T13:10:02+00:00",
-    "url": "https://www.barchart.com/story/news/4855799/constellation-energy-vs-vistra-nuclear-s-two-biggest-ai-bets-and-why-i-m-picking-one?.tsrc=rss"
   }
 ]
