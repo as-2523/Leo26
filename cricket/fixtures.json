@@ -1,6 +1,21 @@
 {
   "fixtures": [
     {
+      "id": "fx-1g60zn1",
+      "teamId": "india-a-men",
+      "teamName": "India A Men",
+      "opponent": "Australia A",
+      "startTimeUtc": "2026-10-06T08:30:00.000Z",
+      "hasStartTime": true,
+      "format": "Other",
+      "formatLabel": "Unknown",
+      "series": "Australia A tour of India 2026",
+      "seriesStartUtc": "2026-09-22T00:00:00.000Z",
+      "seriesEndUtc": "2026-10-11T00:00:00.000Z",
+      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
+      "source": "cricapi"
+    },
+    {
       "id": "fx-8b26tt",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -16,6 +31,21 @@
       "source": "cricapi"
     },
     {
+      "id": "fx-197muuo",
+      "teamId": "india-a-men",
+      "teamName": "India A Men",
+      "opponent": "Australia A",
+      "startTimeUtc": "2026-10-09T03:30:00.000Z",
+      "hasStartTime": true,
+      "format": "Other",
+      "formatLabel": "Unknown",
+      "series": "Australia A tour of India 2026",
+      "seriesStartUtc": "2026-09-22T00:00:00.000Z",
+      "seriesEndUtc": "2026-10-11T00:00:00.000Z",
+      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
+      "source": "cricapi"
+    },
+    {
       "id": "fx-8d6g0k",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -28,6 +58,21 @@
       "seriesStartUtc": "2026-09-27T00:00:00.000Z",
       "seriesEndUtc": "2026-10-17T00:00:00.000Z",
       "venue": "JSCA International Stadium Complex, Ranchi",
+      "source": "cricapi"
+    },
+    {
+      "id": "fx-axefm1",
+      "teamId": "india-a-men",
+      "teamName": "India A Men",
+      "opponent": "Australia A",
+      "startTimeUtc": "2026-10-11T03:30:00.000Z",
+      "hasStartTime": true,
+      "format": "Other",
+      "formatLabel": "Unknown",
+      "series": "Australia A tour of India 2026",
+      "seriesStartUtc": "2026-09-22T00:00:00.000Z",
+      "seriesEndUtc": "2026-10-11T00:00:00.000Z",
+      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
       "source": "cricapi"
     },
     {
@@ -254,12 +299,57 @@
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
       "venue": "Hagley Oval, Christchurch",
       "source": "cricapi"
+    },
+    {
+      "id": "fx-1hvg2rz",
+      "teamId": "india-a-men",
+      "teamName": "India A Men",
+      "opponent": "Nepal",
+      "startTimeUtc": "2026-12-09T04:15:00.000Z",
+      "hasStartTime": true,
+      "format": "T20",
+      "formatLabel": "t20",
+      "series": "India A tour of Nepal, 2026",
+      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
+      "seriesEndUtc": "2026-12-13T00:00:00.000Z",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "source": "cricapi"
+    },
+    {
+      "id": "fx-1id3jc8",
+      "teamId": "india-a-men",
+      "teamName": "India A Men",
+      "opponent": "Nepal",
+      "startTimeUtc": "2026-12-11T00:00:00.000Z",
+      "hasStartTime": true,
+      "format": "T20",
+      "formatLabel": "t20",
+      "series": "India A tour of Nepal, 2026",
+      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
+      "seriesEndUtc": "2026-12-13T00:00:00.000Z",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "source": "cricapi"
+    },
+    {
+      "id": "fx-1ieidgq",
+      "teamId": "india-a-men",
+      "teamName": "India A Men",
+      "opponent": "Nepal",
+      "startTimeUtc": "2026-12-13T04:15:00.000Z",
+      "hasStartTime": true,
+      "format": "T20",
+      "formatLabel": "t20",
+      "series": "India A tour of Nepal, 2026",
+      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
+      "seriesEndUtc": "2026-12-13T00:00:00.000Z",
+      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "source": "cricapi"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-03T08:55:38.520Z",
-    "windowStart": "2026-10-03T00:00:00.000Z",
-    "windowEnd": "2027-04-03T00:00:00.000Z",
+    "generatedAt": "2026-10-05T10:06:21.670Z",
+    "windowStart": "2026-10-05T00:00:00.000Z",
+    "windowEnd": "2027-04-05T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -275,7 +365,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 17
+        "count": 23
       },
       {
         "id": "manual",
@@ -284,6 +374,25 @@
       }
     ],
     "usedFallback": false,
-    "expectedSeries": []
+    "expectedSeries": [
+      {
+        "name": "Australia U19 tour of India 2026",
+        "startUtc": "2026-09-18T00:00:00.000Z",
+        "endUtc": "2026-10-08T00:00:00.000Z",
+        "sourceUrl": "https://www.espncricinfo.com/search?query=Australia%20U19%20tour%20of%20India%202026"
+      },
+      {
+        "name": "Malaysia Women's T20I Tri-Series 2026",
+        "startUtc": "2026-10-03T00:00:00.000Z",
+        "endUtc": "2026-10-10T00:00:00.000Z",
+        "sourceUrl": "https://www.espncricinfo.com/search?query=Malaysia%20Women's%20T20I%20Tri-Series%202026"
+      },
+      {
+        "name": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A 2026",
+        "startUtc": "2026-10-05T00:00:00.000Z",
+        "endUtc": "2026-10-14T00:00:00.000Z",
+        "sourceUrl": "https://www.espncricinfo.com/search?query=ICC%20Men's%20T20%20World%20Cup%20Asia%20Sub%20Regional%20Qualifier%20A%202026"
+      }
+    ]
   }
 }
