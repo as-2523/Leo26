@@ -1,5 +1,135 @@
 [
   {
+    "id": "nc9a27f7737",
+    "headline": "Latest News In Cloud AI - Applied Digital Expands Into Finland With AI Campus Development",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-06T12:37:32+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-cloud-ai-applied-123732053.html?.tsrc=rss"
+  },
+  {
+    "id": "n39ed097988",
+    "headline": "Applied Digital Secures Up To 1 GW Of Potential Power Capacity In Finland, Says Talks With Hyperscale Customers Underway",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-06T12:18:04+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/applied-digital-secures-up-to-1-gw-of-potential-power-capacity-in-finland-says-talks-with-hyperscale-customers-underway/cZDt20dRBkv?.tsrc=rss"
+  },
+  {
+    "id": "n3c472dfc24",
+    "headline": "Vistra Corp. (VST) is Attracting Investor Attention: Here is What You Should Know",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-06T12:00:06+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-attracting-investor-120006122.html?.tsrc=rss"
+  },
+  {
+    "id": "n97dc9b9da4",
+    "headline": "Applied Digital Secures Up to 1 GW of Potential Power Capacity in Finland, Marking First International Development in the Nordics",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-06T10:00:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-secures-1-gw-100000092.html?.tsrc=rss"
+  },
+  {
+    "id": "n9acba5bec6",
+    "headline": "Applied Digital (APLD) Reports Wednesday With 21% of Its Float Sold Short",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-06T07:27:23+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-reports-wednesday-072723837.html?.tsrc=rss"
+  },
+  {
+    "id": "nd34f568233",
+    "headline": "Applied Digital (APLD) Reports Q3: Everything You Need To Know Ahead Of Earnings",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-06T03:16:56+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-reports-q3-031656945.html?.tsrc=rss"
+  },
+  {
+    "id": "nc5c00744f9",
+    "headline": "Bank of America sees Eaton heading for a big surprise",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-06T03:07:00+00:00",
+    "url": "https://www.thestreet.com/investing/stocks/etn-eaton-stock-bank-of-america-sees-eaton-heading-to-top-of-its-guidance-range?.tsrc=rss"
+  },
+  {
+    "id": "nede8d7d532",
+    "headline": "Vistra (VST) Challenges PJM Proposal, Is The Stock Trading At A Discount?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-06T02:08:13+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-challenges-pjm-proposal-020813544.html?.tsrc=rss"
+  },
+  {
+    "id": "n82a4ae6f58",
+    "headline": "VST Stock Adds 4%: US Department Of Energy Confirms $4.2B Nuclear Deal With Vistra",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-05T23:31:59+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/vst-stock-adds-4-us-department-of-energy-confirms-4-2-b-nuclear-deal-with-vistra/cZDqX93RBjt?.tsrc=rss"
+  },
+  {
+    "id": "n43055307c5",
+    "headline": "Vistra, An S&P 500 Nuclear Stock, Pops Above Key Level. Here's Why.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-05T21:07:37+00:00",
+    "url": "https://finance.yahoo.com/m/95c4ecec-3f4e-3f41-8ce2-1886dd794c15/vistra%2C-an-s%26p-500-nuclear.html?.tsrc=rss"
+  },
+  {
+    "id": "nf676cf7d06",
+    "headline": "Trump Looks Set to Give Vistra Stock a $4 Billion Boost",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-05T20:31:26+00:00",
+    "url": "https://www.barchart.com/story/news/4969439/trump-looks-set-to-give-vistra-stock-a-4-billion-boost?.tsrc=rss"
+  },
+  {
+    "id": "n8b4005b29a",
+    "headline": "Jim Cramer Prefers CoreWeave (CRWV) Over Nebius (NBIS) \u2014 Is the Valuation Gap the Reason?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-05T19:43:48+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-coreweave-crwv-194348338.html?.tsrc=rss"
+  },
+  {
+    "id": "ncbd4c051c5",
+    "headline": "Final Opportunity to Join More Than 155 Technology Leaders Tomorrow at HMG Strategy's 18th Annual Silicon Valley C-Level Technology Leadership Summit",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-05T15:36:00+00:00",
+    "url": "https://finance.yahoo.com/technology/articles/final-opportunity-join-more-155-153600882.html?.tsrc=rss"
+  },
+  {
     "id": "n032d833fef",
     "headline": "Why Bloom Energy Stock Soared 34% in September, and Why It Might Have More Room to Run",
     "source": "Yahoo Finance",
@@ -368,135 +498,5 @@
     ],
     "ts": "2026-10-02T12:00:00+00:00",
     "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-brings-additional-75-120000939.html?.tsrc=rss"
-  },
-  {
-    "id": "naa691e646b",
-    "headline": "Bloom Energy CEO Shrugs Off Oracle Force Majeure Worries, Says Bloom Boxes Are 'Fungible'",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-02T01:39:54+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/bloom-energy-ceo-shrugs-off-oracle-force-majeure-worries-says-bloom-boxes-are-fungible/cZDSHM1RB0l?.tsrc=rss"
-  },
-  {
-    "id": "n8c9e43d562",
-    "headline": "Bloom Energy Stock: 3 Catalysts For AI Data-Center Fuel-Cell Play",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-01T21:04:45+00:00",
-    "url": "https://finance.yahoo.com/m/bf91a64b-1207-39d7-bce1-714c802d8669/bloom-energy-stock%3A-3.html?.tsrc=rss"
-  },
-  {
-    "id": "n97159c952a",
-    "headline": "Here Is What a $500 Investment in CoreWeave Could Be Worth by 2030",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-01T20:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/01/here-is-what-a-500-investment-in-coreweave-could-b/?.tsrc=rss"
-  },
-  {
-    "id": "n1fe1230d07",
-    "headline": "The Best IPO to Buy in 2026 Isn't What You Think. I'm Betting on CoreWeave.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-01T13:36:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/01/the-best-ipo-to-buy-in-2026-isnt-who-you-think-im/?.tsrc=rss"
-  },
-  {
-    "id": "n5b7a3a1d50",
-    "headline": "CoreWeave Stock Lost Over a Third of Its Value in the Past Year. Here\u2019s What Analysts Expect Next",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-01T13:06:47+00:00",
-    "url": "https://www.tikr.com/blog/coreweave-stock-lost-over-a-third-of-its-value-in-the-past-year-heres-what-analysts-expect-next?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "nef1c8fb9c8",
-    "headline": "Can CoreWeave's Partner Network and AI Deals Expand Its Reach?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-01T11:39:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweaves-partner-network-ai-deals-113900636.html?.tsrc=rss"
-  },
-  {
-    "id": "n976831ba23",
-    "headline": "Why Now Is the Ideal Time to Buy CoreWeave Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-01T11:30:02+00:00",
-    "url": "https://www.barchart.com/story/news/4901390/why-now-is-the-ideal-time-to-buy-coreweave-stock?.tsrc=rss"
-  },
-  {
-    "id": "n66e140baec",
-    "headline": "Vistra\u2019s Price Dropped 30% in 1 Year: Why One Wall Street Analyst Predicts 115% Returns From Here",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-01T11:15:40+00:00",
-    "url": "https://247wallst.com/investing/2026/10/01/vistras-price-dropped-30-in-1-year-why-one-wall-street-analyst-predicts-115-returns-from-here/?.tsrc=rss"
-  },
-  {
-    "id": "n7fb186ce9a",
-    "headline": "3 U.S. Utility Stocks Riding the Gas and Nuclear Buildout",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-01T04:21:14+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/3-u-utility-stocks-riding-042114349.html?.tsrc=rss"
-  },
-  {
-    "id": "n7849f64355",
-    "headline": "CoreWeave (CRWV) Unveils Forge For AI Development",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-01T02:09:22+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-unveils-forge-ai-020922457.html?.tsrc=rss"
-  },
-  {
-    "id": "n2112734280",
-    "headline": "Has Buying Applied Digital Stock's Dips Paid Off?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-09-30T20:00:56+00:00",
-    "url": "https://www.trefis.com/articles/616973/has-buying-applied-digital-stocks-dips-paid-off/2026-09-30?.tsrc=rss"
-  },
-  {
-    "id": "n7d05111bae",
-    "headline": "Should Bloom Energy Stock Investors Worry About Its Record Quarter?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-30T19:38:50+00:00",
-    "url": "https://www.trefis.com/articles/617129/should-bloom-energy-stock-investors-worry-about-its-record-quarter/2026-09-30?.tsrc=rss"
-  },
-  {
-    "id": "n2167271be5",
-    "headline": "Bloom Energy CEO delivers stark warning on America's power demand",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-09-30T18:47:00+00:00",
-    "url": "https://www.thestreet.com/investing/stocks/be-bloom-energy-ceo-kr-sridhar-says-power-demand-is-coming-from-all-angles?.tsrc=rss"
   }
 ]
