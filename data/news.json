@@ -1,5 +1,155 @@
 [
   {
+    "id": "n2d6045b571",
+    "headline": "Applied Digital Stock Gains as Fiscal Q1 Revenue Leaps 300%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-09T13:03:00+00:00",
+    "url": "https://www.tikr.com/blog/applied-digital-stock-q1-revenue-jumps-322-percent?ref=yahoofinance&.tsrc=rss"
+  },
+  {
+    "id": "nd81cc950ec",
+    "headline": "Can Bloom Energy Stay Profitable as It Doubles in Size?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-09T03:02:02+00:00",
+    "url": "https://www.fool.com/investing/2026/10/08/can-bloom-energy-stay-profitable-as-it-doubles-in-size/?.tsrc=rss"
+  },
+  {
+    "id": "n42629e64b7",
+    "headline": "Higher Interest Rates Aren\u2019t Slowing AI Data Center Customers: Solaris Energy CEO",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-10-09T02:21:27+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/higher-interest-rates-aren-t-slowing-ai-data-center-customers-solaris-energy-ceo/cZD6JzkRBVB?.tsrc=rss"
+  },
+  {
+    "id": "ne8e8d07386",
+    "headline": "Is Vistra Stock A Buy Today After Trailing The Market?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-09T01:39:40+00:00",
+    "url": "https://www.trefis.com/articles/617941/is-vistra-stock-a-buy-today-after-trailing-the-market/2026-10-08?.tsrc=rss"
+  },
+  {
+    "id": "n64358df6d7",
+    "headline": "What Is Applied Digital (APLD) Signaling With Its First Finland AI Factory Move?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-08T23:15:02+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-apld-signaling-first-231502153.html?.tsrc=rss"
+  },
+  {
+    "id": "n3b0a2b5288",
+    "headline": "Firmus Misfire Casts Shadow on Data Center IPOs in the Pipeline",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-08T20:53:45+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/firmus-misfire-casts-shadow-data-205345691.html?.tsrc=rss"
+  },
+  {
+    "id": "nd71632b3dd",
+    "headline": "Vistra Corp. (VST) Registers a Bigger Fall Than the Market: Important Facts to Note",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-08T20:45:03+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-registers-bigger-204503769.html?.tsrc=rss"
+  },
+  {
+    "id": "n92b132cc32",
+    "headline": "Cathie Wood dumps tumbling crypto stock to buy NVIDIA-linked AI stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-08T20:03:35+00:00",
+    "url": "https://www.thestreet.com/crypto/markets/cathie-wood-dumps-tumbling-crypto-stock-to-buy-nvidia-linked-ai-stock?.tsrc=rss"
+  },
+  {
+    "id": "nfcbe8b3dc3",
+    "headline": "APLD Q3 Deep Dive: AI Data Center Growth and Strategic Campus Expansion Highlight Quarter",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-08T19:36:09+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/apld-q3-deep-dive-ai-193609742.html?.tsrc=rss"
+  },
+  {
+    "id": "n1e17de881d",
+    "headline": "CoreWeave (CRWV) Could Be 26% Overvalued As India Expansion Raises The Stakes",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-08T19:11:19+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-could-26-overvalued-191119629.html?.tsrc=rss"
+  },
+  {
+    "id": "ne196a20b64",
+    "headline": "Why CoreWeave Is My High-Beta AI Play I Keep Adding",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-08T16:45:23+00:00",
+    "url": "https://247wallst.com/investing/2026/10/08/why-coreweave-is-my-high-beta-ai-play-i-keep-adding/?.tsrc=rss"
+  },
+  {
+    "id": "n5ebab03934",
+    "headline": "Applied Digital Just Reported Earnings. Here's What That Means for APLD Stock Investors.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-08T16:40:30+00:00",
+    "url": "https://www.barchart.com/story/news/5098221/applied-digital-just-reported-earnings-here-s-what-that-means-for-apld-stock-investors?.tsrc=rss"
+  },
+  {
+    "id": "n2fb60718f8",
+    "headline": "Chipotle, Starbucks, Palantir, Intel, SpaceX, Wolfspeed, and More Stocks That Explain Today\u2019s Market",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-08T16:38:00+00:00",
+    "url": "https://finance.yahoo.com/m/b361f1db-c32b-3b1d-8f3f-7d6523484abf/chipotle%2C-starbucks%2C.html?.tsrc=rss"
+  },
+  {
+    "id": "n568f8c9d04",
+    "headline": "Better Cloud AI Pick: CoreWeave or Nebius Group?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-08T16:05:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/08/better-cloud-ai-pick-coreweave-or-nebius-group/?.tsrc=rss"
+  },
+  {
+    "id": "nb63c101141",
+    "headline": "What Did Bloom Energy Stock Investors Miss Before The Run?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-08T15:23:27+00:00",
+    "url": "https://www.trefis.com/articles/617957/what-did-bloom-energy-stock-investors-miss-before-the-run/2026-10-08?.tsrc=rss"
+  },
+  {
     "id": "nd230830e2d",
     "headline": "Applied Digital Q1 2027 earnings beat revenue estimates",
     "source": "Yahoo Finance",
@@ -8,6 +158,16 @@
     ],
     "ts": "2026-10-08T13:00:25+00:00",
     "url": "https://qz.com/applied-digital-revenue-earnings-beat-fiscal-first-quarter-100826?.tsrc=rss"
+  },
+  {
+    "id": "n180dc9e3f3",
+    "headline": "Wall Street Analysts See a 26.29% Upside in Solaris Energy Infrastructure, Inc. (SEI): Can the Stock Really Move This High?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-10-08T12:55:02+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-26-125502534.html?.tsrc=rss"
   },
   {
     "id": "nac99807f65",
@@ -338,165 +498,5 @@
     ],
     "ts": "2026-10-06T12:18:04+00:00",
     "url": "https://stocktwits.com/news-articles/markets/equity/applied-digital-secures-up-to-1-gw-of-potential-power-capacity-in-finland-says-talks-with-hyperscale-customers-underway/cZDt20dRBkv?.tsrc=rss"
-  },
-  {
-    "id": "n3c472dfc24",
-    "headline": "Vistra Corp. (VST) is Attracting Investor Attention: Here is What You Should Know",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-06T12:00:06+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-attracting-investor-120006122.html?.tsrc=rss"
-  },
-  {
-    "id": "n97dc9b9da4",
-    "headline": "Applied Digital Secures Up to 1 GW of Potential Power Capacity in Finland, Marking First International Development in the Nordics",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-06T10:00:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-secures-1-gw-100000092.html?.tsrc=rss"
-  },
-  {
-    "id": "n9acba5bec6",
-    "headline": "Applied Digital (APLD) Reports Wednesday With 21% of Its Float Sold Short",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-06T07:27:23+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-reports-wednesday-072723837.html?.tsrc=rss"
-  },
-  {
-    "id": "nd34f568233",
-    "headline": "Applied Digital (APLD) Reports Q3: Everything You Need To Know Ahead Of Earnings",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-06T03:16:56+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-reports-q3-031656945.html?.tsrc=rss"
-  },
-  {
-    "id": "nc5c00744f9",
-    "headline": "Bank of America sees Eaton heading for a big surprise",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-06T03:07:00+00:00",
-    "url": "https://www.thestreet.com/investing/stocks/etn-eaton-stock-bank-of-america-sees-eaton-heading-to-top-of-its-guidance-range?.tsrc=rss"
-  },
-  {
-    "id": "nede8d7d532",
-    "headline": "Vistra (VST) Challenges PJM Proposal, Is The Stock Trading At A Discount?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-06T02:08:13+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-challenges-pjm-proposal-020813544.html?.tsrc=rss"
-  },
-  {
-    "id": "n82a4ae6f58",
-    "headline": "VST Stock Adds 4%: US Department Of Energy Confirms $4.2B Nuclear Deal With Vistra",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-05T23:31:59+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/vst-stock-adds-4-us-department-of-energy-confirms-4-2-b-nuclear-deal-with-vistra/cZDqX93RBjt?.tsrc=rss"
-  },
-  {
-    "id": "n43055307c5",
-    "headline": "Vistra, An S&P 500 Nuclear Stock, Pops Above Key Level. Here's Why.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-05T21:07:37+00:00",
-    "url": "https://finance.yahoo.com/m/95c4ecec-3f4e-3f41-8ce2-1886dd794c15/vistra%2C-an-s%26p-500-nuclear.html?.tsrc=rss"
-  },
-  {
-    "id": "nf676cf7d06",
-    "headline": "Trump Looks Set to Give Vistra Stock a $4 Billion Boost",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-05T20:31:26+00:00",
-    "url": "https://www.barchart.com/story/news/4969439/trump-looks-set-to-give-vistra-stock-a-4-billion-boost?.tsrc=rss"
-  },
-  {
-    "id": "n8b4005b29a",
-    "headline": "Jim Cramer Prefers CoreWeave (CRWV) Over Nebius (NBIS) \u2014 Is the Valuation Gap the Reason?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-05T19:43:48+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-coreweave-crwv-194348338.html?.tsrc=rss"
-  },
-  {
-    "id": "ncbd4c051c5",
-    "headline": "Final Opportunity to Join More Than 155 Technology Leaders Tomorrow at HMG Strategy's 18th Annual Silicon Valley C-Level Technology Leadership Summit",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-05T15:36:00+00:00",
-    "url": "https://finance.yahoo.com/technology/articles/final-opportunity-join-more-155-153600882.html?.tsrc=rss"
-  },
-  {
-    "id": "n032d833fef",
-    "headline": "Why Bloom Energy Stock Soared 34% in September, and Why It Might Have More Room to Run",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-05T13:40:08+00:00",
-    "url": "https://www.fool.com/investing/2026/10/05/why-bloom-energy-stock-soared-34-in-september-and-why-it-might-have-more-room-to-run/?.tsrc=rss"
-  },
-  {
-    "id": "n2125d90a34",
-    "headline": "Vistra stock jumps on expectations of Trump administration loan",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-05T12:46:39+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/article/vistra-stock-jumps-on-expectations-of-trump-administration-loan-124639838.html?.tsrc=rss"
-  },
-  {
-    "id": "n90199cf424",
-    "headline": "Vistra (VST) Is Considered a Good Investment by Brokers: Is That True?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-05T12:30:05+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-considered-good-investment-123005811.html?.tsrc=rss"
-  },
-  {
-    "id": "n6a004d6f9e",
-    "headline": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Monday; Vistra, Nike to Open Higher",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-05T10:36:13+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103613557.html?.tsrc=rss"
-  },
-  {
-    "id": "n7b9d0a9ca9",
-    "headline": "10-Year Yield Above 5%, Oil Near $90, And Bitcoin: 3 Charts That Could Test The Stock Rally",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-05T10:23:44+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/treasury-yields-oil-bitcoin-3-charts-to-watch-before-the-fed-minutes/cZDpMJ7RBSo?.tsrc=rss"
   }
 ]
