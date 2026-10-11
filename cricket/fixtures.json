@@ -1,36 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-8d6g0k",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "West Indies",
-      "startTimeUtc": "2026-10-09T13:30:00.000Z",
-      "hasStartTime": true,
-      "format": "ODI",
-      "formatLabel": "odi",
-      "series": "West Indies tour of India, 2026",
-      "seriesStartUtc": "2026-09-27T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-17T00:00:00.000Z",
-      "venue": "JSCA International Stadium Complex, Ranchi",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-axefm1",
-      "teamId": "india-a-men",
-      "teamName": "India A Men",
-      "opponent": "Australia A",
-      "startTimeUtc": "2026-10-11T03:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Australia A tour of India 2026",
-      "seriesStartUtc": "2026-09-22T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-11T00:00:00.000Z",
-      "venue": "Cricket Association Puducherry Siechem Ground, Puducherry",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-8utwkt",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -302,9 +272,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-09T10:10:28.143Z",
-    "windowStart": "2026-10-09T00:00:00.000Z",
-    "windowEnd": "2027-04-09T00:00:00.000Z",
+    "generatedAt": "2026-10-11T09:44:45.245Z",
+    "windowStart": "2026-10-11T00:00:00.000Z",
+    "windowEnd": "2027-04-11T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -320,7 +290,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 20
+        "count": 18
       },
       {
         "id": "manual",
@@ -331,10 +301,10 @@
     "usedFallback": false,
     "expectedSeries": [
       {
-        "name": "Malaysia Women's T20I Tri-Series 2026",
-        "startUtc": "2026-10-03T00:00:00.000Z",
-        "endUtc": "2026-10-10T00:00:00.000Z",
-        "sourceUrl": "https://www.espncricinfo.com/search?query=Malaysia%20Women's%20T20I%20Tri-Series%202026"
+        "name": "Australia A tour of India 2026",
+        "startUtc": "2026-09-22T00:00:00.000Z",
+        "endUtc": "2026-10-11T00:00:00.000Z",
+        "sourceUrl": "https://www.espncricinfo.com/search?query=Australia%20A%20tour%20of%20India%202026"
       },
       {
         "name": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A 2026",
