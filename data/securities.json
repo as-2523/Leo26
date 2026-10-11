@@ -4,7 +4,7 @@
     "exchange": "NGM",
     "sector": "ETF",
     "market_cap": null,
-    "pe_ratio": 41.208008,
+    "pe_ratio": 32.2326,
     "description": "The fund normally invests at least 80% of its total assets in securities that comprise the fund's benchmark index. The index includes common stocks and depositary receipts of U.S. exchange-listed companies in the semiconductor industry. Such companies may include medium-capitalization companies and foreign companies that are listed on a U.S. exchange. The fund is non-diversified."
   },
   "NVDA": {
@@ -52,7 +52,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 683828576256,
-    "pe_ratio": 57.448853,
+    "pe_ratio": 57.784485,
     "description": "ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. The company offers lithography, metrology, and inspection systems. It also provides extreme ultraviolet lithography systems; and deep ultraviolet lithography systems comprising immersion and dry lithography systems solutions to manufacture various range of semiconductor nodes and technologies. In addition, the company offers metrology and inspection systems, including YieldStar optical metrology systems, a diffraction-based wafer metrology platform to assess the quality of patterns on the wafers; and HMI electron beam solutions to locate and analyze individual chip defects. Further, it provides computational lithography solutions, and lithography systems and control software solutions; and refurbishes and upgrades lithography systems, as well as offers customer support and related services. Additionally, the company offers hardware, software, and services to chipmakers to produce the patterns of integrated circuits. It operates in Japan, South Korea, Singapore, Taiwan, China, rest of Asia, the Netherlands, rest of ",
     "industry": "Semiconductor Equipment & Materials",
     "website": "https://www.asml.com"
@@ -71,7 +71,7 @@
     "name": "Corning Incorporated",
     "exchange": "NYQ",
     "sector": "Technology",
-    "market_cap": 134688047104,
+    "market_cap": 134962323456,
     "pe_ratio": 71.87155,
     "description": "Corning Incorporated operates in optical communications, display, specialty materials, automotive, and life sciences businesses in the United States, Canada, Mexico, Japan, Taiwan, China, South Korea, Germany, and internationally. The company provides optical fibers and cables; and hardware and equipment products, such as cable assemblies, fiber optic hardware and connectors, optical components and couplers, closures, network interface devices, and other accessories for the telecommunications industry, businesses, governments, and individuals. It also offers glass substrates for flat panel displays, including liquid crystal displays and organic light-emitting diodes that are used in televisions, notebook computers, desktop monitors, tablets, and handheld devices. In addition, it manufactures products that offer material formulations for glass, glass ceramics, crystals, precision metrology instruments, and software, as well as glass wafers and substrates, tinted sunglasses, and radiation shielding products for markets, such as mobile consumer electronics, semiconductor equipment optics and consumables, aerospace and defense optics, radiation shielding products, sunglasses, and telec",
     "industry": "Electronic Components",
@@ -82,7 +82,7 @@
     "exchange": "NYQ",
     "sector": "Industrials",
     "market_cap": 82614927360,
-    "pe_ratio": 369.07895,
+    "pe_ratio": 359.6154,
     "description": "Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide fuel cell systems for on-site power generation in the United States and internationally. It offers Bloom Energy Server, an energy server platform to convert fuel, such as natural gas, biogas, hydrogen, or a blend of these fuels, into electricity through a non-combustion electrochemical process. The company also provides Bloom Electrolyzer for producing hydrogen. It sells its products through direct and indirect sales channels to utilities, data centers, retail, healthcare, education, telecom, manufacturing, and other industries. The company was formerly known as Ion America Corp. and changed its name to Bloom Energy Corporation in 2006. Bloom Energy Corporation was incorporated in 2001 and is headquartered in San Jose, California.",
     "industry": "Electrical Equipment & Parts",
     "website": "https://www.bloomenergy.com"
@@ -102,7 +102,7 @@
     "exchange": "NYQ",
     "sector": "Utilities",
     "market_cap": 54198370304,
-    "pe_ratio": 26.342577,
+    "pe_ratio": 27.23103,
     "description": "Vistra Corp., together with its subsidiaries, operates as an integrated retail electricity and power generation company in the United States. The company operates through five segments: Retail, Texas, East, West, and Asset Closure. The company retails electricity and natural gas to residential, commercial, and industrial customers across states in the United States and the District of Columbia. It is also involved in electricity generation, wholesale energy purchases and sales, commodity risk management, fuel procurement, and fuel logistics management activities. In addition, the company engages in decommissioning and reclamation of retired generation facilities, including mines, and battery removal and remediation activities. It serves approximately 5 million customers with a generation capacity of approximately 44,000 megawatts with a portfolio of natural gas, nuclear, coal, solar, and battery energy storage facilities. The company was formerly known as Vistra Energy Corp. and changed its name to Vistra Corp. in July 2020. Vistra Corp. was founded in 1882 and is based in Irving, Texas.",
     "industry": "Utilities - Independent Power Producers",
     "website": "https://vistracorp.com"
@@ -121,7 +121,7 @@
     "sector": "Technology",
     "market_cap": 45270122496,
     "pe_ratio": -45.28402,
-    "description": "CoreWeave, Inc. operates as a cloud infrastructure technology company in the United States. The company offers CoreWeave Cloud platform that comprises proprietary software and cloud services that deliver the automation and efficiency needed to manage complex artificial intelligence (AI) infrastructure at scale. It also offers data and storage solutions, such as Local Object Transport Accelerator; infrastructure control solutions, including CoreWeave Kubernetes service; mission control services, including node, rack, and fleet lifecycle management; model and agent development tools comprising Weights & Biases, an AI developer platform; and runtime acceleration. In addition, the company offers graphics processing unit compute, CPU compute, networking services, managed services, and virtual and bare metal servers. Its services also include visual effects rendering, machine learning, pixel streaming, and batch processing. The company was formerly known as Atlantic Crypto Corporation and changed its name to CoreWeave, Inc. in December 2019. CoreWeave, Inc. was incorporated in 2017 and is based in Livingston, New Jersey.",
+    "description": "CoreWeave, Inc. operates as a cloud infrastructure technology company in the United States. The company offers CoreWeave Cloud platform that comprises proprietary software and cloud services that deliver the automation and efficiency needed to manage complex artificial intelligence (AI) infrastructure at scale. It also offers data and storage solutions, such as Local Object Transport Accelerator; infrastructure control solutions, including CoreWeave Kubernetes service; mission control services, including node, rack, and fleet lifecycle management; model and agent development tools comprising Weights & Biases, an AI developer platform; and runtime acceleration. In addition, the company offers graphics processing unit compute, CPU compute, networking services, managed services, and virtual and bare metal servers. Its services also include visual effects rendering, machine learning, pixel streaming, and batch processing. It has a collaboration with AdaniConneX to operate a data center in India. The company was formerly known as Atlantic Crypto Corporation and changed its name to CoreWeave, Inc. in December 2019. CoreWeave, Inc. was incorporated in 2017 and is based in Livingston, New ",
     "industry": "Software - Infrastructure",
     "website": "https://www.coreweave.com"
   },
@@ -130,7 +130,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 7160527360,
-    "pe_ratio": -30.187141,
+    "pe_ratio": -38.79169,
     "description": "Applied Digital Corporation designs, develops, and operates digital infrastructure solutions to high-performance computing (HPC) and artificial intelligence industries in North America. It operates through: Data Center Hosting, and HPC Hosting Business. The company provides energized infrastructure services to crypto mining customers; and cloud services to customers, such as AI and machine learning developers. It also engages in the designing, constructing, and operating of data centers to provide computing power and support HPC applications. The company was formerly known as Applied Blockchain, Inc. and changed its name to Applied Digital Corporation in November 2022. Applied Digital Corporation is based in Dallas, Texas.",
     "industry": "Information Technology Services",
     "website": "https://applieddigital.com"
@@ -180,7 +180,7 @@
     "exchange": "NCM",
     "sector": "Financial Services",
     "market_cap": 6336247296,
-    "pe_ratio": -18.057085,
+    "pe_ratio": -17.564392,
     "description": "Riot Platforms, Inc., together with its subsidiaries, operates as a Bitcoin mining company in the United States. It operates in two segments, Bitcoin Mining and Engineering. The company offers comprehensive and critical infrastructure for bitcoin mining and data center services at its facilities. The company also designs and manufactures power distribution equipment and engineered-to-order electrical products; and electricity distribution product design, manufacturing, and installation services for large-scale industrial and governmental customers, as well as data center, power generation, utility, water, industrial, and alternative energy markets. The company was founded in 2000 and is based in Castle Rock, Colorado.",
     "industry": "Capital Markets",
     "website": "https://www.riotplatforms.com"
@@ -211,7 +211,7 @@
     "sector": "Technology",
     "market_cap": 1164234457088,
     "pe_ratio": 13.84367,
-    "description": "Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments. The company provides memory products, including dynamic random access memory components and modules, CXL-based memory, LPDDR components and modules, graphics memory, high-bandwidth memory, and data center memory products; multichip packages (MCP) comprising embedded multimedia card-based, universal flash storage-based, and NAND-based MCPs; and technology leadership products that include 1y DRAM and G9 NAND technologies. It also offers storage products, such as data center solid-state drives (SSD), client SSD storage, and auto and industrial SSD storage; managed NAND; NAND flash; NOR flash; and memory cards. In addition, the company provides design tools, including FBGA and part decoders; DRAM power calculators; NAND power calculators; simulation models; chipset compatibility guides; serial presence-detection tools; cross-reference ",
+    "description": "Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. The company operates through the Cloud Memory Business Unit (CMBU); Core Data Center Business Unit (CDCB); Mobile and Client Business Unit (MCBU); and Automotive and Embedded Business Unit (AEBU) segments. It provides dynamic random access memory (DRAM) semiconductor devices comprising high-bandwidth memory, double data rate, low-power DRAM, and graphics DRAM. The company also offers NAND products that include managed NAND and low-density NAND; and NOR products. In addition, its CMBU unit offers memory solutions for large hyperscale cloud customers; CDCB's storage solutions for data center customers, including data center SSDs and NAND components, and memory solutions; MCBU's memory and storage solutions for the mobile and client segments; and AEBU's memory and storage solutions for the automotive, industrial, and consumer segments. The company offers its products in the form of components, modules, SSDs, managed NAND, multi-chip packages, and wafers. It sells its products through its direct sales",
     "industry": "Semiconductors",
     "website": "https://www.micron.com"
   },
@@ -231,7 +231,7 @@
     "sector": "Technology",
     "market_cap": 25851375616,
     "pe_ratio": 90.399216,
-    "description": "Tower Semiconductor Ltd., an independent semiconductor foundry, provides technology, development, and process platforms for integrated circuits in the United States, Japan, rest of Asia, and Europe. The company provides customizable process technologies, including SiGe, SiPho, mixed signal CMOS, RF CMOS, CMOS image sensor, non-imaging sensors, wafers, and integrated power management. It also offers a design enablement platform for a design cycle, as well as transfer optimization and development process services to integrated device manufacturers and fabless companies. The company serves consumer applications, personal computers, communications, handsets and smartphones, automotive, industrial, aerospace, and medical devices. Tower Semiconductor Ltd. was incorporated in 1993 and is headquartered in Migdal Haemek, Israel",
+    "description": "Tower Semiconductor Ltd., an independent semiconductor foundry, provides technology, development, and process platforms for integrated circuits in the United States, Japan, rest of Asia, and Europe. It provides customizable process technologies, including SiGe, SiPho, mixed signal CMOS, RF CMOS, CMOS image sensors, non-imaging sensors, wafers, and integrated power management. The company also offers a design enablement platform for a design cycle, as well as transfer optimization and development process services to integrated device manufacturers and fabless companies. It serves consumer applications, personal computers, communications, handsets and smartphones, automotive, industrial, aerospace, and medical device markets. The company was incorporated in 1993 and is headquartered in Migdal Haemek, Israel.",
     "industry": "Semiconductors",
     "website": "https://towersemi.com"
   },
@@ -240,7 +240,7 @@
     "exchange": "NYQ",
     "sector": "Technology",
     "market_cap": 14453837824,
-    "pe_ratio": 109.899254,
+    "pe_ratio": 110.72556,
     "description": "Onto Innovation Inc. engages in the design, development, manufacture, and support of process control tools that perform macro-defect inspection and metrology in the United States, Taiwan, South Korea, Japan, China, Southeast Asia, Asia, and Europe. The company offers lithography systems and process control analytical software; and automated and integrated metrology systems, silicon wafer all-surface inspection, macro defect inspection, automated defect classification and pattern analysis, yield analysis, opaque film metrology, 4D business, advanced packaging lithography, process control software, and yield management software products. It also provides process and yield management solutions, and device packaging and test facilities through standalone systems for optical metrology, macro-defect inspection, packaging lithography, and transparent and opaque thin film measurements. In addition, the company offers process control software portfolio that includes solutions for standalone tools, groups of tools, and factory-wide suites. Further, it engages in systems and software, spare parts, and other services, as well as offers software licensing services; and provides advanced product",
     "industry": "Semiconductor Equipment & Materials",
     "website": "https://www.ontoinnovation.com"
@@ -260,7 +260,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 247395418112,
-    "pe_ratio": 90.552635,
+    "pe_ratio": 90.25574,
     "description": "Marvell Technology, Inc., together with its subsidiaries, provides data infrastructure semiconductor solutions and spanning the data center core to network edge in the United States, Argentina, China, India, Israel, Japan, Singapore, South Korea, Taiwan, Vietnam, and internationally. The company develops and scales system-on-a-chip architectures, integrating analog, mixed-signal, and digital signal processing functionality. It offers a portfolio of ethernet solutions, including spanning controllers, network adapters, physical transceivers, and switches; single or multiple core processors; and custom application specific integrated circuits, interconnects, fibre channel adapters, and processors. The company also provides interconnect products, including pulse amplitude modulation, coherent and coherent-lite digital signal processors (DSPs), laser drivers, trans-impedance amplifiers, silicon photonics, co-packaged optics, linear pluggable optics chipsets, data center interconnect, active electrical cable DSPs and peripheral component interconnect express retimer solutions; fibre channel products comprising host bus adapters and controllers for server and storage system connectivity; ",
     "industry": "Semiconductors",
     "website": "https://www.marvell.com"
@@ -321,7 +321,7 @@
     "sector": "Technology",
     "industry": "Scientific & Technical Instruments",
     "website": "https://www.coherent.com",
-    "market_cap": 61221072896,
+    "market_cap": 61564620800,
     "pe_ratio": 75.87864,
     "description": "Coherent Corp. develops, manufactures, and markets lasers, transceivers, other optical and optoelectronic devices, modules, and systems worldwide. Its products include critical components consisting of detectors, passive optics, thermal solutions, and PICS; silicon photonics and other advanced optical technologies; and coherent transmission components, transport products, optical amplifiers, passive optical components, optical line systems, and multi-rail platform. The company's Datacenter and Communications segment offers transceivers, co-packaged optics, and optical circuit switches, as well as other systems, such as subsystems, modules, and semiconductor devices for datacenter and communications applications; and VCSELS, EELS, pump lasers, and other components, optics, and ICs for datacenter and communication applications. Its Industrial segment offers excimer lasers, solid-state lasers, and CO2 lasers; laser systems for various industrial applications, including semiconductor capital equipment, display manufacturing, precision manufacturing, and scientific research; and laser systems and subsystems comprising high-power lasers for materials processing. This segment also provide"
   },
@@ -332,7 +332,7 @@
     "industry": "Capital Markets",
     "website": "https://www.galaxy.com",
     "market_cap": 11980414976,
-    "pe_ratio": -59.66951,
+    "pe_ratio": -62.04034,
     "description": "Galaxy Digital Inc. engages in the digital asset and data centre infrastructure businesses in North America and internationally. It operates through Digital Assets, Data Centers, and Treasury and Corporate segments. The Digital Assets segment provides over-the-counter spot and derivatives trading, lending, and structured products, as well as mergers and acquisitions advisory, and equity and debt capital markets services. This segment also manages investments in the digital assets' ecosystem; and offers blockchain-centric technology and infrastructure solutions, including staking, tokenization, and custodial technology. The Data Centers segment comprises the Helios infrastructure assets. The Treasury and Corporate segment engages in managing a portfolio of digital assets, ventures, private equity, and fund investments, as well as in bitcoin mining operations. It also offers GalaxyOne, a retail financial technology platform designed for individual investors seeking access to traditional and digital markets. The company has a strategic collaboration with BNY to advance digital asset infrastructure. The company was founded in 2018 and is headquartered in New York, New York."
   },
   "HUT": {
@@ -362,7 +362,7 @@
     "industry": "Computer Hardware",
     "website": "https://www.westerndigital.com",
     "market_cap": 148711145472,
-    "pe_ratio": 14.611254,
+    "pe_ratio": 14.757801,
     "description": "Western Digital Corporation engages in the development, manufacture, and sale of data storage devices and solutions based on hard disk drive (HDD) technology in the United States, Asia, Europe, the Middle East, and Africa. The company offers internal HDDs, data center drives, data center platforms, external drives, portable drives, NAS for home and office, and accessories. It sells its data storage devices and solutions through its computer sales personnel, dealers, distributors, retailers, and subsidiaries. The company has a collaboration with Open Quantum Design for the development of quantum error correction technology and related systems to advance reliable quantum computing. Western Digital Corporation was founded in 1970 and is headquartered in San Jose, California."
   },
   "BW": {

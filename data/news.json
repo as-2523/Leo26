@@ -1,5 +1,25 @@
 [
   {
+    "id": "nda9a768c3e",
+    "headline": "Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-10T23:30:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/10/can-coreweave-unseat-amazon-web-services-as-the-to/?.tsrc=rss"
+  },
+  {
+    "id": "n2bf27e1384",
+    "headline": "Could Bloom Energy Stock Be Your Ticket to Generational Wealth?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-10T14:05:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/10/could-bloom-energy-stock-ticket-to-wealth/?.tsrc=rss"
+  },
+  {
     "id": "n4718d14a5a",
     "headline": "Is Vistra Stock Increasing Your Market Risk?",
     "source": "Yahoo Finance",
@@ -478,25 +498,5 @@
     ],
     "ts": "2026-10-07T12:20:38+00:00",
     "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-expands-india-adani-data-122038847.html?.tsrc=rss"
-  },
-  {
-    "id": "nf5afd8fe9c",
-    "headline": "Earnings Preview: What to Expect From Bloom Energy's Report",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-07T12:18:39+00:00",
-    "url": "https://www.barchart.com/story/news/5004100/earnings-preview-what-to-expect-from-bloom-energy-s-report?.tsrc=rss"
-  },
-  {
-    "id": "n24140589ee",
-    "headline": "CoreWeave Enters India, Expanding AI Cloud Platform With AdaniConneX",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-07T12:00:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-enters-india-expanding-ai-120000881.html?.tsrc=rss"
   }
 ]
