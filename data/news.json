@@ -1,5 +1,125 @@
 [
   {
+    "id": "n29b100a680",
+    "headline": "CoreWeave (CRWV) Has a $104B Backlog. Can Its Balance Sheet Keep Up?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-12T14:28:02+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-104b-backlog-balance-123602262.html?.tsrc=rss"
+  },
+  {
+    "id": "ndcf969d3c9",
+    "headline": "Applied Digital Has $36 Billion in Contracted Revenue. Wolfspeed Has the Better Stock Chart.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-12T12:50:05+00:00",
+    "url": "https://247wallst.com/investing/2026/10/12/applied-digital-has-36-billion-in-contracted-revenue-wolfspeed-has-the-better-stock-chart/?.tsrc=rss"
+  },
+  {
+    "id": "nf8cd7347ed",
+    "headline": "Bloom Energy (BE) Turned Profitable. Can Its Premium Survive the Scale-Up?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-12T12:46:01+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-turned-profitable-premium-124601723.html?.tsrc=rss"
+  },
+  {
+    "id": "nd880b1466c",
+    "headline": "The Bloom Energy Bull Case Just Got a Lot More Interesting",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-12T12:45:45+00:00",
+    "url": "https://247wallst.com/investing/2026/10/12/the-bloom-energy-bull-case-just-got-a-lot-more-interesting/?.tsrc=rss"
+  },
+  {
+    "id": "ne4da8d4c80",
+    "headline": "CRWV Shares Slide 25% in 6 Months: Time to Buy, Hold or Cut Losses?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-12T12:41:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/crwv-shares-slide-25-6-124100366.html?.tsrc=rss"
+  },
+  {
+    "id": "n297dae9670",
+    "headline": "Nebius Slides 3% Despite Rosenblatt\u2019s New Buy Rating; CoreWeave Slips",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-12T12:26:40+00:00",
+    "url": "https://247wallst.com/investing/2026/10/12/nebius-slides-3-despite-rosenblatts-new-buy-rating-coreweave-slips/?.tsrc=rss"
+  },
+  {
+    "id": "n2e9a81a61d",
+    "headline": "Bloom Energy vs. Vertiv: Which AI Infrastructure Stock Is the Better Buy After the Pullback?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-12T10:50:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/12/bloom-energy-vs-vertiv-which-ai-infrastructure-sto/?.tsrc=rss"
+  },
+  {
+    "id": "nd93392f7e0",
+    "headline": "Stocktwits Power Watch: CEG Bags Google Deal, VST Secures Government Funding, Utility Merger Draws Fire",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-12T10:35:48+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/ai-power-demand-constellation-vistra-nuclear-deals-nextera-dominion-merger/cZxI4mwRBFH?.tsrc=rss"
+  },
+  {
+    "id": "nfd8e070c4e",
+    "headline": "Bloom Energy to Announce Third Quarter 2026 Financial Results on October 22, 2026",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-12T10:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/bloom-energy-announce-third-quarter-100000769.html?.tsrc=rss"
+  },
+  {
+    "id": "nfbd568559b",
+    "headline": "Bloom Energy Stock Has Fallen 20% or More 5 Times Since September 2025. It Recovered From 4 Within Weeks.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-12T09:54:02+00:00",
+    "url": "https://www.fool.com/investing/2026/10/12/bloom-energy-stock-has-fallen-20-or-more-5-times-since-september-2025-it-recovered-from-4-within-weeks/?.tsrc=rss"
+  },
+  {
+    "id": "n853d42d8c1",
+    "headline": "Applied Digital Ends the Quarter With $36 Billion in Contracted Revenue as AI Moat Widens",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-11T19:30:02+00:00",
+    "url": "https://www.barchart.com/story/news/6051347/applied-digital-ends-the-quarter-with-36-billion-in-contracted-revenue-as-ai-moat-widens?.tsrc=rss"
+  },
+  {
+    "id": "ne46d96483f",
+    "headline": "CoreWeave Just Landed a Massive New AI Opportunity. Wall Street Sees 59% Upside Ahead.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-11T17:30:02+00:00",
+    "url": "https://www.barchart.com/story/news/6040036/coreweave-just-landed-a-massive-new-ai-opportunity-wall-street-sees-59-upside-ahead?.tsrc=rss"
+  },
+  {
     "id": "nda9a768c3e",
     "headline": "Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?",
     "source": "Yahoo Finance",
@@ -378,125 +498,5 @@
     ],
     "ts": "2026-10-08T08:02:47+00:00",
     "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-falls-premarket-bernstein-says-bloom-energy-is-already-positioned-for-broader-power-buildout/cZDUaUURBNb?.tsrc=rss"
-  },
-  {
-    "id": "n2942bf66ce",
-    "headline": "CoreWeave Can Raise Prices Twice in Three Months. Can It Afford to Keep Building?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-08T03:26:47+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-raise-prices-twice-three-032647945.html?.tsrc=rss"
-  },
-  {
-    "id": "n3e43fb84b4",
-    "headline": "CRWV, NBIS Edge Up Overnight After Selloff: Cathie Wood's ARK Buys CoreWeave, Rosenblatt Starts Nebius At \u2018Buy\u2019",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-08T02:04:04+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/crwv-nbis-edge-up-overnight-after-selloff-cathie-wood-s-ark-buys-core-weave-rosenblatt-starts-nebius-at-buy/cZDUTXpRBZh?.tsrc=rss"
-  },
-  {
-    "id": "n39c0f135fa",
-    "headline": "U.S. loaning $4.2 billion to energy firm with crashing stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-08T01:17:00+00:00",
-    "url": "https://www.thestreet.com/investing/stocks/us-department-energy-loan-4-billion-vistra-vst-crashing-stock?.tsrc=rss"
-  },
-  {
-    "id": "n9628d4f226",
-    "headline": "Here's Why Bloom Energy (BE) Fell More Than Broader Market",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-07T21:15:04+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-bloom-energy-fell-211504026.html?.tsrc=rss"
-  },
-  {
-    "id": "n47e99c660a",
-    "headline": "CoreWeave\u2019s $2.6 Billion AI Loan Has a Hidden Risk: Uptime Failures Could Force Early Debt Paydowns",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-07T19:36:53+00:00",
-    "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62231783/coreweave-ai-loan-uptime-risk?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
-  },
-  {
-    "id": "n8f670dad22",
-    "headline": "CoreWeave (CRWV) Stock Could Sit Above Fair Value Following Platinum AI Cloud Rating",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-07T17:10:20+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-stock-could-sit-171020044.html?.tsrc=rss"
-  },
-  {
-    "id": "nb53d56461c",
-    "headline": "Bloom Energy Crosses Key SMAs: Should Investors Buy the Stock Now?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-07T15:19:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-crosses-key-smas-151900116.html?.tsrc=rss"
-  },
-  {
-    "id": "n6084a6c17b",
-    "headline": "FuelCell Tumbles 12% as Its Finance Chief of 15 Years Steps Down; Bloom Energy Dips, Plug Power Slides 3%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-07T13:57:43+00:00",
-    "url": "https://247wallst.com/investing/2026/10/07/fuelcell-tumbles-12-as-its-finance-chief-of-15-years-steps-down-bloom-energy-dips-plug-power-slides-3/?.tsrc=rss"
-  },
-  {
-    "id": "nc64e227920",
-    "headline": "Vistra Stock Rallies 11% as Energy Department Reveals $4.2 Billion Nuclear Investment",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-07T13:24:26+00:00",
-    "url": "https://www.tikr.com/blog/vistra-stock-rallies-energy-department-nuclear-investment?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "nc9fab6f6fa",
-    "headline": "CoreWeave Locks In 240 MW In India With AdaniConneX Data Center Deal As AI Cloud Provider Ramps Up Global Buildout",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-07T12:46:00+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/core-weave-locks-in-240-mw-in-india-with-adani-conne-x-data-center-deal-as-ai-cloud-provider-ramps-up-global-buildout/cZDvafBRBmm?.tsrc=rss"
-  },
-  {
-    "id": "n675cf08f67",
-    "headline": "CoreWeave Plans First India Data Centres Through AdaniConneX Partnership",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-07T12:35:21+00:00",
-    "url": "https://investorshub.advfn.com/market-news/article/37625/coreweave-plans-first-india-data-centres-through-adaniconnex-partnership?.tsrc=rss"
-  },
-  {
-    "id": "na2cfce59f4",
-    "headline": "CoreWeave expands to India with Adani data center venture",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-07T12:20:38+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-expands-india-adani-data-122038847.html?.tsrc=rss"
   }
 ]
