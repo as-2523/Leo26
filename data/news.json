@@ -1,5 +1,85 @@
 [
   {
+    "id": "nc64c2a9cea",
+    "headline": "Elon Musk Says \u2018Yikes\u2019 As CoreWeave Bond Yield Hits 15% Amid Chamath Palihapitiya\u2019s \u2018Private Credit Bubble\u2019 Warning",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-14T08:41:36+00:00",
+    "url": "https://www.benzinga.com/markets/equities/26/10/62345955/elon-musk-says-yikes-as-coreweave-bond-yield-hits-15-amid-chamath-palihapitiyas-private-credit-bubble-warning?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
+  },
+  {
+    "id": "n55d7766a1d",
+    "headline": "Stocktwits Midweek Energy Check: Oil Rallies, Trump\u2019s Greenland Deal Makes Waves, Oracle Reaffirms Bloom Energy\u2019s Jupiter Ties",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-14T08:36:34+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/stocktwits-midweek-energy-check-oil-rallies-trump-s-greenland-deal-makes-waves-oracle-reaffirms-bloom-energy-s-jupiter-ties/cZxf1oARBpl?.tsrc=rss"
+  },
+  {
+    "id": "n7dcc001852",
+    "headline": "Elite Growth Stocks To Own In October 2026",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-14T06:12:16+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/elite-growth-stocks-own-october-061216696.html?.tsrc=rss"
+  },
+  {
+    "id": "n1bcf55918e",
+    "headline": "Bloom Energy (BE) Stock May Be 34% Undervalued After Jersey Patch Deal",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-14T04:33:06+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-may-34-043306202.html?.tsrc=rss"
+  },
+  {
+    "id": "n1948bd891e",
+    "headline": "CoreWeave targets \u2018unlimited\u2019 insurance money to fund AI build-out",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-14T04:00:04+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-targets-unlimited-insurance-money-040004029.html?.tsrc=rss"
+  },
+  {
+    "id": "nb70fc242a9",
+    "headline": "BE Stock Rises Overnight After Oracle Reaffirms Project Jupiter Role: Analyst Hikes Price Target On Gaining Market Acceptance Ahead Of Q3 Results",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-14T01:58:51+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-rises-overnight-after-oracle-reaffirms-project-jupiter-role-analyst-hikes-price-target-on-gaining-market-acceptance-ahead-of-q3-results/cZxfeTKRBYx?.tsrc=rss"
+  },
+  {
+    "id": "nce19a0a876",
+    "headline": "How Much Of Applied Digital\u2019s Fiscal Q1 Revenue Was Rent?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-13T18:26:43+00:00",
+    "url": "https://www.trefis.com/articles/618482/how-much-of-applied-digitals-fiscal-q1-revenue-was-rent/2026-10-13?.tsrc=rss"
+  },
+  {
+    "id": "nd93b49f06d",
+    "headline": "Oracle Proposes Up To $55M In Annual Power Bill Credits, Reaffirms Bloom Energy's Role At Project Jupiter",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-13T15:25:22+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/oracle-proposes-up-to-55-m-in-annual-power-bill-credits-reaffirms-bloom-energy-s-role-at-project-jupiter/cZxBZ0MRBYe?.tsrc=rss"
+  },
+  {
     "id": "nda8cac9ced",
     "headline": "Prediction: CoreWeave Could Be One of the Most Explosive AI Stocks of the Decade",
     "source": "Yahoo Finance",
@@ -418,85 +498,5 @@
     ],
     "ts": "2026-10-08T23:31:24+00:00",
     "url": "https://blockspace.media/insight/inside-applied-digital-earnings-for-q1-fy-2027/?.tsrc=rss"
-  },
-  {
-    "id": "n17ce9e77c5",
-    "headline": "Applied Digital earnings: APLD beats expectations with $341.9M in revenue",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-08T23:16:34+00:00",
-    "url": "https://blockspace.media/short/applied-digital-earnings-apld-beats-expectations-with-341-9m-in-revenue/?.tsrc=rss"
-  },
-  {
-    "id": "n64358df6d7",
-    "headline": "What Is Applied Digital (APLD) Signaling With Its First Finland AI Factory Move?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-08T23:15:02+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-apld-signaling-first-231502153.html?.tsrc=rss"
-  },
-  {
-    "id": "n3b0a2b5288",
-    "headline": "Firmus Misfire Casts Shadow on Data Center IPOs in the Pipeline",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-08T20:53:45+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/firmus-misfire-casts-shadow-data-205345691.html?.tsrc=rss"
-  },
-  {
-    "id": "nd71632b3dd",
-    "headline": "Vistra Corp. (VST) Registers a Bigger Fall Than the Market: Important Facts to Note",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-08T20:45:03+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-registers-bigger-204503769.html?.tsrc=rss"
-  },
-  {
-    "id": "n92b132cc32",
-    "headline": "Cathie Wood dumps tumbling crypto stock to buy NVIDIA-linked AI stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-08T20:03:35+00:00",
-    "url": "https://www.thestreet.com/crypto/markets/cathie-wood-dumps-tumbling-crypto-stock-to-buy-nvidia-linked-ai-stock?.tsrc=rss"
-  },
-  {
-    "id": "nfcbe8b3dc3",
-    "headline": "APLD Q3 Deep Dive: AI Data Center Growth and Strategic Campus Expansion Highlight Quarter",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-08T19:36:09+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/apld-q3-deep-dive-ai-193609742.html?.tsrc=rss"
-  },
-  {
-    "id": "n1e17de881d",
-    "headline": "CoreWeave (CRWV) Could Be 26% Overvalued As India Expansion Raises The Stakes",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-08T19:11:19+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-could-26-overvalued-191119629.html?.tsrc=rss"
-  },
-  {
-    "id": "ne196a20b64",
-    "headline": "Why CoreWeave Is My High-Beta AI Play I Keep Adding",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-08T16:45:23+00:00",
-    "url": "https://247wallst.com/investing/2026/10/08/why-coreweave-is-my-high-beta-ai-play-i-keep-adding/?.tsrc=rss"
   }
 ]

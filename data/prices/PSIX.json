@@ -1,8 +1,8 @@
 {
   "ticker": "PSIX",
-  "current_price": 50.9057,
+  "current_price": 53.14,
   "prev_close": 50.1,
-  "day_change_pct": 1.61,
+  "day_change_pct": 6.07,
   "week_52_high": 106.5,
   "week_52_low": 25.28,
   "history": [
@@ -721,12 +721,12 @@
     {
       "date": "2026-10-13",
       "open": 49.9,
-      "high": 51.41,
-      "low": 49.495,
-      "close": 50.9057,
-      "volume": 130171
+      "high": 53.35,
+      "low": 49.31,
+      "close": 53.14,
+      "volume": 382000
     }
   ],
-  "as_of": "2026-10-13T14:29:05.492331+00:00",
+  "as_of": "2026-10-14T12:15:03.181970+00:00",
   "stale": false
 }
