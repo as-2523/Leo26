@@ -1,5 +1,185 @@
 [
   {
+    "id": "n897c8aae88",
+    "headline": "Social Buzz: Wallstreetbets Stocks Fall Pre-Bell Thursday; Rocket Lab, CoreWeave to Open Lower",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-15T10:41:08+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-fall-104108548.html?.tsrc=rss"
+  },
+  {
+    "id": "n495998785d",
+    "headline": "Tech Rout, Credit Concerns Rattle Asian Stock Markets",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-15T10:37:48+00:00",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-rout-credit-concerns-rattle-103748305.html?.tsrc=rss"
+  },
+  {
+    "id": "nc75b029359",
+    "headline": "Intel, Marvell, CoreWeave, TSMC, Apple, and More Stocks That Explain Today\u2019s Market",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-15T10:36:00+00:00",
+    "url": "https://finance.yahoo.com/m/b14bf4c9-b540-315c-a728-6230494d4f98/intel%2C-marvell%2C-coreweave%2C.html?.tsrc=rss"
+  },
+  {
+    "id": "n81711ab770",
+    "headline": "Cathie Wood's ARK Invest Purchases CoreWeave Shares Amid Plunging Common Stock, Bond Prices",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-15T10:11:53+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-apos-ark-invest-101153984.html?.tsrc=rss"
+  },
+  {
+    "id": "n4d5cb2f4ec",
+    "headline": "Why CoreWeave stock panic matters to Nvidia, explained in under 30 seconds",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-15T09:59:31+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/article/why-coreweave-stock-panic-matters-to-nvidia-explained-in-under-30-seconds-095931846.html?.tsrc=rss"
+  },
+  {
+    "id": "n41523f17ab",
+    "headline": "Vistra Stock Surged Following Its $4.2 Billion Federal Loan. With the Stock Down 23% Over the Past Year, Is It Time to Buy?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-15T09:44:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/15/vistra-stock-surge-billion-federal-loan/?.tsrc=rss"
+  },
+  {
+    "id": "n5cb52ce807",
+    "headline": "Bloom Energy Stock Is 31% Below Its Record. Here's Where I Think It Will Be in 2030.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-15T07:31:01+00:00",
+    "url": "https://www.fool.com/investing/2026/10/15/bloom-energy-stock-is-31-below-its-record-here-s-where-i-think-it-will-be-in-2030/?.tsrc=rss"
+  },
+  {
+    "id": "n7f5f1d4e77",
+    "headline": "BE Stock Slips Overnight Amid AI Selloff: AEP To Spend $4B On Fuel Cells To Power Google",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-15T05:52:50+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-slips-overnight-amid-ai-selloff-aep-to-spend-4-b-on-fuel-cells-to-power-google/cZxWmiCRBAE?.tsrc=rss"
+  },
+  {
+    "id": "nfbef839e0e",
+    "headline": "Here\u2019s why AI stocks crashed today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-14T21:50:10+00:00",
+    "url": "https://blockspace.media/short/heres-why-ai-stocks-crashed-today/?.tsrc=rss"
+  },
+  {
+    "id": "nebb9bad4a4",
+    "headline": "What Are Bloom Energy Investors Betting On?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-14T20:31:23+00:00",
+    "url": "https://www.trefis.com/articles/618686/what-are-bloom-energy-investors-betting-on/2026-10-14?.tsrc=rss"
+  },
+  {
+    "id": "n9a8de61d76",
+    "headline": "Could Applied Digital Stock Survive Its Lenders Pulling Back?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-14T20:25:13+00:00",
+    "url": "https://www.trefis.com/articles/618689/could-applied-digital-stock-survive-its-lenders-pulling-back/2026-10-14?.tsrc=rss"
+  },
+  {
+    "id": "na5833e1a20",
+    "headline": "EQT Increases Base Dividend",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-10-14T20:15:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-increases-dividend-201500904.html?.tsrc=rss"
+  },
+  {
+    "id": "nebd3fe6462",
+    "headline": "Super Micro, Applied Digital, Benchmark, Planet Labs, and Ingram Micro Shares Are Falling, What You Need To Know",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-14T19:40:07+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-applied-digital-benchmark-194007906.html?.tsrc=rss"
+  },
+  {
+    "id": "nf59f4a7a9c",
+    "headline": "Applied Digital Stock Is Up Against a Bigger Opportunity Than 322% Revenue Growth. Here\u2019s How.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-14T18:22:21+00:00",
+    "url": "https://www.barchart.com/story/news/7673794/applied-digital-stock-is-up-against-a-bigger-opportunity-than-322-revenue-growth-heres-how?.tsrc=rss"
+  },
+  {
+    "id": "n197add2990",
+    "headline": "Solaris Energy Co-CEO on Data Center Power Demand and Energy Infrastructure Growth",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-10-14T17:38:12+00:00",
+    "url": "https://finance.yahoo.com/video/solaris-energy-co-ceo-data-173812452.html?.tsrc=rss"
+  },
+  {
+    "id": "n0e5cd6a389",
+    "headline": "Constellation Energy (CEG) vs. VST and TLN: Can Nuclear Power and AI Demand Drive Earnings Growth?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-14T16:41:50+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-vs-vst-164150765.html?.tsrc=rss"
+  },
+  {
+    "id": "nc0561c082e",
+    "headline": "Is Bloom Energy Stock a Millionaire Maker?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-14T14:20:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/14/is-bloom-energy-stock-a-millionaire-maker/?.tsrc=rss"
+  },
+  {
+    "id": "nb17d5ff315",
+    "headline": "The AI Data Center Race Heats Up: Three Winners Getting Paid Now, One Waiting for Next Year",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-14T12:25:36+00:00",
+    "url": "https://247wallst.com/investing/2026/10/14/the-ai-data-center-race-heats-up-three-winners-getting-paid-now-one-waiting-for-next-year/?.tsrc=rss"
+  },
+  {
     "id": "nc64c2a9cea",
     "headline": "Elon Musk Says \u2018Yikes\u2019 As CoreWeave Bond Yield Hits 15% Amid Chamath Palihapitiya\u2019s \u2018Private Credit Bubble\u2019 Warning",
     "source": "Yahoo Finance",
@@ -318,185 +498,5 @@
     ],
     "ts": "2026-10-11T17:30:02+00:00",
     "url": "https://www.barchart.com/story/news/6040036/coreweave-just-landed-a-massive-new-ai-opportunity-wall-street-sees-59-upside-ahead?.tsrc=rss"
-  },
-  {
-    "id": "nda9a768c3e",
-    "headline": "Can CoreWeave Unseat Amazon Web Services as the Top Cloud Provider?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-10T23:30:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/10/can-coreweave-unseat-amazon-web-services-as-the-to/?.tsrc=rss"
-  },
-  {
-    "id": "n2bf27e1384",
-    "headline": "Could Bloom Energy Stock Be Your Ticket to Generational Wealth?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-10T14:05:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/10/could-bloom-energy-stock-ticket-to-wealth/?.tsrc=rss"
-  },
-  {
-    "id": "n4718d14a5a",
-    "headline": "Is Vistra Stock Increasing Your Market Risk?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-09T23:50:18+00:00",
-    "url": "https://www.trefis.com/articles/618177/is-vistra-stock-increasing-your-market-risk/2026-10-09?.tsrc=rss"
-  },
-  {
-    "id": "n1e35e0c5b6",
-    "headline": "Bloom\u2019s Billion-Dollar Quarter And AI Power Deals Could Be A Game Changer For Bloom Energy (BE)",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-09T23:11:49+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/bloom-billion-dollar-quarter-ai-231149335.html?.tsrc=rss"
-  },
-  {
-    "id": "nd072a9d7ad",
-    "headline": "Bloom Energy (BE) Outpaces Stock Market Gains: What You Should Know",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-09T21:00:03+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-outpaces-stock-market-210003503.html?.tsrc=rss"
-  },
-  {
-    "id": "nfec9014146",
-    "headline": "What Could Surprise CoreWeave Stock Investors On The Upside?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-09T19:41:36+00:00",
-    "url": "https://www.trefis.com/articles/618169/what-could-surprise-coreweave-stock-investors-on-the-upside/2026-10-09?.tsrc=rss"
-  },
-  {
-    "id": "n0148c18c01",
-    "headline": "CoreWeave's Backlog Is Huge. Here's the Risk Investors Shouldn't Ignore",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-09T19:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/09/coreweaves-backlog-is-huge-heres-the-risk-investor/?.tsrc=rss"
-  },
-  {
-    "id": "n8d10ba9782",
-    "headline": "Why Is CoreWeave (CRWV) In Focus After A Major Customer Cut Revenue To $50 Billion?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-09T18:13:45+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-coreweave-crwv-focus-major-181345500.html?.tsrc=rss"
-  },
-  {
-    "id": "nfe66bcc0aa",
-    "headline": "CoreWeave Stock Fell Nearly 8% in a Day on an OpenAI Revenue Report. Here\u2019s Why Its Borrowing Model Raises the Stakes",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-09T16:58:13+00:00",
-    "url": "https://www.tikr.com/blog/coreweave-stock-fell-nearly-8-in-a-day-on-an-openai-revenue-report-heres-why-its-borrowing-model-raises-the-stakes?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n6bae6d3176",
-    "headline": "CoreWeave\u2019s Debt is Substantiated By Clear Demand So I Keep Adding",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-09T16:45:10+00:00",
-    "url": "https://247wallst.com/investing/2026/10/09/coreweaves-debt-is-substantiated-by-clear-demand-so-i-keep-adding/?.tsrc=rss"
-  },
-  {
-    "id": "nd6b63d336e",
-    "headline": "Applied Digital Has Fallen Hard Over 1 Year: One Lead Analyst Says It\u2019s Going to Nearly Triple in Price",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-09T16:45:10+00:00",
-    "url": "https://247wallst.com/investing/2026/10/09/applied-digital-has-fallen-hard-over-1-year-one-lead-analyst-says-its-going-to-nearly-triple-in-price/?.tsrc=rss"
-  },
-  {
-    "id": "ne387f8f79b",
-    "headline": "Vistra Stock Fell 6% in a Day After a 20% Run. Here\u2019s What Its November 6 Report Needs to Show",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-09T16:24:37+00:00",
-    "url": "https://www.tikr.com/blog/vistra-stock-fell-6-in-a-day-after-a-20-run-heres-what-its-november-6-report-needs-to-show?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n2d6045b571",
-    "headline": "Applied Digital Stock Gains as Fiscal Q1 Revenue Leaps 300%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-09T13:03:00+00:00",
-    "url": "https://www.tikr.com/blog/applied-digital-stock-q1-revenue-jumps-322-percent?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "nc6d79f1ce8",
-    "headline": "Applied Digital\u2019s Hidden Moat Could Unlock Massive Upside",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-09T11:20:00+00:00",
-    "url": "https://www.marketbeat.com/articles/applied-digitals-hidden-moat-could-unlock-massive-upside/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "nd81cc950ec",
-    "headline": "Can Bloom Energy Stay Profitable as It Doubles in Size?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-09T03:02:02+00:00",
-    "url": "https://www.fool.com/investing/2026/10/08/can-bloom-energy-stay-profitable-as-it-doubles-in-size/?.tsrc=rss"
-  },
-  {
-    "id": "n42629e64b7",
-    "headline": "Higher Interest Rates Aren\u2019t Slowing AI Data Center Customers: Solaris Energy CEO",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-10-09T02:21:27+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/higher-interest-rates-aren-t-slowing-ai-data-center-customers-solaris-energy-ceo/cZD6JzkRBVB?.tsrc=rss"
-  },
-  {
-    "id": "ne8e8d07386",
-    "headline": "Is Vistra Stock A Buy Today After Trailing The Market?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-09T01:39:40+00:00",
-    "url": "https://www.trefis.com/articles/617941/is-vistra-stock-a-buy-today-after-trailing-the-market/2026-10-08?.tsrc=rss"
-  },
-  {
-    "id": "n3f786e5d6c",
-    "headline": "Inside Applied Digital earnings for Q1 FY 2027",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-08T23:31:24+00:00",
-    "url": "https://blockspace.media/insight/inside-applied-digital-earnings-for-q1-fy-2027/?.tsrc=rss"
   }
 ]
