@@ -51,7 +51,7 @@
     "name": "ASML Holding N.V.",
     "exchange": "NMS",
     "sector": "Technology",
-    "market_cap": 630507831296,
+    "market_cap": 632670912512,
     "pe_ratio": 40.391735,
     "description": "ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. The company offers lithography, metrology, and inspection systems. It also provides extreme ultraviolet lithography systems; and deep ultraviolet lithography systems comprising immersion and dry lithography systems solutions to manufacture various range of semiconductor nodes and technologies. In addition, the company offers metrology and inspection systems, including YieldStar optical metrology systems, a diffraction-based wafer metrology platform to assess the quality of patterns on the wafers; and HMI electron beam solutions to locate and analyze individual chip defects. Further, it provides computational lithography solutions, and lithography systems and control software solutions; and refurbishes and upgrades lithography systems, as well as offers customer support and related services. Additionally, the company offers hardware, software, and services to chipmakers to produce the patterns of integrated circuits. It operates in Japan, South Korea, Singapore, Taiwan, China, rest of Asia, the Netherlands, rest of ",
     "industry": "Semiconductor Equipment & Materials",
@@ -71,7 +71,7 @@
     "name": "Corning Incorporated",
     "exchange": "NYQ",
     "sector": "Technology",
-    "market_cap": 113472192512,
+    "market_cap": 113703264256,
     "pe_ratio": 60.550457,
     "description": "Corning Incorporated operates in optical communications, display, specialty materials, automotive, and life sciences businesses in the United States, Canada, Mexico, Japan, Taiwan, China, South Korea, Germany, and internationally. The company provides optical fibers and cables; and hardware and equipment products, such as cable assemblies, fiber optic hardware and connectors, optical components and couplers, closures, network interface devices, and other accessories for the telecommunications industry, businesses, governments, and individuals. It also offers glass substrates for flat panel displays, including liquid crystal displays and organic light-emitting diodes that are used in televisions, notebook computers, desktop monitors, tablets, and handheld devices. In addition, it manufactures products that offer material formulations for glass, glass ceramics, crystals, precision metrology instruments, and software, as well as glass wafers and substrates, tinted sunglasses, and radiation shielding products for markets, such as mobile consumer electronics, semiconductor equipment optics and consumables, aerospace and defense optics, radiation shielding products, sunglasses, and telec",
     "industry": "Electronic Components",
@@ -260,7 +260,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 204751880192,
-    "pe_ratio": 72.32698,
+    "pe_ratio": 74.944084,
     "description": "Marvell Technology, Inc., together with its subsidiaries, provides data infrastructure semiconductor solutions and spanning the data center core to network edge in the United States, Argentina, China, India, Israel, Japan, Singapore, South Korea, Taiwan, Vietnam, and internationally. The company develops and scales system-on-a-chip architectures, integrating analog, mixed-signal, and digital signal processing functionality. It offers a portfolio of ethernet solutions, including spanning controllers, network adapters, physical transceivers, and switches; single or multiple core processors; and custom application specific integrated circuits, interconnects, fibre channel adapters, and processors. The company also provides interconnect products, including pulse amplitude modulation, coherent and coherent-lite digital signal processors (DSPs), laser drivers, trans-impedance amplifiers, silicon photonics, co-packaged optics, linear pluggable optics chipsets, data center interconnect, active electrical cable DSPs and peripheral component interconnect express retimer solutions; fibre channel products comprising host bus adapters and controllers for server and storage system connectivity; ",
     "industry": "Semiconductors",
     "website": "https://www.marvell.com"
@@ -332,7 +332,7 @@
     "industry": "Capital Markets",
     "website": "https://www.galaxy.com",
     "market_cap": 9511259136,
-    "pe_ratio": -47.371662,
+    "pe_ratio": -52.10149,
     "description": "Galaxy Digital Inc. engages in the digital asset and data centre infrastructure businesses in North America and internationally. It operates through Digital Assets, Data Centers, and Treasury and Corporate segments. The Digital Assets segment provides over-the-counter spot and derivatives trading, lending, and structured products, as well as mergers and acquisitions advisory, and equity and debt capital markets services. This segment also manages investments in the digital assets' ecosystem; and offers blockchain-centric technology and infrastructure solutions, including staking, tokenization, and custodial technology. The Data Centers segment comprises the Helios infrastructure assets. The Treasury and Corporate segment engages in managing a portfolio of digital assets, ventures, private equity, and fund investments, as well as in bitcoin mining operations. It also offers GalaxyOne, a retail financial technology platform designed for individual investors seeking access to traditional and digital markets. The company has a strategic collaboration with BNY to advance digital asset infrastructure. The company was founded in 2018 and is headquartered in New York, New York."
   },
   "HUT": {
