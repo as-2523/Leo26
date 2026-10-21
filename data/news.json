@@ -1,5 +1,165 @@
 [
   {
+    "id": "ndd828ed508",
+    "headline": "Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: Applied Digital, Chipotle Mexican Grill, Cirrus Logic, Costco, Digital Realty Trust, Intuitive Surgical, Netflix, Robinhood Markets, Zscale",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-21T12:02:22+00:00",
+    "url": "https://247wallst.com/investing/2026/10/21/here-are-wednesdays-top-wall-street-analyst-research-calls-applied-digital-chipotle-mexican-grill-cirrus-logic-costco-digital-realty-trust-intuitive-surgical-netflix-robinhood-markets/?.tsrc=rss"
+  },
+  {
+    "id": "n1daccbd9fd",
+    "headline": "CoreWeave Launches the CoreWeave Zero Trust AI Framework, Keeping Customers in Control of Access to Their Models, Data, and Runtime Environments",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-21T11:30:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-launches-coreweave-zero-trust-113000386.html?.tsrc=rss"
+  },
+  {
+    "id": "n17512b320e",
+    "headline": "CoreWeave Unveils CoreWeave Physical AI Launchables, Taking the Setup Work Out of Robotics and AV Development",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-21T11:30:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-unveils-coreweave-physical-ai-113000034.html?.tsrc=rss"
+  },
+  {
+    "id": "n8a70e0e3e8",
+    "headline": "Soluna Agrees to Form Strategic Partnership with Applied Digital to Develop Wind-Powered AI Data Center in Texas",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-21T11:30:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/soluna-agrees-form-strategic-partnership-113000091.html?.tsrc=rss"
+  },
+  {
+    "id": "n2b42527d0f",
+    "headline": "CoreWeave's crash looks like 2008. Here's why it isn't.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-21T11:00:00+00:00",
+    "url": "https://finance.yahoo.com/video/coreweaves-crash-looks-2008-heres-110000542.html?.tsrc=rss"
+  },
+  {
+    "id": "nd42367be10",
+    "headline": "Bloom Energy vs. Vistra: Which Energy Stock Is a Better Buy in 2026?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-21T10:52:42+00:00",
+    "url": "https://www.fool.com/coverage/better-buy/2026/10/21/bloom-energy-vs-vistra-which-energy-stock-is-a-better-buy-in-2026/?.tsrc=rss"
+  },
+  {
+    "id": "n6e03278aa0",
+    "headline": "One week after crushing neocloud stocks like CoreWeave and Nebius with a single word, SpaceX's Elon Musk is out with another word that is less dire",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-21T10:44:20+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/article/one-week-after-crushing-neocloud-stocks-like-coreweave-and-nebius-with-a-single-word-spacexs-elon-musk-is-out-with-another-word-that-is-less-dire-104420999.html?.tsrc=rss"
+  },
+  {
+    "id": "na879edb63c",
+    "headline": "Why Is Bloom Energy Stock Rising in Pre-Market Trading?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-21T10:37:14+00:00",
+    "url": "https://investorshub.advfn.com/market-news/article/38423/why-is-bloom-energy-stock-rising-in-pre-market-trading?.tsrc=rss"
+  },
+  {
+    "id": "n8a6ad4f122",
+    "headline": "2 Nasdaq-100 Stocks to Buy Before They Soar 105% and 130%, According to Wall Street",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-21T09:08:02+00:00",
+    "url": "https://www.fool.com/investing/2026/10/21/2-nasdaq-100-stocks-to-buy-before-soar-130-wall-street/?.tsrc=rss"
+  },
+  {
+    "id": "n8ebd3edc66",
+    "headline": "Bloom Energy Is Down 36% From Its June Record. Should You Buy Before Thursday's Report?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-21T07:26:02+00:00",
+    "url": "https://www.fool.com/investing/2026/10/21/bloom-energy-is-down-36-from-its-june-record-should-you-buy-before-thursday-s-report/?.tsrc=rss"
+  },
+  {
+    "id": "n99042289b0",
+    "headline": "Stocktwits Midweek Energy Roundup: Brent Crosses $110 A Barrel, Musk\u2019s Comments On Power For AI, Key Earnings Check",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-21T07:13:43+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/stocktwits-midweek-energy-roundup-brent-crosses-110-a-barrel-musk-s-comments-on-power-for-ai-key-earnings-check/cZxtMSqRBHt?.tsrc=rss"
+  },
+  {
+    "id": "nd8aca5e0e0",
+    "headline": "What To Expect From Bloom Energy\u2019s (BE) Q3 Earnings",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-21T05:34:39+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/expect-bloom-energy-q3-earnings-053439083.html?.tsrc=rss"
+  },
+  {
+    "id": "n59fc113f9d",
+    "headline": "What Could Surprise Vistra Stock Investors On The Upside?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-20T17:56:13+00:00",
+    "url": "https://www.trefis.com/articles/619370/what-could-surprise-vistra-stock-investors-on-the-upside/2026-10-20?.tsrc=rss"
+  },
+  {
+    "id": "n10dc627a35",
+    "headline": "IREN Sinks 6%, Then Recovers After Co-CEO\u2019s No-Debt Reassurance as Neocloud Worries Persist; TeraWulf and Applied Digital Rise 3%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-20T14:39:12+00:00",
+    "url": "https://247wallst.com/investing/2026/10/20/iren-sinks-6-then-recovers-after-co-ceos-no-debt-reassurance-as-neocloud-worries-persist-terawulf-and-applied-digital-rise-3/?.tsrc=rss"
+  },
+  {
+    "id": "nb1e0a9027e",
+    "headline": "Analysts Estimate EQT Corporation (EQT) to Report a Decline in Earnings: What to Look Out for",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-10-20T13:00:06+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-estimate-eqt-corporation-eqt-130006542.html?.tsrc=rss"
+  },
+  {
+    "id": "n8c76b1dfb0",
+    "headline": "Vistra Corp. (VST) Is a Trending Stock: Facts to Know Before Betting on It",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-20T12:00:06+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-trending-stock-120006371.html?.tsrc=rss"
+  },
+  {
     "id": "n7441e3eda5",
     "headline": "Why CoreWeave earnings estimates are wildly too optimistic, warns HSBC",
     "source": "Yahoo Finance",
@@ -338,165 +498,5 @@
     ],
     "ts": "2026-10-16T23:30:00+00:00",
     "url": "https://pitchbook.com/news/articles/coreweaves-not-so-secret-weapons-price-hikes-and-an-nvidia-trump-card?.tsrc=rss"
-  },
-  {
-    "id": "nac65784994",
-    "headline": "CoreWeave stock plunges 12%, but Wall Street analyst says buy the dip",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-16T22:39:27+00:00",
-    "url": "https://www.thestreet.com/investing/stocks/coreweave-stock-plunges-12-but-wall-street-analyst-says-buy-the-dip-crwv?.tsrc=rss"
-  },
-  {
-    "id": "n921d313bae",
-    "headline": "Nasdaq 100 Records Worst Week In 18 Months As Investors Steer Clear Of Chipmakers \u2014 AAPL, MSTR, UBER, SOXX In Focus",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-16T22:15:34+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-records-worst-week-in-18-months/cZxK0vGRBt2?.tsrc=rss"
-  },
-  {
-    "id": "nd741ad8596",
-    "headline": "Bloom Energy vs. Constellation Energy: Which Energy Stock Is an AI-Driven Buy in 2026?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-16T21:07:01+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/10/16/bloom-energy-vs-constellation-energy-which-energy-stock-is-an-ai-driven-buy-in-2026/?.tsrc=rss"
-  },
-  {
-    "id": "n5f9f1ef425",
-    "headline": "Bloom Energy Supports Central Texas First Responders Ahead of Florida-Texas Matchup",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-16T20:41:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/bloom-energy-supports-central-texas-204100815.html?.tsrc=rss"
-  },
-  {
-    "id": "nb58f46fc79",
-    "headline": "Bloom Energy Honors Gainesville Firefighters Who Prepare for the Moments That Matter",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-16T20:33:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/bloom-energy-honors-gainesville-firefighters-203300779.html?.tsrc=rss"
-  },
-  {
-    "id": "n8ab807cf5e",
-    "headline": "Bloom Energy Is Up 157% in 2026: Take Profits, or Hold On for the Ride?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-16T19:03:21+00:00",
-    "url": "https://247wallst.com/investing/2026/10/16/bloom-energy-is-up-157-in-2026-take-profits-or-hold-on-for-the-ride/?.tsrc=rss"
-  },
-  {
-    "id": "n66b23b370d",
-    "headline": "The GE Vernova Trade is Done. Here\u2019s What Comes Next!",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-16T18:31:12+00:00",
-    "url": "https://247wallst.com/videos/the-ge-vernova-trade-is-done-heres-what-comes-next/?.tsrc=rss"
-  },
-  {
-    "id": "n18ab6f2852",
-    "headline": "Applied Digital Sinks 4% as Rotation Out of Debt-Funded AI Builders Extends; TeraWulf Dips 3%, Core Scientific Retreats 2%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-16T13:53:46+00:00",
-    "url": "https://247wallst.com/investing/2026/10/16/applied-digital-sinks-4-as-rotation-out-of-debt-funded-ai-builders-extends-terawulf-dips-3-core-scientific-retreats-2/?.tsrc=rss"
-  },
-  {
-    "id": "n54c026ac68",
-    "headline": "President Trump and Nancy Pelosi\u2019s AI Data Center Stock Pick: Vistra (VST)",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-16T13:08:56+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/president-trump-nancy-pelosi-ai-130856444.html?.tsrc=rss"
-  },
-  {
-    "id": "n5e0869fd62",
-    "headline": "Dow Jones Futures Rise; Tesla Flies On Roadster As Investors Question Anthropic Valuation",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-16T11:35:37+00:00",
-    "url": "https://finance.yahoo.com/m/2cd5e2a7-a743-35dd-994e-11a2ba3c6d46/dow-jones-futures-rise%3B-tesla.html?.tsrc=rss"
-  },
-  {
-    "id": "n882e83f284",
-    "headline": "CoreWeave Stock Is Crashing. This Could Be Great News for SpaceX Investors.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-16T11:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/16/coreweave-stock-is-crashing-this-could-be-great-ne/?.tsrc=rss"
-  },
-  {
-    "id": "n133f022599",
-    "headline": "CoreWeave Isn't The Only Sputtering AI Stock \u2014 Nor The Worst",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-16T11:33:20+00:00",
-    "url": "https://finance.yahoo.com/m/7400be65-1675-35e1-a62d-17ae6fe9b185/coreweave-isn%27t-the-only.html?.tsrc=rss"
-  },
-  {
-    "id": "n3832c69121",
-    "headline": "Stock market today: Dow, S&P 500, Nasdaq futures mixed amid volatile week",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-16T11:29:39+00:00",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html?.tsrc=rss"
-  },
-  {
-    "id": "nd0393557a5",
-    "headline": "EQT Raises Quarterly Dividend 3%, Reinforces Shareholder Returns",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-16T11:19:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-raises-quarterly-dividend-3-111900518.html?.tsrc=rss"
-  },
-  {
-    "id": "nb9afc38f91",
-    "headline": "Investors \u2014 and Elon Musk \u2014 crashed CoreWeave stock. But many analysts don't see the problem.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-16T10:00:00+00:00",
-    "url": "https://finance.yahoo.com/technology/article/investors--and-elon-musk--crashed-coreweave-stock-but-many-analysts-dont-see-the-problem-100000773.html?.tsrc=rss"
-  },
-  {
-    "id": "n0e039ea3eb",
-    "headline": "Is Bloom Energy Stock Priced Right Against Its Peers?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-15T21:17:10+00:00",
-    "url": "https://www.trefis.com/articles/618840/is-bloom-energy-stock-priced-right-against-its-peers/2026-10-15?.tsrc=rss"
   }
 ]
