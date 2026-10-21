@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-t4qpdx",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "Zimbabwe Women",
-      "startTimeUtc": "2026-10-20T13:30:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "Zimbabwe Women tour of India, 2026",
-      "seriesStartUtc": "2026-10-16T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-28T00:00:00.000Z",
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-gfh5tf",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -102,7 +87,7 @@
       "series": "India tour of New Zealand 2026",
       "seriesStartUtc": "2026-10-22T00:00:00.000Z",
       "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "Sky Stadium, Wellington",
+      "venue": "Hnry Stadium, Wellington",
       "source": "cricapi"
     },
     {
@@ -797,9 +782,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-19T08:34:15.213Z",
-    "windowStart": "2026-10-19T00:00:00.000Z",
-    "windowEnd": "2027-04-19T00:00:00.000Z",
+    "generatedAt": "2026-10-21T08:20:21.305Z",
+    "windowStart": "2026-10-21T00:00:00.000Z",
+    "windowEnd": "2027-04-21T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -815,7 +800,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 54
+        "count": 53
       },
       {
         "id": "manual",
