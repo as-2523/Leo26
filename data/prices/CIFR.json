@@ -1,19 +1,11 @@
 {
   "ticker": "CIFR",
-  "current_price": 9.13,
-  "prev_close": 8.88,
-  "day_change_pct": 2.82,
+  "current_price": 8.32,
+  "prev_close": 9.13,
+  "day_change_pct": -8.87,
   "week_52_high": 30.14,
-  "week_52_low": 8.23,
+  "week_52_low": 8.04,
   "history": [
-    {
-      "date": "2026-06-15",
-      "open": 25.76,
-      "high": 26.89,
-      "low": 25.64,
-      "close": 26.03,
-      "volume": 23514500
-    },
     {
       "date": "2026-06-16",
       "open": 26.0,
@@ -724,9 +716,17 @@
       "high": 9.42,
       "low": 8.745,
       "close": 9.13,
-      "volume": 37959600
+      "volume": 38169900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 8.73,
+      "high": 8.965,
+      "low": 8.04,
+      "close": 8.32,
+      "volume": 42461400
     }
   ],
-  "as_of": "2026-10-22T12:15:27.254231+00:00",
+  "as_of": "2026-10-23T11:56:38.841695+00:00",
   "stale": false
 }
