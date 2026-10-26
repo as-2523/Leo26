@@ -1,5 +1,125 @@
 [
   {
+    "id": "nf6770cef5a",
+    "headline": "SpaceX's Elon Musk reveals $40 billion in debt for AI chips, warns of neoclouds",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-26T12:23:18+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/article/spacexs-elon-musk-reveals-40-billion-in-debt-for-ai-chips-warns-of-neoclouds-122318683.html?.tsrc=rss"
+  },
+  {
+    "id": "n79a8ebd2cf",
+    "headline": "This warning sign suggests more tech stock poundings could be in the cards",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-26T11:57:11+00:00",
+    "url": "https://finance.yahoo.com/markets/article/this-warning-sign-suggests-more-tech-stock-poundings-could-be-in-the-cards-115711128.html?.tsrc=rss"
+  },
+  {
+    "id": "nc11e8ba179",
+    "headline": "Is Money for AI Data Centers Drying Up? Here\u2019s Who Could Come Out on Top.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-26T11:20:21+00:00",
+    "url": "https://247wallst.com/investing/2026/10/26/is-money-for-ai-data-centers-drying-up-heres-who-could-come-out-on-top/?.tsrc=rss"
+  },
+  {
+    "id": "na1cb39ee2a",
+    "headline": "Neoclouds Face Certain \u2018Death,\u2019 Warns Musk. Why CoreWeave and Nebius Will Survive.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-26T11:16:00+00:00",
+    "url": "https://finance.yahoo.com/m/f50ef86d-1854-3c93-8629-76d3300a1070/neoclouds-face-certain.html?.tsrc=rss"
+  },
+  {
+    "id": "n4c4031e9bf",
+    "headline": "EQT to acquire Range Resources in $50 billion all-stock deal",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-10-26T10:52:20+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/eqt-acquire-range-resources-50-105220741.html?.tsrc=rss"
+  },
+  {
+    "id": "n25f8b80e40",
+    "headline": "EQT Agrees to Acquire Range Resources in All-Stock Transaction",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-10-26T10:50:18+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-agrees-acquire-range-resources-105018596.html?.tsrc=rss"
+  },
+  {
+    "id": "na9bf96e4cb",
+    "headline": "EQT Announces Strategic Acquisition of Range Resources, Creating America's Undisputed Natural Gas Champion",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-10-26T10:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/eqt-announces-strategic-acquisition-range-100000991.html?.tsrc=rss"
+  },
+  {
+    "id": "n45df6dd583",
+    "headline": "CoreWeave Rout Sends Warning Sign to Rest of the Stock Market",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-26T09:24:43+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-rout-sends-warning-sign-092443918.html?.tsrc=rss"
+  },
+  {
+    "id": "n542c6e775f",
+    "headline": "Elon Musk warning on neoclouds: They will face 'guppy level' death",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-26T08:58:41+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-warning-on-neoclouds-they-will-face-guppy-level-death-085841854.html?.tsrc=rss"
+  },
+  {
+    "id": "nd4f7f9cbfd",
+    "headline": "Bloom Energy Is 44% Below Its June Record. Here\u2019s the Number That Sank It After Earnings",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-26T00:59:49+00:00",
+    "url": "https://www.tikr.com/blog/bloom-energy-is-44-below-its-june-record-heres-the-number-that-sank-it-after-earnings?ref=yahoofinance&.tsrc=rss"
+  },
+  {
+    "id": "n16baed60fe",
+    "headline": "Bloom Energy Stock Is Up 91% Over the Past Year. Here\u2019s The Number to Watch Next.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-25T16:31:31+00:00",
+    "url": "https://www.tikr.com/blog/bloom-energy-stock-is-up-91-over-the-past-year-heres-the-number-to-watch-next?ref=yahoofinance&.tsrc=rss"
+  },
+  {
+    "id": "na6d29055c7",
+    "headline": "Vistra Slides 17% in Three Months Despite a $4.2 Billion Nuclear Loan Offer",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-25T13:26:17+00:00",
+    "url": "https://www.tikr.com/blog/vistra-slides-17-in-three-months-despite-a-4-2-billion-nuclear-loan-offer?ref=yahoofinance&.tsrc=rss"
+  },
+  {
     "id": "n920de74838",
     "headline": "AI Debt Has Exploded 4X To Nearly $500 Billion: What It Means For NVDA, ORCL And CRWV, According To IO Fund",
     "source": "Yahoo Finance",
@@ -178,6 +298,16 @@
     ],
     "ts": "2026-10-23T19:44:00+00:00",
     "url": "https://www.cryptoprowl.com/releases/coreweave-heads-for-third-weekly-loss-weighing-on-stocks-and-bitcoin-over-ai-financing-fears-7402?.tsrc=rss"
+  },
+  {
+    "id": "n7716bd8e0c",
+    "headline": "Applied Digital Just Dropped 31% in a Month: Is It Time to Sell, or Load Up?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-23T18:11:39+00:00",
+    "url": "https://www.tikr.com/blog/applied-digital-just-dropped-31-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss"
   },
   {
     "id": "nb315a9d362",
@@ -368,135 +498,5 @@
     ],
     "ts": "2026-10-22T16:01:36+00:00",
     "url": "https://blockspace.media/insight/rosenblatt-cuts-soluna-price-target/?.tsrc=rss"
-  },
-  {
-    "id": "n2ce10926e0",
-    "headline": "Vistra Is Up 11% in a Month. Is Washington\u2019s $4.2 Billion Nuclear Loan Really That Good?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-22T16:00:48+00:00",
-    "url": "https://www.tikr.com/blog/vistra-is-up-11-in-a-month-is-washingtons-4-2-billion-nuclear-loan-really-that-good?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n6a5363e362",
-    "headline": "How to Play SLNH Stock as Soluna Scores a Major Data Center Win",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-22T15:31:15+00:00",
-    "url": "https://www.barchart.com/story/news/8325914/how-to-play-slnh-stock-as-soluna-scores-a-major-data-center-win?.tsrc=rss"
-  },
-  {
-    "id": "nc6298ca19f",
-    "headline": "Why Should You Think About Vistra Differently Now?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-22T13:26:45+00:00",
-    "url": "https://www.trefis.com/articles/619910/why-should-you-think-about-vistra-differently-now/2026-10-22?.tsrc=rss"
-  },
-  {
-    "id": "n1eca844710",
-    "headline": "Trump Wants Data Centers to Pay a \u201cDividend\u201d to Their Neighbors",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-22T12:05:43+00:00",
-    "url": "https://247wallst.com/investing/2026/10/22/trump-wants-data-centers-to-pay-a-dividend-to-their-neighbors/?.tsrc=rss"
-  },
-  {
-    "id": "n9c21f0df92",
-    "headline": "Multinationals fall behind on ECCTA identity verification, survey finds",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-22T11:43:22+00:00",
-    "url": "https://www.internationalaccountingbulletin.com/news/multinationals-fall-behind-on-eccta-identity-verification-survey-finds/?.tsrc=rss"
-  },
-  {
-    "id": "n34458f89cc",
-    "headline": "CoreWeave targets agentic AI risks with zero-trust framework",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-22T11:41:31+00:00",
-    "url": "https://www.verdict.co.uk/coreweave-launch-zero-trust-framework/?.tsrc=rss"
-  },
-  {
-    "id": "n3b155ac977",
-    "headline": "EQT Gears Up to Report Q3 Earnings: What's in Store for the Stock?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-22T11:38:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-gears-report-q3-earnings-113800446.html?.tsrc=rss"
-  },
-  {
-    "id": "n2305a0c2dc",
-    "headline": "What Changed For Applied Digital Stock, And What Did Not?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-22T11:31:28+00:00",
-    "url": "https://www.trefis.com/articles/619931/what-changed-for-applied-digital-stock-and-what-did-not/2026-10-22?.tsrc=rss"
-  },
-  {
-    "id": "n6daf2ccbbe",
-    "headline": "Applied Digital Jumps 8.5% After Soluna Joint Venture for a 50 MW Wind-Powered AI Data Center",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-22T09:29:38+00:00",
-    "url": "https://www.tikr.com/blog/applied-digital-jumps-8-5-after-soluna-joint-venture-for-a-50-mw-wind-powered-ai-data-center?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "nd2889f6d78",
-    "headline": "ECCTA\u2019s progress report warnings for overseas businesses",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-22T09:00:00+00:00",
-    "url": "https://www.internationalaccountingbulletin.com/analysis/companies-house-will-help-uk-and-overseas-accountants-meet-new-compliance-and-reporting-obligations/?.tsrc=rss"
-  },
-  {
-    "id": "n083c7ec50c",
-    "headline": "Wall Street's big CoreWeave stock bear is now even more bearish",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-22T08:52:24+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/article/wall-streets-big-coreweave-stock-bear-is-now-even-more-bearish-085224385.html?.tsrc=rss"
-  },
-  {
-    "id": "nddd39d91a2",
-    "headline": "CoreWeave (CRWV) Stock May Be Near Fair Value Following Debt Concerns",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-22T03:14:11+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-stock-may-near-031411381.html?.tsrc=rss"
-  },
-  {
-    "id": "n052138fc55",
-    "headline": "Fidelity\u2019s Timmer Says AI Bubble Risk Is Not Stock Valuations, but Debt",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-22T00:30:20+00:00",
-    "url": "https://beincrypto.com/timmer-ai-bubble-debt-stock-valuations/?.tsrc=rss"
   }
 ]
