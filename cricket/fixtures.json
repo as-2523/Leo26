@@ -1,36 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-9btovq",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "Zimbabwe Women",
-      "startTimeUtc": "2026-10-25T08:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "Zimbabwe Women tour of India, 2026",
-      "seriesStartUtc": "2026-10-16T00:00:00.000Z",
-      "seriesEndUtc": "2026-10-28T00:00:00.000Z",
-      "venue": "BCA Stadium, Kotambi, Vadodara",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-gj094o",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "New Zealand",
-      "startTimeUtc": "2026-10-27T07:00:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "India tour of New Zealand 2026",
-      "seriesStartUtc": "2026-10-22T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "Hnry Stadium, Wellington",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-2dfk3d",
       "teamId": "india-women",
       "teamName": "India Women",
@@ -331,21 +301,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-1w0tghu",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "South Africa Women",
-      "startTimeUtc": "2026-12-09T08:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "India Women tour of South Africa, 2026",
-      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-30T00:00:00.000Z",
-      "venue": "St George's Park, Gqeberha",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-1id3jc8",
       "teamId": "india-a-men",
       "teamName": "India A Men",
@@ -421,21 +376,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-1xi06lc",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "South Africa Women",
-      "startTimeUtc": "2026-12-16T08:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "India Women tour of South Africa, 2026",
-      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-30T00:00:00.000Z",
-      "venue": "Boland Park, Paarl",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-1hs4lps",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -481,36 +421,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-1qjm1sz",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "South Africa Women",
-      "startTimeUtc": "2026-12-19T12:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "India Women tour of South Africa, 2026",
-      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-30T00:00:00.000Z",
-      "venue": "Newlands, Cape Town",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1dma9ml",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "South Africa Women",
-      "startTimeUtc": "2026-12-22T12:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "India Women tour of South Africa, 2026",
-      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-30T00:00:00.000Z",
-      "venue": "Mangaung Oval, Bloemfontein",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-1gzsx9d",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -541,21 +451,6 @@
       "source": "cricapi"
     },
     {
-      "id": "fx-1qqo4wl",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "South Africa Women",
-      "startTimeUtc": "2026-12-26T16:00:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "India Women tour of South Africa, 2026",
-      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-30T00:00:00.000Z",
-      "venue": "Willowmoore Park, Benoni",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-1h3c0km",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -568,36 +463,6 @@
       "seriesStartUtc": "2026-12-13T00:00:00.000Z",
       "seriesEndUtc": "2026-12-27T00:00:00.000Z",
       "venue": "Maharashtra Cricket Association Stadium, Pune",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1qsse3c",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "South Africa Women",
-      "startTimeUtc": "2026-12-29T16:00:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "India Women tour of South Africa, 2026",
-      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-30T00:00:00.000Z",
-      "venue": "Senwes Park, Potchefstroom",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1r9qflc",
-      "teamId": "india-women",
-      "teamName": "India Women",
-      "opponent": "South Africa Women",
-      "startTimeUtc": "2026-12-30T16:00:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "India Women tour of South Africa, 2026",
-      "seriesStartUtc": "2026-12-09T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-30T00:00:00.000Z",
-      "venue": "Senwes Park, Potchefstroom",
       "source": "cricapi"
     },
     {
@@ -644,87 +509,12 @@
       "seriesEndUtc": "2027-01-09T00:00:00.000Z",
       "venue": "Wankhede Stadium, Mumbai",
       "source": "cricapi"
-    },
-    {
-      "id": "fx-1i44jmi",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Australia",
-      "startTimeUtc": "2027-01-21T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Test",
-      "formatLabel": "test",
-      "series": "Australia tour of India, 2027",
-      "seriesStartUtc": "2027-01-21T00:00:00.000Z",
-      "seriesEndUtc": "2027-03-03T00:00:00.000Z",
-      "venue": "Vidarbha Cricket Association Stadium, Nagpur",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1naj04i",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Australia",
-      "startTimeUtc": "2027-01-29T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Test",
-      "formatLabel": "test",
-      "series": "Australia tour of India, 2027",
-      "seriesStartUtc": "2027-01-21T00:00:00.000Z",
-      "seriesEndUtc": "2027-03-03T00:00:00.000Z",
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1t2rlp6",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Australia",
-      "startTimeUtc": "2027-02-11T03:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Test",
-      "formatLabel": "test",
-      "series": "Australia tour of India, 2027",
-      "seriesStartUtc": "2027-01-21T00:00:00.000Z",
-      "seriesEndUtc": "2027-03-03T00:00:00.000Z",
-      "venue": "Barsapara Cricket Stadium, Guwahati",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1y96276",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Australia",
-      "startTimeUtc": "2027-02-19T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Test",
-      "formatLabel": "test",
-      "series": "Australia tour of India, 2027",
-      "seriesStartUtc": "2027-01-21T00:00:00.000Z",
-      "seriesEndUtc": "2027-03-03T00:00:00.000Z",
-      "venue": "JSCA International Stadium Complex, Ranchi",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-jad15t",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "Australia",
-      "startTimeUtc": "2027-02-27T04:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Test",
-      "formatLabel": "test",
-      "series": "Australia tour of India, 2027",
-      "seriesStartUtc": "2027-01-21T00:00:00.000Z",
-      "seriesEndUtc": "2027-03-03T00:00:00.000Z",
-      "venue": "Narendra Modi Stadium, Ahmedabad",
-      "source": "cricapi"
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-25T08:10:39.300Z",
-    "windowStart": "2026-10-25T00:00:00.000Z",
-    "windowEnd": "2027-04-25T00:00:00.000Z",
+    "generatedAt": "2026-10-27T08:42:54.381Z",
+    "windowStart": "2026-10-27T00:00:00.000Z",
+    "windowEnd": "2027-04-27T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -740,7 +530,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 48
+        "count": 34
       },
       {
         "id": "manual",
@@ -755,18 +545,6 @@
         "startUtc": "2026-10-18T00:00:00.000Z",
         "endUtc": "2026-10-31T00:00:00.000Z",
         "sourceUrl": "https://www.espncricinfo.com/search?query=Pakistan%20ODI%20Tri-Series%2C%202026"
-      },
-      {
-        "name": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C 2026",
-        "startUtc": "2026-10-20T00:00:00.000Z",
-        "endUtc": "2026-10-25T00:00:00.000Z",
-        "sourceUrl": "https://www.espncricinfo.com/search?query=ICC%20Men's%20T20%20World%20Cup%20Africa%20Sub%20Regional%20Qualifier%20C%202026"
-      },
-      {
-        "name": "England Women U19 tour of India 2026",
-        "startUtc": "2026-11-26T00:00:00.000Z",
-        "endUtc": "2026-12-06T00:00:00.000Z",
-        "sourceUrl": "https://www.espncricinfo.com/search?query=England%20Women%20U19%20tour%20of%20India%202026"
       },
       {
         "name": "ICC Under 19 Women's T20 World Cup 2027",
