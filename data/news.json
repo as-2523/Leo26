@@ -1,5 +1,185 @@
 [
   {
+    "id": "n10d43460a1",
+    "headline": "CRWV vs. MSFT: Which AI Cloud Stock Offers Better Upside Potential?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-29T12:07:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/crwv-vs-msft-ai-cloud-120700650.html?.tsrc=rss"
+  },
+  {
+    "id": "nd0a6e87215",
+    "headline": "What Did Bloom Energy's Quarter Change For Its Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-29T11:44:11+00:00",
+    "url": "https://www.trefis.com/stock/be/articles/621293/what-did-bloom-energys-quarter-change-for-its-stock/2026-10-29?.tsrc=rss"
+  },
+  {
+    "id": "n20d475548e",
+    "headline": "Can Vistra Stock Rally 50% After This Dip?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-29T11:27:39+00:00",
+    "url": "https://www.trefis.com/stock/vst/articles/621257/can-vistra-stock-rally-50-after-this-dip/2026-10-29?.tsrc=rss"
+  },
+  {
+    "id": "n1df5ca7334",
+    "headline": "Alphabet's $9bn cash burn drags neocloud stocks lower",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-29T10:44:57+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-9bn-cash-burn-drags-104457828.html?.tsrc=rss"
+  },
+  {
+    "id": "nf613d0939c",
+    "headline": "Jensen Huang Foresees Booming AI Demand, but Elon Musk's Warning Highlights a Different Risk",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-29T07:33:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/29/jensen-huang-sees-booming-ai-demand-but-elon-musks/?.tsrc=rss"
+  },
+  {
+    "id": "nacf3d74549",
+    "headline": "CRWV, NBIS, IREN, APLD Stocks Drop After Microsoft Capex Falls Short On Delayed Third-Party Capacity",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-29T03:35:48+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/crwv-nbis-iren-apld-stocks-drop-after-microsoft-capex-falls-short-on-delayed-third-party-capacity/cZUQeHWR9bT?.tsrc=rss"
+  },
+  {
+    "id": "n535b35d56c",
+    "headline": "Is Vistra Stock Engineered To Make You Money?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-29T01:37:09+00:00",
+    "url": "https://www.trefis.com/stock/vst/articles/620957/is-vistra-stock-engineered-to-make-you-money/2026-10-28?.tsrc=rss"
+  },
+  {
+    "id": "n20f238d0e6",
+    "headline": "Should You Buy The Dip In Bloom Energy Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-29T00:39:09+00:00",
+    "url": "https://www.trefis.com/stock/be/articles/620970/should-you-buy-the-dip-in-bloom-energy-stock/2026-10-28?.tsrc=rss"
+  },
+  {
+    "id": "n3c211823e0",
+    "headline": "Applied Digital (APLD) Shares Climbed, What Is Behind The Latest Attention?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-28T23:11:54+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-shares-climbed-231154698.html?.tsrc=rss"
+  },
+  {
+    "id": "ncd8b2182db",
+    "headline": "Stock Market Today, Oct. 28: CoreWeave Surges on Denmark AI Capacity Going Live",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-28T21:35:02+00:00",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/10/28/stock-market-today-oct-28-coreweave-surges-on-denmark-ai-capacity-going-live/?.tsrc=rss"
+  },
+  {
+    "id": "nc5f3239229",
+    "headline": "Vistra Stock Has Slumped for a Year: Why Wells Fargo Still Sees 39% Upside",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-28T20:55:18+00:00",
+    "url": "https://www.tikr.com/blog/vistra-stock-has-slumped-for-a-year-why-wells-fargo-still-sees-39-upside?ref=yahoofinance&.tsrc=rss"
+  },
+  {
+    "id": "n996c707a87",
+    "headline": "Vistra Corp. (VST) Stock Declines While Market Improves: Some Information for Investors",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-28T20:45:04+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-stock-declines-204504598.html?.tsrc=rss"
+  },
+  {
+    "id": "nf9cf35d123",
+    "headline": "Natural Gas Is Plentiful. Getting It Into AI Power Is the Hard Part",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-10-28T18:41:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/natural-gas-plentiful-getting-ai-184100085.html?.tsrc=rss"
+  },
+  {
+    "id": "ne108a26065",
+    "headline": "Applied Digital Insiders Just Bought More Shares. Should You Join Them?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-28T17:35:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/28/applied-digital-insiders-just-bought-more-shares/?.tsrc=rss"
+  },
+  {
+    "id": "nd7d359ae8d",
+    "headline": "EQT Q3 Earnings Beat Estimates on Lower Operating Costs, Revenues Miss",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-10-28T15:51:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/eqt-q3-earnings-beat-estimates-155100810.html?.tsrc=rss"
+  },
+  {
+    "id": "n155ca2a9df",
+    "headline": "EQT to Acquire Range Resources, Create a Leading Natural Gas Company",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-10-28T15:03:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/eqt-acquire-range-resources-create-150300737.html?.tsrc=rss"
+  },
+  {
+    "id": "n12fe13fc8c",
+    "headline": "Solaris Energy Infrastructure, Inc. (SEI) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-10-28T13:00:22+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-inc-sei-130022379.html?.tsrc=rss"
+  },
+  {
+    "id": "n841ba3ccf7",
+    "headline": "Bloom Energy Q3 Earnings Call Highlights Guidance Hike & Capacity Plan",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-28T12:41:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-q3-earnings-call-124100470.html?.tsrc=rss"
+  },
+  {
     "id": "n98c16af04e",
     "headline": "Goldman Sachs says CoreWeave could rack up $100B in debt by 2028",
     "source": "Yahoo Finance",
@@ -318,185 +498,5 @@
     ],
     "ts": "2026-10-26T15:02:42+00:00",
     "url": "https://www.marketbeat.com/instant-alerts/event-eqt-to-acquire-range-resources-in-50b-natural-gas-powerhouse-deal-2026-10-26/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "nf38611e3e1",
-    "headline": "EQT to Acquire Range Resources in All-Stock Deal to Create Largest US Natural Gas Producer",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-26T14:59:44+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-acquire-range-resources-stock-145944067.html?.tsrc=rss"
-  },
-  {
-    "id": "n6090f7f021",
-    "headline": "Applied Digital Keeps Cratering: This Analyst Keeps Insisting It\u2019s Going to Jump by 390%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-26T14:45:17+00:00",
-    "url": "https://247wallst.com/investing/2026/10/26/applied-digital-keeps-cratering-this-analyst-keeps-insisting-its-going-to-jump-by-390/?.tsrc=rss"
-  },
-  {
-    "id": "nf6770cef5a",
-    "headline": "SpaceX's Elon Musk reveals $40 billion in debt for AI chips, warns of neoclouds",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-26T12:23:18+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/article/spacexs-elon-musk-reveals-40-billion-in-debt-for-ai-chips-warns-of-neoclouds-122318683.html?.tsrc=rss"
-  },
-  {
-    "id": "n79a8ebd2cf",
-    "headline": "This warning sign suggests more tech stock poundings could be in the cards",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-26T11:57:11+00:00",
-    "url": "https://finance.yahoo.com/markets/article/this-warning-sign-suggests-more-tech-stock-poundings-could-be-in-the-cards-115711128.html?.tsrc=rss"
-  },
-  {
-    "id": "nc11e8ba179",
-    "headline": "Is Money for AI Data Centers Drying Up? Here\u2019s Who Could Come Out on Top.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-26T11:20:21+00:00",
-    "url": "https://247wallst.com/investing/2026/10/26/is-money-for-ai-data-centers-drying-up-heres-who-could-come-out-on-top/?.tsrc=rss"
-  },
-  {
-    "id": "na1cb39ee2a",
-    "headline": "Neoclouds Face Certain \u2018Death,\u2019 Warns Musk. Why CoreWeave and Nebius Will Survive.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-26T11:16:00+00:00",
-    "url": "https://finance.yahoo.com/m/f50ef86d-1854-3c93-8629-76d3300a1070/neoclouds-face-certain.html?.tsrc=rss"
-  },
-  {
-    "id": "n4c4031e9bf",
-    "headline": "EQT to acquire Range Resources in $50 billion all-stock deal",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-26T10:52:20+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-acquire-range-resources-50-105220741.html?.tsrc=rss"
-  },
-  {
-    "id": "n25f8b80e40",
-    "headline": "EQT Agrees to Acquire Range Resources in All-Stock Transaction",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-26T10:50:18+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-agrees-acquire-range-resources-105018596.html?.tsrc=rss"
-  },
-  {
-    "id": "na9bf96e4cb",
-    "headline": "EQT Announces Strategic Acquisition of Range Resources, Creating America's Undisputed Natural Gas Champion",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-26T10:00:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-announces-strategic-acquisition-range-100000991.html?.tsrc=rss"
-  },
-  {
-    "id": "n45df6dd583",
-    "headline": "CoreWeave Rout Sends Warning Sign to Rest of the Stock Market",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-26T09:24:43+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-rout-sends-warning-sign-092443918.html?.tsrc=rss"
-  },
-  {
-    "id": "n542c6e775f",
-    "headline": "Elon Musk warning on neoclouds: They will face 'guppy level' death",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-26T08:58:41+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-warning-on-neoclouds-they-will-face-guppy-level-death-085841854.html?.tsrc=rss"
-  },
-  {
-    "id": "nd4f7f9cbfd",
-    "headline": "Bloom Energy Is 44% Below Its June Record. Here\u2019s the Number That Sank It After Earnings",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-26T00:59:49+00:00",
-    "url": "https://www.tikr.com/blog/bloom-energy-is-44-below-its-june-record-heres-the-number-that-sank-it-after-earnings?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n16baed60fe",
-    "headline": "Bloom Energy Stock Is Up 91% Over the Past Year. Here\u2019s The Number to Watch Next.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-25T16:31:31+00:00",
-    "url": "https://www.tikr.com/blog/bloom-energy-stock-is-up-91-over-the-past-year-heres-the-number-to-watch-next?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "na6d29055c7",
-    "headline": "Vistra Slides 17% in Three Months Despite a $4.2 Billion Nuclear Loan Offer",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-25T13:26:17+00:00",
-    "url": "https://www.tikr.com/blog/vistra-slides-17-in-three-months-despite-a-4-2-billion-nuclear-loan-offer?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n920de74838",
-    "headline": "AI Debt Has Exploded 4X To Nearly $500 Billion: What It Means For NVDA, ORCL And CRWV, According To IO Fund",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-25T11:24:37+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/ai-debt-boom-4x-500-billion-what-means-nvda-orcl-crwv/cZUcrs8RBUZ?.tsrc=rss"
-  },
-  {
-    "id": "nba97155f54",
-    "headline": "Where Will Bloom Energy Stock Be in 5 Years?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-25T10:00:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/25/where-will-bloom-energy-stock-be-in-5-years/?.tsrc=rss"
-  },
-  {
-    "id": "nb5bcd21b22",
-    "headline": "Is AI Power Demand Reset Altering The Investment Case For Vistra Stock?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-25T05:14:53+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/ai-power-demand-reset-altering-051453540.html?.tsrc=rss"
-  },
-  {
-    "id": "n9fa9c0b37a",
-    "headline": "Vistra (VST) Stock May Trade Below Fair Value After Nuclear Loan News",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-25T04:19:57+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-stock-may-trade-041957329.html?.tsrc=rss"
   }
 ]

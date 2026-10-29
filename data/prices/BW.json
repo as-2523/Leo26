@@ -1,27 +1,11 @@
 {
   "ticker": "BW",
-  "current_price": 4.54,
-  "prev_close": 4.17,
-  "day_change_pct": 8.87,
+  "current_price": 4.43,
+  "prev_close": 4.55,
+  "day_change_pct": -2.64,
   "week_52_high": 22.03,
-  "week_52_low": 3.12,
+  "week_52_low": 3.171,
   "history": [
-    {
-      "date": "2026-06-22",
-      "open": 17.41,
-      "high": 17.94,
-      "low": 17.05,
-      "close": 17.76,
-      "volume": 1635500
-    },
-    {
-      "date": "2026-06-23",
-      "open": 16.61,
-      "high": 17.265,
-      "low": 15.88,
-      "close": 15.9,
-      "volume": 2662000
-    },
     {
       "date": "2026-06-24",
       "open": 15.82,
@@ -725,8 +709,24 @@
       "low": 4.25,
       "close": 4.54,
       "volume": 4246700
+    },
+    {
+      "date": "2026-10-28",
+      "open": 4.65,
+      "high": 4.65,
+      "low": 4.45,
+      "close": 4.56,
+      "volume": 5295200
+    },
+    {
+      "date": "2026-10-29",
+      "open": 4.65,
+      "high": 4.45,
+      "low": 4.41,
+      "close": 4.43,
+      "volume": 110272
     }
   ],
-  "as_of": "2026-10-28T13:22:05.649317+00:00",
+  "as_of": "2026-10-29T13:31:59.724399+00:00",
   "stale": false
 }
