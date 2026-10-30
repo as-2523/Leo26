@@ -1,5 +1,125 @@
 [
   {
+    "id": "n8afef4b245",
+    "headline": "Satya Nadella Just Took a Shot at Oracle and CoreWeave",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-30T11:47:06+00:00",
+    "url": "https://247wallst.com/investing/2026/10/30/satya-nadella-just-took-a-shot-at-oracle-and-coreweave/?.tsrc=rss"
+  },
+  {
+    "id": "n440dfbca5f",
+    "headline": "3 Growth Stocks With Revenue Growth Up To 31%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-30T11:12:46+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-revenue-growth-111246017.html?.tsrc=rss"
+  },
+  {
+    "id": "n4d2f93ccc7",
+    "headline": "Is CoreWeave Stock Increasing Your Market Risk?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-30T09:57:04+00:00",
+    "url": "https://www.trefis.com/stock/crwv/articles/621529/is-coreweave-stock-increasing-your-market-risk/2026-10-30?.tsrc=rss"
+  },
+  {
+    "id": "n2a49fef6af",
+    "headline": "Elon Musk vs. Jensen Huang: Who Is Right About CoreWeave?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-30T09:30:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/30/elon-musk-vs-jensen-huang-who-is-right-about-corew/?.tsrc=rss"
+  },
+  {
+    "id": "n2e9c1f329b",
+    "headline": "EQT (EQT) Deal Sparks Fresh Marcellus And Utica Takeover Talk",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-10-30T05:17:11+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/eqt-eqt-deal-sparks-fresh-051711434.html?.tsrc=rss"
+  },
+  {
+    "id": "nbcbdb7cbb5",
+    "headline": "3 Growth Stocks To Own In October 2026",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-30T00:18:18+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-own-october-001818281.html?.tsrc=rss"
+  },
+  {
+    "id": "n75bdc637c5",
+    "headline": "Vistra Declares Dividend on Common Stock, Series B Preferred Stock, and Series C Preferred Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-29T20:15:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-declares-dividend-common-stock-201500894.html?.tsrc=rss"
+  },
+  {
+    "id": "nb32da9e13b",
+    "headline": "EQT (EQT) Stock Fair Value Edges Lower As Analysts Weigh Range Deal And Gas Risks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-10-29T17:13:09+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-stock-fair-value-171309504.html?.tsrc=rss"
+  },
+  {
+    "id": "nc474ff2920",
+    "headline": "Neocloud Stocks Have Sunk by More Than 30% This Month. What Does That Mean for Anthropic's IPO?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-29T16:40:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/29/neocloud-stocks-have-sunk-by-more-than-30-this-mon/?.tsrc=rss"
+  },
+  {
+    "id": "n13074bba0f",
+    "headline": "Scott Bessent Brushes Off Concerns Over AI Debt Amid CoreWeave Slump, Calls Neoclouds a \u2018Small Component\u2019",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-29T16:38:05+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/scott-bessent-brushes-off-concerns-163805608.html?.tsrc=rss"
+  },
+  {
+    "id": "n07e9a0d86f",
+    "headline": "3 Growth Stocks With Earnings Growth Up To 66%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-29T15:10:55+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-151055402.html?.tsrc=rss"
+  },
+  {
+    "id": "n9ee0df8248",
+    "headline": "EQT (EQT) Stock Still Looks Undervalued As Its 196% Five Year Run Continues",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-10-29T14:10:45+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-stock-still-looks-141045047.html?.tsrc=rss"
+  },
+  {
     "id": "n10d43460a1",
     "headline": "CRWV vs. MSFT: Which AI Cloud Stock Offers Better Upside Potential?",
     "source": "Yahoo Finance",
@@ -378,125 +498,5 @@
     ],
     "ts": "2026-10-27T10:26:26+00:00",
     "url": "https://www.trefis.com/stock/be/articles/620854/why-did-bloom-energy-stock-jump/2026-10-27?.tsrc=rss"
-  },
-  {
-    "id": "n3d7d2d310d",
-    "headline": "CoreWeave Expands Global AI Cloud Platform With New Capacity in Denmark and First Global AI Network Backbone",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-27T07:00:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-expands-global-ai-cloud-070000152.html?.tsrc=rss"
-  },
-  {
-    "id": "n0a3807ec08",
-    "headline": "3 Growth Stocks With Earnings Growth Up To 49%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-27T04:25:10+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-042510238.html?.tsrc=rss"
-  },
-  {
-    "id": "n85da51b508",
-    "headline": "Why Did CRWV, IREN, NIO Stocks Slump To 52-Week Lows Today?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-27T03:30:17+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/why-did-crwv-iren-nio-stocks-slump-to-52-week-lows-today/cZUIuhrRBz0?.tsrc=rss"
-  },
-  {
-    "id": "n4ef67d040a",
-    "headline": "Anthropic IPO Filing Lifts Chips, but Valuation Doubts Split Wall Street",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-27T03:21:13+00:00",
-    "url": "https://beincrypto.com/anthropic-ipo-filing-lifts-chip-stocks/?.tsrc=rss"
-  },
-  {
-    "id": "ne70f532323",
-    "headline": "Why Range Resources Stock Surged Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-26T22:47:50+00:00",
-    "url": "https://www.fool.com/investing/2026/10/26/why-range-resources-stock-surged-today/?.tsrc=rss"
-  },
-  {
-    "id": "nbec68bb30f",
-    "headline": "Beyond the AI boom: 3 sectors investors should watch",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-26T18:10:07+00:00",
-    "url": "https://finance.yahoo.com/video/beyond-the-ai-boom-3-sectors-investors-should-watch-181007117.html?.tsrc=rss"
-  },
-  {
-    "id": "ncffe94479b",
-    "headline": "Range Resources (RRC) After The EQT Deal Is The Stock Fully Valued",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-26T17:14:06+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/range-resources-rrc-eqt-deal-171406478.html?.tsrc=rss"
-  },
-  {
-    "id": "n1abb4a0442",
-    "headline": "Bloom Energy Soars 7% on Barclays Price Target Hike After Post-Earnings Rout",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-26T16:42:01+00:00",
-    "url": "https://www.tikr.com/blog/bloom-energy-soars-7-on-barclays-price-target-hike-after-post-earnings-rout?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n7e33e5ee5e",
-    "headline": "EQT Bets on Record U.S. Gas Demand With $50 Billion Range Takeover",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-26T16:30:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-bets-record-u-gas-163000985.html?.tsrc=rss"
-  },
-  {
-    "id": "nbc039be953",
-    "headline": "Bloom Energy Jumps 7% as Post-Earnings Selloff Reverses; FuelCell Rises 6%, Plug Power Edges Higher",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-26T15:53:37+00:00",
-    "url": "https://247wallst.com/investing/2026/10/26/bloom-energy-jumps-7-as-post-earnings-selloff-reverses-fuelcell-rises-6-plug-power-edges-higher/?.tsrc=rss"
-  },
-  {
-    "id": "n91b3b34702",
-    "headline": "Is Solaris Energy Infrastructure (SEI) Stock Too Rich After $1.15B Spending?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-10-26T15:09:40+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/solaris-energy-infrastructure-sei-stock-150940876.html?.tsrc=rss"
-  },
-  {
-    "id": "n3f423714e6",
-    "headline": "EQT to Acquire Range Resources in $50B Natural Gas Powerhouse Deal",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-26T15:02:42+00:00",
-    "url": "https://www.marketbeat.com/instant-alerts/event-eqt-to-acquire-range-resources-in-50b-natural-gas-powerhouse-deal-2026-10-26/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
   }
 ]

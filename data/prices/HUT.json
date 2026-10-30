@@ -1,8 +1,8 @@
 {
   "ticker": "HUT",
-  "current_price": 67.63,
+  "current_price": 66.44,
   "prev_close": 69.46,
-  "day_change_pct": -2.63,
+  "day_change_pct": -4.35,
   "week_52_high": 140.8,
   "week_52_low": 31.67,
   "history": [
@@ -720,13 +720,13 @@
     },
     {
       "date": "2026-10-29",
-      "open": 67.53,
-      "high": 67.63,
-      "low": 66.61,
-      "close": 67.63,
-      "volume": 86723
+      "open": 67.2,
+      "high": 69.89,
+      "low": 65.22,
+      "close": 66.44,
+      "volume": 3112500
     }
   ],
-  "as_of": "2026-10-29T13:31:56.942080+00:00",
+  "as_of": "2026-10-30T13:20:59.475332+00:00",
   "stale": false
 }
