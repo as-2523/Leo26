@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-h1d4r6",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "New Zealand",
-      "startTimeUtc": "2026-10-30T07:00:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "India tour of New Zealand 2026",
-      "seriesStartUtc": "2026-10-22T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "Eden Park, Auckland",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-1184m3w",
       "teamId": "india-a-men",
       "teamName": "India A Men",
@@ -312,7 +297,7 @@
       "series": "India A tour of Nepal, 2026",
       "seriesStartUtc": "2026-12-09T00:00:00.000Z",
       "seriesEndUtc": "2026-12-13T00:00:00.000Z",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "venue": "",
       "source": "cricapi"
     },
     {
@@ -342,7 +327,7 @@
       "series": "India A tour of Nepal, 2026",
       "seriesStartUtc": "2026-12-09T00:00:00.000Z",
       "seriesEndUtc": "2026-12-13T00:00:00.000Z",
-      "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+      "venue": "",
       "source": "cricapi"
     },
     {
@@ -677,9 +662,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-29T09:30:48.031Z",
-    "windowStart": "2026-10-29T00:00:00.000Z",
-    "windowEnd": "2027-04-29T00:00:00.000Z",
+    "generatedAt": "2026-10-31T09:22:20.966Z",
+    "windowStart": "2026-10-31T00:00:00.000Z",
+    "windowEnd": "2027-04-30T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -695,7 +680,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 45
+        "count": 44
       },
       {
         "id": "manual",
