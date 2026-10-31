@@ -1,5 +1,145 @@
 [
   {
+    "id": "n305ded41ea",
+    "headline": "CoreWeave And 2 Other Top Growth Stocks With Insider Buying",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-31T05:12:52+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-2-other-top-growth-051252381.html?.tsrc=rss"
+  },
+  {
+    "id": "nce46c37a4b",
+    "headline": "B. Riley Cut Its Applied Digital Target to $51. It Still Sees 185% Upside",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-30T20:40:05+00:00",
+    "url": "https://www.tikr.com/blog/b-riley-cut-its-applied-digital-target-to-51-it-still-sees-185-upside?ref=yahoofinance&tlnk=yf-261030-6g7589h3&.tsrc=rss"
+  },
+  {
+    "id": "nee59110616",
+    "headline": "Bloom Energy Just Joined the S&P 500. Here's What History Says Happens Next.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-30T19:15:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/30/bloom-energy-just-joined-the-sp-500-heres-what-his/?.tsrc=rss"
+  },
+  {
+    "id": "n5928a3424a",
+    "headline": "Top oil & gas exploration stocks, according to Mizuho",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-10-30T18:50:56+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/top-oil-gas-exploration-stocks-185056094.html?.tsrc=rss"
+  },
+  {
+    "id": "n12ce526171",
+    "headline": "Why Buying Bloom Energy Stock After Its Post-Earnings Selloff Could Be a Good Idea",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-30T18:07:22+00:00",
+    "url": "https://www.barchart.com/story/news/8559554/why-buying-bloom-energy-stock-after-its-post-earnings-selloff-could-be-a-good-idea?.tsrc=rss"
+  },
+  {
+    "id": "n723633a1df",
+    "headline": "FuelCell Energy Sinks 12% Despite Completing $49 Million Export-Import Bank Financing; Bloom Energy Tumbles 10%, Plug Power Falls 4%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-30T18:04:54+00:00",
+    "url": "https://247wallst.com/investing/2026/10/30/fuelcell-energy-sinks-12-despite-completing-49-million-export-import-bank-financing-bloom-energy-tumbles-10-plug-power-falls-4/?.tsrc=rss"
+  },
+  {
+    "id": "ncad4e7a97d",
+    "headline": "EQT (EQT) Reports Q3 Earnings: What Key Metrics Have to Say",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-10-30T16:30:02+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-reports-q3-earnings-163002172.html?.tsrc=rss"
+  },
+  {
+    "id": "nb95df31ed1",
+    "headline": "Vistra Completes Acquisition of Cogentrix Energy, Expanding Diverse Generation Fleet",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-30T16:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/vistra-completes-acquisition-cogentrix-energy-160000258.html?.tsrc=rss"
+  },
+  {
+    "id": "nbc080c59ae",
+    "headline": "Bloom Energy Joined the S&P 500 at Nearly 400 Times Earnings. History Says This Is What Happens Next.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-30T14:05:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/30/bloom-energy-joined-the-sp-500-at-nearly-400-times/?.tsrc=rss"
+  },
+  {
+    "id": "n9748517798",
+    "headline": "Meet the Underrated Artificial Intelligence (AI) Stock That Could Soar 255% in a Year, According to Wall Street",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-10-30T14:04:02+00:00",
+    "url": "https://www.fool.com/investing/2026/10/30/meet-the-underrated-artificial-intelligence-ai-stock-that-could-soar-255-in-a-year-according-to-wall-street/?.tsrc=rss"
+  },
+  {
+    "id": "n44c0cf7cc5",
+    "headline": "CoreWeave (CRWV) Adds Denmark Capacity To Its Global AI Cloud Platform",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-30T13:13:38+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-adds-denmark-capacity-131338871.html?.tsrc=rss"
+  },
+  {
+    "id": "n2a1cd3801a",
+    "headline": "Vistra Corp. (VST) Reports Next Week: Wall Street Expects Earnings Growth",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-10-30T13:00:05+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-reports-next-130005755.html?.tsrc=rss"
+  },
+  {
+    "id": "n7ebc6f5668",
+    "headline": "Dear CoreWeave Stock Fans, Mark Your Calendars for November 10",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-10-30T13:00:03+00:00",
+    "url": "https://www.barchart.com/story/news/8553514/dear-coreweave-stock-fans-mark-your-calendars-for-november-10?.tsrc=rss"
+  },
+  {
+    "id": "n1534b67006",
+    "headline": "Solaris Energy Q3 Earnings Preview: Another Beat Likely?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-10-30T12:53:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-q3-earnings-preview-125300119.html?.tsrc=rss"
+  },
+  {
     "id": "n8afef4b245",
     "headline": "Satya Nadella Just Took a Shot at Oracle and CoreWeave",
     "source": "Yahoo Finance",
@@ -358,145 +498,5 @@
     ],
     "ts": "2026-10-27T23:50:47+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/columbus-mckinnon-bloom-energy-ameresco-235047018.html?.tsrc=rss"
-  },
-  {
-    "id": "nd47cbd0456",
-    "headline": "CoreWeave Stock Surges 6%, But Investors Are Still Worried",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-27T22:00:00+00:00",
-    "url": "https://beincrypto.com/coreweave-stock-jumps-jim-cramer-nvidia-debt-challenge/?.tsrc=rss"
-  },
-  {
-    "id": "n8b038dfb00",
-    "headline": "Stock Market Today, Oct. 27: CoreWeave Surges on Denmark Data Center Launch",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-27T21:23:20+00:00",
-    "url": "https://www.fool.com/coverage/stock-market-today/2026/10/27/stock-market-today-oct-27-coreweave-surges-on-denmark-data-center-launch/?.tsrc=rss"
-  },
-  {
-    "id": "nd3dd8270dd",
-    "headline": "EQT Corporation (EQT) Surpasses Q3 Earnings Estimates",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-27T21:20:05+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-corporation-eqt-surpasses-q3-212005524.html?.tsrc=rss"
-  },
-  {
-    "id": "n74ff5751b6",
-    "headline": "EQT\u2019s (NYSE:EQT) Q3 2026 sales top estimates",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-27T21:09:45+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-nyse-eqt-q3-2026-210945455.html?.tsrc=rss"
-  },
-  {
-    "id": "n3400731d15",
-    "headline": "Nebius vs. CoreWeave: Which neocloud stock has more debt?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-27T20:30:40+00:00",
-    "url": "https://www.thestreet.com/investing/stocks/nebius-vs-coreweave-neocloud-debt-balance-sheet?.tsrc=rss"
-  },
-  {
-    "id": "n2464937c4f",
-    "headline": "EQT Reports Third Quarter 2026 Results",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-27T20:30:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-reports-third-quarter-2026-203000406.html?.tsrc=rss"
-  },
-  {
-    "id": "n173e43614f",
-    "headline": "CoreWeave Announces Date of Third Quarter 2026 Financial Results and Conference Call",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-27T20:05:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-announces-date-third-quarter-200500709.html?.tsrc=rss"
-  },
-  {
-    "id": "n98ca8e25f9",
-    "headline": "Applied Digital Jumps 10% as Data Center Stocks Rebound; Riot Climbs 7%, Core Scientific Gains 4%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-27T18:02:16+00:00",
-    "url": "https://247wallst.com/investing/2026/10/27/applied-digital-jumps-10-as-data-center-stocks-rebound-riot-climbs-7-core-scientific-gains-4/?.tsrc=rss"
-  },
-  {
-    "id": "n249a3ca3ae",
-    "headline": "EQT\u2019s Range Resources Buyout Draws Questions From Scotiabank \u2014 Firm Asks Why Pay For RRC\u2019s Assets In Current Commodity Price Environment",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-27T16:39:58+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/eqt-merger-range-resources-wall-street-view-natural-gas-demand/cZUegKpRBCN?.tsrc=rss"
-  },
-  {
-    "id": "n0b7dbf48b4",
-    "headline": "Vistra's Quarterly Earnings Preview: What You Need to Know",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-27T16:16:25+00:00",
-    "url": "https://www.barchart.com/story/news/8481054/vistra-s-quarterly-earnings-preview-what-you-need-to-know?.tsrc=rss"
-  },
-  {
-    "id": "n2f6bed59e1",
-    "headline": "Will Solaris Energy Infrastructure, Inc. (SEI) Beat Estimates Again in Its Next Earnings Report?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-10-27T15:10:02+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-inc-sei-151002320.html?.tsrc=rss"
-  },
-  {
-    "id": "ndf19615d86",
-    "headline": "Bloom Energy Stock Has Plunged Despite Explosive Growth. Is It Time to Buy?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-27T11:50:02+00:00",
-    "url": "https://www.fool.com/investing/2026/10/27/bloom-energy-stock-has-plunged-despite-explosive-growth-is-it-time-to-buy/?.tsrc=rss"
-  },
-  {
-    "id": "n5947d90a2c",
-    "headline": "CoreWeave Expands AI Cloud Footprint With Denmark Data Center \u2014 Plans Global Network Expansion Across 4 Continents",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-27T10:54:12+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/core-weave-expands-ai-cloud-footprint-with-denmark-data-center-plans-global-network-expansion-across-4-continents/cZUedJLRBC2?.tsrc=rss"
-  },
-  {
-    "id": "n962d89c8b1",
-    "headline": "Why Did Bloom Energy Stock Jump?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-27T10:26:26+00:00",
-    "url": "https://www.trefis.com/stock/be/articles/620854/why-did-bloom-energy-stock-jump/2026-10-27?.tsrc=rss"
   }
 ]
