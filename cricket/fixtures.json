@@ -1,36 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-1184m3w",
-      "teamId": "india-a-men",
-      "teamName": "India A Men",
-      "opponent": "New Zealand A",
-      "startTimeUtc": "2026-10-31T21:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Test",
-      "formatLabel": "test",
-      "series": "India A tour of New Zealand, 2026",
-      "seriesStartUtc": "2026-10-24T00:00:00.000Z",
-      "seriesEndUtc": "2026-11-10T00:00:00.000Z",
-      "venue": "Hagley Oval, Christchurch",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-9mypxt",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "New Zealand",
-      "startTimeUtc": "2026-11-01T07:00:00.000Z",
-      "hasStartTime": true,
-      "format": "T20",
-      "formatLabel": "t20",
-      "series": "India tour of New Zealand 2026",
-      "seriesStartUtc": "2026-10-22T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "Seddon Park, Hamilton",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-1b49kzk",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -662,9 +632,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-10-31T09:22:20.966Z",
-    "windowStart": "2026-10-31T00:00:00.000Z",
-    "windowEnd": "2027-04-30T00:00:00.000Z",
+    "generatedAt": "2026-11-01T10:10:49.666Z",
+    "windowStart": "2026-11-01T00:00:00.000Z",
+    "windowEnd": "2027-05-01T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -680,7 +650,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 44
+        "count": 42
       },
       {
         "id": "manual",
@@ -690,12 +660,6 @@
     ],
     "usedFallback": false,
     "expectedSeries": [
-      {
-        "name": "Pakistan ODI Tri-Series, 2026",
-        "startUtc": "2026-10-18T00:00:00.000Z",
-        "endUtc": "2026-10-31T00:00:00.000Z",
-        "sourceUrl": "https://www.espncricinfo.com/search?query=Pakistan%20ODI%20Tri-Series%2C%202026"
-      },
       {
         "name": "England Women U19 tour of India 2026",
         "startUtc": "2026-11-26T00:00:00.000Z",
