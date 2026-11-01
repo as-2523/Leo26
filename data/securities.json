@@ -62,7 +62,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 349514399744,
-    "pe_ratio": 31.33637,
+    "pe_ratio": 35.50066,
     "description": "Intel Corporation designs, develops, manufactures, markets, sells, and services computing and related end products and services in the United States, Ireland, Israel, and internationally. It operates through three segments: CCG, DCAI, and Intel Foundry. The company offers client computing group products, including client and commercial CPUs, discrete client GPUs, edge computing, and connectivity products; data center and AI products, such as server CPUs, discrete GPUs, and networking products; and semiconductors comprising wafer fabrication, substrates, and other related products and services. It also provides driving assistance and self-driving solutions; and develops and manufactures multi-beam mask writing tools. The company sells its products through sales organizations, distributors, resellers, retailers, and OEM partners. It serves original equipment manufacturers, original design manufacturers, cloud service providers, and other manufacturers and service providers. Intel Corporation has a strategic collaboration with Infosys Limited to develop a multi-layer AI fabric that unifies infrastructure, models, data, applications, and workflows into a composable and agent-ready ecos",
     "industry": "Semiconductors",
     "website": "https://www.intel.com"
@@ -288,8 +288,8 @@
   "MOD": {
     "name": "Modine Manufacturing Company",
     "exchange": "NYQ",
-    "sector": "Consumer Cyclical",
-    "industry": "Auto Parts",
+    "sector": "Industrials",
+    "industry": "Building Products & Equipment",
     "website": "https://www.modine.com",
     "market_cap": 6902832128,
     "pe_ratio": 48.78195,
@@ -332,7 +332,7 @@
     "industry": "Capital Markets",
     "website": "https://www.galaxy.com",
     "market_cap": 9428757504,
-    "pe_ratio": -139.43355,
+    "pe_ratio": -165.71724,
     "description": "Galaxy Digital Inc. engages in the digital asset and data centre infrastructure businesses in North America and internationally. It operates through Digital Assets, Data Centers, and Treasury and Corporate segments. The Digital Assets segment provides over-the-counter spot and derivatives trading, lending, and structured products, as well as mergers and acquisitions advisory, and equity and debt capital markets services. This segment also manages investments in the digital assets' ecosystem; and offers blockchain-centric technology and infrastructure solutions, including staking, tokenization, and custodial technology. The Data Centers segment comprises the Helios infrastructure assets. The Treasury and Corporate segment engages in managing a portfolio of digital assets, ventures, private equity, and fund investments, as well as in bitcoin mining operations. It also offers GalaxyOne, a retail financial technology platform designed for individual investors seeking access to traditional and digital markets. The company has a strategic collaboration with BNY to advance digital asset infrastructure. The company was founded in 2018 and is headquartered in New York, New York."
   },
   "HUT": {

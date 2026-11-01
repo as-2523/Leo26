@@ -1,5 +1,45 @@
 [
   {
+    "id": "n766f3748ac",
+    "headline": "Top Investor: CoreWeave Locked In Compute \u201cWay, Way Under Market.\u201d Rising GPU Prices Won\u2019t Save It",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-01T11:49:09+00:00",
+    "url": "https://www.tikr.com/blog/top-investor-coreweave-locked-in-compute-way-way-under-market-rising-gpu-prices-wont-save-it?ref=yahoofinance&tlnk=yf-261101-2mcq2gcm&.tsrc=rss"
+  },
+  {
+    "id": "na33eecc12c",
+    "headline": "AI investors rush to hedge against potential tech market downturn - WSJ",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-01T03:02:11+00:00",
+    "url": "https://finance.yahoo.com/markets/options/articles/ai-investors-rush-hedge-against-030211499.html?.tsrc=rss"
+  },
+  {
+    "id": "n7532c5f02e",
+    "headline": "Bloom Energy Trades at 140 Times Earnings. Here's the Growth Rate It Needs to Justify That.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-01T02:35:00+00:00",
+    "url": "https://www.fool.com/investing/2026/10/31/bloom-energy-trades-at-140-times-earnings-heres-th/?.tsrc=rss"
+  },
+  {
+    "id": "ne2574d9180",
+    "headline": "Are Wall Street Analysts Bullish on Bloom Energy Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-10-31T13:26:51+00:00",
+    "url": "https://www.barchart.com/story/news/8572143/are-wall-street-analysts-bullish-on-bloom-energy-stock?.tsrc=rss"
+  },
+  {
     "id": "n305ded41ea",
     "headline": "CoreWeave And 2 Other Top Growth Stocks With Insider Buying",
     "source": "Yahoo Finance",
@@ -458,45 +498,5 @@
     ],
     "ts": "2026-10-28T09:26:08+00:00",
     "url": "https://www.trefis.com/stock/apld/articles/621033/how-did-applied-digital-stock-leave-its-industry-behind/2026-10-28?.tsrc=rss"
-  },
-  {
-    "id": "nfd36c5d0e9",
-    "headline": "Is Bloom Energy (BE) Stock Cheap After AI Demand And Cash Flow Concerns?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-28T05:10:47+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-cheap-ai-051047899.html?.tsrc=rss"
-  },
-  {
-    "id": "nbe6023c84b",
-    "headline": "Ranking 4 AI Power Stocks By Balance Sheet After the Sell-off: Vertiv, GE Vernova, Bloom Energy, and Plug Power.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-28T03:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/27/ranking-4-ai-power-stocks-by-balance-sheet-after-t/?.tsrc=rss"
-  },
-  {
-    "id": "ne8b3875442",
-    "headline": "AI Power Stocks Fell 7% to 13% in a Week While Exxon and Chevron Just Hit Record Highs. Here's Which Side I'd Rather Own.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-28T02:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/27/ai-power-stocks-fell-7-to-13-in-a-week-while-exxon/?.tsrc=rss"
-  },
-  {
-    "id": "ned504fb64c",
-    "headline": "Columbus McKinnon, Bloom Energy, Ameresco, FuelCell Energy, and WillScot Mobile Mini stocks trade up, what you need to know",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-27T23:50:47+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/columbus-mckinnon-bloom-energy-ameresco-235047018.html?.tsrc=rss"
   }
 ]
