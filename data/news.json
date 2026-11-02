@@ -1,5 +1,95 @@
 [
   {
+    "id": "nd9fccec24d",
+    "headline": "How 900 Megawatt Power Deal Will Impact Solaris Energy Infrastructure Stock",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-11-02T16:10:06+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/900-megawatt-power-deal-impact-161006896.html?.tsrc=rss"
+  },
+  {
+    "id": "na03a823d8b",
+    "headline": "What Does CoreWeave (CRWV) Need To Prove As AI Funding Questions Grow?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-02T16:07:35+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/does-coreweave-crwv-prove-ai-160735852.html?.tsrc=rss"
+  },
+  {
+    "id": "na270d6e43a",
+    "headline": "Musk Predicts \u201cDeath and Consolidation\u201d for Neoclouds as Debt Markets Shut Off",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-02T14:44:05+00:00",
+    "url": "https://www.tikr.com/blog/musk-predicts-death-and-consolidation-for-neoclouds-as-debt-markets-shut-off?ref=yahoofinance&tlnk=yf-261102-m4r6cc69&.tsrc=rss"
+  },
+  {
+    "id": "n8d9dcd5dd3",
+    "headline": "Vistra Added 5,500 MW of Gas Plants, Most of Them Outside Texas. Here\u2019s What That Means for Its November 6 Report",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-02T13:23:22+00:00",
+    "url": "https://www.tikr.com/blog/vistra-added-5500-mw-of-gas-plants-most-of-them-outside-texas-heres-what-that-means-for-its-november-6-report?ref=yahoofinance&tlnk=yf-261102-h22qfggp&.tsrc=rss"
+  },
+  {
+    "id": "ned7a0077ae",
+    "headline": "CoreWeave Partners with CrowdStrike to Secure Mission-Critical AI Workloads at Scale",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-02T13:15:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-partners-crowdstrike-secure-mission-131500554.html?.tsrc=rss"
+  },
+  {
+    "id": "n60d2f23d39",
+    "headline": "A $2 Billion Fund Just Bought These 3 Stocks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-11-02T10:35:03+00:00",
+    "url": "https://www.tikr.com/blog/2-billion-fund-buys-oneok-solaris-kodiak-energy-stocks?ref=yahoofinance&tlnk=yf-261102-hp9249f4&.tsrc=rss"
+  },
+  {
+    "id": "nfc6fb6adec",
+    "headline": "Vistra acquires Cogentrix, adding 5.5GW of natural gas capacity",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-02T08:18:01+00:00",
+    "url": "https://www.power-technology.com/news/vistra-acquires-cogentrix-5-5gw-natural-gas/?.tsrc=rss"
+  },
+  {
+    "id": "nea44350b61",
+    "headline": "A Wall Street Firm Modeled Out an AI Crash: S&P 500 Down 30%, $20 Trillion Gone. But Here's What Happens Next",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-01T16:40:27+00:00",
+    "url": "https://www.fool.com/investing/2026/11/01/a-wall-street-firm-modeled-out-an-ai-crash-s-and-p-500-down-30-usd20-trillion-gone-but-here-s-what-happens-next/?.tsrc=rss"
+  },
+  {
+    "id": "n9971d53d63",
+    "headline": "Bloom Energy And 2 More High Growth Stocks To Improve Your Portfolio",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-01T15:11:24+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-2-more-high-151124016.html?.tsrc=rss"
+  },
+  {
     "id": "n766f3748ac",
     "headline": "Top Investor: CoreWeave Locked In Compute \u201cWay, Way Under Market.\u201d Rising GPU Prices Won\u2019t Save It",
     "source": "Yahoo Finance",
@@ -408,95 +498,5 @@
     ],
     "ts": "2026-10-28T20:55:18+00:00",
     "url": "https://www.tikr.com/blog/vistra-stock-has-slumped-for-a-year-why-wells-fargo-still-sees-39-upside?ref=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n996c707a87",
-    "headline": "Vistra Corp. (VST) Stock Declines While Market Improves: Some Information for Investors",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-28T20:45:04+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-stock-declines-204504598.html?.tsrc=rss"
-  },
-  {
-    "id": "nf9cf35d123",
-    "headline": "Natural Gas Is Plentiful. Getting It Into AI Power Is the Hard Part",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-28T18:41:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/natural-gas-plentiful-getting-ai-184100085.html?.tsrc=rss"
-  },
-  {
-    "id": "ne108a26065",
-    "headline": "Applied Digital Insiders Just Bought More Shares. Should You Join Them?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-28T17:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/28/applied-digital-insiders-just-bought-more-shares/?.tsrc=rss"
-  },
-  {
-    "id": "nd7d359ae8d",
-    "headline": "EQT Q3 Earnings Beat Estimates on Lower Operating Costs, Revenues Miss",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-28T15:51:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-q3-earnings-beat-estimates-155100810.html?.tsrc=rss"
-  },
-  {
-    "id": "n155ca2a9df",
-    "headline": "EQT to Acquire Range Resources, Create a Leading Natural Gas Company",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-28T15:03:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-acquire-range-resources-create-150300737.html?.tsrc=rss"
-  },
-  {
-    "id": "n12fe13fc8c",
-    "headline": "Solaris Energy Infrastructure, Inc. (SEI) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-10-28T13:00:22+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-inc-sei-130022379.html?.tsrc=rss"
-  },
-  {
-    "id": "n841ba3ccf7",
-    "headline": "Bloom Energy Q3 Earnings Call Highlights Guidance Hike & Capacity Plan",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-28T12:41:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-q3-earnings-call-124100470.html?.tsrc=rss"
-  },
-  {
-    "id": "n98c16af04e",
-    "headline": "Goldman Sachs says CoreWeave could rack up $100B in debt by 2028",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-28T11:00:00+00:00",
-    "url": "https://blockspace.media/short/goldman-sachs-says-coreweave-could-rack-up-100b-in-debt-by-2028/?.tsrc=rss"
-  },
-  {
-    "id": "nd27d2b16e1",
-    "headline": "How Did Applied Digital Stock Leave Its Industry Behind?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-28T09:26:08+00:00",
-    "url": "https://www.trefis.com/stock/apld/articles/621033/how-did-applied-digital-stock-leave-its-industry-behind/2026-10-28?.tsrc=rss"
   }
 ]
