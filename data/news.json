@@ -1,5 +1,145 @@
 [
   {
+    "id": "n7aa6b821d4",
+    "headline": "CoreWeave, Nebius Slide As Blue Wave Clouds AI Boom",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-04T14:09:03+00:00",
+    "url": "https://finance.yahoo.com/m/c7cfda24-812a-3e7d-a41e-138b0ad10480/coreweave%2C-nebius-slide-as.html?.tsrc=rss"
+  },
+  {
+    "id": "n5855b29bbf",
+    "headline": "AI data center stocks dip as midterm elections shake up Wall Street",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-04T14:08:29+00:00",
+    "url": "https://finance.yahoo.com/video/ai-data-center-stocks-dip-as-midterm-elections-shake-up-wall-street-140829988.html?.tsrc=rss"
+  },
+  {
+    "id": "nbefcfd30f2",
+    "headline": "The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Is Surging.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-04T13:36:00+00:00",
+    "url": "https://finance.yahoo.com/m/062690cd-77ae-3417-a77e-399efa9acc96/the-ai-data-center-backlash.html?.tsrc=rss"
+  },
+  {
+    "id": "n357b08557b",
+    "headline": "What Sent Bloom Energy Stock Higher?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-04T12:55:50+00:00",
+    "url": "https://www.trefis.com/stock/be/articles/622644/what-sent-bloom-energy-stock-higher/2026-11-04?.tsrc=rss"
+  },
+  {
+    "id": "n78777ba40b",
+    "headline": "What Is Behind The Move In Applied Digital Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-04T12:55:44+00:00",
+    "url": "https://www.trefis.com/stock/apld/articles/622643/what-is-behind-the-move-in-applied-digital-stock/2026-11-04?.tsrc=rss"
+  },
+  {
+    "id": "n1254eb5874",
+    "headline": "CoreWeave More Than Halved Over the Past 6 Months: This Pro Analyst Expects 360% Returns to Come",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-04T12:15:19+00:00",
+    "url": "https://247wallst.com/investing/2026/11/04/coreweave-more-than-halved-over-the-past-6-months-this-pro-analyst-expects-360-returns-to-come/?.tsrc=rss"
+  },
+  {
+    "id": "nba979d23d7",
+    "headline": "CoreWeave Shares Fall 3.1% as Democratic Election Victory Adds to AI Infrastructure Concerns",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-04T11:41:59+00:00",
+    "url": "https://investorshub.advfn.com/market-news/article/39234/coreweave-shares-fall-3-1-as-democratic-election-victory-adds-to-ai-infrastructure-concerns?.tsrc=rss"
+  },
+  {
+    "id": "ndaad3bcca7",
+    "headline": "AI Data Centre Stocks Fall as Democratic Midterm Victory Raises Regulatory Concerns",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-04T11:39:33+00:00",
+    "url": "https://investorshub.advfn.com/market-news/article/39232/ai-data-centre-stocks-fall-as-democratic-midterm-victory-raises-regulatory-concerns?.tsrc=rss"
+  },
+  {
+    "id": "ncf00cc9fd5",
+    "headline": "Bloom Energy's New Guidance Implies Up to $1.55 Billion in Q4 Revenue. Can It Deliver?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-04T11:05:00+00:00",
+    "url": "https://www.fool.com/investing/2026/11/04/bloom-energy-guidance-155-billion-q4-revenue/?.tsrc=rss"
+  },
+  {
+    "id": "nc59b91e1e5",
+    "headline": "Texas Goes Blue: What Gina Hinojosa's Win Means For AI Data Centers And Stocks Like MSFT, AMZN, GOOGL, CRWV",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-04T07:12:18+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/texas-goes-blue-what-gina-hinojosa-s-win-means-for-ai-data-centers-and-stocks-like-msft-amzn-googl-crwv/cNGLcmWR9dy?.tsrc=rss"
+  },
+  {
+    "id": "nff80148874",
+    "headline": "Bloom Energy Is Up 146% in 2026: Take Profits, or Buy More?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-04T04:21:45+00:00",
+    "url": "https://www.tikr.com/blog/bloom-energy-is-up-146-in-2026-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261104-j4465vp6&.tsrc=rss"
+  },
+  {
+    "id": "nec73ec50e2",
+    "headline": "BE Stock Heads For Best Week In Over A Month: This Analyst Says Bloom\u2019s Demand Trends Are Getting \u2018Harder To Ignore\u2019",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-04T01:10:13+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/be-stock-heads-for-best-week-in-over-a-month-this-analyst-says-bloom-s-demand-trends-are-getting-harder-to-ignore/cNGhMxQR9dl?.tsrc=rss"
+  },
+  {
+    "id": "n10e46fe9d3",
+    "headline": "Applied Digital Surges 9% as AI Data Center Stocks Rebound From Financing Jitters; IREN Jumps 9%, Nebius Climbs 7%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-03T17:53:59+00:00",
+    "url": "https://247wallst.com/investing/2026/11/03/applied-digital-surges-9-as-ai-data-center-stocks-rebound-from-financing-jitters-iren-jumps-9-nebius-climbs-7/?.tsrc=rss"
+  },
+  {
+    "id": "n2ea61a8f7e",
+    "headline": "Vistra Gains 5% as Talen Guides 2027 EBITDA Up 26% on \u201cStrong PJM Fundamentals\u201d",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-03T16:45:55+00:00",
+    "url": "https://www.tikr.com/blog/vistra-gains-5-as-talen-guides-2027-ebitda-up-26-on-strong-pjm-fundamentals?ref=yahoofinance&tlnk=yf-261103-gv5cj647&.tsrc=rss"
+  },
+  {
     "id": "n8b7b1f6fb7",
     "headline": "Barclays raises Bloom Energy to Overweight on stronger-than-expected demand",
     "source": "Yahoo Finance",
@@ -358,145 +498,5 @@
     ],
     "ts": "2026-10-30T16:00:00+00:00",
     "url": "https://finance.yahoo.com/energy/articles/vistra-completes-acquisition-cogentrix-energy-160000258.html?.tsrc=rss"
-  },
-  {
-    "id": "nbc080c59ae",
-    "headline": "Bloom Energy Joined the S&P 500 at Nearly 400 Times Earnings. History Says This Is What Happens Next.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-30T14:05:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/30/bloom-energy-joined-the-sp-500-at-nearly-400-times/?.tsrc=rss"
-  },
-  {
-    "id": "n9748517798",
-    "headline": "Meet the Underrated Artificial Intelligence (AI) Stock That Could Soar 255% in a Year, According to Wall Street",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-30T14:04:02+00:00",
-    "url": "https://www.fool.com/investing/2026/10/30/meet-the-underrated-artificial-intelligence-ai-stock-that-could-soar-255-in-a-year-according-to-wall-street/?.tsrc=rss"
-  },
-  {
-    "id": "n44c0cf7cc5",
-    "headline": "CoreWeave (CRWV) Adds Denmark Capacity To Its Global AI Cloud Platform",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-30T13:13:38+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-adds-denmark-capacity-131338871.html?.tsrc=rss"
-  },
-  {
-    "id": "n2a1cd3801a",
-    "headline": "Vistra Corp. (VST) Reports Next Week: Wall Street Expects Earnings Growth",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-30T13:00:05+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-reports-next-130005755.html?.tsrc=rss"
-  },
-  {
-    "id": "n7ebc6f5668",
-    "headline": "Dear CoreWeave Stock Fans, Mark Your Calendars for November 10",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-30T13:00:03+00:00",
-    "url": "https://www.barchart.com/story/news/8553514/dear-coreweave-stock-fans-mark-your-calendars-for-november-10?.tsrc=rss"
-  },
-  {
-    "id": "n1534b67006",
-    "headline": "Solaris Energy Q3 Earnings Preview: Another Beat Likely?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-10-30T12:53:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-q3-earnings-preview-125300119.html?.tsrc=rss"
-  },
-  {
-    "id": "n8afef4b245",
-    "headline": "Satya Nadella Just Took a Shot at Oracle and CoreWeave",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-30T11:47:06+00:00",
-    "url": "https://247wallst.com/investing/2026/10/30/satya-nadella-just-took-a-shot-at-oracle-and-coreweave/?.tsrc=rss"
-  },
-  {
-    "id": "n440dfbca5f",
-    "headline": "3 Growth Stocks With Revenue Growth Up To 31%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-30T11:12:46+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-revenue-growth-111246017.html?.tsrc=rss"
-  },
-  {
-    "id": "n4d2f93ccc7",
-    "headline": "Is CoreWeave Stock Increasing Your Market Risk?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-30T09:57:04+00:00",
-    "url": "https://www.trefis.com/stock/crwv/articles/621529/is-coreweave-stock-increasing-your-market-risk/2026-10-30?.tsrc=rss"
-  },
-  {
-    "id": "n2a49fef6af",
-    "headline": "Elon Musk vs. Jensen Huang: Who Is Right About CoreWeave?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-30T09:30:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/30/elon-musk-vs-jensen-huang-who-is-right-about-corew/?.tsrc=rss"
-  },
-  {
-    "id": "n2e9c1f329b",
-    "headline": "EQT (EQT) Deal Sparks Fresh Marcellus And Utica Takeover Talk",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-30T05:17:11+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/eqt-eqt-deal-sparks-fresh-051711434.html?.tsrc=rss"
-  },
-  {
-    "id": "nbcbdb7cbb5",
-    "headline": "3 Growth Stocks To Own In October 2026",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-30T00:18:18+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-own-october-001818281.html?.tsrc=rss"
-  },
-  {
-    "id": "n75bdc637c5",
-    "headline": "Vistra Declares Dividend on Common Stock, Series B Preferred Stock, and Series C Preferred Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-29T20:15:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-declares-dividend-common-stock-201500894.html?.tsrc=rss"
-  },
-  {
-    "id": "nb32da9e13b",
-    "headline": "EQT (EQT) Stock Fair Value Edges Lower As Analysts Weigh Range Deal And Gas Risks",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-29T17:13:09+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-stock-fair-value-171309504.html?.tsrc=rss"
   }
 ]
