@@ -1,5 +1,175 @@
 [
   {
+    "id": "n9eefaba4b0",
+    "headline": "NTT DATA Announces Agreement with Bloom Energy for 900 MW of Onsite Power Generation Across Multiple Data Center Projects",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-05T14:00:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/ntt-data-announces-agreement-bloom-140000854.html?.tsrc=rss"
+  },
+  {
+    "id": "n07bdc9f8a4",
+    "headline": "Vistra Cratered by 25% This Year: One Wall Street Team Says 110% Returns Ahead for Investors",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-05T13:45:31+00:00",
+    "url": "https://247wallst.com/investing/2026/11/05/vistra-cratered-by-25-this-year-one-wall-street-team-says-110-returns-ahead-for-investors/?.tsrc=rss"
+  },
+  {
+    "id": "n0e4828f4c0",
+    "headline": "Ed Yardeni Says Slowing AI Boom Is Actually Bullish for Big Tech",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-05T13:45:09+00:00",
+    "url": "https://www.benzinga.com/markets/prediction-markets/26/11/62917838/yardeni-ai-spending?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
+  },
+  {
+    "id": "nb58a993db9",
+    "headline": "Vistra Fell 14% on the Texas Election Vote. Here\u2019s What the November 6 Report Has to Settle",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-05T13:35:42+00:00",
+    "url": "https://www.tikr.com/blog/vistra-fell-14-on-the-texas-election-vote-heres-what-the-november-6-report-has-to-settle?ref=yahoofinance&tlnk=yf-261105-xjfxhhh3&.tsrc=rss"
+  },
+  {
+    "id": "n2518339fd3",
+    "headline": "Election Raises Hurdle for Data Center IPOs After Peers Tumble",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-05T13:30:10+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/election-raises-hurdle-data-center-133010287.html?.tsrc=rss"
+  },
+  {
+    "id": "nceb7ccf0a0",
+    "headline": "Can Democrats Slow The $800 Billion AI Boom?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-05T13:13:06+00:00",
+    "url": "https://www.trefis.com/stock/mu/articles/622728/can-democrats-slow-the-800-billion-ai-boom/2026-11-05?.tsrc=rss"
+  },
+  {
+    "id": "nbc42c447ea",
+    "headline": "A $2.4 Billion Fund Bought These 3 Stocks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-05T12:06:44+00:00",
+    "url": "https://www.tikr.com/blog/heard-capital-bought-bloom-energy-marvell-aerovironment-avav-mrvl-stock?ref=yahoofinance&tlnk=yf-261105-4gprmx72&.tsrc=rss"
+  },
+  {
+    "id": "n3784e13ce0",
+    "headline": "What Is Driving The Fall In CoreWeave Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-05T10:36:39+00:00",
+    "url": "https://www.trefis.com/stock/crwv/articles/622866/what-is-driving-the-fall-in-coreweave-stock/2026-11-05?.tsrc=rss"
+  },
+  {
+    "id": "n9fa2c4a032",
+    "headline": "How Big Could Vistra Stock's Next Fall Be?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-05T10:36:03+00:00",
+    "url": "https://www.trefis.com/stock/vst/articles/622818/how-big-could-vistra-stocks-next-fall-be/2026-11-05?.tsrc=rss"
+  },
+  {
+    "id": "n3fee9e6607",
+    "headline": "CoreWeave (CRWV) Stock May Be Undervalued Following Data Center Fears",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-05T08:20:10+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-stock-may-undervalued-082010455.html?.tsrc=rss"
+  },
+  {
+    "id": "n0a84a67f48",
+    "headline": "Vistra Sinks 16% in a Week to a New 52-Week Low. Is the Texas Selloff Overdone?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-05T02:29:37+00:00",
+    "url": "https://www.tikr.com/blog/vistra-sinks-16-in-a-week-to-a-new-52-week-low-is-the-texas-selloff-overdone?ref=yahoofinance&tlnk=yf-261104-5m6ff8g9&.tsrc=rss"
+  },
+  {
+    "id": "n5603a83e63",
+    "headline": "Solaris Energy Infrastructure, Inc. (SEI) Beats Q3 Earnings and Revenue Estimates",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-11-04T23:45:04+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-inc-sei-234504696.html?.tsrc=rss"
+  },
+  {
+    "id": "nf4f558ba1c",
+    "headline": "Solaris Energy Infrastructure Announces Third Quarter 2026 Results, Additional Power Contracts and Increased Guidance",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "SEI"
+    ],
+    "ts": "2026-11-04T21:06:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/solaris-energy-infrastructure-announces-third-210600372.html?.tsrc=rss"
+  },
+  {
+    "id": "n00b0181a2c",
+    "headline": "Bloom Energy Stock In Focus After California Power Deal",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-04T20:16:42+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-focus-california-201642782.html?.tsrc=rss"
+  },
+  {
+    "id": "nebd4890058",
+    "headline": "The AI Data-Center Backlash Is Real. Why Bloom Energy Stock Can Be a Winner.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-04T18:48:00+00:00",
+    "url": "https://finance.yahoo.com/m/062690cd-77ae-3417-a77e-399efa9acc96/the-ai-data-center-backlash.html?.tsrc=rss"
+  },
+  {
+    "id": "nd5c8e6c5b1",
+    "headline": "Bloom Energy Sinks 8%, Lumentum Down 11% as AI Power Stocks Fade After Democrat Sweep",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-04T16:51:29+00:00",
+    "url": "https://www.tikr.com/blog/bloom-energy-sinks-8-lumentum-down-11-as-ai-power-stocks-fade-after-democrat-sweep?ref=yahoofinance&tlnk=yf-261104-xw87w6cx&.tsrc=rss"
+  },
+  {
+    "id": "n30c4bc72bc",
+    "headline": "Applied Digital Falls 4%, CoreWeave Down 7% as Data Centers \u201cFeel the Heat\u201d After Democratic Sweep",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-04T15:27:38+00:00",
+    "url": "https://www.tikr.com/blog/applied-digital-falls-4-coreweave-down-7-as-data-centers-feel-the-heat-after-democratic-sweep?ref=yahoofinance&tlnk=yf-261104-vjw8fm54&.tsrc=rss"
+  },
+  {
     "id": "n7aa6b821d4",
     "headline": "CoreWeave, Nebius Slide As Blue Wave Clouds AI Boom",
     "source": "Yahoo Finance",
@@ -328,175 +498,5 @@
     ],
     "ts": "2026-11-02T13:23:22+00:00",
     "url": "https://www.tikr.com/blog/vistra-added-5500-mw-of-gas-plants-most-of-them-outside-texas-heres-what-that-means-for-its-november-6-report?ref=yahoofinance&tlnk=yf-261102-h22qfggp&.tsrc=rss"
-  },
-  {
-    "id": "ned7a0077ae",
-    "headline": "CoreWeave Partners with CrowdStrike to Secure Mission-Critical AI Workloads at Scale",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-02T13:15:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-partners-crowdstrike-secure-mission-131500554.html?.tsrc=rss"
-  },
-  {
-    "id": "n60d2f23d39",
-    "headline": "A $2 Billion Fund Just Bought These 3 Stocks",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-11-02T10:35:03+00:00",
-    "url": "https://www.tikr.com/blog/2-billion-fund-buys-oneok-solaris-kodiak-energy-stocks?ref=yahoofinance&tlnk=yf-261102-hp9249f4&.tsrc=rss"
-  },
-  {
-    "id": "nfc6fb6adec",
-    "headline": "Vistra acquires Cogentrix, adding 5.5GW of natural gas capacity",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-02T08:18:01+00:00",
-    "url": "https://www.power-technology.com/news/vistra-acquires-cogentrix-5-5gw-natural-gas/?.tsrc=rss"
-  },
-  {
-    "id": "nea44350b61",
-    "headline": "A Wall Street Firm Modeled Out an AI Crash: S&P 500 Down 30%, $20 Trillion Gone. But Here's What Happens Next",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-01T16:40:27+00:00",
-    "url": "https://www.fool.com/investing/2026/11/01/a-wall-street-firm-modeled-out-an-ai-crash-s-and-p-500-down-30-usd20-trillion-gone-but-here-s-what-happens-next/?.tsrc=rss"
-  },
-  {
-    "id": "n9971d53d63",
-    "headline": "Bloom Energy And 2 More High Growth Stocks To Improve Your Portfolio",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-01T15:11:24+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-2-more-high-151124016.html?.tsrc=rss"
-  },
-  {
-    "id": "n766f3748ac",
-    "headline": "Top Investor: CoreWeave Locked In Compute \u201cWay, Way Under Market.\u201d Rising GPU Prices Won\u2019t Save It",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-01T11:49:09+00:00",
-    "url": "https://www.tikr.com/blog/top-investor-coreweave-locked-in-compute-way-way-under-market-rising-gpu-prices-wont-save-it?ref=yahoofinance&tlnk=yf-261101-2mcq2gcm&.tsrc=rss"
-  },
-  {
-    "id": "na33eecc12c",
-    "headline": "AI investors rush to hedge against potential tech market downturn - WSJ",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-01T03:02:11+00:00",
-    "url": "https://finance.yahoo.com/markets/options/articles/ai-investors-rush-hedge-against-030211499.html?.tsrc=rss"
-  },
-  {
-    "id": "n7532c5f02e",
-    "headline": "Bloom Energy Trades at 140 Times Earnings. Here's the Growth Rate It Needs to Justify That.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-01T02:35:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/31/bloom-energy-trades-at-140-times-earnings-heres-th/?.tsrc=rss"
-  },
-  {
-    "id": "ne2574d9180",
-    "headline": "Are Wall Street Analysts Bullish on Bloom Energy Stock?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-31T13:26:51+00:00",
-    "url": "https://www.barchart.com/story/news/8572143/are-wall-street-analysts-bullish-on-bloom-energy-stock?.tsrc=rss"
-  },
-  {
-    "id": "n305ded41ea",
-    "headline": "CoreWeave And 2 Other Top Growth Stocks With Insider Buying",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-10-31T05:12:52+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-2-other-top-growth-051252381.html?.tsrc=rss"
-  },
-  {
-    "id": "nce46c37a4b",
-    "headline": "B. Riley Cut Its Applied Digital Target to $51. It Still Sees 185% Upside",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-10-30T20:40:05+00:00",
-    "url": "https://www.tikr.com/blog/b-riley-cut-its-applied-digital-target-to-51-it-still-sees-185-upside?ref=yahoofinance&tlnk=yf-261030-6g7589h3&.tsrc=rss"
-  },
-  {
-    "id": "nee59110616",
-    "headline": "Bloom Energy Just Joined the S&P 500. Here's What History Says Happens Next.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-30T19:15:00+00:00",
-    "url": "https://www.fool.com/investing/2026/10/30/bloom-energy-just-joined-the-sp-500-heres-what-his/?.tsrc=rss"
-  },
-  {
-    "id": "n5928a3424a",
-    "headline": "Top oil & gas exploration stocks, according to Mizuho",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-30T18:50:56+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/top-oil-gas-exploration-stocks-185056094.html?.tsrc=rss"
-  },
-  {
-    "id": "n12ce526171",
-    "headline": "Why Buying Bloom Energy Stock After Its Post-Earnings Selloff Could Be a Good Idea",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-30T18:07:22+00:00",
-    "url": "https://www.barchart.com/story/news/8559554/why-buying-bloom-energy-stock-after-its-post-earnings-selloff-could-be-a-good-idea?.tsrc=rss"
-  },
-  {
-    "id": "n723633a1df",
-    "headline": "FuelCell Energy Sinks 12% Despite Completing $49 Million Export-Import Bank Financing; Bloom Energy Tumbles 10%, Plug Power Falls 4%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-10-30T18:04:54+00:00",
-    "url": "https://247wallst.com/investing/2026/10/30/fuelcell-energy-sinks-12-despite-completing-49-million-export-import-bank-financing-bloom-energy-tumbles-10-plug-power-falls-4/?.tsrc=rss"
-  },
-  {
-    "id": "ncad4e7a97d",
-    "headline": "EQT (EQT) Reports Q3 Earnings: What Key Metrics Have to Say",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "EQT"
-    ],
-    "ts": "2026-10-30T16:30:02+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-reports-q3-earnings-163002172.html?.tsrc=rss"
-  },
-  {
-    "id": "nb95df31ed1",
-    "headline": "Vistra Completes Acquisition of Cogentrix Energy, Expanding Diverse Generation Fleet",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-10-30T16:00:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/vistra-completes-acquisition-cogentrix-energy-160000258.html?.tsrc=rss"
   }
 ]
