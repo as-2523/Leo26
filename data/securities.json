@@ -91,7 +91,7 @@
     "name": "Solaris Energy Infrastructure, Inc.",
     "exchange": "NYQ",
     "sector": "Energy",
-    "market_cap": 5813185024,
+    "market_cap": 5768969728,
     "pe_ratio": 62.793476,
     "description": "Solaris Energy Infrastructure, Inc. provides modular and scalable equipment-based solutions for power generation, control and distribution, and management of raw materials used in the completion of oil and natural gas wells in the United States. It operates in Solaris Power Solutions and Solaris Logistics Solutions segments. The Solaris Power Solutions segment delivers power generation, control, and distribution solutions; and offers support to data center, energy, and other commercial and industrial sector. It also provides site preparation, specialized structural and foundational work, and gas pipeline construction services. The Solaris Logistics Solutions segment designs and manufactures specialized equipment; and offers field technician support, last mile, and mobilization logistics services, as well as provides software solutions. The company was formerly known as Solaris Oilfield Infrastructure, Inc. and changed its name to Solaris Energy Infrastructure, Inc. in September 2024. Solaris Energy Infrastructure, Inc. was founded in 2014 and is headquartered in Houston, Texas.",
     "industry": "Oil & Gas Equipment & Services",
@@ -150,7 +150,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 3789497600,
-    "pe_ratio": 72.253624,
+    "pe_ratio": 90.21865,
     "description": "Core Scientific, Inc. provides infrastructure for high-density colocation services and digital asset mining in the United States. It operates through three segments: Colocation, Digital Asset Self-Mining, and Digital Asset Hosted Mining. The company offers space, power, cooling, facilities operations, security, and other services to third-party customers to support workloads for machine learning and artificial intelligence; deployment, monitoring, troubleshooting, optimization, and maintenance of its customers' digital asset mining equipment; and electrical power, repair, and other infrastructure services for its customers to operate, maintain, and mine digital assets. It is also involved in the deployment and operation of its fleet of miners within its digital infrastructure as part of a pool of users that process transactions conducted on one or more blockchain networks to receive digital assets in the form of bitcoin. It also deploys and operates its fleet of miners within its digital infrastructure as part of a pool of users that process transactions conducted on one or more blockchain networks; and provides hosting services for digital asset mining customers, which include dep",
     "industry": "Software - Infrastructure",
     "website": "https://corescientific.com"
@@ -160,7 +160,7 @@
     "exchange": "NMS",
     "sector": "Financial Services",
     "market_cap": 9183093760,
-    "pe_ratio": -5.4337726,
+    "pe_ratio": -5.4889026,
     "description": "IREN Limited operates as a vertically integrated AI cloud services platform in Australia and Canada. It develops, owns, and operates data centers, including the associated land, grid connections, and substations, as well as buildings and cooling. The company also owns and operates compute layers, such as GPUs, CPUs, storage, servers, and networking deployed within that data center infrastructure; and software layers comprising managed services and enterprise support that enables customers to deploy, operate, and manage AI workloads. In addition, it is involved in Bitcoin mining. Further, its division IREN Europe operates a planned AI data center in Badajoz, Spain that deliver approximately 300MW of capacity, including managed services to customers seeking greater choice over where their AI workloads run and how their data and infrastructure are managed in Europe. The company was formerly known as Iris Energy Limited and changed its name to IREN Limited in November 2024. IREN Limited was incorporated in 2018 and is based in Sydney, Australia.",
     "industry": "Capital Markets",
     "website": "https://iren.com"
