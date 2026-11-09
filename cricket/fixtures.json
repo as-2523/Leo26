@@ -1,36 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-9cr8fk",
-      "teamId": "india-a-men",
-      "teamName": "India A Men",
-      "opponent": "New Zealand A",
-      "startTimeUtc": "2026-11-07T21:30:00.000Z",
-      "hasStartTime": true,
-      "format": "Test",
-      "formatLabel": "test",
-      "series": "India A tour of New Zealand, 2026",
-      "seriesStartUtc": "2026-10-24T00:00:00.000Z",
-      "seriesEndUtc": "2026-11-10T00:00:00.000Z",
-      "venue": "Bert Sutcliffe Oval, Lincoln",
-      "source": "cricapi"
-    },
-    {
-      "id": "fx-1chbkfs",
-      "teamId": "india-u19-men",
-      "teamName": "India Under-19 Men",
-      "opponent": "Pakistan U19",
-      "startTimeUtc": "2026-11-08T05:00:00.000Z",
-      "hasStartTime": true,
-      "format": "Youth",
-      "formatLabel": "odi",
-      "series": "ACC Men's U19 Asia Cup 2026",
-      "seriesStartUtc": "2026-11-05T00:00:00.000Z",
-      "seriesEndUtc": "2026-11-14T00:00:00.000Z",
-      "venue": "Al Amerat Cricket Ground (Ministry Turf 2), Al Amerat",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-r8jo0t",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -267,7 +237,7 @@
       "series": "Sri Lanka tour of India, 2026",
       "seriesStartUtc": "2026-12-13T00:00:00.000Z",
       "seriesEndUtc": "2026-12-27T00:00:00.000Z",
-      "venue": "Arun Jaitley Stadium, Delhi",
+      "venue": "ACA-VDCA Cricket Stadium, Visakhapatnam",
       "source": "cricapi"
     },
     {
@@ -587,9 +557,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-07T09:42:08.397Z",
-    "windowStart": "2026-11-07T00:00:00.000Z",
-    "windowEnd": "2027-05-07T00:00:00.000Z",
+    "generatedAt": "2026-11-09T11:00:09.670Z",
+    "windowStart": "2026-11-09T00:00:00.000Z",
+    "windowEnd": "2027-05-09T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -605,7 +575,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 39
+        "count": 37
       },
       {
         "id": "manual",
@@ -615,6 +585,12 @@
     ],
     "usedFallback": false,
     "expectedSeries": [
+      {
+        "name": "India A tour of New Zealand, 2026",
+        "startUtc": "2026-10-24T00:00:00.000Z",
+        "endUtc": "2026-11-10T00:00:00.000Z",
+        "sourceUrl": "https://www.espncricinfo.com/search?query=India%20A%20tour%20of%20New%20Zealand%2C%202026"
+      },
       {
         "name": "England Women U19 tour of India 2026",
         "startUtc": "2026-11-26T00:00:00.000Z",
