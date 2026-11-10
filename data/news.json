@@ -1,5 +1,125 @@
 [
   {
+    "id": "nddb5494c5e",
+    "headline": "CRWV Stock Rallies 6%: Can Wayve Deal Fuel Its Physical AI Growth?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-10T13:25:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/crwv-stock-rallies-6-wayve-132500158.html?.tsrc=rss"
+  },
+  {
+    "id": "nfb8fb122e7",
+    "headline": "Despite CoreWeave Plummeting 55% Over 6 Months This Wall Street Team Maintains That a 400% Return Will Materialize",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-10T12:15:06+00:00",
+    "url": "https://247wallst.com/investing/2026/11/10/despite-coreweave-plummeting-55-over-6-months-this-wall-street-team-maintains-that-a-400-return-will-materialize/?.tsrc=rss"
+  },
+  {
+    "id": "ne557ebe183",
+    "headline": "Why Bloom Energy Stock Slumped 26.6% in October, and Why the Pullback is a Buying Opportunity",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-10T10:41:49+00:00",
+    "url": "https://www.fool.com/investing/2026/11/10/why-bloom-energy-stock-slumped-26-6-in-october-and-why-the-pullback-is-a-buying-opportunity/?.tsrc=rss"
+  },
+  {
+    "id": "nefe8291f0d",
+    "headline": "US Stock Futures Mixed As Investors Await CPI Data \u2014 AMD, CRWV, RKLB Stocks In Focus",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-10T10:20:51+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-mixed-as-investors-await-cpi-data-amd-crwv-rklb-stocks-in-focus/cNGug0DR97u?.tsrc=rss"
+  },
+  {
+    "id": "n1dc96f37da",
+    "headline": "Top 3 Insider Owned Growth Stocks To Watch In November 2026",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-10T10:09:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-insider-owned-growth-100900740.html?.tsrc=rss"
+  },
+  {
+    "id": "n262020178b",
+    "headline": "CoreWeave Has a Sentiment Problem Even Strong Earnings Can't Fix",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-10T09:22:25+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-sentiment-problem-even-strong-092225958.html?.tsrc=rss"
+  },
+  {
+    "id": "n8fb01c95c2",
+    "headline": "Is Bloom Energy Really Worth $200 Right Now? Here's the Math.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-09T21:35:02+00:00",
+    "url": "https://www.fool.com/investing/2026/11/09/is-bloom-energy-really-worth-usd200-right-now-here-s-the-math/?.tsrc=rss"
+  },
+  {
+    "id": "nf5e79a84ed",
+    "headline": "Vistra Q3 Earnings Call Highlights Cash Flow Plans & Demand Risks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-09T18:51:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/vistra-q3-earnings-call-highlights-185100312.html?.tsrc=rss"
+  },
+  {
+    "id": "n16680c11df",
+    "headline": "Vistra and Constellation Both Fell Sharply After the Election. One Has Far More Exposure to Texas.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-09T18:25:00+00:00",
+    "url": "https://www.fool.com/investing/2026/11/09/vistra-and-constellation-both-fell-sharply-after-t/?.tsrc=rss"
+  },
+  {
+    "id": "nd87038516a",
+    "headline": "Vistra (VST) Stock Looks Reasonable As Its Five Year Run Continues",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-09T17:17:27+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-stock-looks-reasonable-171727179.html?.tsrc=rss"
+  },
+  {
+    "id": "nbf7a77f561",
+    "headline": "Why Bloom Energy Stock Popped Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-09T17:02:32+00:00",
+    "url": "https://www.fool.com/investing/2026/11/09/why-bloom-energy-stock-popped-today/?.tsrc=rss"
+  },
+  {
+    "id": "ne8ef2cbdab",
+    "headline": "Mistral CEO Pushes Back: Energy Is \u201cNot the Bottleneck\u201d for AI Compute. Here\u2019s What Is.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-09T16:52:21+00:00",
+    "url": "https://www.tikr.com/blog/mistral-ceo-pushes-back-energy-is-not-the-bottleneck-for-ai-compute-heres-what-is?ref=yahoofinance&tlnk=yf-261109-3wr4gc8r&.tsrc=rss"
+  },
+  {
     "id": "nbfcb504e84",
     "headline": "Vistra Sees \u201cApproximately 70% Growth\u201d in Free Cash Flow Without Betting on the AI Build-Out",
     "source": "Yahoo Finance",
@@ -38,6 +158,16 @@
     ],
     "ts": "2026-11-09T15:20:00+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-slides-37-ytd-152000407.html?.tsrc=rss"
+  },
+  {
+    "id": "na3a670261d",
+    "headline": "Morgan Stanley raises Riot target to $41, cuts Cipher, Hut 8, Galaxy and Applied Digital",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-09T15:08:04+00:00",
+    "url": "https://blockspace.media/insight/morgan-stanley-raises-riot-target/?.tsrc=rss"
   },
   {
     "id": "n30d9423000",
@@ -368,135 +498,5 @@
     ],
     "ts": "2026-11-07T02:12:31+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-stock-climbs-record-021231280.html?.tsrc=rss"
-  },
-  {
-    "id": "n32bfb5cfd4",
-    "headline": "Vistra Corp (VST) (Q3 2026) Earnings Call Highlights: Record Adjusted EBITDA of $2. ...",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-07T01:16:19+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-q3-2026-011619400.html?.tsrc=rss"
-  },
-  {
-    "id": "n4fd745933e",
-    "headline": "\u201cAlready Popping\u201d: CoreWeave Is Down 30% in 2026. Dead Money, or Due for a Bounce?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-07T00:06:55+00:00",
-    "url": "https://www.tikr.com/blog/already-popping-coreweave-is-down-30-in-2026-dead-money-or-due-for-a-bounce?ref=yahoofinance&tlnk=yf-261106-xgcchj54&.tsrc=rss"
-  },
-  {
-    "id": "n228eb358a2",
-    "headline": "Vistra Corp. Q3 2026 Earnings Call Summary",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-06T22:05:01+00:00",
-    "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-vistra-corp-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss"
-  },
-  {
-    "id": "naa0e70e6e2",
-    "headline": "Bloom Energy Supports Oxford Firefighters and Local Families Ahead of Georgia-Ole Miss Matchup",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-06T21:24:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/bloom-energy-supports-oxford-firefighters-212400592.html?.tsrc=rss"
-  },
-  {
-    "id": "n881469965f",
-    "headline": "Cloudflare CEO: \u201cCloudflare Isn\u2019t a Neocloud.\u201d Maybe That\u2019s Why Its Stock Soared as Neoclouds Sank",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-06T20:09:47+00:00",
-    "url": "https://www.tikr.com/blog/cloudflare-ceo-cloudflare-isnt-a-neocloud-maybe-thats-why-its-stock-soared-as-neoclouds-sank?ref=yahoofinance&tlnk=yf-261106-c64j543m&.tsrc=rss"
-  },
-  {
-    "id": "n5a70e38165",
-    "headline": "Applied Digital Is Still Down 39% in the Past Month: Is APLD Stock Hopeless or Ready for a Rebound?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-06T20:03:14+00:00",
-    "url": "https://247wallst.com/investing/2026/11/06/applied-digital-is-still-down-39-in-the-past-month-is-apld-stock-hopeless-or-ready-for-a-rebound/?.tsrc=rss"
-  },
-  {
-    "id": "n5d867a9b48",
-    "headline": "Bloom Energy Rises 2%, AMD Up 8% as AI Stocks Rebound From Midterm Rout",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-06T18:28:16+00:00",
-    "url": "https://www.tikr.com/blog/bloom-energy-rises-2-amd-up-8-as-ai-stocks-rebound-from-midterm-rout?ref=yahoofinance&tlnk=yf-261106-qv7xx7qr&.tsrc=rss"
-  },
-  {
-    "id": "nb2e7ef8fd1",
-    "headline": "Raymond James upgrades Solaris to Strong Buy, sees tactical entry after selloff",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-11-06T17:31:12+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-upgrades-solaris-strong-173112730.html?.tsrc=rss"
-  },
-  {
-    "id": "n7be86207ef",
-    "headline": "Applied Digital Soars 7% as Data Center Stocks Rebound on a Rival\u2019s \u201cFully Funded\u201d Backlog",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-06T16:15:57+00:00",
-    "url": "https://www.tikr.com/blog/applied-digital-soars-7-as-data-center-stocks-rebound-on-a-rivals-fully-funded-backlog?ref=yahoofinance&tlnk=yf-261106-8w39f27r&.tsrc=rss"
-  },
-  {
-    "id": "nf55757653c",
-    "headline": "Cloudflare Soars 20%, IREN Surges 15% as Earnings Beats Spark AI Cloud Rebound; CoreWeave Jumps 10%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-06T14:06:46+00:00",
-    "url": "https://247wallst.com/investing/2026/11/06/cloudflare-soars-20-iren-surges-15-as-earnings-beats-spark-ai-cloud-rebound-coreweave-jumps-10/?.tsrc=rss"
-  },
-  {
-    "id": "n2293000e04",
-    "headline": "CRWV Poised for a Q3 Earnings Beat: Buy, Sell or Hold the Stock Now?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-06T13:16:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/crwv-poised-q3-earnings-beat-131600016.html?.tsrc=rss"
-  },
-  {
-    "id": "na8bb190bea",
-    "headline": "Vistra Shares Rise 5% as Q3 Profit Surges Despite Revenue Miss, Raises 2026 Outlook",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-06T13:13:36+00:00",
-    "url": "https://investorshub.advfn.com/market-news/article/39445/vistra-shares-rise-5-as-q3-profit-surges-despite-revenue-miss-raises-2026-outlook?.tsrc=rss"
-  },
-  {
-    "id": "n3baa18f7b2",
-    "headline": "Nvidia Partner CoreWeave Ready To Report Q3 As AI Stocks Crumble; Nebius, Qualys Also Due",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-06T13:01:04+00:00",
-    "url": "https://finance.yahoo.com/m/1f843001-c94b-3d44-9a8c-33bfc2e1bc2b/nvidia-partner-coreweave.html?.tsrc=rss"
   }
 ]
