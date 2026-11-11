@@ -1,19 +1,11 @@
 {
   "ticker": "INFY",
-  "current_price": 12.445,
-  "prev_close": 12.39,
-  "day_change_pct": 0.44,
+  "current_price": 12.37,
+  "prev_close": 12.585,
+  "day_change_pct": -1.71,
   "week_52_high": 30.0,
   "week_52_low": 10.12,
   "history": [
-    {
-      "date": "2026-07-07",
-      "open": 11.28,
-      "high": 11.46,
-      "low": 11.21,
-      "close": 11.27,
-      "volume": 18506800
-    },
     {
       "date": "2026-07-08",
       "open": 11.19,
@@ -721,12 +713,20 @@
     {
       "date": "2026-11-10",
       "open": 12.33,
-      "high": 12.515,
-      "low": 12.31,
-      "close": 12.445,
-      "volume": 1464682
+      "high": 12.6,
+      "low": 12.3,
+      "close": 12.59,
+      "volume": 12062800
+    },
+    {
+      "date": "2026-11-11",
+      "open": 12.33,
+      "high": 12.395,
+      "low": 12.21,
+      "close": 12.37,
+      "volume": 421455
     }
   ],
-  "as_of": "2026-11-10T15:08:23.386206+00:00",
+  "as_of": "2026-11-11T14:39:37.128101+00:00",
   "stale": false
 }
