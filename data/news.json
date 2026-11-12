@@ -1,5 +1,195 @@
 [
   {
+    "id": "n41a7e5b02b",
+    "headline": "CoreWeave and These Other Stocks Are in the Nvidia Danger Zone",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-12T15:04:00+00:00",
+    "url": "https://finance.yahoo.com/m/132c1ddf-8ad0-330b-9318-c5c25c3e8674/coreweave-and-these-other.html?.tsrc=rss"
+  },
+  {
+    "id": "n3a749d62c6",
+    "headline": "CoreWeave slides 15% as Nvidia leadership shock rattles AI infrastructure trade",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-12T15:00:49+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-slides-15-nvidia-leadership-150049396.html?.tsrc=rss"
+  },
+  {
+    "id": "n0511a345b3",
+    "headline": "Fantastic News for CoreWeave Stock Investors",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-12T14:50:02+00:00",
+    "url": "https://www.fool.com/investing/2026/11/12/fantastic-news-for-coreweave-stock-investors/?.tsrc=rss"
+  },
+  {
+    "id": "n2a0e8c2399",
+    "headline": "Nebius Tumbles 14% on Soft Guidance and Bigger Spending Plans; CoreWeave Sinks 10%, IREN Drops 7%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-12T13:57:21+00:00",
+    "url": "https://247wallst.com/investing/2026/11/12/nebius-tumbles-14-on-soft-guidance-and-bigger-spending-plans-coreweave-sinks-10-iren-drops-7/?.tsrc=rss"
+  },
+  {
+    "id": "n1ea45a66b3",
+    "headline": "What Changed For Bloom Energy Stock, And What Did Not?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-12T13:26:20+00:00",
+    "url": "https://www.trefis.com/stock/be/articles/624560/what-changed-for-bloom-energy-stock-and-what-did-not/2026-11-12?.tsrc=rss"
+  },
+  {
+    "id": "n88dcc6ba30",
+    "headline": "Dow Jones Futures Fall, Techs Tumble As Nvidia Board Mulls Ousting CEO Jensen Huang; CoreWeave Rival Nebius Dives On Results",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-12T13:19:57+00:00",
+    "url": "https://finance.yahoo.com/m/672e6ef4-2ba3-319b-b948-a356a7f1fcbe/dow-jones-futures-fall%2C-techs.html?.tsrc=rss"
+  },
+  {
+    "id": "nc804b08c20",
+    "headline": "Vistra Is Still Down 17% This Year: Did Earnings Just Mark the Bottom?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-12T13:00:40+00:00",
+    "url": "https://www.tikr.com/blog/vistra-is-still-down-17-this-year-did-earnings-just-mark-the-bottom?ref=yahoofinance&tlnk=yf-261112-3r9gw5m6&.tsrc=rss"
+  },
+  {
+    "id": "nc480464684",
+    "headline": "XYZ Reality and McGough's New Documentary Proves Delivery Predictability on Live AI Factory Campus Build",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-12T13:00:00+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/xyz-reality-mcgoughs-documentary-proves-130000386.html?.tsrc=rss"
+  },
+  {
+    "id": "nbf74e64aa0",
+    "headline": "ETFs Are Net Sellers of Vistra (VST) on Nov. 10",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-12T11:03:21+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-vistra-vst-110321263.html?.tsrc=rss"
+  },
+  {
+    "id": "n3cfed9c4a2",
+    "headline": "Morgan Stanley Just Cut Its Applied Digital Target From $41 to $25",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-12T07:55:48+00:00",
+    "url": "https://www.tikr.com/blog/morgan-stanley-just-cut-its-applied-digital-target-from-41-to-25?ref=yahoofinance&tlnk=yf-261112-9jp376x8&.tsrc=rss"
+  },
+  {
+    "id": "nb40b77d80b",
+    "headline": "Applied Digital (APLD) Could Be 71% Undervalued After CoreWeave Lifted AI Sentiment",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-12T01:11:56+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-could-71-011156493.html?.tsrc=rss"
+  },
+  {
+    "id": "nc387676230",
+    "headline": "What Is The Biggest Threat To Vistra Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-12T00:59:44+00:00",
+    "url": "https://www.trefis.com/stock/vst/articles/624307/what-is-the-biggest-threat-to-vistra-stock/2026-11-11?.tsrc=rss"
+  },
+  {
+    "id": "n7033e0753c",
+    "headline": "What\u2019s Propelling Bloom Energy\u2019s (BE) 13% Run?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-11T23:22:01+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/propelling-bloom-energy-13-run-232201092.html?.tsrc=rss"
+  },
+  {
+    "id": "nc19188e969",
+    "headline": "Bloom Energy Just Jumped 13% After CoreWeave Calmed AI Data Center Fears. History Says What Usually Comes Next for a Stock That Halved",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-11T23:07:13+00:00",
+    "url": "https://247wallst.com/investing/2026/11/11/bloom-energy-just-jumped-13-after-coreweave-calmed-ai-data-center-fears-history-says-what-usually-comes-next-for-a-stock-that-halved/?.tsrc=rss"
+  },
+  {
+    "id": "n14d799e654",
+    "headline": "Vistra Corp. (VST) is Attracting Investor Attention: Here is What You Should Know",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-11T20:21:21+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-attracting-investor-202121257.html?.tsrc=rss"
+  },
+  {
+    "id": "n8ae17ac85f",
+    "headline": "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-11T18:53:58+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/article/bloom-energy-stock-surges-as-coreweave-earnings-spur-rally-in-power-stocks-185358201.html?.tsrc=rss"
+  },
+  {
+    "id": "n7d0e43a39e",
+    "headline": "Applied Digital Rallies 8% as CoreWeave\u2019s Results Revive the AI Data Center Trade; Cipher Digital Jumps 10%, IREN Surges 9%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-11T16:56:16+00:00",
+    "url": "https://247wallst.com/investing/2026/11/11/applied-digital-rallies-8-as-coreweaves-results-revive-the-ai-data-center-trade-cipher-digital-jumps-10-iren-surges-9/?.tsrc=rss"
+  },
+  {
+    "id": "n1fd9fabb95",
+    "headline": "Here's Why Bloom Energy Stock Popped Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-11T16:52:52+00:00",
+    "url": "https://www.fool.com/investing/2026/11/11/here-s-why-bloom-energy-stock-popped-today/?.tsrc=rss"
+  },
+  {
+    "id": "n827940fd73",
+    "headline": "Vistra Has Lost 29% in a Year. CIBC Cut Its Target but Still Sees 30% Upside",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-11T15:37:40+00:00",
+    "url": "https://www.tikr.com/blog/vistra-has-lost-29-in-a-year-cibc-cut-its-target-but-still-sees-30-upside?ref=yahoofinance&tlnk=yf-261111-mwxgxv6h&.tsrc=rss"
+  },
+  {
     "id": "na6349fd3bd",
     "headline": "Why CoreWeave Sparked 'Sigh Of Relief In The AI Market'",
     "source": "Yahoo Finance",
@@ -308,195 +498,5 @@
     ],
     "ts": "2026-11-09T15:20:00+00:00",
     "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-slides-37-ytd-152000407.html?.tsrc=rss"
-  },
-  {
-    "id": "na3a670261d",
-    "headline": "Morgan Stanley raises Riot target to $41, cuts Cipher, Hut 8, Galaxy and Applied Digital",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-09T15:08:04+00:00",
-    "url": "https://blockspace.media/insight/morgan-stanley-raises-riot-target/?.tsrc=rss"
-  },
-  {
-    "id": "n30d9423000",
-    "headline": "Jensen Huang under the microscope, next moves for investors in the AI trade",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-09T15:04:34+00:00",
-    "url": "https://finance.yahoo.com/video/jensen-huang-under-the-microscope-next-moves-for-investors-in-the-ai-trade-150434257.html?.tsrc=rss"
-  },
-  {
-    "id": "n67cddb3415",
-    "headline": "Stocks post their best week since April 2025. Can the rally continue?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-09T15:04:22+00:00",
-    "url": "https://finance.yahoo.com/video/stocks-post-their-best-week-since-april-2025-can-the-rally-continue-150422490.html?.tsrc=rss"
-  },
-  {
-    "id": "ne8116f4fd9",
-    "headline": "IREN Falls 5% After Friday\u2019s 20% Surge as AI Lending Worries Mount; TeraWulf and Applied Digital Rise 2%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-09T14:53:04+00:00",
-    "url": "https://247wallst.com/investing/2026/11/09/iren-falls-5-after-fridays-20-surge-as-ai-lending-worries-mount-terawulf-and-applied-digital-rise-2/?.tsrc=rss"
-  },
-  {
-    "id": "n2f18bead42",
-    "headline": "Bloom Energy Jumps 8%, FuelCell Energy Rises 3% as Fuel Cell Stocks Rebound; Plug Power Holds Steady Ahead of Earnings",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-09T14:49:47+00:00",
-    "url": "https://247wallst.com/investing/2026/11/09/bloom-energy-jumps-8-fuelcell-energy-rises-3-as-fuel-cell-stocks-rebound-plug-power-holds-steady-ahead-of-earnings/?.tsrc=rss"
-  },
-  {
-    "id": "ne2ba662f12",
-    "headline": "CoreWeave Signs Multi-Year Agreement to Support Wayve\u2019s Autonomous Driving AI Development",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-09T14:47:23+00:00",
-    "url": "https://investorshub.advfn.com/market-news/article/39561/coreweave-signs-multi-year-agreement-to-support-wayves-autonomous-driving-ai-development?.tsrc=rss"
-  },
-  {
-    "id": "n37eb54ff18",
-    "headline": "Solaris Energy Infrastructure, Inc. (SEI) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-11-09T13:30:03+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/solaris-energy-infrastructure-inc-sei-133003129.html?.tsrc=rss"
-  },
-  {
-    "id": "n8da629a479",
-    "headline": "The On-Site Power Duel: Bloom Energy vs. GE Vernova",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-09T12:15:09+00:00",
-    "url": "https://247wallst.com/investing/2026/11/09/the-on-site-power-duel-bloom-energy-vs-ge-vernova/?.tsrc=rss"
-  },
-  {
-    "id": "n78137971cf",
-    "headline": "Zacks Investment Ideas feature highlights: Bloom Energy, Skyworks Solutions and Quanta Services",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-09T09:14:00+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-091400948.html?.tsrc=rss"
-  },
-  {
-    "id": "n009fff3b28",
-    "headline": "Vistra Keeps Sliding: Why BMO Sees 66% Upside",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-09T07:01:02+00:00",
-    "url": "https://www.tikr.com/blog/vistra-vst-stock-bmo-188-price-target-upside?ref=yahoofinance&tlnk=yf-261109-qf26c9f7&.tsrc=rss"
-  },
-  {
-    "id": "nf6130af296",
-    "headline": "The top 5 analyst questions from Solaris Energy Infrastructure\u2019s Q3 2026 earnings call",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-11-09T02:29:36+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-solaris-022936942.html?.tsrc=rss"
-  },
-  {
-    "id": "nf76d33be82",
-    "headline": "Bloom Energy Stock Fell 16% on the Same Day 2 Giant Data Center Deals Named It. Is It a Buy?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-09T00:36:02+00:00",
-    "url": "https://www.fool.com/investing/2026/11/08/bloom-energy-stock-fell-16-on-the-same-day-2-giant-data-center-deals-named-it-is-it-a-buy/?.tsrc=rss"
-  },
-  {
-    "id": "n53911a4d27",
-    "headline": "Not Bloom Energy. Not Vistra. This AI Power Stock Just Posted a 96% Jump in Orders.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-08T18:05:00+00:00",
-    "url": "https://www.fool.com/investing/2026/11/08/not-bloom-energy-not-vistra-this-ai-power-stock/?.tsrc=rss"
-  },
-  {
-    "id": "n84080da8d4",
-    "headline": "It\u2019s Game Over for DJT Stock as Trump Becomes a Lame-Duck President Following Midterm Losses",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-08T13:27:32+00:00",
-    "url": "https://www.barchart.com/story/news/8724309/its-game-over-for-djt-stock-as-trump-becomes-a-lame-duck-president-following-midterm-losses?.tsrc=rss"
-  },
-  {
-    "id": "ned9a8706af",
-    "headline": "What Solaris Energy Infrastructure (SEI) Said on Its Q3 Earnings Call",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-11-08T10:14:10+00:00",
-    "url": "https://www.marketbeat.com/instant-alerts/transcript-what-solaris-energy-infrastructure-sei-said-on-its-q3-earnings-call-2026-11-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n9c83b84f4d",
-    "headline": "Vistra Q3 Earnings Call Highlights",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-08T06:14:09+00:00",
-    "url": "https://www.marketbeat.com/instant-alerts/transcript-vistra-q3-earnings-call-highlights-2026-11-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss"
-  },
-  {
-    "id": "n48c3322b55",
-    "headline": "CoreWeave Makes Big Promise To Gina Hinojosa As Data Center Backlash Intensifies \u2014 Says Communities Should Get Benefits Without \u2018Shouldering Costs\u2019",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-08T04:58:09+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/coreweave-promise-texas-governor-elect-gina-hinojosa-letter-ai-data-center/cNGoAkYR9Ip?.tsrc=rss"
-  },
-  {
-    "id": "n88e4db0c01",
-    "headline": "Texas Data Center Freeze: Is Vistra a Better Buy Than Vertiv?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-07T23:30:26+00:00",
-    "url": "https://247wallst.com/investing/2026/11/07/texas-data-center-freeze-is-vistra-a-better-buy-than-vertiv/?.tsrc=rss"
-  },
-  {
-    "id": "nf1d36f70ee",
-    "headline": "Is Applied Digital (APLD) Stock a Value Trap or a Golden Multibagger Buying Opportunity at 52-Week Lows?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-07T23:28:08+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-stock-value-232808656.html?.tsrc=rss"
   }
 ]
