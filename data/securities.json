@@ -42,7 +42,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 875905024000,
-    "pe_ratio": 125.0726,
+    "pe_ratio": 114.11539,
     "description": "Advanced Micro Devices, Inc. operates as a semiconductor company internationally. It operates in three segments: Data Center, Client and Gaming, and Embedded. The company offers artificial intelligence (AI) accelerators, microprocessors, and graphics processing units (GPUs) as standalone devices or as incorporated into accelerated processing units, chipsets, and data center and professional GPUs; and embedded processors and semi-custom system-on-chip (SoC) products, microprocessor and SoC development services and technology, data processing units, field programmable gate arrays (FPGA), system on modules, AI network interface cards, and adaptive SoC products. It provides processors under the AMD Ryzen, AMD Ryzen AI, AMD Ryzen PRO, AMD Ryzen Threadripper, AMD Ryzen Threadripper PRO, AMD Athlon, and AMD PRO A-Series brands; graphics under the AMD Radeon graphics and AMD Embedded Radeon graphics; professional graphics under the AMD Radeon Pro graphics brand; and AI and general-purpose compute infrastructure for hyperscale providers. The company offers data center graphics under the AMD Instinct accelerators and Radeon PRO V-series brands; server microprocessors under the AMD EPYC brand",
     "industry": "Semiconductors",
     "website": "https://www.amd.com"
@@ -82,7 +82,7 @@
     "exchange": "NYQ",
     "sector": "Industrials",
     "market_cap": 56763133952,
-    "pe_ratio": 122.28662,
+    "pe_ratio": 116.35758,
     "description": "Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide fuel cell systems for on-site power generation in the United States and internationally. It offers Bloom Energy Server, an energy server platform to convert fuel, such as natural gas, biogas, hydrogen, or a blend of these fuels, into electricity through a non-combustion electrochemical process. The company also provides Bloom Electrolyzer for producing hydrogen. It sells its products through direct and indirect sales channels to utilities, data centers, retail, healthcare, education, telecom, manufacturing, and other industries. The company was formerly known as Ion America Corp. and changed its name to Bloom Energy Corporation in 2006. Bloom Energy Corporation was incorporated in 2001 and is headquartered in San Jose, California.",
     "industry": "Electrical Equipment & Parts",
     "website": "https://www.bloomenergy.com"
@@ -120,7 +120,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 29546958848,
-    "pe_ratio": -31.604496,
+    "pe_ratio": -29.96988,
     "description": "CoreWeave, Inc. operates as a cloud infrastructure technology company in the United States, Denmark, Middle East and Asia Pacific. The company offers CoreWeave Cloud platform that comprises proprietary software and cloud services that deliver the automation and efficiency needed to manage complex artificial intelligence (AI) infrastructure at scale. It also offers data and storage solutions, such as Local Object Transport Accelerator; infrastructure control solutions, including CoreWeave Kubernetes service; mission control services, including node, rack, and fleet lifecycle management; model and agent development tools comprising Weights & Biases, an AI developer platform; and runtime acceleration. In addition, the company offers graphics processing unit compute, CPU compute, networking services, managed services, and virtual and bare metal servers. Its services also include visual effects rendering, machine learning, pixel streaming, and batch processing. It has a collaboration with AdaniConneX to operate a data center in India. The company was formerly known as Atlantic Crypto Corporation and changed its name to CoreWeave, Inc. in December 2019. CoreWeave, Inc. was incorporated i",
     "industry": "Software - Infrastructure",
     "website": "https://www.coreweave.com"
@@ -140,7 +140,7 @@
     "exchange": "NYQ",
     "sector": "Industrials",
     "market_cap": 77809164288,
-    "pe_ratio": 39.160854,
+    "pe_ratio": 37.770096,
     "description": "Vertiv Holdings Co designs, manufactures, and services critical digital infrastructure technologies and life cycle services for data centers, communication networks, and commercial and industrial environments in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company offers AC and DC power management products, low/medium voltage switchgear, busbar, thermal management products, air cooled and liquid cooled thermal management products, integrated modular solutions, racks, single phase UPS, rack power distribution, rack thermal systems, configurable integrated solutions, energy storage solutions, hardware, and software infrastructure that are integral to the technologies used for various services, including artificial intelligence, e-commerce, online banking, file sharing, video on-demand, energy storage, wireless communications, Internet of Things, and online gaming. It also provides lifecycle management services, predictive analytics, and professional services for deploying, maintaining, and optimizing its products and their related systems; and preventative maintenance, acceptance testing, engineering and consulting, fluid management, performance assessment",
     "industry": "Electrical Equipment & Parts",
     "website": "https://www.vertiv.com"
@@ -260,7 +260,7 @@
     "exchange": "NMS",
     "sector": "Technology",
     "market_cap": 141047300096,
-    "pe_ratio": 54.05517,
+    "pe_ratio": 51.56579,
     "description": "Marvell Technology, Inc., together with its subsidiaries, provides data infrastructure semiconductor solutions and spanning the data center core to network edge in the United States, Argentina, China, India, Israel, Japan, Singapore, South Korea, Taiwan, Vietnam, and internationally. The company develops and scales system-on-a-chip architectures, integrating analog, mixed-signal, and digital signal processing functionality. It offers a portfolio of ethernet solutions, including spanning controllers, network adapters, physical transceivers, and switches; single or multiple core processors; and custom application specific integrated circuits, interconnects, fibre channel adapters, and processors. The company also provides interconnect products, including pulse amplitude modulation, coherent and coherent-lite digital signal processors (DSPs), laser drivers, trans-impedance amplifiers, silicon photonics, co-packaged optics, linear pluggable optics chipsets, data center interconnect, active electrical cable DSPs and peripheral component interconnect express retimer solutions; fibre channel products comprising host bus adapters and controllers for server and storage system connectivity; ",
     "industry": "Semiconductors",
     "website": "https://www.marvell.com"
@@ -270,7 +270,7 @@
     "exchange": "NCM",
     "sector": "Technology",
     "market_cap": 427063520,
-    "pe_ratio": 21.778292,
+    "pe_ratio": 65.82897,
     "description": "WhiteFiber, Inc. provides artificial intelligence (AI) infrastructure solutions. It operates through two segments, cloud services and colocation services. The company designs, develops, and operates data centers. It also offers hosting, colocation, and cloud-based high-performance computing (HPC) graphics processing unit (GPU) services. In addition, the company provides data center infrastructure and cloud services for enterprises, research institutions, and AI and machine learning (ML) driven businesses. Further, it serves healthcare, finance, and technologies; and GPU cloud customers. The company was formerly known as Celer, Inc. and changed its name to WhiteFiber, Inc. in October 2024. The company was incorporated in 2024 and is headquartered in New York, New York. WhiteFiber, Inc. is a subsidiary of Bit Digital, Inc.",
     "industry": "Information Technology Services",
     "website": "https://www.whitefiber.com"
@@ -282,7 +282,7 @@
     "industry": "Utilities - Independent Power Producers",
     "website": "https://www.constellationenergy.com",
     "market_cap": 98520711168,
-    "pe_ratio": 22.706646,
+    "pe_ratio": 22.524118,
     "description": "Constellation Energy Corporation produces and sells energy products and services in the United States. The company operates through five segments: Mid-Atlantic, Midwest, New York, ERCOT, and Other Power Regions. It offers electricity, natural gas, energy-related products, and sustainable solutions. The company has approximately 31,676 megawatts of generating capacity consisting of nuclear, wind, solar, natural gas, and hydroelectric assets. It serves distribution utilities, municipalities, cooperatives, and commercial, industrial, public sector, and residential customers. The company was incorporated in 2021 and is headquartered in Baltimore, Maryland."
   },
   "MOD": {
@@ -302,7 +302,7 @@
     "industry": "Software - Application",
     "website": "https://www.bitdeer.com",
     "market_cap": 1546690944,
-    "pe_ratio": -15.033557,
+    "pe_ratio": -10.135746,
     "description": "Bitdeer Technologies Group operates as a technology company for blockchain and high-performance computing (HPC) in Singapore, the United States, Bhutan, Norway, Finland, Ethiopia, Canada, and internationally. The company offers hash rate sharing solutions, including cloud hash rate and hash-rate subscription plans; and a one-stop mining rig hosting solution comprising deployment, maintenance, and management services for cryptocurrency mining; as well as mining cryptocurrencies for its own account. It also operates mining datacenters to generate hash rates; handles various processes involved in computing, such as equipment procurement, transport logistics, datacenter design and construction, equipment management, and daily operations; and sells mining rigs. In addition, the company offers Minerplus, a software platform that offers software support to reduce time needed for daily maintenance and mining rig upgrade; AI infrastructure and AI cloud business to offer advanced AI cloud capabilities, HPC services and colocation services; and mining solutions under the SEALMINER brand. The company is headquartered in Singapore."
   },
   "CIFR": {
@@ -352,7 +352,7 @@
     "industry": "Computer Hardware",
     "website": "https://www.seagate.com",
     "market_cap": 121274826752,
-    "pe_ratio": 28.58712,
+    "pe_ratio": 27.702673,
     "description": "Seagate Technology Holdings plc engages in providing data storage solutions in Singapore, the United States, the Netherlands, and internationally. The company offers External and internal hard drives; external and internal solid-state drives (SSDs); enterprise hard drives and SSDs; data storage systems; network attached storage (NAS) hard drives; video and analytics hard drives; and hyperscale and cloud solution. It offers its products for Healthcare, Media & Entertainment, Surveillance & Security, and telecommunication industry. The company sells its products primarily to original equipment manufacturers, distributors, and retailers. The company was founded in 1978 and is based in Singapore."
   },
   "WDC": {
