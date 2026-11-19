@@ -497,9 +497,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-17T11:33:00.964Z",
-    "windowStart": "2026-11-17T00:00:00.000Z",
-    "windowEnd": "2027-05-17T00:00:00.000Z",
+    "generatedAt": "2026-11-19T11:14:33.994Z",
+    "windowStart": "2026-11-19T00:00:00.000Z",
+    "windowEnd": "2027-05-19T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -525,6 +525,12 @@
     ],
     "usedFallback": false,
     "expectedSeries": [
+      {
+        "name": "ICC Women's Emerging Nations Trophy, 2026",
+        "startUtc": "2026-11-12T00:00:00.000Z",
+        "endUtc": "2026-11-25T00:00:00.000Z",
+        "sourceUrl": "https://www.espncricinfo.com/search?query=ICC%20Women's%20Emerging%20Nations%20Trophy%2C%202026"
+      },
       {
         "name": "England Women U19 tour of India 2026",
         "startUtc": "2026-11-26T00:00:00.000Z",
