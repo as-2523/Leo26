@@ -1,19 +1,11 @@
 {
   "ticker": "GLXY",
-  "current_price": 13.2,
-  "prev_close": 13.32,
-  "day_change_pct": -0.9,
+  "current_price": 11.455,
+  "prev_close": 12.32,
+  "day_change_pct": -7.02,
   "week_52_high": 36.1,
-  "week_52_low": 11.78,
+  "week_52_low": 11.33,
   "history": [
-    {
-      "date": "2026-07-16",
-      "open": 23.76,
-      "high": 23.913,
-      "low": 22.26,
-      "close": 22.31,
-      "volume": 5389400
-    },
     {
       "date": "2026-07-17",
       "open": 21.49,
@@ -716,17 +708,25 @@
       "high": 13.75,
       "low": 13.0,
       "close": 13.32,
-      "volume": 8425900
+      "volume": 8447200
     },
     {
       "date": "2026-11-19",
-      "open": 14.18,
+      "open": 14.16,
       "high": 14.26,
-      "low": 12.94,
-      "close": 13.2,
-      "volume": 1728056
+      "low": 12.275,
+      "close": 12.32,
+      "volume": 9824900
+    },
+    {
+      "date": "2026-11-20",
+      "open": 12.0,
+      "high": 12.42,
+      "low": 11.33,
+      "close": 11.455,
+      "volume": 2992407
     }
   ],
-  "as_of": "2026-11-19T15:58:30.635807+00:00",
+  "as_of": "2026-11-20T15:41:21.819582+00:00",
   "stale": false
 }

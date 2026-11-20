@@ -1,5 +1,125 @@
 [
   {
+    "id": "n29840d0683",
+    "headline": "Cipher Digital Sinks 5%, CoreWeave Down 7% as Anthropic\u2019s Debut Fails to Stop AI Selloff",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-20T14:39:49+00:00",
+    "url": "https://www.tikr.com/blog/cipher-digital-sinks-5-coreweave-down-7-as-anthropics-debut-fails-to-stop-ai-selloff?ref=yahoofinance&tlnk=yf-261120-46j662p9&.tsrc=rss"
+  },
+  {
+    "id": "naeae97b54e",
+    "headline": "Bloom Energy Is Down 50% From Its High. Should You Buy the Dip?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-20T14:35:00+00:00",
+    "url": "https://www.fool.com/investing/2026/11/20/bloom-energy-down-50-from-high-should-you-buy/?.tsrc=rss"
+  },
+  {
+    "id": "n330ff90a4c",
+    "headline": "CoreWeave\u2019s Founders Sold $3.3 Billion of Stock. One Is Now Buying the Bonds",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-20T13:53:35+00:00",
+    "url": "https://247wallst.com/investing/2026/11/20/coreweaves-founders-sold-3-3-billion-of-stock-one-is-now-buying-the-bonds/?.tsrc=rss"
+  },
+  {
+    "id": "n3a3839bed7",
+    "headline": "The Zacks Analyst Blog Highlights Nebius, CoreWeave, Microsoft and Amazon",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-20T13:45:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nebius-134500953.html?.tsrc=rss"
+  },
+  {
+    "id": "nf2451059e3",
+    "headline": "Zacks Investment Ideas feature highlights:  Anthropic, SpaceX, Amazon, Vertiv and Bloom Energy",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-20T13:12:00+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-131200144.html?.tsrc=rss"
+  },
+  {
+    "id": "ncb0ba5e1fd",
+    "headline": "Bloom Energy Keeps Sliding: Why BMO Sees 37% Upside Anyway",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-20T12:52:19+00:00",
+    "url": "https://www.tikr.com/blog/bloom-energy-keeps-sliding-why-bmo-sees-37-upside-anyway?ref=yahoofinance&tlnk=yf-261120-mrvfvmmr&.tsrc=rss"
+  },
+  {
+    "id": "ne280dda736",
+    "headline": "This Top AI Energy Supply Stock Is Getting Torched. Why Fortune Favors the Bold.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-20T12:44:00+00:00",
+    "url": "https://finance.yahoo.com/m/ad356d0b-6800-3a28-a84a-87bdc8bfa9df/this-top-ai-energy-supply.html?.tsrc=rss"
+  },
+  {
+    "id": "n1fad728b64",
+    "headline": "Jensen Huang Pledges $350 Million to Nvidia-Backed CoreWeave",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-20T11:58:55+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-pledges-350-million-115855482.html?.tsrc=rss"
+  },
+  {
+    "id": "n23666247d1",
+    "headline": "Jensen Huang's $350 Million CoreWeave Deal Raises Questions About AI Financing",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-20T11:36:03+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-gains-350-million-computing-113603215.html?.tsrc=rss"
+  },
+  {
+    "id": "n7d6bbbb220",
+    "headline": "Has Buying Bloom Energy Stock's Dips Paid Off?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-20T11:22:53+00:00",
+    "url": "https://www.trefis.com/stock/be/articles/627181/has-buying-bloom-energy-stocks-dips-paid-off/2026-11-20?.tsrc=rss"
+  },
+  {
+    "id": "nddea9c4939",
+    "headline": "Applied Digital Fell Nearly 71%: Trim Or Add?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-20T11:18:34+00:00",
+    "url": "https://www.trefis.com/stock/apld/articles/627217/applied-digital-fell-nearly-71-trim-or-add/2026-11-20?.tsrc=rss"
+  },
+  {
+    "id": "n8f0cdde215",
+    "headline": "Could Applied Digital Actually Climb 265%? Or Is B. Riley Totally Wrong?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-20T09:43:19+00:00",
+    "url": "https://www.tikr.com/blog/could-applied-digital-actually-climb-265-or-is-b-riley-totally-wrong?ref=yahoofinance&tlnk=yf-261120-242qmwqj&.tsrc=rss"
+  },
+  {
     "id": "n32805463f6",
     "headline": "Opinion: Trump May Have Finally Killed the AI Trade",
     "source": "Yahoo Finance",
@@ -378,125 +498,5 @@
     ],
     "ts": "2026-11-17T10:38:55+00:00",
     "url": "https://www.trefis.com/stock/be/articles/625601/is-bloom-energy-worth-177-after-three-guidance-raises/2026-11-17?.tsrc=rss"
-  },
-  {
-    "id": "nfa5a95f15c",
-    "headline": "What Mattered Most In Vistra's Latest Quarter?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-17T01:07:49+00:00",
-    "url": "https://www.trefis.com/stock/vst/articles/625175/what-mattered-most-in-vistras-latest-quarter/2026-11-16?.tsrc=rss"
-  },
-  {
-    "id": "nc1bef9d175",
-    "headline": "Fuel Cell Market Seen at $18 Billion by 2030 as Quarterly Results Diverge",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-17T00:08:00+00:00",
-    "url": "https://finance.yahoo.com/news/fuel-cell-market-seen-18-000800746.html?.tsrc=rss"
-  },
-  {
-    "id": "n2b552be7ce",
-    "headline": "Here Is What Most Retail Investors Miss About Bloom Energy Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-16T22:56:37+00:00",
-    "url": "https://www.trefis.com/stock/be/articles/625233/here-is-what-most-retail-investors-miss-about-bloom-energy-stock/2026-11-16?.tsrc=rss"
-  },
-  {
-    "id": "n89d1afb238",
-    "headline": "Bloom Energy Is Down 26% in a Month. What Will It Take to Get BE Stock Back to $250?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-16T20:11:07+00:00",
-    "url": "https://247wallst.com/investing/2026/11/16/bloom-energy-is-down-26-in-a-month-what-will-it-take-to-get-be-stock-back-to-250/?.tsrc=rss"
-  },
-  {
-    "id": "nc8104d9321",
-    "headline": "3 Reasons Growth Investors Will Love Solaris Energy Infrastructure, Inc. (SEI)",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-11-16T16:45:02+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-growth-investors-love-164502045.html?.tsrc=rss"
-  },
-  {
-    "id": "n60056ac751",
-    "headline": "TeraWulf Sinks 9% Despite Kentucky Power Deal for Muskie Data Campus; Applied Digital Tumbles 10%, Cipher Digital Drops 7%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-16T15:55:06+00:00",
-    "url": "https://247wallst.com/investing/2026/11/16/terawulf-sinks-9-despite-kentucky-power-deal-for-muskie-data-campus-applied-digital-tumbles-10-cipher-digital-drops-7/?.tsrc=rss"
-  },
-  {
-    "id": "nb423b59463",
-    "headline": "A $4.8 Billion Fund Dumps These 3 Stocks",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-16T14:51:06+00:00",
-    "url": "https://www.tikr.com/blog/a-4-8-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261116-hxxp8x5m&.tsrc=rss"
-  },
-  {
-    "id": "n1baa492903",
-    "headline": "Steve Eisman Says Slower AI Spending Could Help Big Tech and Hurt CoreWeave",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-16T14:30:01+00:00",
-    "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63291088/coreweave-ai-slowdown?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss"
-  },
-  {
-    "id": "n06ca1272b3",
-    "headline": "Does Solaris Energy Infrastructure, Inc. (SEI) Have the Potential to Rally 59.55% as Wall Street Analysts Expect?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "SEI"
-    ],
-    "ts": "2026-11-16T13:55:04+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/does-solaris-energy-infrastructure-inc-135504351.html?.tsrc=rss"
-  },
-  {
-    "id": "n8edd4ae0b1",
-    "headline": "CoreWeave Shed 50% Of Its Value Over 3 Months: One Noted Analyst Predicts Prices Triple, Several Others Close Behind",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-16T12:15:10+00:00",
-    "url": "https://247wallst.com/investing/2026/11/16/coreweave-shed-50-of-its-value-over-3-months-one-noted-analyst-predicts-prices-triple-several-others-close-behind/?.tsrc=rss"
-  },
-  {
-    "id": "n4423f43f88",
-    "headline": "\u201cYou Can\u2019t Sell a Gigawatt of Compute as Inference.\u201d That\u2019s a Problem for CoreWeave and Nebius",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-16T11:50:33+00:00",
-    "url": "https://www.tikr.com/blog/you-cant-sell-a-gigawatt-of-compute-as-inference-thats-a-problem-for-coreweave-and-nebius?ref=yahoofinance&tlnk=yf-261116-r7c2hjcr&.tsrc=rss"
-  },
-  {
-    "id": "n0f3ebb79b3",
-    "headline": "What Sent CoreWeave Shares Lower?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-16T11:42:11+00:00",
-    "url": "https://www.trefis.com/stock/crwv/articles/625290/what-sent-coreweave-shares-lower/2026-11-16?.tsrc=rss"
   }
 ]
