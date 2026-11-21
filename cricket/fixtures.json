@@ -1,18 +1,33 @@
 {
   "fixtures": [
     {
-      "id": "fx-6dd9nq",
-      "teamId": "india-men",
-      "teamName": "India Men",
-      "opponent": "New Zealand",
-      "startTimeUtc": "2026-11-19T22:00:00.000Z",
+      "id": "fx-l64u8r",
+      "teamId": "india-a-men",
+      "teamName": "India A Men",
+      "opponent": "Pakistan A",
+      "startTimeUtc": "2026-11-22T10:00:00.000Z",
       "hasStartTime": true,
-      "format": "Other",
-      "formatLabel": "Unknown",
-      "series": "India tour of New Zealand 2026",
-      "seriesStartUtc": "2026-10-22T00:00:00.000Z",
-      "seriesEndUtc": "2026-12-01T00:00:00.000Z",
-      "venue": "Basin Reserve, Wellington",
+      "format": "ODI",
+      "formatLabel": "odi",
+      "series": "ACC Men's Asia Cup Rising Stars 2026",
+      "seriesStartUtc": "2026-11-21T00:00:00.000Z",
+      "seriesEndUtc": "2026-11-29T00:00:00.000Z",
+      "venue": "West End Park International Cricket Stadium, Doha",
+      "source": "cricapi"
+    },
+    {
+      "id": "fx-ijyz16",
+      "teamId": "india-a-men",
+      "teamName": "India A Men",
+      "opponent": "United Arab Emirates",
+      "startTimeUtc": "2026-11-24T06:00:00.000Z",
+      "hasStartTime": true,
+      "format": "ODI",
+      "formatLabel": "odi",
+      "series": "ACC Men's Asia Cup Rising Stars 2026",
+      "seriesStartUtc": "2026-11-21T00:00:00.000Z",
+      "seriesEndUtc": "2026-11-29T00:00:00.000Z",
+      "venue": "University of Doha for Science and Technology, Doha",
       "source": "cricapi"
     },
     {
@@ -497,9 +512,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-19T11:14:33.994Z",
-    "windowStart": "2026-11-19T00:00:00.000Z",
-    "windowEnd": "2027-05-19T00:00:00.000Z",
+    "generatedAt": "2026-11-21T10:44:00.620Z",
+    "windowStart": "2026-11-21T00:00:00.000Z",
+    "windowEnd": "2027-05-21T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -515,7 +530,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 33
+        "count": 36
       },
       {
         "id": "manual",
