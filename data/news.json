@@ -1,5 +1,125 @@
 [
   {
+    "id": "n2ccdf98ecf",
+    "headline": "Nvidia Is CoreWeave\u2019s \u201cKey Sole Supplier\u201d and $6.3 Billion Backstop. Congress Is Now Looking",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-21T12:49:57+00:00",
+    "url": "https://www.tikr.com/blog/nvidia-is-coreweaves-key-sole-supplier-and-6-3-billion-backstop-congress-is-now-looking?ref=yahoofinance&tlnk=yf-261121-4qc52p65&.tsrc=rss"
+  },
+  {
+    "id": "n9b87a2c6cd",
+    "headline": "Wells Fargo\u2019s $115 Target Says CoreWeave\u2019s Selloff Went Too Far",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-21T10:33:56+00:00",
+    "url": "https://www.tikr.com/blog/wells-fargos-115-target-says-coreweaves-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261121-qw8gqj2h&.tsrc=rss"
+  },
+  {
+    "id": "ndef19ecbd7",
+    "headline": "3 Growth Stocks To Watch In November 2026",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-21T08:13:17+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-watch-november-081317594.html?.tsrc=rss"
+  },
+  {
+    "id": "ne21d68b901",
+    "headline": "Has Buying The Dips In Vistra Stock Paid Off?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-21T06:32:47+00:00",
+    "url": "https://www.trefis.com/stock/vst/articles/627175/has-buying-the-dips-in-vistra-stock-paid-off/2026-11-20?.tsrc=rss"
+  },
+  {
+    "id": "n18446c187a",
+    "headline": "Is CoreWeave (CRWV) Fairly Valued After Fresh MLPerf Results?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-21T03:16:12+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-fairly-valued-fresh-031612848.html?.tsrc=rss"
+  },
+  {
+    "id": "n0f6d6ea198",
+    "headline": "Bloom Energy Sinks 26% in a Week, Vertiv Down 18%, as Nvidia\u2019s Turmoil Hits AI Power Stocks. Time to Buy?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-21T02:48:01+00:00",
+    "url": "https://www.tikr.com/blog/bloom-energy-sinks-26-in-a-week-vertiv-down-18-as-nvidias-turmoil-hits-ai-power-stocks-time-to-buy?ref=yahoofinance&tlnk=yf-261121-fv95h3w4&.tsrc=rss"
+  },
+  {
+    "id": "n7c7b30c7f4",
+    "headline": "CoreWeave Finds AI Demand Outside the Commercial Market",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-20T21:39:02+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-finds-ai-demand-outside-213902215.html?.tsrc=rss"
+  },
+  {
+    "id": "n5ca86900fa",
+    "headline": "Bloom Energy Supports Lincoln Fire & Rescue Ahead of Ohio State-Nebraska Matchup",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-20T21:37:00+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/bloom-energy-supports-lincoln-fire-213700997.html?.tsrc=rss"
+  },
+  {
+    "id": "n6acf0d35eb",
+    "headline": "Where Will Bloom Energy Stock Be in 5 Years After More Than Doubling Its Revenue in 2026?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-20T18:23:02+00:00",
+    "url": "https://www.fool.com/investing/2026/11/20/where-will-bloom-energy-stock-be-in-5-years-after-more-than-doubling-its-revenue-in-2026/?.tsrc=rss"
+  },
+  {
+    "id": "n04b8ed54d3",
+    "headline": "This Top AI Energy Supply Stock Is Down for a 7th Day. Why Fortune Favors the Bold.",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-20T18:23:00+00:00",
+    "url": "https://finance.yahoo.com/m/ad356d0b-6800-3a28-a84a-87bdc8bfa9df/this-top-ai-energy-supply.html?.tsrc=rss"
+  },
+  {
+    "id": "n3217dbc2d7",
+    "headline": "CoreWeave Stocks Fall 6.10% After Co-Founder's $30 Million Bond Bet Fails to Hold Rally",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-20T17:51:47+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stocks-fall-6-10-175147592.html?.tsrc=rss"
+  },
+  {
+    "id": "n87ea01651e",
+    "headline": "Applied Digital and Core Scientific Sink 12% as AI Infrastructure Sell-Off Deepens; TeraWulf Tumbles 10%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-20T15:56:57+00:00",
+    "url": "https://247wallst.com/investing/2026/11/20/applied-digital-and-core-scientific-sink-12-as-ai-infrastructure-sell-off-deepens-terawulf-tumbles-10/?.tsrc=rss"
+  },
+  {
     "id": "n29840d0683",
     "headline": "Cipher Digital Sinks 5%, CoreWeave Down 7% as Anthropic\u2019s Debut Fails to Stop AI Selloff",
     "source": "Yahoo Finance",
@@ -378,125 +498,5 @@
     ],
     "ts": "2026-11-17T20:50:02+00:00",
     "url": "https://www.fool.com/coverage/better-buy/2026/11/17/nextera-energy-vs-vistra-which-utilities-stock-is-a-better-buy-for-2027/?.tsrc=rss"
-  },
-  {
-    "id": "n530f2c6910",
-    "headline": "Vistra Is Down 41% From Its High. History Suggests This Is What Happens Next.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-17T19:22:02+00:00",
-    "url": "https://www.fool.com/investing/2026/11/17/vistra-is-down-41-from-its-high-history-suggests-this-is-what-happens-next/?.tsrc=rss"
-  },
-  {
-    "id": "nef615ae0a8",
-    "headline": "Signal: Buy the Dip on Bloom Energy Stock",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-17T19:03:54+00:00",
-    "url": "https://finance.yahoo.com/markets/options/articles/signal-buy-dip-bloom-energy-190354452.html?.tsrc=rss"
-  },
-  {
-    "id": "n6aafa8db33",
-    "headline": "Applied Digital (APLD) Stock Looks Pricey After Its 232% Three Year Run",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-17T16:12:46+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-stock-looks-161246659.html?.tsrc=rss"
-  },
-  {
-    "id": "n2cf54d6ca9",
-    "headline": "David Tepper and 33 Other Funds Bought Software Stocks. CoreWeave Is Down 43% Since. Time to Buy?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-17T14:48:19+00:00",
-    "url": "https://www.tikr.com/blog/david-tepper-and-33-other-funds-bought-software-stocks-coreweave-is-down-43-since-time-to-buy?ref=yahoofinance&tlnk=yf-261117-r3fmq2wq&.tsrc=rss"
-  },
-  {
-    "id": "n6e4886e79f",
-    "headline": "What Would Higher Interest Rates Do To CoreWeave Stock?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-17T14:40:52+00:00",
-    "url": "https://www.trefis.com/stock/crwv/articles/625748/what-would-higher-interest-rates-do-to-coreweave-stock/2026-11-17?.tsrc=rss"
-  },
-  {
-    "id": "n75283145f7",
-    "headline": "Is Applied Digital Spending Too Much?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-17T14:40:50+00:00",
-    "url": "https://www.trefis.com/stock/apld/articles/625763/is-applied-digital-spending-too-much/2026-11-17?.tsrc=rss"
-  },
-  {
-    "id": "n2a74ceeef1",
-    "headline": "Coherent Jumps 8%, Applied Optoelectronics Climbs 7% as U.S. Pushes Ahead With Curbs on Chinese Optical Gear; Lumentum Gains 4%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-17T14:17:51+00:00",
-    "url": "https://247wallst.com/investing/2026/11/17/coherent-jumps-8-applied-optoelectronics-climbs-7-as-u-s-pushes-ahead-with-curbs-on-chinese-optical-gear-lumentum-gains-4/?.tsrc=rss"
-  },
-  {
-    "id": "n255e07d075",
-    "headline": "How Low Could Bloom Energy Stock Go From Here?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-17T14:13:40+00:00",
-    "url": "https://www.trefis.com/stock/be/articles/625624/how-low-could-bloom-energy-stock-go-from-here/2026-11-17?.tsrc=rss"
-  },
-  {
-    "id": "n2fb2677757",
-    "headline": "CoreWeave Answered the Biggest Question About AI Stocks. Now Nvidia Has to Confirm It.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-17T11:03:01+00:00",
-    "url": "https://www.fool.com/investing/2026/11/17/coreweave-answered-the-biggest-question-about-ai-stocks-now-nvidia-has-to-confirm-it/?.tsrc=rss"
-  },
-  {
-    "id": "n53807bd487",
-    "headline": "Steve Eisman Says Slower AI Spending Could Help Big Tech and Hurt CoreWeave",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-17T11:00:19+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/steve-eisman-says-slower-ai-110019432.html?.tsrc=rss"
-  },
-  {
-    "id": "n141be81674",
-    "headline": "Vistra Stock's $21 Billion Debt: Should Holders Worry?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-17T10:38:58+00:00",
-    "url": "https://www.trefis.com/stock/vst/articles/625559/vistra-stocks-21-billion-debt-should-holders-worry/2026-11-17?.tsrc=rss"
-  },
-  {
-    "id": "n454a8400c4",
-    "headline": "Is Bloom Energy Worth $177 After Three Guidance Raises?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-17T10:38:55+00:00",
-    "url": "https://www.trefis.com/stock/be/articles/625601/is-bloom-energy-worth-177-after-three-guidance-raises/2026-11-17?.tsrc=rss"
   }
 ]
