@@ -1,5 +1,45 @@
 [
   {
+    "id": "na1a068a163",
+    "headline": "Should You Invest $1,000 in Bloom Energy Right Now?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-22T00:50:02+00:00",
+    "url": "https://www.fool.com/investing/2026/11/21/should-you-invest-usd1-000-in-bloom-energy-right-now/?.tsrc=rss"
+  },
+  {
+    "id": "n8fb65542c4",
+    "headline": "1 Compelling Reason to Buy Vistra Stock Before November Ends",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-21T20:05:02+00:00",
+    "url": "https://www.fool.com/investing/2026/11/21/1-compelling-reason-to-buy-vistra-stock-before-november-ends/?.tsrc=rss"
+  },
+  {
+    "id": "ndc9a64d0f6",
+    "headline": "Debt-heavy CoreWeave just got $350M from Jensen Huang\u2019s charity",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-21T18:47:00+00:00",
+    "url": "https://www.thestreet.com/investing/debt-heavy-coreweave-350m-jensen-huang-charity?.tsrc=rss"
+  },
+  {
+    "id": "nadad8860fa",
+    "headline": "Here\u2019s Why CoreWeave, Inc. (CRWV) Faces Heavy Short Selling",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-21T14:51:36+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-coreweave-inc-crwv-faces-145136011.html?.tsrc=rss"
+  },
+  {
     "id": "n2ccdf98ecf",
     "headline": "Nvidia Is CoreWeave\u2019s \u201cKey Sole Supplier\u201d and $6.3 Billion Backstop. Congress Is Now Looking",
     "source": "Yahoo Finance",
@@ -18,6 +58,16 @@
     ],
     "ts": "2026-11-21T10:33:56+00:00",
     "url": "https://www.tikr.com/blog/wells-fargos-115-target-says-coreweaves-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261121-qw8gqj2h&.tsrc=rss"
+  },
+  {
+    "id": "ne4c1684e9b",
+    "headline": "CoreWeave Borrowed at Under 6% Against Its GPUs. SpaceX Just Paid Above 8% for Chip-Backed Debt",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-21T10:32:48+00:00",
+    "url": "https://www.tikr.com/blog/coreweave-borrowed-at-under-6-against-its-gpus-spacex-just-paid-above-8-for-chip-backed-debt?ref=yahoofinance&tlnk=yf-261121-6gvfxhg4&.tsrc=rss"
   },
   {
     "id": "ndef19ecbd7",
@@ -448,55 +498,5 @@
     ],
     "ts": "2026-11-18T12:21:38+00:00",
     "url": "https://investorshub.advfn.com/market-news/article/40285/why-is-coreweave-stock-rising-today?.tsrc=rss"
-  },
-  {
-    "id": "n25184ed948",
-    "headline": "Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wall Street.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-18T10:08:02+00:00",
-    "url": "https://www.fool.com/investing/2026/11/18/stock-market-correction-2-ai-stocks-160-upside-wall-street/?.tsrc=rss"
-  },
-  {
-    "id": "nb3013bbd11",
-    "headline": "Vistra Closed at $125 After a Record Quarter: Buy the Buyback, or Wait for Texas?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-18T05:30:00+00:00",
-    "url": "https://www.tikr.com/blog/vistra-closed-at-125-after-a-record-quarter-buy-the-buyback-or-wait-for-texas?ref=yahoofinance&tlnk=yf-261118-wp46jq7c&.tsrc=rss"
-  },
-  {
-    "id": "n5e310902ff",
-    "headline": "\u201cA Standard for AI Onsite Power\u201d: Bloom Energy Is Up 100% in 2026. Is It Too Late to Buy?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-18T04:59:03+00:00",
-    "url": "https://www.tikr.com/blog/a-standard-for-ai-onsite-power-bloom-energy-is-up-100-in-2026-is-it-too-late-to-buy?ref=yahoofinance&tlnk=yf-261118-c9g4fxr7&.tsrc=rss"
-  },
-  {
-    "id": "n506efb35eb",
-    "headline": "Only 11% of the Power Plants Vistra Just Bought Are in Texas. Here's Why That Matters After the Election.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-17T23:25:00+00:00",
-    "url": "https://www.fool.com/investing/2026/11/17/only-11-of-the-power-plants-vistra-just-bought-are/?.tsrc=rss"
-  },
-  {
-    "id": "n21646f032a",
-    "headline": "NextEra Energy vs. Vistra: Which Utilities Stock Is a Better Buy for 2027?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-17T20:50:02+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/11/17/nextera-energy-vs-vistra-which-utilities-stock-is-a-better-buy-for-2027/?.tsrc=rss"
   }
 ]
