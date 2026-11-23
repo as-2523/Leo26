@@ -1,5 +1,145 @@
 [
   {
+    "id": "nee2e5beafd",
+    "headline": "CoreWeave Stocks Soar 18.19% as Huang's Return Eases Nvidia Backstop Fears",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-23T17:53:28+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stocks-soar-18-19-175328776.html?.tsrc=rss"
+  },
+  {
+    "id": "n919fb1e326",
+    "headline": "Why Is Applied Digital (APLD) Stock Up Today? $5.4B Hyperscaler Lease",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-23T17:30:47+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-applied-digital-apld-stock-173047930.html?.tsrc=rss"
+  },
+  {
+    "id": "n33433e1601",
+    "headline": "CoreWeave Jumps 19.6% as Nvidia Surges on Huang's Return on Nov. 23",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-23T17:03:41+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-jumps-19-6-nvidia-170341668.html?.tsrc=rss"
+  },
+  {
+    "id": "nfcda52a5f6",
+    "headline": "Why Bloom Energy Stock is Jumping Today",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-23T16:34:26+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-stock-jumping-163426653.html?.tsrc=rss"
+  },
+  {
+    "id": "n7643775086",
+    "headline": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-23T16:13:39+00:00",
+    "url": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html?.tsrc=rss"
+  },
+  {
+    "id": "n975bc8f6bb",
+    "headline": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-23T16:13:02+00:00",
+    "url": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html?.tsrc=rss"
+  },
+  {
+    "id": "n91b6c56db3",
+    "headline": "Bad News for CoreWeave and IREN: GPU Lenders Now Want \u201c50 to 60 Percent\u201d Loan-to-Value, Down From 80%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-23T16:06:09+00:00",
+    "url": "https://www.tikr.com/blog/bad-news-for-coreweave-and-iren-gpu-lenders-now-want-50-to-60-percent-loan-to-value-down-from-80?ref=yahoofinance&tlnk=yf-261123-5g5wvc3x&.tsrc=rss"
+  },
+  {
+    "id": "na5054cf5a3",
+    "headline": "Semiconductor Stocks like Micron, Marvell, and Bloom Energy See Massive Gains as Jensen Huang Returns to NVIDIA",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-23T15:52:20+00:00",
+    "url": "https://247wallst.com/videos/semiconductor-stocks-like-micron-marvell-and-bloom-energy-see-massive-gains-as-jensen-huang-returns-to-nvidia/?.tsrc=rss"
+  },
+  {
+    "id": "n5282fc7b2e",
+    "headline": "Applied Digital Soars 26% on $5.4B Hyperscaler Lease; Cipher Digital Jumps 19%, TeraWulf Surges 15%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-23T15:02:41+00:00",
+    "url": "https://247wallst.com/investing/2026/11/23/applied-digital-soars-26-on-5-4b-hyperscaler-lease-cipher-digital-jumps-19-terawulf-surges-15/?.tsrc=rss"
+  },
+  {
+    "id": "n172e1adc2d",
+    "headline": "Applied Digital Shares Surge 13% After Securing $5.4 Billion AI Data Centre Lease Agreement",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-23T14:57:07+00:00",
+    "url": "https://investorshub.advfn.com/market-news/article/40547/applied-digital-shares-surge-13-after-securing-5-4-billion-ai-data-centre-lease-agreement?.tsrc=rss"
+  },
+  {
+    "id": "n0cbe6b4979",
+    "headline": "Applied Digital Soars 27% on 18-Year Hyperscaler Lease as Potential Revenue \u201cNears $100 Billion\u201d",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-23T14:33:00+00:00",
+    "url": "https://www.tikr.com/blog/applied-digital-soars-27-on-18-year-hyperscaler-lease-as-potential-revenue-nears-100-billion?ref=yahoofinance&tlnk=yf-261123-g68whxj6&.tsrc=rss"
+  },
+  {
+    "id": "ne5be8efab4",
+    "headline": "Applied Digital Signs $5.4B Hyperscaler Lease For 150 MW AI Capacity, Targets First Deliveries In 2028",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-23T14:09:59+00:00",
+    "url": "https://stocktwits.com/news-articles/markets/equity/applied-digital-signs-5-4-b-hyperscaler-lease-for-150-mw-ai-capacity-targets-first-deliveries-in-2028/cNbp2KvR9j7?.tsrc=rss"
+  },
+  {
+    "id": "n1c2ea4f5db",
+    "headline": "What Moved Bloom Energy Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-23T12:10:08+00:00",
+    "url": "https://www.trefis.com/stock/be/articles/627709/what-moved-bloom-energy-stock/2026-11-23?.tsrc=rss"
+  },
+  {
+    "id": "n6cf05e3a9b",
+    "headline": "Bloom Energy Stock Has Crashed Nearly 60%. Is It a Once-in-a-Decade Opportunity at $145, or Should You Keep Waiting for a Bigger Drop?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-22T14:36:02+00:00",
+    "url": "https://www.fool.com/investing/2026/11/22/bloom-energy-stock-has-crashed-nearly-60-is-it-a-once-in-a-decade-opportunity-at-usd145-or-should-you-keep-waiting-for-a-bigger-drop/?.tsrc=rss"
+  },
+  {
     "id": "na1a068a163",
     "headline": "Should You Invest $1,000 in Bloom Energy Right Now?",
     "source": "Yahoo Finance",
@@ -358,145 +498,5 @@
     ],
     "ts": "2026-11-19T13:49:00+00:00",
     "url": "https://finance.yahoo.com/m/65710a12-1ba7-3685-a3c3-30d9e0878af7/anthropic%2C-alphabet%2C-palo.html?.tsrc=rss"
-  },
-  {
-    "id": "na654898213",
-    "headline": "Bloom Energy upgraded at BMO as Anthropic IPO revives AI infrastructure trade",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-19T13:11:36+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-upgraded-bmo-anthropic-131136589.html?.tsrc=rss"
-  },
-  {
-    "id": "n371c5f1c9c",
-    "headline": "Humatica Study Finds Two in Three Enterprises Now Depend on AI, But Operating Models Are Still Catching up",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-19T13:00:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/humatica-study-finds-two-three-130000342.html?.tsrc=rss"
-  },
-  {
-    "id": "nde6bea6701",
-    "headline": "Vistra Just Dropped 16% in a Month, but Its Plans Always Had \u201ca More Conservative View of the AI Build-Out\u201d",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-19T07:13:39+00:00",
-    "url": "https://www.tikr.com/blog/vistra-stock-drop-texas-data-center-moratorium-buy-or-sell?ref=yahoofinance&tlnk=yf-261119-3rqgw84c&.tsrc=rss"
-  },
-  {
-    "id": "n10c4446b1e",
-    "headline": "Vistra (VST) Could Be 23% Undervalued After Fresh Guidance And Earnings",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-19T02:11:30+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-could-23-undervalued-021130252.html?.tsrc=rss"
-  },
-  {
-    "id": "n32128ecef5",
-    "headline": "TIME Names Bloom Energy Among America\u2019s Top Manufacturers of 2027",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-18T23:13:00+00:00",
-    "url": "https://finance.yahoo.com/energy/articles/time-names-bloom-energy-among-231300693.html?.tsrc=rss"
-  },
-  {
-    "id": "nd089b33e8e",
-    "headline": "Forget CoreWeave: Applied Digital Is the Real Loser as \u201cThe Bank of Nvidia\u201d Pulls Back",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-18T21:40:54+00:00",
-    "url": "https://www.tikr.com/blog/forget-coreweave-applied-digital-is-the-real-loser-as-the-bank-of-nvidia-pulls-back?ref=yahoofinance&tlnk=yf-261118-36f5785r&.tsrc=rss"
-  },
-  {
-    "id": "n7ac21d53f2",
-    "headline": "A $6.9 Billion Fund Dumps These 3 Stocks",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-18T18:17:57+00:00",
-    "url": "https://www.tikr.com/blog/a-6-9-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261118-xcfh59pr&.tsrc=rss"
-  },
-  {
-    "id": "n0ee798ff28",
-    "headline": "Constellation CEO: Google and Amazon Deals Equal \u201ca New Large-Scale Nuclear Plant\u201d at $7.3 Billion",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-18T15:05:14+00:00",
-    "url": "https://www.tikr.com/blog/constellation-ceo-google-and-amazon-deals-equal-a-new-large-scale-nuclear-plant-at-7-3-billion?ref=yahoofinance&tlnk=yf-261118-455pgf6h&.tsrc=rss"
-  },
-  {
-    "id": "nacf7d20f23",
-    "headline": "CoreWeave Falls 5% Despite NVIDIA Sticking to Its Financing Commitments; Nebius Dips, Oracle Holds Steady",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-18T15:02:19+00:00",
-    "url": "https://247wallst.com/investing/2026/11/18/coreweave-falls-5-despite-nvidia-sticking-to-its-financing-commitments-nebius-dips-oracle-holds-steady/?.tsrc=rss"
-  },
-  {
-    "id": "n2df02396a0",
-    "headline": "CoreWeave Says Nvidia Is \u2018Not One Person,\u2019 Remains a Key Partner",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-18T14:17:31+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-says-nvidia-not-one-141731413.html?.tsrc=rss"
-  },
-  {
-    "id": "n10ee8f302c",
-    "headline": "Bloom Energy Cratered 37% in 6 Months: Three Wall Street Firms Each Agree That 100% Gains Are Coming",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-18T13:45:33+00:00",
-    "url": "https://247wallst.com/investing/2026/11/18/bloom-energy-cratered-37-in-6-months-three-wall-street-firms-each-agree-that-100-gains-are-coming/?.tsrc=rss"
-  },
-  {
-    "id": "nf17df2cf05",
-    "headline": "Nvidia Is More Than One Person, CoreWeave Says",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-18T13:10:03+00:00",
-    "url": "https://finance.yahoo.com/video/nvidia-more-one-person-coreweave-131003666.html?.tsrc=rss"
-  },
-  {
-    "id": "ne2343af9fa",
-    "headline": "One AI Power Stock Burned $181 Million in Free Cash Flow Last Quarter. Another Generated $5.4 Billion. 1 Metric Explains Both.",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-18T12:25:00+00:00",
-    "url": "https://www.fool.com/investing/2026/11/18/one-ai-power-stock-burned-181-million-in-free-cash/?.tsrc=rss"
-  },
-  {
-    "id": "n9a2399ec91",
-    "headline": "Why Is CoreWeave Stock Rising Today?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-18T12:21:38+00:00",
-    "url": "https://investorshub.advfn.com/market-news/article/40285/why-is-coreweave-stock-rising-today?.tsrc=rss"
   }
 ]
