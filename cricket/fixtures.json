@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-l64u8r",
-      "teamId": "india-a-men",
-      "teamName": "India A Men",
-      "opponent": "Pakistan A",
-      "startTimeUtc": "2026-11-22T10:00:00.000Z",
-      "hasStartTime": true,
-      "format": "ODI",
-      "formatLabel": "odi",
-      "series": "ACC Men's Asia Cup Rising Stars 2026",
-      "seriesStartUtc": "2026-11-21T00:00:00.000Z",
-      "seriesEndUtc": "2026-11-29T00:00:00.000Z",
-      "venue": "West End Park International Cricket Stadium, Doha",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-ijyz16",
       "teamId": "india-a-men",
       "teamName": "India A Men",
@@ -25,7 +10,7 @@
       "format": "ODI",
       "formatLabel": "odi",
       "series": "ACC Men's Asia Cup Rising Stars 2026",
-      "seriesStartUtc": "2026-11-21T00:00:00.000Z",
+      "seriesStartUtc": "2026-11-19T00:00:00.000Z",
       "seriesEndUtc": "2026-11-29T00:00:00.000Z",
       "venue": "University of Doha for Science and Technology, Doha",
       "source": "cricapi"
@@ -512,9 +497,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-21T10:44:00.620Z",
-    "windowStart": "2026-11-21T00:00:00.000Z",
-    "windowEnd": "2027-05-21T00:00:00.000Z",
+    "generatedAt": "2026-11-23T11:56:36.980Z",
+    "windowStart": "2026-11-23T00:00:00.000Z",
+    "windowEnd": "2027-05-23T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -530,7 +515,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 36
+        "count": 34
       },
       {
         "id": "manual",
@@ -540,6 +525,12 @@
     ],
     "usedFallback": false,
     "expectedSeries": [
+      {
+        "name": "Malaysia Women's T20I Tri-Series, 2026",
+        "startUtc": "2026-01-01T00:00:00.000Z",
+        "endUtc": "2026-11-27T00:00:00.000Z",
+        "sourceUrl": "https://www.espncricinfo.com/search?query=Malaysia%20Women's%20T20I%20Tri-Series%2C%202026"
+      },
       {
         "name": "ICC Women's Emerging Nations Trophy, 2026",
         "startUtc": "2026-11-12T00:00:00.000Z",
