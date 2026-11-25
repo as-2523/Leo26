@@ -1,21 +1,6 @@
 {
   "fixtures": [
     {
-      "id": "fx-ijyz16",
-      "teamId": "india-a-men",
-      "teamName": "India A Men",
-      "opponent": "United Arab Emirates",
-      "startTimeUtc": "2026-11-24T06:00:00.000Z",
-      "hasStartTime": true,
-      "format": "ODI",
-      "formatLabel": "odi",
-      "series": "ACC Men's Asia Cup Rising Stars 2026",
-      "seriesStartUtc": "2026-11-19T00:00:00.000Z",
-      "seriesEndUtc": "2026-11-29T00:00:00.000Z",
-      "venue": "University of Doha for Science and Technology, Doha",
-      "source": "cricapi"
-    },
-    {
       "id": "fx-t7gmth",
       "teamId": "india-men",
       "teamName": "India Men",
@@ -497,9 +482,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-23T11:56:36.980Z",
-    "windowStart": "2026-11-23T00:00:00.000Z",
-    "windowEnd": "2027-05-23T00:00:00.000Z",
+    "generatedAt": "2026-11-25T12:15:01.725Z",
+    "windowStart": "2026-11-25T00:00:00.000Z",
+    "windowEnd": "2027-05-25T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -515,7 +500,7 @@
       {
         "id": "cricapi",
         "ok": true,
-        "count": 34
+        "count": 32
       },
       {
         "id": "manual",
@@ -536,6 +521,18 @@
         "startUtc": "2026-11-12T00:00:00.000Z",
         "endUtc": "2026-11-25T00:00:00.000Z",
         "sourceUrl": "https://www.espncricinfo.com/search?query=ICC%20Women's%20Emerging%20Nations%20Trophy%2C%202026"
+      },
+      {
+        "name": "ACC Men's Asia Cup Rising Stars 2026",
+        "startUtc": "2026-11-19T00:00:00.000Z",
+        "endUtc": "2026-11-29T00:00:00.000Z",
+        "sourceUrl": "https://www.espncricinfo.com/search?query=ACC%20Men's%20Asia%20Cup%20Rising%20Stars%202026"
+      },
+      {
+        "name": "Indian Softball Cricket League 2026",
+        "startUtc": "2026-11-25T00:00:00.000Z",
+        "endUtc": "2026-12-30T00:00:00.000Z",
+        "sourceUrl": "https://www.espncricinfo.com/search?query=Indian%20Softball%20Cricket%20League%202026"
       },
       {
         "name": "England Women U19 tour of India 2026",
