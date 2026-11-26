@@ -1,5 +1,155 @@
 [
   {
+    "id": "n9c93a13cc2",
+    "headline": "CoreWeave Seeks $4.5 Billion Meta-Backed Loan as Bond Yields Hit 18%",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-26T16:31:42+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-seeks-4-5-billion-163142061.html?.tsrc=rss"
+  },
+  {
+    "id": "n2984c094d7",
+    "headline": "CoreWeave Can Now Borrow at 7% With Meta\u2019s Name on the Loan",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-26T15:48:20+00:00",
+    "url": "https://247wallst.com/investing/2026/11/26/coreweave-can-now-borrow-at-7-with-metas-name-on-the-loan/?.tsrc=rss"
+  },
+  {
+    "id": "n7f4fdac44b",
+    "headline": "CoreWeave Has the Backlog Lead, Nebius Has the Leverage Edge: Who Wins the Next $100B?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-26T15:45:23+00:00",
+    "url": "https://247wallst.com/investing/2026/11/26/coreweave-has-the-backlog-lead-nebius-has-the-leverage-edge-who-wins-the-next-100b/?.tsrc=rss"
+  },
+  {
+    "id": "n43c456c17b",
+    "headline": "CoreWeave\u2019s Default Odds Hit a Record. Core Scientific Has a Big Problem",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-26T15:35:26+00:00",
+    "url": "https://www.tikr.com/blog/coreweaves-default-odds-hit-a-record-core-scientific-has-a-big-problem?ref=yahoofinance&tlnk=yf-261126-x54g96m4&.tsrc=rss"
+  },
+  {
+    "id": "nc123c20ca3",
+    "headline": "Why Is EQT (EQT) Down 8.3% Since Last Earnings Report?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-11-26T15:30:10+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/why-eqt-eqt-down-8-153010855.html?.tsrc=rss"
+  },
+  {
+    "id": "n93e64bc6e7",
+    "headline": "CoreWeave\u2019s Swaps Price a 68% Default Chance. That\u2019s Bad News for Galaxy Digital",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-26T15:21:27+00:00",
+    "url": "https://www.tikr.com/blog/coreweaves-swaps-price-a-68-default-chance-thats-bad-news-for-galaxy-digital?ref=yahoofinance&tlnk=yf-261126-pvg7vpfj&.tsrc=rss"
+  },
+  {
+    "id": "n172569bf84",
+    "headline": "\u201cIt\u2019s Dead\u201d: Applied Digital Has $11 Billion Riding on CoreWeave\u2019s Record Credit Stress",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-26T15:15:10+00:00",
+    "url": "https://www.tikr.com/blog/its-dead-applied-digital-has-11-billion-riding-on-coreweaves-record-credit-stress?ref=yahoofinance&tlnk=yf-261126-j6cxr9m2&.tsrc=rss"
+  },
+  {
+    "id": "ndadf5d3eb4",
+    "headline": "3 AI Infrastructure Stocks That Pay You While You Wait",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-26T14:03:41+00:00",
+    "url": "https://247wallst.com/investing/2026/11/26/3-ai-infrastructure-stocks-that-pay-you-while-you-wait/?.tsrc=rss"
+  },
+  {
+    "id": "nd64be679c0",
+    "headline": "Bloom Energy Issued Oracle 2.15 Million Shares. Now Oracle\u2019s Credit Is Cracking",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-26T11:35:26+00:00",
+    "url": "https://www.tikr.com/blog/bloom-energy-issued-oracle-2-15-million-shares-now-oracles-credit-is-cracking?ref=yahoofinance&tlnk=yf-261126-v76w4j96&.tsrc=rss"
+  },
+  {
+    "id": "n0632ebd935",
+    "headline": "Morgan Stanley\u2019s $335 Target Says Bloom Energy\u2019s Selloff Went Too Far",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-26T11:20:23+00:00",
+    "url": "https://www.tikr.com/blog/morgan-stanleys-335-target-says-bloom-energys-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261126-27xrg2g9&.tsrc=rss"
+  },
+  {
+    "id": "nfd5510d069",
+    "headline": "Lucid Capital Cut Its Applied Digital Target to $40 From $83. It Still Sees 227% Upside",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-26T11:20:20+00:00",
+    "url": "https://www.tikr.com/blog/lucid-capital-cut-its-applied-digital-target-to-40-from-83-it-still-sees-227-upside?ref=yahoofinance&tlnk=yf-261126-hxqmqqw8&.tsrc=rss"
+  },
+  {
+    "id": "na0701952fb",
+    "headline": "Applied Digital Dropped 14% in a Week Despite a $5.4 Billion Lease. Lucid Still Sees 227% Upside",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-25T23:37:44+00:00",
+    "url": "https://www.tikr.com/blog/applied-digital-dropped-14-in-a-week-despite-a-5-4-billion-lease-lucid-still-sees-227-upside?ref=yahoofinance&tlnk=yf-261125-mhcw2483&.tsrc=rss"
+  },
+  {
+    "id": "ndb5217388c",
+    "headline": "EQT (EQT) Stock Is Up 4.8% Today as Energy Stocks Rally",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "EQT"
+    ],
+    "ts": "2026-11-25T19:15:17+00:00",
+    "url": "https://finance.yahoo.com/energy/articles/eqt-eqt-stock-4-8-191517165.html?.tsrc=rss"
+  },
+  {
+    "id": "nafbe9e1d7b",
+    "headline": "Bloom Energy Stocks Slide 7.93% as AI Power Names Lose Momentum",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-25T17:20:02+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stocks-slide-7-172002014.html?.tsrc=rss"
+  },
+  {
+    "id": "n5ac3c114e7",
+    "headline": "What Are Wall Street Analysts' Target Price for Vistra Corp. Stock?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-25T17:07:41+00:00",
+    "url": "https://www.barchart.com/story/news/9006879/what-are-wall-street-analysts-target-price-for-vistra-corp-stock?.tsrc=rss"
+  },
+  {
     "id": "nafe31601fc",
     "headline": "Vistra Has Slumped for a Year: Why Morgan Stanley Still Sees 82% Upside",
     "source": "Yahoo Finance",
@@ -348,155 +498,5 @@
     ],
     "ts": "2026-11-24T11:51:02+00:00",
     "url": "https://www.fool.com/coverage/better-buy/2026/11/24/bloom-energy-vs-nextera-energy-which-power-stock-is-a-better-buy/?.tsrc=rss"
-  },
-  {
-    "id": "n0fa0c01c69",
-    "headline": "Bloom Energy Signs Its Largest Deal Abroad: 900 MW for NTT Data Starting in 2027",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-24T06:38:37+00:00",
-    "url": "https://www.tikr.com/blog/bloom-energy-signs-its-largest-deal-abroad-900-mw-for-ntt-data-starting-in-2027?ref=yahoofinance&tlnk=yf-261124-7qqhvjvp&.tsrc=rss"
-  },
-  {
-    "id": "n9bb40949e4",
-    "headline": "Exelon Or Vistra: Which Fits Your Power Demand Bet?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "VST"
-    ],
-    "ts": "2026-11-23T20:38:49+00:00",
-    "url": "https://www.trefis.com/stock/exc/articles/627544/exelon-or-vistra-which-fits-your-power-demand-bet/2026-11-23?.tsrc=rss"
-  },
-  {
-    "id": "nee2e5beafd",
-    "headline": "CoreWeave Stocks Soar 18.19% as Huang's Return Eases Nvidia Backstop Fears",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-23T17:53:28+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stocks-soar-18-19-175328776.html?.tsrc=rss"
-  },
-  {
-    "id": "n919fb1e326",
-    "headline": "Why Is Applied Digital (APLD) Stock Up Today? $5.4B Hyperscaler Lease",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-23T17:30:47+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-applied-digital-apld-stock-173047930.html?.tsrc=rss"
-  },
-  {
-    "id": "n33433e1601",
-    "headline": "CoreWeave Jumps 19.6% as Nvidia Surges on Huang's Return on Nov. 23",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-23T17:03:41+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-jumps-19-6-nvidia-170341668.html?.tsrc=rss"
-  },
-  {
-    "id": "nfcda52a5f6",
-    "headline": "Why Bloom Energy Stock is Jumping Today",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-23T16:34:26+00:00",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-stock-jumping-163426653.html?.tsrc=rss"
-  },
-  {
-    "id": "n7643775086",
-    "headline": "Jensen Huang back at Nvidia, stock soars; Anthropic slides",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-23T16:13:39+00:00",
-    "url": "https://finance.yahoo.com/video/jensen-huang-back-at-nvidia-stock-soars-anthropic-slides-161339662.html?.tsrc=rss"
-  },
-  {
-    "id": "n975bc8f6bb",
-    "headline": "Jensen Huang back as Nvidia CEO after 12 days: Shares surge 30%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-23T16:13:02+00:00",
-    "url": "https://finance.yahoo.com/video/jensen-huang-back-as-nvidia-ceo-after-12-days-shares-surge-30-161302539.html?.tsrc=rss"
-  },
-  {
-    "id": "n91b6c56db3",
-    "headline": "Bad News for CoreWeave and IREN: GPU Lenders Now Want \u201c50 to 60 Percent\u201d Loan-to-Value, Down From 80%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-23T16:06:09+00:00",
-    "url": "https://www.tikr.com/blog/bad-news-for-coreweave-and-iren-gpu-lenders-now-want-50-to-60-percent-loan-to-value-down-from-80?ref=yahoofinance&tlnk=yf-261123-5g5wvc3x&.tsrc=rss"
-  },
-  {
-    "id": "na5054cf5a3",
-    "headline": "Semiconductor Stocks like Micron, Marvell, and Bloom Energy See Massive Gains as Jensen Huang Returns to NVIDIA",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-23T15:52:20+00:00",
-    "url": "https://247wallst.com/videos/semiconductor-stocks-like-micron-marvell-and-bloom-energy-see-massive-gains-as-jensen-huang-returns-to-nvidia/?.tsrc=rss"
-  },
-  {
-    "id": "n5282fc7b2e",
-    "headline": "Applied Digital Soars 26% on $5.4B Hyperscaler Lease; Cipher Digital Jumps 19%, TeraWulf Surges 15%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-23T15:02:41+00:00",
-    "url": "https://247wallst.com/investing/2026/11/23/applied-digital-soars-26-on-5-4b-hyperscaler-lease-cipher-digital-jumps-19-terawulf-surges-15/?.tsrc=rss"
-  },
-  {
-    "id": "n172e1adc2d",
-    "headline": "Applied Digital Shares Surge 13% After Securing $5.4 Billion AI Data Centre Lease Agreement",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-23T14:57:07+00:00",
-    "url": "https://investorshub.advfn.com/market-news/article/40547/applied-digital-shares-surge-13-after-securing-5-4-billion-ai-data-centre-lease-agreement?.tsrc=rss"
-  },
-  {
-    "id": "n0cbe6b4979",
-    "headline": "Applied Digital Soars 27% on 18-Year Hyperscaler Lease as Potential Revenue \u201cNears $100 Billion\u201d",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-23T14:33:00+00:00",
-    "url": "https://www.tikr.com/blog/applied-digital-soars-27-on-18-year-hyperscaler-lease-as-potential-revenue-nears-100-billion?ref=yahoofinance&tlnk=yf-261123-g68whxj6&.tsrc=rss"
-  },
-  {
-    "id": "ne5be8efab4",
-    "headline": "Applied Digital Signs $5.4B Hyperscaler Lease For 150 MW AI Capacity, Targets First Deliveries In 2028",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-23T14:09:59+00:00",
-    "url": "https://stocktwits.com/news-articles/markets/equity/applied-digital-signs-5-4-b-hyperscaler-lease-for-150-mw-ai-capacity-targets-first-deliveries-in-2028/cNbp2KvR9j7?.tsrc=rss"
-  },
-  {
-    "id": "n1c2ea4f5db",
-    "headline": "What Moved Bloom Energy Stock?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-23T12:10:08+00:00",
-    "url": "https://www.trefis.com/stock/be/articles/627709/what-moved-bloom-energy-stock/2026-11-23?.tsrc=rss"
   }
 ]

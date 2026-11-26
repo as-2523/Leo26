@@ -1,8 +1,8 @@
 {
   "ticker": "WDC",
-  "current_price": 256.015,
+  "current_price": 272.45,
   "prev_close": 273.95,
-  "day_change_pct": -6.55,
+  "day_change_pct": -0.55,
   "week_52_high": 799.87,
   "week_52_low": 151.42,
   "history": [
@@ -716,17 +716,17 @@
       "high": 288.87,
       "low": 269.42,
       "close": 273.95,
-      "volume": 7928500
+      "volume": 7939700
     },
     {
       "date": "2026-11-25",
-      "open": 256.93,
-      "high": 261.66,
-      "low": 244.7702,
-      "close": 256.015,
-      "volume": 2831385
+      "open": 256.94,
+      "high": 272.96,
+      "low": 244.77,
+      "close": 272.45,
+      "volume": 6497300
     }
   ],
-  "as_of": "2026-11-25T17:31:04.772342+00:00",
+  "as_of": "2026-11-26T17:13:02.167161+00:00",
   "stale": false
 }
