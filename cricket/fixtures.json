@@ -482,9 +482,9 @@
     }
   ],
   "meta": {
-    "generatedAt": "2026-11-25T12:15:01.725Z",
-    "windowStart": "2026-11-25T00:00:00.000Z",
-    "windowEnd": "2027-05-25T00:00:00.000Z",
+    "generatedAt": "2026-11-27T11:51:34.251Z",
+    "windowStart": "2026-11-27T00:00:00.000Z",
+    "windowEnd": "2027-05-27T00:00:00.000Z",
     "sources": [
       {
         "id": "espn",
@@ -515,12 +515,6 @@
         "startUtc": "2026-01-01T00:00:00.000Z",
         "endUtc": "2026-11-27T00:00:00.000Z",
         "sourceUrl": "https://www.espncricinfo.com/search?query=Malaysia%20Women's%20T20I%20Tri-Series%2C%202026"
-      },
-      {
-        "name": "ICC Women's Emerging Nations Trophy, 2026",
-        "startUtc": "2026-11-12T00:00:00.000Z",
-        "endUtc": "2026-11-25T00:00:00.000Z",
-        "sourceUrl": "https://www.espncricinfo.com/search?query=ICC%20Women's%20Emerging%20Nations%20Trophy%2C%202026"
       },
       {
         "name": "ACC Men's Asia Cup Rising Stars 2026",
