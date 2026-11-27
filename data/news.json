@@ -1,5 +1,75 @@
 [
   {
+    "id": "n926e06b196",
+    "headline": "Bloom Energy Corporation (BE) is Positioned for Margin Expansion",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-27T16:32:55+00:00",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corporation-positioned-margin-163255806.html?.tsrc=rss"
+  },
+  {
+    "id": "n9a38102bf7",
+    "headline": "Sandisk, Bloom, Marvell, AMD, Nvidia, HP, and More Stocks That Explain Today\u2019s Market",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-27T14:56:00+00:00",
+    "url": "https://finance.yahoo.com/m/977de44c-fcf5-3369-bcdd-0c3ddc7cfec9/sandisk%2C-bloom%2C-marvell%2C-amd%2C.html?.tsrc=rss"
+  },
+  {
+    "id": "n9367bad2dd",
+    "headline": "Constellation Energy Sinks 10% in a Week, NuScale 17%, as \u201cthe Jensen Huang Stock Put Is Fading\u201d",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "BE"
+    ],
+    "ts": "2026-11-27T12:33:40+00:00",
+    "url": "https://www.tikr.com/blog/constellation-energy-sinks-10-in-a-week-nuscale-17-as-the-jensen-huang-stock-put-is-fading?ref=yahoofinance&tlnk=yf-261127-7ffc6jh2&.tsrc=rss"
+  },
+  {
+    "id": "n45f4dc55d0",
+    "headline": "Which Gives You More Power Demand, Exelon Or Vistra?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "VST"
+    ],
+    "ts": "2026-11-27T12:16:06+00:00",
+    "url": "https://www.trefis.com/stock/exc/articles/629337/which-gives-you-more-power-demand-exelon-or-vistra/2026-11-27?.tsrc=rss"
+  },
+  {
+    "id": "nfc4cb35013",
+    "headline": "He was right about AI and still lost $35 billion",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-27T12:00:00+00:00",
+    "url": "https://finance.yahoo.com/video/ai-still-lost-35-billion-120000023.html?.tsrc=rss"
+  },
+  {
+    "id": "n8258bb14cd",
+    "headline": "Wells Fargo Doubles Down on CoreWeave Stock Amid Selloff",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "CRWV"
+    ],
+    "ts": "2026-11-26T17:38:06+00:00",
+    "url": "https://finance.yahoo.com/technology/ai/articles/wells-fargo-doubles-down-coreweave-173806688.html?.tsrc=rss"
+  },
+  {
+    "id": "na14ed88cf9",
+    "headline": "Applied Digital Just Tumbled 33% in a Month. Can APLD Stock Get Back to $20 in 2027?",
+    "source": "Yahoo Finance",
+    "tickers": [
+      "APLD"
+    ],
+    "ts": "2026-11-26T17:08:08+00:00",
+    "url": "https://247wallst.com/investing/2026/11/26/applied-digital-just-tumbled-33-in-a-month-can-apld-stock-get-back-to-20-in-2027/?.tsrc=rss"
+  },
+  {
     "id": "n9c93a13cc2",
     "headline": "CoreWeave Seeks $4.5 Billion Meta-Backed Loan as Bond Yields Hit 18%",
     "source": "Yahoo Finance",
@@ -428,75 +498,5 @@
     ],
     "ts": "2026-11-24T15:38:09+00:00",
     "url": "https://www.trefis.com/stock/crwv/articles/628618/what-sent-coreweave-stock-higher-on-monday/2026-11-24?.tsrc=rss"
-  },
-  {
-    "id": "n2bf2e68804",
-    "headline": "Needham keeps Applied Digital at Buy with $70 target after 150 MW lease at $2.0 million per MW",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-24T15:29:35+00:00",
-    "url": "https://blockspace.media/insight/applied-digital-needham-buy-rating-2/?.tsrc=rss"
-  },
-  {
-    "id": "n5042bd15c8",
-    "headline": "Databricks Co-Founder Says Just One Neocloud Has \u201cRobust Enough Isolation.\u201d My Guess: It\u2019s Probably Not CoreWeave",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-24T15:22:39+00:00",
-    "url": "https://www.tikr.com/blog/databricks-co-founder-says-just-one-neocloud-has-robust-enough-isolation-my-guess-its-probably-not-coreweave?ref=yahoofinance&tlnk=yf-261124-wcppqc25&.tsrc=rss"
-  },
-  {
-    "id": "n7bfbaca230",
-    "headline": "JonesTrading reiterates Applied Digital Buy, $70 target after 18-year, $5.4 billion hyperscaler lease",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-24T15:12:38+00:00",
-    "url": "https://blockspace.media/insight/applied-digital-signs-hyperscaler-lease-2/?.tsrc=rss"
-  },
-  {
-    "id": "n48f3d636e0",
-    "headline": "Anthropic Tumbles 9%, Trades Below IPO Price Despite Canaccord\u2019s $135 Target; CoreWeave and Nebius Drop 8%",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "CRWV"
-    ],
-    "ts": "2026-11-24T14:54:48+00:00",
-    "url": "https://247wallst.com/investing/2026/11/24/anthropic-tumbles-9-breaks-below-ipo-price-despite-canaccords-135-target-coreweave-and-nebius-drop-8/?.tsrc=rss"
-  },
-  {
-    "id": "na59816befc",
-    "headline": "Applied Digital Achieves Initial 25 MW Ready for Service in Harwood, North Dakota, for Hyperscaler, Completes Base-Build Commissioning of First 75 MW",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-24T13:00:00+00:00",
-    "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-achieves-initial-25-130000311.html?.tsrc=rss"
-  },
-  {
-    "id": "n9b8dafcd4b",
-    "headline": "I\u2019m Treating Applied Digital Like a Long-Term Call Option on $41B+ in Hyperscaler Leases",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "APLD"
-    ],
-    "ts": "2026-11-24T12:15:46+00:00",
-    "url": "https://247wallst.com/investing/2026/11/24/im-treating-applied-digital-like-a-long-term-call-option-on-41b-in-hyperscaler-leases/?.tsrc=rss"
-  },
-  {
-    "id": "ncaf41f7863",
-    "headline": "Bloom Energy vs. NextEra Energy: Which Power Stock Is a Better Buy?",
-    "source": "Yahoo Finance",
-    "tickers": [
-      "BE"
-    ],
-    "ts": "2026-11-24T11:51:02+00:00",
-    "url": "https://www.fool.com/coverage/better-buy/2026/11/24/bloom-energy-vs-nextera-energy-which-power-stock-is-a-better-buy/?.tsrc=rss"
   }
 ]
